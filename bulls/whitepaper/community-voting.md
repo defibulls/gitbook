@@ -1,0 +1,3 @@
+# Community Voting
+
+Verified TheRanch\_Bulls NFT holders will be able to vote on different proposals such as new projects to invest in or any other changes within the project and The Ranch ecosystem. Proposals will then be further vetted by the Core Team and advisers before action is taken. Voting for newer projects will be a on-going endeavor. Finding up-and-coming solid opportunities will be an ongoing search by the Core team and holders of the TheRanch\_Bulls NFT. The long-term success of this project is the goal we are trying to achieve. That may mean some investments are not as profitable in the short term but have better long-term potential. Seeing as this TheRanch\_Bulls keeps you eligible for life long rewards; the long term is the name of the game for us all.
