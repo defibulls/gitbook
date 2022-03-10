@@ -3,9 +3,9 @@
 
 
 1. **Which BlockChain will TheRanch\_Bulls use?** Polygon
-2. **When Private Sale?** March 22 2022
-3. **When Public Sale?** March 23 2022
-4. **Launch Date?** March 22 2022
+2. **When Private Sale?** End of March 2022
+3. **When Public Sale?** End of March 2022
+4. **Launch Date?** End of March 2022
 5. **What will the cost be?** USDC $250
 6. **How many TheRanch\_Bulls NFTs can I hold in a wallet?** 20
 7. **How many TheRanch\_Bulls NFTs will ever be minted?** 4999
@@ -24,4 +24,4 @@
     100% will be invested into projects, see investment strategy.&#x20;
 19. **What % will be rewarded weekly?** 40%
 20. **What % will be compounded or re-invested?** 50%
-21. **What about the remaining 10%?** This will go towards payroll, TheRanch development of future projects, and any other expenses taxes, coffee, or Walmart Sushi. **NOTE**! Looking at the contract you’ll see a 20% allocation to the Dev team, this is actually a 10% allocation. The 20% logic is after the initial 50% compound / 50% Reward (see investment strategy for more clarification).
+21. **What about the remaining 10%?** This will go towards payroll, TheRanch development of future projects, and any other expenses taxes, coffee, or Walmart Sushi. **NOTE**! Looking at the contract you’ll see a 20% allocation to the Dev team, this is actually a 10% allocation. The 20% logic is after the initial 50% compound / 50% Reward (see payout/Reward 101 for more clarification).
