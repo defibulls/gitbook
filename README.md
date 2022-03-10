@@ -6,4 +6,4 @@ coverY: 0
 
 # Welcome to The Ranch!
 
-![](<.gitbook/assets/image (6).png>)
+![](<.gitbook/assets/image (6) (1).png>)
