@@ -10,7 +10,7 @@
 6. **How many TheRanch\_Bulls NFTs can I hold in a wallet?** 20
 7. **How many TheRanch\_Bulls NFTs will ever be minted?** 4999
 8. **What is the URL where I can mint?** [https://bulls.theranch.com/](https://bulls.theranch.com)
-9. **Where is the Whitepaper?** [https://medium.com/@defibulls/theranch-bulls-d327210fd68](https://medium.com/@defibulls/theranch-bulls-d327210fd68)
+9. **Where is the Whitepaper?** [https://theranch.gitbook.io](https://theranch.gitbook.io)
 10. **Where is the Official Twitter?** [https://twitter.com/](https://twitter.com/TheRanch\_Bulls)
 11. **How many times can a TheRanch\_Bulls NFT win weekly?** Only 1 time.
 12. **What’s the maximum reward a TheRanch\_Bulls NFT can win each week?** 100 of The Ranch\_Bulls NFT holders will split 40% of total earnings each week.
