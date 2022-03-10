@@ -20,4 +20,4 @@ _week 52: $225,000 of the funds sent back to the contract will be airdropped to 
 
 _week 104:$1,500,000 of the funds sent back to the contract will be airdropped to 100 bulls via the reward\_the\_bulls function. Each of the 100 bulls receives $15,000 in_ USDC_._
 
-![](https://miro.medium.com/max/945/0\*904imMDg-cr-Vr7D)
+![](<../../../.gitbook/assets/image (2).png>)
