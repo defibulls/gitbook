@@ -9,9 +9,9 @@
 5. **What will the cost be?** USDC $250
 6. **How many TheRanch\_Bulls NFTs can I hold in a wallet?** 20
 7. **How many TheRanch\_Bulls NFTs will ever be minted?** 4999
-8. **What is the URL where I can mint?** [https://bulls.theranch.com/](https://bulls.theranch.com)
+8. **What is the URL where I can mint?** [https://bulls.theranch.com/](https://bulls.theranch.com) (when finished)
 9. **Where is the Whitepaper?** [https://theranch.gitbook.io](https://theranch.gitbook.io)
-10. **Where is the Official Twitter?** [https://twitter.com/](https://twitter.com/TheRanch\_Bulls)
+10. **Where is the Official Twitter?** [https://twitter.com/0xTheRanch](https://twitter.com/0xTheRanch)
 11. **How many times can a TheRanch\_Bulls NFT win weekly?** Only 1 time.
 12. **What’s the maximum reward a TheRanch\_Bulls NFT can win each week?** 100 of The Ranch\_Bulls NFT holders will split 40% of total earnings each week.
 13. **How will winning TheRanch\_Bulls NFT holders be paid?** Rewards will be distributed automagically into corresponding NFT holders wallets.
