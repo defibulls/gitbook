@@ -8,6 +8,7 @@
 * [Meet the Team!](the-ranch/meet-the-team.md)
 * [LLC](the-ranch/llc.md)
 * [KYC](the-ranch/kyc.md)
+* [Road Map](the-ranch/road-map.md)
 
 ## Bulls
 
