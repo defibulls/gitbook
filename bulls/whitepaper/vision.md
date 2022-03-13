@@ -2,7 +2,7 @@
 
 
 
-#### Build this project upon two pillars: Transparency & Sustainabilit**y**
+#### Build this project upon two pillars: Transparency & Sustainabilit**y while using all the lessons learned from past DeFi project successes and failures as the glue that makes ours thrive.**&#x20;
 
 Each TheRanch\_Bulls NFT holder is a key player in the broader ecosystem known as “The Ranch”. The long-term vision is for every holder of a TheRanch\_Bulls NFT to will receive weekly airdrops many times as the ecosystem grows through smart and sustainable investments. For example, during our first year, we’ll reward 100 holders weekly and 5200 holders per year once the reward process starts.
 
