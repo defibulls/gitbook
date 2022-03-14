@@ -11,7 +11,7 @@ coverY: 0
 
 
 
-## Dustin Perry aka Pepper
+## Dustin aka Pepper
 
 &#x20;👋 Owner and Lead Developer — ATLANTA, GA
 
@@ -25,7 +25,7 @@ Network/DevOps Engineer by day Blockchain engineer by night. &#x20;
 
 
 
-## Jason Senn
+## Jason&#x20;
 
 👋Co Founder — Birmingham, AL
 
