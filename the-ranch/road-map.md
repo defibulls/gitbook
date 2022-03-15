@@ -3,7 +3,7 @@
 ## Q1: TheRanch\_Bulls NFT Project
 
 * [x] Finalize NFT Artwork
-* [ ] Finalize Website Artwork
+* [x] Finalize Website Artwork
 * [ ] Migrate Website to Moralis
 * [x] Peer Review Smart Contracts
 * [x] Start Smart Contract Audit with Shellbox (Mar 15)
