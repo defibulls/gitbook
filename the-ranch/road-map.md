@@ -6,8 +6,9 @@
 * [ ] Finalize Website Artwork
 * [ ] Migrate Website to Moralis
 * [x] Peer Review Smart Contracts
-* [ ] Send Smart Contract off for Audit (Mar 15)
+* [x] Start Smart Contract Audit with Shellbox (Mar 15)
 * [ ] Launch website on the MUMBAI testnet (EST Mar 20)
+* [ ] Publish links to Final Audit Report
 * [ ] Conduct AMAs and presale opportunities
 * [ ] Confirm all presale addresses (Mar 31)
 * [ ] Presale and Public Mint (APR 1)
