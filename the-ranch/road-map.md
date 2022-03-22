@@ -13,7 +13,7 @@
 * [ ] Confirm all presale addresses (Mar 31)
 * [ ] Presale and Public Mint (TBD)
 * [ ] First Reward AirDrop (TBD)
-* [ ] Verify TRB on NFTrade
+* [ ] Verify TRB NFT collection on NFTrade
 * [ ] Launch Voting Contract and connect to voting interface under the Bulls website.
 
 ## Q2: Little Miners Project
