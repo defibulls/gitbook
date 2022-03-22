@@ -1,11 +1,11 @@
 # Table of contents
 
-* [Welcome to](README.md)
+* [Welcome to The Ranch](README.md)
 
 ## The Ranch
 
 * [Vision and Values](the-ranch/vision-and-values.md)
-* [Meet the Team!](the-ranch/meet-the-team.md)
+* [Meet the Team](the-ranch/meet-the-team.md)
 * [LLC](the-ranch/llc.md)
 * [KYC](the-ranch/kyc.md)
 * [Road Map](the-ranch/road-map.md)
