@@ -9,6 +9,8 @@ coverY: 0
 
 Build this project upon two pillars: Transparency & Sustainability
 
-To eventually airdrop every holder of a "The Ranch" NFT enough over time to make this the best idle project you are involved with.
+Our goals are to change the lives of The Ranch members and&#x20;
 
-Grow The Ranch ecosystem into a place where it feels like we are family.
+grow our ecosystem into a place where it feels like we are family. We'll always strive to incorporate&#x20;
+
+smaller investors as the cornerstone ideology at The Ranch.
