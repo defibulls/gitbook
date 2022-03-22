@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to The Ranch!](README.md)
+* [Welcome to](README.md)
 
 ## The Ranch
 
