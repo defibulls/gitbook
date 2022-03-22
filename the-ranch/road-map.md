@@ -11,8 +11,9 @@
 * [ ] Publish links to Final Audit Report
 * [ ] Conduct AMAs and presale opportunities
 * [ ] Confirm all presale addresses (Mar 31)
-* [ ] Presale and Public Mint (APR 1)
-* [ ] First Reward AirDrop (APR 11)
+* [ ] Presale and Public Mint (TBD)
+* [ ] First Reward AirDrop (TBD)
+* [ ] Verify TRB on NFTrade
 * [ ] Launch Voting Contract and connect to voting interface under the Bulls website.
 
 ## Q2: Little Miners Project
