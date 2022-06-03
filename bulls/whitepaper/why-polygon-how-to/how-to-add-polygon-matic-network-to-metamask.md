@@ -1,4 +1,4 @@
-# How to Add Polygon Network to MetaMask
+# How to Add Polygon (MATIC) Network to MetaMask
 
 
 
@@ -6,7 +6,7 @@
 
 ![](https://miro.medium.com/max/475/0\*fU4y65Sc1K1k6m96)
 
-2\. **Navigate to** [**https://polygonscan.com/**](https://polygonscan.com) **and Scroll to the bottom of page**
+2\. **Navigate to** [**https://polygonscan.com/**](https://polygonscan.com/) **and Scroll to the bottom of page**
 
 3\. **Select Add Polygon network**
 

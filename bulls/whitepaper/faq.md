@@ -8,7 +8,7 @@
 4. **What will the cost be?** Polygon (MATIC)
 5. **How many The Ranch Bulls NFTs can I hold in a wallet?** 20
 6. **How many The Ranch Bulls NFTs will ever be minted?** 4999
-7. **What is the URL where I can mint?** [https://bulls.theranch.com/](https://bulls.theranch.com) (when finished)
+7. **What is the URL where I can mint?** [https://bulls.theranch.com/](https://bulls.theranch.com/) (when finished)
 8. **Where is the Whitepaper?** [https://theranch.gitbook.io](https://theranch.gitbook.io)
 9. **Where is the Official Twitter?** [https://twitter.com/0xTheRanch](https://twitter.com/0xTheRanch)
 10. **Where is the Discord Link?** [https://discord.gg/qGxMC6mK99](https://discord.gg/qGxMC6mK99)
