@@ -14,9 +14,9 @@
 
 * [📓 Whitepaper](bulls/whitepaper/README.md)
   * [Vision](bulls/whitepaper/vision.md)
-  * [Collection](bulls/whitepaper/collection.md)
   * [Why Polygon / How To?](bulls/whitepaper/why-polygon-how-to/README.md)
     * [How to Add Polygon (MATIC) Network to MetaMask](bulls/whitepaper/why-polygon-how-to/how-to-add-polygon-matic-network-to-metamask.md)
     * [How to Add USDC Token to Polygon Network in MetaMask](bulls/whitepaper/why-polygon-how-to/how-to-add-usdc-token-to-polygon-network-in-metamask.md)
   * [FAQ](bulls/whitepaper/faq.md)
+  * [Collection](bulls/whitepaper/collection.md)
 * [Audit](bulls/audit.md)
