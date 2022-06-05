@@ -1,4 +1,4 @@
-# How the project works behind the scenes.
+# How The Project Works
 
 ## Selling the NFTs and buying the Mining Equipment.&#x20;
 
