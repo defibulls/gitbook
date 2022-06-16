@@ -20,5 +20,5 @@
     * [How to Add USDC Token to Polygon Network in MetaMask](bulls/whitepaper/why-polygon-how-to/how-to-add-usdc-token-to-polygon-network-in-metamask.md)
   * [FAQ](bulls/whitepaper/faq.md)
   * [Collection](bulls/whitepaper/collection.md)
-  * [The Herd](bulls/whitepaper/Partner-Program.md)
+  * [THE DROVE](bulls/whitepaper/Partner-Program.md)
 * [Audit](bulls/audit.md)
