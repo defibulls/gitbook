@@ -13,12 +13,12 @@
 ## Bulls
 
 * [📓 Whitepaper](bulls/whitepaper/README.md)
-  * [Vision](bulls/whitepaper/vision.md)
-  * [Collection](bulls/whitepaper/collection.md)
-  * [How The Ranch Works](bulls/whitepaper/how-the-project-works.md)
+  * [VISION](bulls/whitepaper/vision.md)
+  * [COLLECTION](bulls/whitepaper/collection.md)
+  * [THE DROVE](bulls/whitepaper/Partner-Program.md)
+  * [HOW THE RANCH WORKS](bulls/whitepaper/how-the-project-works.md)
   * [Why Polygon / How To?](bulls/whitepaper/why-polygon-how-to/README.md)
     * [How to Add Polygon (MATIC) Network to MetaMask](bulls/whitepaper/why-polygon-how-to/how-to-add-polygon-matic-network-to-metamask.md)
     * [How to Add USDC Token to Polygon Network in MetaMask](bulls/whitepaper/why-polygon-how-to/how-to-add-usdc-token-to-polygon-network-in-metamask.md)
   * [FAQ](bulls/whitepaper/faq.md)
-  * [THE DROVE](bulls/whitepaper/Partner-Program.md)
 * [Audit](bulls/audit.md)
