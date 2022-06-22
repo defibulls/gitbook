@@ -1,3 +1,7 @@
+---
+description: Know Your Client
+---
+
 # KYC
 
 If you’ve dabbled in the Defi crypto space for almost any measurable amount of time, you’ve probably witnessed or fallen victim to unforeseen project losses or exploits. These come in many forms and are not always purposeful.&#x20;
