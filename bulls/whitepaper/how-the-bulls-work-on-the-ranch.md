@@ -19,13 +19,9 @@ The capital raised from the selling of the stockyard1 NFTs will buy equipment fo
 The Ranch BTC Bulls does NOT have its own native token by design. The only tokens this project will use:&#x20;
 
 * BTC (BITCOIN)
-  * BTC is used as the BTC mining reward token that is received for our mining efforts.&#x20;
 * WBTC (WRAPPED BITCOIN)
-  * WBTC standardizes BITCOIN to the ERC20 format. This allows us to convert BTC to WBTC,  backed 1:1, and allows us to payout out thousands of NFTs within the project. Using BTC to pay all NFT owners will not work as the Bitcoin transfers would kill the profitability of the project as a whole.&#x20;
 * USDC&#x20;
-  * Used to Mint the NFTs and also the reward token used in THE DROVE partner network and Daily Raffles.&#x20;
 * MATIC &#x20;
-  * This is the native token of Polygon and each user must have it to use for gas when interacting with the smart contract.&#x20;
 
 
 
