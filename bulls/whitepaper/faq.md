@@ -5,13 +5,13 @@
 1. **Which BlockChain will The Ranch Bulls use?** Polygon (MATIC)
 2. **When Public Sale?** TBD
 3. **Launch Date?** TBD
-4. **What will the cost be?** Can change per stockyard, starting at $150 of MATIC per NFT
-5. **How many The Ranch Bulls NFTs can I hold in a wallet?** No limit
-6. **How many The Ranch Bulls NFTs will ever be minted?** There is no hard cap on the total supply of BTC bulls, the only "cap" that matters is the amount of NFTs allowed in a single stockyard which is 500.
+4. **What will the cost be?** Can change per stockyard, starting at $150 of USDC.e per NFT
+5. **How many BTC Bull NFTs can I hold in a wallet?** No limit
+6. **How many BTC Bull NFTs will ever be minted?** There is no hard cap on the total supply of BTC Bulls, the only "cap" that matters is the amount of NFTs allowed in a single stockyard which is 500.
 7. **What is the URL where I can mint?** [https://theranch.community](https://www.theranch.community/)
 8. **Where is the Whitepaper?** [https://theranch.gitbook.io](https://theranch.gitbook.io)
 9. **Where is the Official Twitter?** [https://twitter.com/0xTheRanch](https://twitter.com/0xTheRanch)
-10. **Where is the Discord Link?** [https://discord.gg/qGxMC6mK99](https://discord.gg/qGxMC6mK99)
+10. **Where is the Discord Link?** [https://dsc.gg/](https://discord.gg/qGxMC6mK99)theranch
 11. **When are NFT holders rewarded?** Every month between the 1st and 5th. The only way you get rewarded is by still owning the NFT at this time. If you sell the NFT on the marketplace and it has a new owner, the new owner will be distributed rewards.&#x20;
 12. **How will NFT holders be paid?** Mined bitcoin is converted to wrapped bitcoin (WBTC) and distributed to NFT holders on the contract. Each owner of the NFT can claim their total rewards from the website at any time with no tax associated with the withdrawal.
 13. **How will the initial The Ranch Bulls NFT funds be allocated?**&#x20;
