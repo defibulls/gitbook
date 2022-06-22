@@ -82,19 +82,15 @@ This is another key part of the entire project with the BTC Bulls. When buying N
 
 
 
-## What happens after the StockYard dies?
+## WHAT HAPPENS WHEN MY STOCKYARD DIES?
 
-The death of a StockYard is inventible as the mining cluster (all the ASIC mining machines working for that StockYard) will eventually die which means there will not be any more WBTC going back to the contract to fund Bull NFTs of that StockYard. When this day finally happens, it will be a bittersweet day. The goal is that each NFT from a dead StockYard would have lived a full life mining BTC for a matter of years. This is where "Valhalla" comes into play for our bulls. From the moment a StockYard comes online and starts mining, 5% of rewards go back into the Valhalla wallet from every StockYard. These funds will be used to fund the Valhalla contract. In doing this we are creating a contract that can only be accessed if you own the correct NFTs (Graveyard Bulls).&#x20;
+The death of a StockYard is inventible as the mining cluster (all the ASIC mining machines working for that StockYard) will eventually die which means there will not be any more WBTC going back to the contract to fund the BTC Bull NFTs of that StockYard.&#x20;
 
-When your StockYard dies, each NFT is now eligible to be traded on a 1-to-1 basis for a Graveyard Bull. The Graveyard Bulls will be the only NFTs that will have access to the Valhalla reward system.  The Valhalla contract will work in a similar fashion as the BTC Bulls Contract in that it will reward NFT holders on monthly bases. The key difference will be the Valhalla contract will award NFT holders in USDC.e stable coins as opposed to WBTC.&#x20;
+When the stockyard does finally die, each NFT belonging to that stockyard will have its NFT image updated to reflect the death of it and its respective stockyard.&#x20;
 
-## Valhalla!
+![](<../../.gitbook/assets/image (9).png>)
 
-**Who has access to the rewards of Valhalla?** Only Graveyard Bulls.&#x20;
-
-**Can anyone trade in their BTC Bull for a Graveyard bull?** No, the StockYard from which the BTC Bull comes from must be declared dead first. When and only when declared dead is a BTC Bull NFT allowed to be traded for a Graveyard Bull and interact with the Valhalla contract.
-
-**Will some Graveyard bulls have an advantage over other GraveYard bulls?**  Yes, the way the contract works, there likely won't be a single Graveyard Bull NFT that will be allowed to be minted for a matter of years before the first StockYard dies. Once a StockYard finally does die, all those NFTs become eligible for Valhalla. Assuming 250 BTC Bulls are traded for GraveYard Bulls in the future, those 250 Graveyards bulls would be the only bulls splitting the monthly Valhalla payout. If the next month another 100 BTC Bulls were exchanged, then now the monthly payout gets dispersed between 350 Graveyard Bulls. As a Graveyard bull, the longer you find yourself in Valhalla, the more rewards you'll end up receiving. &#x20;
+When this finally does happen to each NFT in a stockyard, the owner of this NFT won't be receiving any more WBTC for the Mining Cluster of the Stockyard. However, with this sad day in mind, we want every bull to still hold value during its life mining BTC and when it does pass on to the other side. Even when the stockyard is dead, the NFT is eligible to be selected as the USDC tax collector or the WBTC tax collector. We reserved these positions to be held by the living and dead alike.  What's a tax collector? See next section.&#x20;
 
 
 
