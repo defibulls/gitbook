@@ -29,15 +29,11 @@ The Ranch BTC Bulls does NOT have its own native token by design. The only token
 
 When electing to enter the daily raffle: &#x20;
 
-![](<../../.gitbook/assets/image (7).png>)
-
-
+![](<../../.gitbook/assets/image (3).png>)
 
 When not electing to enter the daily raffle:&#x20;
 
-![](<../../.gitbook/assets/image (8).png>)
-
-
+![](<../../.gitbook/assets/image (2).png>)
 
 
 
@@ -47,7 +43,7 @@ When not electing to enter the daily raffle:&#x20;
 
 When a Drove Partner is set:&#x20;
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (3) (1).png>)
 
 Without a Drove Partner
 
