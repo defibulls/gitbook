@@ -1,6 +1,6 @@
 # THE DROVE
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (3) (1).png>)
 
 The Drove (Partner Program Network) is an onboarding system that benefits team builders and new participants in The Ranch ecosystem. Participation is completely voluntary, however by utilizing the partner network, not only are players rewarded for building out their teams organically but newcomers are provided equal incentive to participate. Unlike many other multi-level marketing/scammy referral systems, which consist of pyramid structures, tiered referral trees, etc. There is only 1 level of affiliate rewards within The Ranch, making it most similar to Amazon or Tesla’s affiliate system. Reward credits are issued whenever the referred individual mints new BTC Bull NFTs or during the monthly payout of WBTC to NFT holders. 1% of the minting transaction cost and WBTC rewards payout amount is split 50/50, or 0.5% each, between the referred and referrer and uploaded to the amount that each is allowed to withdraw from the contract. In order to receive the partner network bonus, the person who is set as your partner must have minted an NFT themselves.&#x20;
 

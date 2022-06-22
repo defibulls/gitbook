@@ -6,27 +6,62 @@ The key point of the BTC Bulls is buying NFT which are means of buying into a fr
 
 * The "StockYard" is how many BTC Bulls NFTs belong to a single BTC mining cluster.&#x20;
 
-When we launch the project and start selling the BTC Bulls NFTs, the first NFT sold up to the 499th Bull all get grouped together and be a part of the StockYard_0._ The 500th BTC Bull up to 999th Bull belongs to StockYard\_1. This process continues but the key takeaway is that if you were to buy a BTC Bull or group of BTC Bulls in StockYard\_0, the other StockYards have **ZERO** influence on how this StockYard performs and/or revenue generated for this StockYard.
+When we launch the project and start selling the BTC Bulls NFTs, the first NFT sold up to the 999th Bull all get grouped together and be a part of the StockYard1_._ The 1000th BTC Bull up to 1999th Bull belongs to StockYard2 This process continues but the key takeaway is that if you were to buy a BTC Bull or group of BTC Bulls in StockYard1, the other StockYards have **ZERO** influence on how this StockYard performs and/or revenue generated for this StockYard.
+
+The capital raised from the selling of the stockyard1 NFTs will buy equipment for that stockyard and ONLY for that stockyard. All bitcoin that is mined from miners in a particular stockyard will be dispersed proportionally among the NFTs belonging to that stockyard. For example, if someone owns 10 NFTs in the range of 1-499, then they will get 1/50th of the mined bitcoin rewards for the life of that stockyard.&#x20;
 
 
 
 
 
+## TOKENOMICS&#x20;
+
+The Ranch BTC Bulls does NOT have its own native token by design. The only tokens this project will use:&#x20;
+
+* BTC (BITCOIN)
+* WBTC (WRAPPED BITCOIN)
+* USDC&#x20;
+* MATIC &#x20;
 
 
-## How are funds taken back and dispersed to the NFT holders?
 
-Using StockYard_0 as our example: Once the hardware is installed at their hosting facilities, we only touch withdraw the funds monthly. There are two key reasons behind this. Each StockYard_ will receive an invoice for the hosting/electricity fee. This likely ranges from $0.07 - $0.08 per kWh. In monthly cost terms, this equates to every miner having to pay about $170 in electricity fees. At the beginning of the month, the hosting facility will provide the invoice and tell us how much we owe to host our equipment at their site. For the 10 miners in StockYard\_0, our invoice will be approx $1700. Compass mining allows us to pay the hosting fee directly via the BTC rewards that the Mining Cluster earned for the month.&#x20;
+#### Minting NFTS
 
-Once the hosting/electricity fee is paid for the month for the StockYards Mining Cluster, the rest of the BTC is then withdrawn to the project's cold storage wallet.&#x20;
+When electing to enter the daily raffle: &#x20;
 
-From there, all BTC in the project cold storage wallet will then be converted to wrapped Bitcoin (WBTC). This allows the project to convert the BitCoin into a standardized ERC20 format, making it able to interact with our smart contracts and thus be used on the Polygon Blockchain. Bitcoin is traded for WBTC on a 1:1 basis. Once the project's cold storage wallet has WBTC for the month, all of this WBTC is then transferred to 'The Ranch BTC Bulls' smart contract.
+![](<../../.gitbook/assets/image (7).png>)
 
-When funds are dispersed to NFT holders: The funds go through this process:
+
+
+When not electing to enter the daily raffle:&#x20;
 
 ![](<../../.gitbook/assets/image (8).png>)
 
-As the diagram explains, 85% of all the WBTC for the stockyard is then dispersed proportionally to each NFT in the StockYard. This allows the owners of the NFT to have their withdrawable allowance value updated each month. A key to this whole process is knowing that in order to be compensated, you must own the NFT at the time funds are deposited into the project.&#x20;
+
+
+
+
+
+
+#### Monthly Reward of WBTC
+
+When a Drove Partner is set:&#x20;
+
+![](<../../.gitbook/assets/image (3).png>)
+
+Without a Drove Partner
+
+![](<../../.gitbook/assets/image (4).png>)
+
+
+
+
+
+
+
+
+
+
 
 
 
