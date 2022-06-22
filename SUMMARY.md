@@ -14,7 +14,7 @@
 
 * [📓 Whitepaper](bulls/whitepaper/README.md)
   * [Vision](bulls/whitepaper/vision.md)
-  * [How The Project Works](bulls/whitepaper/how-the-project-works.md)
+  * [How The Ranch Works](bulls/whitepaper/how-the-ranch-works.md)
   * [Why Polygon / How To?](bulls/whitepaper/why-polygon-how-to/README.md)
     * [How to Add Polygon (MATIC) Network to MetaMask](bulls/whitepaper/why-polygon-how-to/how-to-add-polygon-matic-network-to-metamask.md)
     * [How to Add USDC Token to Polygon Network in MetaMask](bulls/whitepaper/why-polygon-how-to/how-to-add-usdc-token-to-polygon-network-in-metamask.md)

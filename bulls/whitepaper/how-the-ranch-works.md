@@ -1,6 +1,6 @@
-# How The Project Works
+# How The Ranch Works
 
-## Selling the NFTs and buying the Mining Equipment.&#x20;
+## Selling the NFTs and Purchasing BTC Miners.&#x20;
 
 The key point of the BTC Bulls is buying NFT which are means of buying into a fractionalized BTC mining cluster.
 
@@ -12,21 +12,7 @@ When we launch the project and start selling the BTC Bulls NFTs, the first NFT s
 
 
 
-Let's compare two separate StockYards that fill up with different market conditions and prices of the NFTs. &#x20;
 
-### StockYard\_0
-
-StockYard\_0 fills up after selling each BTC Bull for $150. The capital raised in this StockYard is \~$75K. These assets are then used to purchase new BTC mining equipment and hosting packages. In a bear-ish market, this allows for the purchase of new Antminer s19j Pros for \~$7000 with hosting packages that \~$0.07 per kWh for the electricity/hosting fee. This allows StockYard\_0 to buy approximately 10 of these units and have nearly 1000 TH/s working for the StockYard0 BTC mining cluster. Each NFT in the StockYard\_0 will be entitled to 1/500th of all dispersable profits that are mined from the cluster over the life of the cluster (approx 4-5 years).  &#x20;
-
-### StockYard\_251
-
-StockYard\_251 fills up after selling each BTC for $100. The capital raised in this StockYard\_251 is \~$50K. These assets are then used to purchase new BTC mining equipment and hosting options. In a bull-ish market, this allows for the purchase of new Antminer s19j Pros for \~$12000 with hosting packages that \~$0.10 per kWh for the electricity/hosting fee. This allows StockYard\_251 to buy approximately 4 of these units and have nearly 400 TH/s working for the StockYard\_251 BTC mining cluster.
-
-
-
-**The Key Differences between Stockyard 0 vs 251 and why hosting at a facility makes sense:**
-
-The key to the success and profitability of a StockYard is when the StockYard is able to purchase the equipment. The price of the BTC miners and the hosting/electricity fees are the key factors. They, the mining facilities, sell units as a single device with and without hosting or sometimes offer bundle packages that give us the best rate for each unit coupled with the best hosting/electricity fee. Hosting at the right facilities is a crucial part of this project. Anyone can buy a single miner themselves and host it at their house. For the sake of an Antminer S19j Pro 100 TH/s right now, that would be a $7,000 purchase at this time (May 30, 2022) and would require said individual has a 240v outlet and a suitable place to host it. As an owner of an Antminer s19a Pro 110 TH/s sitting in my garage now, I can tell you without a doubt that these sound like a freight train, produce way more heat than you want to deal with, and cost more in electricity than you would pay at these hosting facilities. I personally am having to pay $0.12 (which isn't that bad in terms of the national price of electricity in the US) kWh at my home. This doesn't compare to what the hosting facilities can offer us because they are making deals with the electric companies and/or providing other renewable energy options to keep the price down at the $0.07 - $0.08 range and sometimes lower. &#x20;
 
 ## How are funds taken back and dispersed to the NFT holders?
 
