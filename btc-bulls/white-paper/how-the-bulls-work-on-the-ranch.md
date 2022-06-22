@@ -86,7 +86,7 @@ This is another key part of the entire project with the BTC Bulls. When buying N
 
 
 
-## WHAT HAPPENS WHEN MY STOCKYARD DIES?
+## WHAT HAPPENS WHEN A STOCKYARD DIES?
 
 The death of a StockYard is inventible as the mining cluster (all the ASIC mining machines working for that StockYard) will eventually die which means there will not be any more WBTC going back to the contract to fund the BTC Bull NFTs of that StockYard.&#x20;
 
@@ -95,6 +95,14 @@ When the stockyard does finally die, each NFT belonging to that stockyard will h
 ![](<../../.gitbook/assets/image (9).png>)
 
 When this finally does happen to each NFT in a stockyard, the owner of this NFT won't be receiving any more WBTC for the Mining Cluster of the Stockyard. However, with this sad day in mind, we want every bull to still hold value during its life mining BTC and when it does pass on to the other side. Even when the stockyard is dead, the NFT is eligible to be selected as the USDC tax collector or the WBTC tax collector. We reserved these positions to be held by the living and dead alike.  What's a tax collector? See RAFFLE section.&#x20;
+
+
+
+#### Who gets the Bitcoin Miners of the stockyard when it dies?&#x20;
+
+Noone gets the miners directly. The miners will be auctioned off or sold on Compass Minings Marketplace. All proceeds from sales of BTC Miners within a stockyard go through the exact same process; converted back to WBTC and then distributed proportionally to the NFTs of that given stockyard.&#x20;
+
+
 
 
 
