@@ -1,4 +1,4 @@
-# How The Ranch Works
+# HOW THE RANCH WORKS
 
 ## Selling the NFTs and Purchasing BTC Miners.&#x20;
 
@@ -63,9 +63,9 @@ Without a Drove Partner
 
 
 
+## WHAT IS THE HOSTING FEE TREASURY?&#x20;
 
-
-## How long will this process continue?&#x20;
+## HOW LONG DOES A STOCKYARD STAY ACTIVE? &#x20;
 
 This is another key part of the entire project. When buying NFTs and becoming part of the project, the NFT(s) then become a part of a single StockYard depending on the number of the NFT. That mining equipment that the StockYard purchases are finite. Meaning that the ASIC mining equipment WILL NOT last forever. This is specialized hardware working extremely hard in a data center and will eventually die and/or become unprofitable as technology advances. When you have to pay $170 a month for electricity, this machine must clear this amount in BTC rewards to remain profitable. The BTC mining equipment we buy for the project will be new equipment and top-of-the-line equipment to reduce the likelihood that is unprofitable before the equipment has a hardware failure. A well-maintained ASIC Mining Server typically lasts between 3 and 5 years, although it is not uncommon for it to last longer. There is no way for us to know how long each StockYard will remain active but knowing that 3-5 years is a likely scenario. Each and every month of the project, WBTC will be deposited into the smart contract and as long as the StockYard is still producing and profitable, rewards will be dispersed.
 
