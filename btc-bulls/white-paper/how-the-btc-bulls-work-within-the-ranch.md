@@ -1,6 +1,6 @@
-# HOW THE BULLS WORK ON THE  RANCH
+# HOW THE BTC BULLS WORK WITHIN THE RANCH
 
-## ![](<../../.gitbook/assets/image (5).png>)Selling the NFTs and Purchasing BTC Miners.&#x20;
+## Minting NFTs and Purchasing Miners.&#x20;
 
 The key point of the BTC Bulls is buying NFT which are means of buying into a fractionalized BTC mining cluster.
 
