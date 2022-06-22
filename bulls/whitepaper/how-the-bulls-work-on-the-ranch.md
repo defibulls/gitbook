@@ -1,4 +1,4 @@
-# HOW THE RANCH WORKS
+# HOW THE BULLS WORK ON THE  RANCH
 
 ## Selling the NFTs and Purchasing BTC Miners.&#x20;
 
@@ -90,7 +90,24 @@ When the stockyard does finally die, each NFT belonging to that stockyard will h
 
 ![](<../../.gitbook/assets/image (9).png>)
 
-When this finally does happen to each NFT in a stockyard, the owner of this NFT won't be receiving any more WBTC for the Mining Cluster of the Stockyard. However, with this sad day in mind, we want every bull to still hold value during its life mining BTC and when it does pass on to the other side. Even when the stockyard is dead, the NFT is eligible to be selected as the USDC tax collector or the WBTC tax collector. We reserved these positions to be held by the living and dead alike.  What's a tax collector? See next section.&#x20;
+When this finally does happen to each NFT in a stockyard, the owner of this NFT won't be receiving any more WBTC for the Mining Cluster of the Stockyard. However, with this sad day in mind, we want every bull to still hold value during its life mining BTC and when it does pass on to the other side. Even when the stockyard is dead, the NFT is eligible to be selected as the USDC tax collector or the WBTC tax collector. We reserved these positions to be held by the living and dead alike.  What's a tax collector? See RAFFLE section.&#x20;
 
 
 
+## RAFFLE
+
+This is one of the coolest parts of the BTC bulls. The entire raffle process is NOT controlled by the owners of the contract in any way as we are utilizing chainlinks VRF v2 and upkeep service.&#x20;
+
+* What is VRF?  Chainlink VRF (Verifiable Random Function) is a provably fair and verifiable random number generator (RNG) that enables smart contracts to access random values without compromising security or usability. [https://docs.chain.link/docs/chainlink-vrf/](https://docs.chain.link/docs/chainlink-vrf/)
+
+There are three seperate raffles that happen within the contract:&#x20;
+
+1. When minting new NFTs, each user can voluntarily choose to enter the daily raffle where 3% of the transaction cost is used to award the daily winner. As long as 1 new NFT was minted for the day, the raffle is allowed to happen and the function will be called. At the end of the count down, **a random participant** is selected and will receive the entire raffle fund for the day which will be uploaded to the amount of USDC that is allowed to be withdrawn from the contract from that user.
+2. The **USDC TAX COLLECTOR** role is given to any NFT that has ever been minted on the project. This could be an NFT in an active stockyard or one belonging to a dead stockyard. The tax collector position is an address that will receive 1% of all withdraws of USDC until the raffle selects another random person to rotate into the position.&#x20;
+3. The **WBTC TAX COLLECTOR** role is given to any NFT that has ever been minted on the project. This could be an NFT in an active stockyard or one belonging to a dead stockyard. The tax collector position is an address that will receive 1% of all withdraws of WBTC until the raffle selects another random person to rotate into the position.&#x20;
+
+
+
+&#x20;
+
+## &#x20;
