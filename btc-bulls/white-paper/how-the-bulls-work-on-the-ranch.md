@@ -1,6 +1,6 @@
 # HOW THE BULLS WORK ON THE  RANCH
 
-## Selling the NFTs and Purchasing BTC Miners.&#x20;
+## ![](<../../.gitbook/assets/image (5).png>)Selling the NFTs and Purchasing BTC Miners.&#x20;
 
 The key point of the BTC Bulls is buying NFT which are means of buying into a fractionalized BTC mining cluster.
 
@@ -31,11 +31,11 @@ The Ranch BTC Bulls does NOT have its own native token by design. The only token
 
 ### Minting NFTS
 
-When electing to enter the daily raffle: &#x20;
+#### When a user does elect to enter the daily raffle: &#x20;
 
 ![](<../../.gitbook/assets/image (3).png>)
 
-When not electing to enter the daily raffle:&#x20;
+#### When a user does NOT elect to enter the Daily Raffle:&#x20;
 
 ![](<../../.gitbook/assets/image (2).png>)
 
@@ -45,11 +45,11 @@ When not electing to enter the daily raffle:&#x20;
 
 ### Monthly Rewarding of mined Bitcoin&#x20;
 
-When a Drove Partner is set:&#x20;
+#### With a Partner set:&#x20;
 
-![](<../../.gitbook/assets/image (3) (1).png>)
+![](<../../.gitbook/assets/image (8).png>)
 
-Without a Drove Partner
+#### Without a Partner Set:&#x20;
 
 ![](<../../.gitbook/assets/image (4).png>)
 
