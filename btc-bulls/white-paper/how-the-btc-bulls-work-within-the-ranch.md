@@ -121,6 +121,16 @@ This is one of the coolest parts of the BTC bulls. The entire raffle process is 
 
 
 
+## SUSTAINABILITY
+
+The key aspect of this project is how the project continues to bring in a steady revenue back to NFT owners. This project is not built on ponzinomics which requires an influx of new people to enter the project to keep it going. The heart and soul of this project is mining Bitcoin. If you are not a believer in the long-term potential of Bitcoin, then perhaps this project isn't for you. The hope of the project is the collect as much Bitcoin until the day in which it's no longer mine-able in the year 2040.&#x20;
+
+We designed the Tax System within the project to benefit the people within the project. All withdraw taxes are given to the Daily Raffle winner that has their wallet address set as the USDC or WBTC TAX COLLECTOR role. Taxes for the people!
+
+
+
+
+
 &#x20;
 
 ## &#x20;
