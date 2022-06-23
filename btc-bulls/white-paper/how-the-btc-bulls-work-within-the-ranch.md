@@ -1,6 +1,10 @@
 # HOW THE BTC BULLS WORK WITHIN THE RANCH
 
-## Minting NFTs and Purchasing Miners.&#x20;
+## 10,000 FT VIEW OF THE BTC BULLS
+
+The BTC Bulls community is built around Bitcoin Mining. This project is mining-as-a-service with a unique tax and partner network system that rewards the community itself.&#x20;
+
+## MINTING NFTS AND PURCHASING BTC MINERS
 
 The key point of the BTC Bulls is buying NFT which are means of buying into a fractionalized BTC mining cluster.
 
