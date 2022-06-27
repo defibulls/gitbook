@@ -1,5 +1,2 @@
-# How To
+# HOW TO
 
-
-
-1.

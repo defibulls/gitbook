@@ -35,13 +35,13 @@ The Ranch BTC Bulls does NOT have its own native token by design. The only token
 
 ### Minting NFTS
 
-#### When a user does elect to enter the daily raffle: &#x20;
+#### When a user DOES elect to enter the daily raffle: &#x20;
 
 ![](<../../.gitbook/assets/image (3).png>)
 
-#### When a user does NOT elect to enter the Daily Raffle:&#x20;
+#### When a user DOES NOT elect to enter the Daily Raffle:&#x20;
 
-![](<../../.gitbook/assets/image (2).png>)
+![](../../.gitbook/assets/image.png)
 
 
 
