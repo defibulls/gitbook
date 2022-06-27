@@ -133,6 +133,18 @@ We designed the Tax System within the project to benefit the people within the p
 
 
 
+## PAUSING OF THE CONTRACT:&#x20;
+
+#### WBTC WITHDRAWS:&#x20;
+
+During the first couple days of each month between the 1st to 5th day of each month, all the Bitcoin rewards will be withdrawn from our Compass Mining account and converted to WBTC. When the WBTC is deposited into the contract and dispersed to NFTs owners, All WBTC withdraws will be paused during this time. While the contract updates every account during this process, it is important to make sure all accounts are static and not in the middle of any transaction.&#x20;
+
+#### MINTING NEW NFTS
+
+During the daily raffle that happens every 24 hours, The minting function will pause and no longer allow any new mints for a few minutes. This is to allow the daily raffle function to work correctly without any data changing mid-process.  &#x20;
+
+
+
 
 
 &#x20;
