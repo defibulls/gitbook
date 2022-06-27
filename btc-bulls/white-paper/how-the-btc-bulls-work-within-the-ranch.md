@@ -33,7 +33,7 @@ The Ranch BTC Bulls does NOT have its own native token by design. The only token
 
 
 
-### Minting NFTS
+### MINTING NFTS
 
 #### When a user DOES elect to enter the daily raffle: &#x20;
 
@@ -45,17 +45,9 @@ The Ranch BTC Bulls does NOT have its own native token by design. The only token
 
 
 
+## MONTHLY REWARDING
 
-
-### Monthly Rewarding of mined Bitcoin&#x20;
-
-#### With a Partner set:&#x20;
-
-![](<../../.gitbook/assets/image (8).png>)
-
-#### Without a Partner Set:&#x20;
-
-![](<../../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (7).png>)
 
 
 
