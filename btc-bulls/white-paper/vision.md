@@ -6,4 +6,4 @@
 
 ## BTC BULLS:&#x20;
 
-#### Mine bitcoin as a group as we fractionalize the buy-in process, pooling our resources together allowing all of us to take part in premium equipment bundle packages that have been previously reserved for only the wealthier individuals and businesses to take part in.&#x20;
+#### Mine bitcoin as a group as we fractionalize the buy-in process, pooling our resources together allowing all of us to take part in premium equipment bundle packages that have been previously reserved for only the wealthier individuals and businesses to take part in. The BTC Bulls plan to be around until the year 2040 when Bitcoin is no longer mineable. They'll learn to pivot at that point.&#x20;
