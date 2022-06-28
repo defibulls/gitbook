@@ -14,7 +14,7 @@
 * [📓 WHITE-PAPER](btc-bulls/white-paper/README.md)
   * [VISION](btc-bulls/white-paper/vision.md)
   * [COLLECTION](btc-bulls/white-paper/collection.md)
-  * [THE](btc-bulls/white-paper/Partner-Program.md)
+  * [THE PARTNER-NETWORK](btc-bulls/white-paper/Partner-Program.md)
   * [HOW THE BTC BULLS WORK WITHIN THE RANCH](btc-bulls/white-paper/how-the-btc-bulls-work-within-the-ranch.md)
   * [HOW TO](btc-bulls/white-paper/how-to/README.md)
     * [How to Add Polygon (MATIC) Network to MetaMask](btc-bulls/white-paper/how-to/how-to-add-polygon-matic-network-to-metamask.md)
