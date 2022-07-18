@@ -41,9 +41,7 @@ The Ranch BTC Bulls does NOT have its own native token by design. The only token
 
 ![Fig 3](<../../.gitbook/assets/image (4).png>)
 
-## BTC BULL CENTRALITY
-
-<img src="../../.gitbook/assets/Networking-01.png" alt="" data-size="line">
+## ![](<../../.gitbook/assets/Networking (1).svg>) BTC BULL CENTRALITY
 
 Ownership of a BTC BULL is the central part of this project. There will be other assets deployed within the ecosystem but all assets a tied back to the BTC Bulls. For example, let's say we deploy Llama's within the ranch that will be invested into another project to create revenue for us. Each Llama NFT would be rewarded, pro-rata, but the funds are sent back to the BTC Bulls contract and go through this logic to update USDC amounts for the BTC Bulls.
 
@@ -88,7 +86,7 @@ The next month bring online 70 more miners, then we would be sharing a \~$37,700
 
 ## HOW DOES A USER PAY THEIR MAINTENANCE FEES?
 
-![Fig 4](<../../.gitbook/assets/image (10).png>)
+![Fig 4](<../../.gitbook/assets/image (10) (1).png>)
 
 When paying monthly maintenance fees, each transaction will go through this logic process. If a user has enough USDC rewards on their account, the maintenance fees amount can and will be deducted from them when paying the maintenance fees. Otherwise, each user will need to pay the maintenance fees from their own wallet using USDC.e
 
