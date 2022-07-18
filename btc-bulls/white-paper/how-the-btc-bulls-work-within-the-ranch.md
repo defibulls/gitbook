@@ -41,6 +41,14 @@ The Ranch BTC Bulls does NOT have its own native token by design. The only token
 
 ![Fig 3](<../../.gitbook/assets/image (4).png>)
 
+## BTC BULL CENTRALITY
+
+![](../../.gitbook/assets/Networking-01.png)
+
+##
+
+##
+
 ## MAINTENANCE FEES
 
 
@@ -98,6 +106,8 @@ When funds are deposited back into the smart contract and NFTs are rewarded in t
 
 ## HOW LONG WILL THE BTC BULLS LAST?&#x20;
 
+![](<../../.gitbook/assets/Compounding Illustration-01.png>)
+
 We are setting ourselves up to mine Bitcoin until the very last day possible. Each BTC Bull be working on The Ranch until that day happens in the year 2040. At that point, each BTC Bull will eventually lose its mission of mining BTC. As with everything that happens on The Ranch, we can always pivot and find another use case for the Bulls. They are beloved in our community and will not be abandoned. Each holder in the future can vote on what they shall do on their next challenge of life.&#x20;
 
 ![The year 2040 will bring an end to BTC mining and each BTC Bull will pivot to another assignment. ](<../../.gitbook/assets/image (9) (1).png>)
@@ -117,6 +127,8 @@ When this happens, it's a best effort attempt to get the most money we can from 
 
 
 ## RAFFLE
+
+![](<../../.gitbook/assets/Raffle Drawing Machine-01.png>)
 
 ![](<../../.gitbook/assets/image (5).png>)
 
