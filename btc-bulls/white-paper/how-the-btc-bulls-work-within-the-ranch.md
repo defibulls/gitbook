@@ -43,7 +43,7 @@ The Ranch BTC Bulls does NOT have its own native token by design. The only token
 
 ## BTC BULL CENTRALITY
 
-![](../../.gitbook/assets/Networking-01.png)
+<img src="../../.gitbook/assets/Networking-01.png" alt="" data-size="line">
 
 Ownership of a BTC BULL is the central part of this project. There will be other assets deployed within the ecosystem but all assets a tied back to the BTC Bulls. For example, let's say we deploy Llama's within the ranch that will be invested into another project to create revenue for us. Each Llama NFT would be rewarded, pro-rata, but the funds are sent back to the BTC Bulls contract and go through this logic to update USDC amounts for the BTC Bulls.
 
