@@ -2,7 +2,9 @@
 
 ## 10,000 FT VIEW OF 10,000 BTC BULLS
 
-The BTC Bulls community is built around Bitcoin Mining. This project is a hybrid of a MAAS (mining-as-a-service) and an investment club. The Ranch itself is a community-driven ecosystem, each member is expected to pull their own weight for the betterment of the community as a whole. The key point of the BTC Bulls is buying an NFT which are means of buying into a fractionalized BTC mining cluster.&#x20;
+The BTC Bulls community is built around Bitcoin Mining. This project is a hybrid of a MAAS (mining-as-a-service) and a club. The Ranch itself is a community-driven ecosystem, each member is expected to pull their own weight for the betterment of the community as a whole. The key point of the BTC Bulls is buying an NFT which are means of buying into a fractionalized BTC mining cluster.
+
+&#x20;
 
 
 

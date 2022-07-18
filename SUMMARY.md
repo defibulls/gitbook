@@ -7,7 +7,6 @@
 * [Meet the Team](the-ranch/meet-the-team.md)
 * [LLC](the-ranch/llc.md)
 * [KYC](the-ranch/kyc.md)
-* [ROAD MAP](the-ranch/road-map.md)
 
 ## BTC Bulls
 
