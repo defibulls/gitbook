@@ -37,6 +37,8 @@ The Ranch BTC Bulls does NOT have its own native token by design. The only token
 
 ### MONTHLY REWARDING
 
+![](<../../.gitbook/assets/Compounding Illustration.svg>)
+
 
 
 ![Fig 3](<../../.gitbook/assets/image (4).png>)
