@@ -27,11 +27,11 @@ The Ranch BTC Bulls does NOT have its own native token by design. The only token
 
 When a user DOES elect to enter the daily raffle when minting BTC Bull NFTs, 3% of the transaction cost is held for the Daily Raffle and the user becomes eligible to win the Daily Raffle Drawing. Opting into the raffle is a manual and voluntary process from the user themselves and only allows participation in that day's drawing.  If a user elects to mint 1 BTC Bull NFT or 10 BTC Bull NFTs and opts to enter the Daily Minting Raffle, they will be entered into the Raffle one single time. A single winner shall receive the entire Daily Raffle Amount and then it is reset. When the Daily Mint Raffle is reset, all users who mint new BTC Bull NFTs are eligible to enter the Raffle, this doesn't matter if it's the first time a user has minted or the user has taken part in previous raffles. Once the daily raffle has concluded for the given day, no more benefits are seen from this decision to enter it.&#x20;
 
-![](<../../.gitbook/assets/image (8).png>)
+![Fig 1](<../../.gitbook/assets/image (8).png>)
 
 When a user DOES NOT elect to enter the Daily Raffle, the 3% that would have gone to the Daily Raffle Amount is then passed to the BTC Miners Safe. The user will not be entered into the Daily Raffle during this transaction thus they are not eligible to win it:&#x20;
 
-![](<../../.gitbook/assets/image (6).png>)
+![Fig 2](<../../.gitbook/assets/image (6).png>)
 
 
 
@@ -92,23 +92,23 @@ The next month bring online 70 more miners, then we would be sharing a \~$37,700
 
 ## HOW DOES A USER PAY THEIR MAINTENANCE FEES?
 
-![Fig 4](<../../.gitbook/assets/image (10) (1).png>)
+When paying monthly maintenance fees, each transaction will go through this logic process. If a user has enough USDC.e on the contract, the maintenance fees amount can and will be deducted from their USDC.e balance when paying the maintenance fees. Otherwise, each user will need to pay the maintenance fees from their own wallet using USDC.e
 
-When paying monthly maintenance fees, each transaction will go through this logic process. If a user has enough USDC rewards on their account, the maintenance fees amount can and will be deducted from them when paying the maintenance fees. Otherwise, each user will need to pay the maintenance fees from their own wallet using USDC.e
+![Fig 5](<../../.gitbook/assets/image (11).png>)
 
 
 
-## WAR CHEST
+## HOSTING SAFE
 
-As noted in the Minting figures (Fig 1 and Fig 2), 5% of each minting transaction will fund the WAR CHEST. This money is reserved for hosting fee invoices.  When the project starts, the first month's invoices will be paid using this WAR CHEST. Each month when users pay their maintenance fees, that money goes to replenish the WAR CHEST. &#x20;
+As noted in the Minting figures (Fig 1 and Fig 2), 5% of each minting transaction will fund the HOSTING SAFE. This money is reserved for hosting fee invoices.  When the project starts, the first month's invoices will be paid using this HOSTING SAFE balance. Each month when users pay their maintenance fees, that money goes to replenish the HOSTING SAFE. &#x20;
 
-A very important concept and design on the project revolves around the WAR CHEST and what happens if the WAR CHEST were to run out of money. As every user is required to pay their maintenance fees before being allowed to withdraw the WBTC rewards, this should take care of itself. If we are still in a deficit, this problem will likely crop up if enough users are not paying their maintenance fees over time. If this scenario does play out, we will have to use a portion of our monthly mining rewards to cover the invoice. The Ranch has simple ground rules to comply with; pay your fees to help yourself and the community alike. There is **NO** plan to punish all holders of BTC Bulls if this were to happen. This is why there is a liquidation function in the contract.&#x20;
+A very important concept and design on the project revolves around the HOSTING SAFE and what happens if the HOSTING SAFE were to run out of money. As every user is required to pay their maintenance fees before being allowed to withdraw their rewards, this should take care of itself. If we are still in a deficit, this problem will likely crop up if enough users are not paying their maintenance fees over time. If this scenario does play out, we will have to use a portion of our monthly mining rewards to cover the invoice. The Ranch has simple ground rules to comply with; pay your fees to help yourself and the community alike. There is **NO** plan to punish all holders of BTC Bulls if this were to happen. This is why there is a liquidation function in the contract.&#x20;
 
 #### HOW IS THE LIQUIDATION FUNCTION USED?
 
-![](<../../.gitbook/assets/image (11).png>)
+![](<../../.gitbook/assets/image (11) (1).png>)
 
-When funds are deposited back into the smart contract and NFTs are rewarded in the pro-rata format, variables and mappings are updated on the contract. If a user is 4 months behind on paying monthly maintenance fees, that user will get liquidated. In this project, that means that the past 4 WBTC deposits made into that account will be sent to the WAR CHEST. That is the BTC that will be used to pay for invoices in the absence of users paying maintenance fees. If this does happen to a user, the months behind and total maintenance fees due variables are reset back to zero. The next month will be as if that user has started fresh on the contract and will only be 1 month behind on their maintenance fees (after that month's rewards are dispersed).&#x20;
+When funds are deposited back into the smart contract and NFTs are rewarded in the pro-rata format, variables and mappings are updated on the contract. If a user is 4 months behind on paying monthly maintenance fees, that user will get liquidated. In this project, that means that the past 4 WBTC deposits made into that user's balance will be deducted from them and sent to the HOSTING SAFE. This is the WBTC that will be used to pay for invoices in the absence of users paying maintenance fees. If this does happen to a user, the months behind and total maintenance fees due variable are reset back to zero. The next month will be as if that user has started fresh on the contract and will only be 1 month behind on their maintenance fees (after that month's rewards are dispersed).&#x20;
 
 
 
@@ -116,7 +116,7 @@ When funds are deposited back into the smart contract and NFTs are rewarded in t
 
 
 
-We are setting ourselves up to mine Bitcoin until the very last day possible. Each BTC Bull be working on The Ranch until that day happens in the year 2040. At that point, each BTC Bull will eventually lose its mission of mining BTC. As with everything that happens on The Ranch, we can always pivot and find another use case for the Bulls. They are beloved in our community and will not be abandoned. Each holder in the future can vote on what they shall do on their next challenge of life.&#x20;
+We are setting ourselves up to mine Bitcoin until the very last day possible. Each BTC Bull be working on The Ranch until that day happens in the year 2040. At that point, each BTC Bull will eventually lose its mission of mining BTC. As with everything that happens on The Ranch, we will pivot and find another use case for the Bulls. They are beloved in our community and will not be abandoned. Each holder in the future can vote on what they shall do on their next challenge of life.&#x20;
 
 ![The year 2040 will bring an end to BTC mining and each BTC Bull will pivot to another assignment. ](<../../.gitbook/assets/image (9) (1).png>)
 
@@ -126,28 +126,25 @@ We are setting ourselves up to mine Bitcoin until the very last day possible. Ea
 
 
 
-We are projecting each miner to be operational for 60 months. Some will last longer and others will fail before that time. When designing the project, we had two options. 1. Take 100% of all the mining rewards coming from Compass Mining and disperse those to the community or 2. Take a percentage of the mining Rewards Monthly and continue buying more miners for the project. Had we gone with option 1, the Bulls would die around 60 months. The goal of the project mine Bitcoin until the very end and turning back a portion of the monthly profits to buy more miners is how we are going to do that. We are going to use 1/3 of all monthly rewards to purchase more miners. 2/3 of that monthly reward amount is then dispersed into the contract and distributed according to figure 2 above. &#x20;
+We are projecting each miner to be operational for 60 months. Some will last longer and others will fail before that time. When designing the project, we had two options. (1) Take 100% of all the mining rewards coming from Compass Mining and disperse those to the community or (2) Take a percentage of the mining Rewards Monthly and continue buying more miners for the project. Had we gone with option 1, the BTC Bulls revenue stream would die around 60 months. The goal of the project is to mine Bitcoin until the very end and turning back a portion of the monthly profits to buy more miners is how we are going to do that. We are going to use 1/3 of all monthly rewards to purchase more miners. 2/3 of that monthly reward amount is then dispersed into the contract and distributed according to Fig 3 above. &#x20;
 
-#### WHAT HAPPENS WHEN THE MINERS DO DIE THOUGH?
+#### WHAT HAPPENS WHEN THE MINERS DIE/FAIL?
 
-When this happens, it's a best effort attempt to get the most money we can from selling them back to Compass Mining or on a third-party platform. All revenue generated from the selling of a miner is dispersed back into the project according to figure 2. Miners will inevitably die, hundreds if not thousands of miners will die during this project. That's why we will constantly be buying more miners as we turn 1/3 of monthly rewards back into new purchase orders.&#x20;
+When this happens, it's a best effort attempt to get the most money we can from selling them back to Compass Mining or on a third-party platform. All revenue generated from the selling of a miner is dispersed back into the project according to Fig 3. Miners will inevitably die, hundreds if not thousands of miners will die during this project. That's why we will constantly be buying more miners as we turn 1/3 of monthly rewards back into new purchase orders.&#x20;
 
 
 
-## ![](<../../.gitbook/assets/Raffle Drawing Machine.svg>) RAFFLE
+## ![](<../../.gitbook/assets/Raffle Drawing Machine.svg>) DAILY MINT RAFFLE
 
 
 
 ![](<../../.gitbook/assets/image (5).png>)
 
-The entire raffle process is NOT controlled by the owners of the contract in any way as we are utilizing Chainlinks VRF v2 and Chainlinks Keepers service.&#x20;
+The entire raffle process is NOT controlled by the owners of the contract in any way as we are utilizing Chainlinks VRFv2.&#x20;
 
-* What is VRF?  Chainlink VRF (Verifiable Random Function) is a provably fair and verifiable random number generator (RNG) that enables smart contracts to access random values without compromising security or usability. [https://docs.chain.link/docs/chainlink-vrf/](https://docs.chain.link/docs/chainlink-vrf/)
-* What is Chainlink Keepers? We are automating the contract using **Chainlink Keepers**, the decentralized and highly reliable smart contract automation service. Relying on Chainlink Keepers to automate the contract allows the Raffle to be called every 24 hrs without any intervention needed from the contract owner if someone has minted a new NFT during the day. [https://docs.chain.link/docs/chainlink-keepers/introduction/](https://docs.chain.link/docs/chainlink-keepers/introduction/)
+* What is VRF?  Chainlink VRF (Verifiable Random Function) is a provably fair and verifiable random number generator (RNG) that enables smart contracts to access random values.
 
-
-
-When minting new NFTs, each user can voluntarily choose to enter the Daily Raffle where 3% of each transaction cost is used to award the daily winner. As long as 1 new NFT was minted for the day, the raffle is allowed to happen and the function will be called. At the end of the count down, **a random participant** is selected and will receive the entire raffle fund which will be uploaded to the amount of USDC that is allowed to be withdrawn from the contract from that user.&#x20;
+When minting new NFTs, each user can voluntarily choose to enter the Daily Raffle where 3% of each transaction cost is used to award the daily winner. As long as 1 new NFT was minted for the day, the raffle is allowed to happen and the function will be called. At the end of the count down, **a random participant** is selected and will receive the entire raffle fund which will be uploaded to the amount of USDC.e that is allowed to be withdrawn from the contract from that user.&#x20;
 
 
 
