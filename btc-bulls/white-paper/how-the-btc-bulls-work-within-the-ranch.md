@@ -35,9 +35,9 @@ When a user DOES NOT elect to enter the Daily Raffle, the 3% that would have gon
 
 
 
-### MONTHLY BTC MINING REWARDS
+## ![](<../../.gitbook/assets/Compounding Illustration.svg>) MONTHLY BTC MINING REWARDS
 
-![](<../../.gitbook/assets/Compounding Illustration.svg>)
+
 
 All BTC mining efforts will be processed monthly.&#x20;
 
@@ -53,13 +53,9 @@ All BTC mining efforts will be processed monthly.&#x20;
 
 ## ![](<../../.gitbook/assets/Networking (1).svg>) BTC BULL CENTRALITY
 
-Ownership of a BTC BULL is the central part of this project. There will be other assets deployed within the ecosystem but all assets a tied back to the BTC Bulls. For example, let's say we deploy Llama's within the ranch that will be invested into another project to create revenue for us. Each Llama NFT would be rewarded, pro-rata, but the funds are sent back to the BTC Bulls contract and go through this logic to update USDC amounts for the BTC Bulls.
+Ownership of a BTC BULL is the central part of this project. There will be other assets deployed within the ecosystem but all assets are tied back to the BTC Bulls. For example, let's say we deploy Llama's within the ranch that will be invested into another project to create revenue for us. Each Llama NFT would be rewarded, pro-rata, but the funds are sent back to the BTC Bulls contract and go through this logic to update USDC.e amounts for the BTC Bulls.
 
-![](<../../.gitbook/assets/image (7).png>)
-
-##
-
-##
+![Fig 4](../../.gitbook/assets/image.png)
 
 ## MAINTENANCE FEES
 
