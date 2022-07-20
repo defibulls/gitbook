@@ -2,7 +2,7 @@
 
 ## 10,000 FT VIEW OF 10,000 BTC BULLS
 
-The BTC Bulls community is built around Bitcoin Mining. This project is a hybrid of a MAAS (mining-as-a-service) and a club. The Ranch itself is a community-driven ecosystem, each member is expected to pull their own weight for the betterment of the community as a whole. The key point of the BTC Bulls is buying an NFT which are means of buying into a fractionalized BTC mining cluster.
+The BTC Bulls community is built around Bitcoin Mining. This project is a hybrid of a MAAS (mining-as-a-service) and a club. The Ranch itself is a community-driven ecosystem, each member is expected to pull their own weight for the betterment of the community as a whole. The key point of the BTC Bulls is buying an NFT which are means of buying into a fractionalized BTC mining cluster. The BTC Bulls will serve as the central focus of The Ranch ecosystem. Other animals will join The Ranch and the reward system of those NFTs tie back to the ownership of the BTC Bulls themselves.&#x20;
 
 &#x20;
 
@@ -16,8 +16,8 @@ The Ranch BTC Bulls does NOT have its own native token by design. The only token
   * BTC is used as the BTC mining reward token that is received for our mining efforts.&#x20;
 * WBTC (WRAPPED BITCOIN)
   * WBTC standardizes BITCOIN to the ERC20 format. This allows us to convert BTC to WBTC,  backed 1:1, and allows us to payout out thousands of NFTs within the project.&#x20;
-* USDC&#x20;
-  * Used to Mint the NFTs and also the reward token used in THE DROVE partner network and Daily Raffles.&#x20;
+* USDC.e&#x20;
+  * Used to Mint the NFTs and also the reward token used in the Partner-Network minting rewards, daily mint raffle drawing, and our other ecosystem animal NFTs that tie back to the BTC Bulls to reward the owners.&#x20;
 * MATIC &#x20;
   * This is the native token of Polygon and each user must have it to use for gas when interacting with the smart contract.&#x20;
 
@@ -25,19 +25,27 @@ The Ranch BTC Bulls does NOT have its own native token by design. The only token
 
 ### MINTING NFTS
 
-#### When a user DOES elect to enter the daily raffle: &#x20;
+When a user DOES elect to enter the daily raffle when minting BTC Bull NFTs, 3% of the transaction cost is held for the Daily Raffle and the user becomes eligible to win the Daily Raffle Drawing. Opting into the raffle is a manual and voluntary process from the user themselves and only allows participation in that day's drawing.  If a user elects to mint 1 BTC Bull NFT or 10 BTC Bull NFTs and opts to enter the Daily Minting Raffle, they will be entered into the Raffle one single time. A single winner shall receive the entire Daily Raffle Amount and then it is reset. When the Daily Mint Raffle is reset, all users who mint new BTC Bull NFTs are eligible to enter the Raffle, this doesn't matter if it's the first time a user has minted or the user has taken part in previous raffles. Once the daily raffle has concluded for the given day, no more benefits are seen from this decision to enter it.&#x20;
 
-![Fig 1](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (8).png>)
 
-#### When a user DOES NOT elect to enter the Daily Raffle:&#x20;
+When a user DOES NOT elect to enter the Daily Raffle, the 3% that would have gone to the Daily Raffle Amount is then passed to the BTC Miners Safe. The user will not be entered into the Daily Raffle during this transaction thus they are not eligible to win it:&#x20;
 
-![Fig 2](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (6).png>)
 
 
 
-### MONTHLY REWARDING
+### MONTHLY BTC MINING REWARDS
 
 ![](<../../.gitbook/assets/Compounding Illustration.svg>)
+
+All BTC mining efforts will be processed monthly.&#x20;
+
+**1/3** of all rewards received from the mining facility will be reinvested back into the mining cluster to purchase more BTC miners.&#x20;
+
+**2/3** of the monthly reward received will be converted to WBTC and deposited into the BTC Bulls Smart Contract with 10% going back to The Ranch Core Team for continued project growth, security measures, and marketing. The remaining 90% is then dispersed to the owners of the BTC Bulls NFTs in pro-rata format. Using this approach, each NFT is awarded the exact same amount. An address owning 5 NFTs would get 5x more WBTC rewards than a person owning a single NFT.
+
+
 
 
 

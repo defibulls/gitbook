@@ -7,7 +7,7 @@ coverY: 0
 
 ## Pepper (Owner and Developer)
 
-![](<../.gitbook/assets/image (6) (1).png>)
+![](<../.gitbook/assets/image (6) (1) (1).png>)
 
 Network Engineer by day working on the SD-WAN solutions of tomorrow.
 
