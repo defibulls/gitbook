@@ -9,5 +9,3 @@
 ## BTC BULLS:&#x20;
 
 #### Mine bitcoin as a group as we fractionalize the buy-in process, pooling our resources together allowing all of us to take part in premium equipment bundle packages that have been previously reserved for only the wealthier individuals and businesses to take part in. The BTC Bulls plan to be around until the year 2040 when Bitcoin is no longer mineable. They'll learn to pivot at that point.&#x20;
-
-#### The BTC Bulls hold the most power within The Ranch ecosystem because they were the first to live on The Ranch itself and thus have seniority. All other animals that join The Ranch essentially have to look up to the Bulls and pay respect to them which in turn makes it more profitable to own a Bull if you own other animals within The Ranch ecosystem.&#x20;
