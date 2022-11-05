@@ -2,7 +2,7 @@
 
 ## 10,000 FT VIEW OF 10,000 BTC BULLS
 
-The BTC Bulls community is built around Bitcoin Mining. This project is a hybrid of a MAAS (mining-as-a-service) and a club. The Ranch itself is a community-driven ecosystem, each member is expected to pull their own weight for the betterment of the community as a whole. The key point of the BTC Bulls is buying an NFT which are means of buying into a fractionalized BTC mining cluster. The BTC Bulls will serve as the central focus of The Ranch ecosystem. Other animals will join The Ranch and the reward system of those NFTs tie back to the ownership of the BTC Bulls themselves.&#x20;
+The BTC Bulls community is built around Bitcoin Mining. This project is a hybrid of a MAAS (mining-as-a-service) and a club. The Ranch itself is a community-driven ecosystem; each member is expected to pull their own weight for the betterment of the community as a whole. The key point of the BTC Bulls is buying an NFT, which are means of buying into a fractionalized BTC mining cluster. The BTC Bulls will serve as the central focus of The Ranch ecosystem. Other animals will join The Ranch, and the reward system of those NFTs tie back to the ownership of the BTC Bulls themselves.&#x20;
 
 &#x20;
 
@@ -10,26 +10,26 @@ The BTC Bulls community is built around Bitcoin Mining. This project is a hybrid
 
 ## TOKENOMICS&#x20;
 
-The Ranch BTC Bulls does NOT have its own native token by design. The only tokens this project will use:&#x20;
+The Ranch BTC Bulls will not revolve around its own native token by design. The primary tokens this project will use include:&#x20;
 
 * BTC (BITCOIN)
   * BTC is used as the BTC mining reward token that is received for our mining efforts.&#x20;
 * WBTC (WRAPPED BITCOIN)
   * WBTC standardizes BITCOIN to the ERC20 format. This allows us to convert BTC to WBTC,  backed 1:1, and allows us to payout out thousands of NFTs within the project.&#x20;
 * USDC.e&#x20;
-  * Used to Mint the NFTs and also the reward token used in the Partner-Network minting rewards, daily mint raffle drawing, and our other ecosystem animal NFTs that tie back to the BTC Bulls to reward the owners.&#x20;
+  * Used to mint the NFTs and also the reward token used in our minting reward system, mint raffle drawings, and our other ecosystem animal NFTs that tie back to the BTC Bulls to reward the owners.&#x20;
 * MATIC &#x20;
-  * This is the native token of Polygon and each user must have it to use for gas when interacting with the smart contract.&#x20;
+  * This is the native token of Polygon, and each user must have it to use for gas when interacting with the smart contract.&#x20;
 
 
 
 ### MINTING NFTS
 
-When a user DOES elect to enter the daily raffle when minting BTC Bull NFTs, 3% of the transaction cost is held for the Daily Raffle and the user becomes eligible to win the Daily Raffle Drawing. Opting into the raffle is a manual and voluntary process from the user themselves and only allows participation in that day's drawing.  If a user elects to mint 1 BTC Bull NFT or 10 BTC Bull NFTs and opts to enter the Daily Minting Raffle, they will be entered into the Raffle one single time. A single winner shall receive the entire Daily Raffle Amount and then it is reset. When the Daily Mint Raffle is reset, all users who mint new BTC Bull NFTs are eligible to enter the Raffle, this doesn't matter if it's the first time a user has minted or the user has taken part in previous raffles. Once the daily raffle has concluded for the given day, no more benefits are seen from this decision to enter it.&#x20;
+When a user elects to enter the daily raffle when minting BTC Bull NFTs, 3% of the transaction cost is held for the Daily Raffle, and the user becomes eligible to win the Raffle Drawing when it reaches 100 entries. Opting into the raffle is a manual and voluntary process for the user themselves and only allows participation in that particular drawing.  If a user elects to mint 1 BTC Bull NFT or 10 BTC Bull NFTs and opts to enter the Daily Minting Raffle, they will be entered into the Raffle one single time. A single winner shall receive the entire Daily Raffle amount, and then it is reset. When the Minting Raffle is reset, all users who mint new BTC Bull NFTs are eligible to enter the Raffle, this doesn't matter if it's the first time a user has minted or the user has taken part in previous Minting Raffles.&#x20;
 
 ![Fig 1](<../../.gitbook/assets/image (8).png>)
 
-When a user DOES NOT elect to enter the Daily Raffle, the 3% that would have gone to the Daily Raffle Amount is then passed to the BTC Miners Safe. The user will not be entered into the Daily Raffle during this transaction thus they are not eligible to win it:&#x20;
+When a user does not elect to enter the Minting Raffle, the 3% that would have gone to the Minting Raffle is then passed to the BTC Miners Safe. The user will not be entered into the Minting Raffle during this transaction. Thus, they are not eligible to win it:&#x20;
 
 ![Fig 2](<../../.gitbook/assets/image (6).png>)
 
@@ -39,7 +39,7 @@ When a user DOES NOT elect to enter the Daily Raffle, the 3% that would have gon
 
 
 
-All BTC mining efforts will be processed monthly.&#x20;
+All BTC mining efforts will be processed monthly between the 1st and 5th of the month.&#x20;
 
 **1/3** of all rewards received from the mining facility will be reinvested back into the mining cluster to purchase more BTC miners.&#x20;
 
@@ -53,7 +53,7 @@ All BTC mining efforts will be processed monthly.&#x20;
 
 ## ![](<../../.gitbook/assets/Networking (1).svg>) BTC BULL CENTRALITY
 
-Ownership of a BTC BULL is the central part of this project. There will be other assets deployed within the ecosystem but all assets are tied back to the BTC Bulls. For example, let's say we deploy Llama's within the ranch that will be invested into another project to create revenue for us. Each Llama NFT would be rewarded, pro-rata, but the funds are sent back to the BTC Bulls contract and go through this logic to update USDC.e amounts for the BTC Bulls.
+Ownership of a BTC BULL is the central part of this project. There will be other assets deployed within the ecosystem, but all assets are tied back to the BTC Bulls. For example, let's say we deploy Llama's within the ranch that will be invested into another project to create revenue for us. Each Llama NFT would be rewarded, pro-rata, but the funds are sent back to the BTC Bulls contract and go through this logic to update USDC.e amounts for the BTC Bulls.
 
 ![Fig 4](../../.gitbook/assets/image.png)
 

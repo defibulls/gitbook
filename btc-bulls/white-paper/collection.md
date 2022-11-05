@@ -2,9 +2,10 @@
 
 ### **A collection of 10,000 BTC Bull NFTs on the Polygon Blockchain.**&#x20;
 
-* No whitelist&#x20;
-* Lifetime\* access to the mining cluster's rewards.
-* Lifetime\* access to monthly raffles
+* No whitelist; You are in because you want to be, not who you know.&#x20;
+* Lifetime\* access to the mining cluster's rewards
+* First dibs on future project partnerships
+* Receive an airdrop of our Native Token when it launches.&#x20;
 
 
 
