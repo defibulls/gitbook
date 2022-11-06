@@ -1,4 +1,4 @@
-# How to Add USDC Token to Polygon Network
+# How to Add USDC Token to Polygon Network in MetaMask
 
 
 
@@ -14,5 +14,5 @@ Here’s Polygon’s Official Token Tracker Link [https://polygonscan.com/tokens
 
 ![](https://miro.medium.com/max/478/0\*WOK2tLBLMlIjbjP2)
 
-3\. Select Add Custom Token then Select Import Token. All Done.
+3\. Select Add Custom Token, then Select Import Token. All Done.
 
