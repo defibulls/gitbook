@@ -51,9 +51,9 @@ All BTC mining efforts will be processed monthly between the 1st and 5th of the 
 
 ## ![](<../../.gitbook/assets/Networking (1).svg>) BTC BULL CENTRALITY
 
-Ownership of a BTC BULL is the central part of this project. There will be other assets deployed within the ecosystem, but all assets are tied back to the BTC Bulls. For example, let's say we deploy Llama's within the ranch that will be invested into another project to create revenue for us. Each Llama NFT would be rewarded, pro-rata, but the funds are sent back to the BTC Bulls contract and go through this logic to update USDC.e amounts for the BTC Bulls.
+Ownership of a BTC BULL is the central part of this project. There will be other assets deployed within the ecosystem, but all assets are tied back to the BTC Bulls. For example, let's say we deploy Llama's within The Ranch, which will be invested into another project to create revenue for us. Each Llama NFT would be rewarded pro-rata, but the funds are sent back to the BTC Bulls contract and go through this logic to update USDC.e amounts for the BTC Bulls.
 
-![Fig 4](../../.gitbook/assets/image.png)
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ## MAINTENANCE FEES
 
@@ -90,9 +90,9 @@ The next month, we bring online 220 more miners, then we would be sharing a \~$7
 
 ## HOW DOES A USER PAY THEIR MAINTENANCE FEES?
 
-When paying monthly maintenance fees, each transaction will go through this logic process. If a user has enough USDC.e on the contract, the maintenance fees amount can and will be deducted from their USDC.e balance when paying the maintenance fees. Otherwise, each user will need to pay the maintenance fees from their own wallet using USDC.e
+Each transaction will go through this logic process when paying monthly maintenance fees. If a user has enough USDC.e on the contract, the maintenance fees amount will be deducted from their USDC.e balance when paying the maintenance fees. Otherwise, each user will need to pay the maintenance fees from their own personal wallet using USDC.e
 
-![Fig 5](<../../.gitbook/assets/image (11).png>)
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>FIG 5</p></figcaption></figure>
 
 
 
