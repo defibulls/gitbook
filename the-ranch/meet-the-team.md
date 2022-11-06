@@ -13,5 +13,5 @@ Network Engineer by day working on the SD-WAN solutions of tomorrow.
 
 Python Developer by hobby.
 
-Drank the Crypto Kool-aid in and haven't looked back since. &#x20;
+Drank the Crypto Kool-aid in and haven't looked back. &#x20;
 
