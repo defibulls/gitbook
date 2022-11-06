@@ -178,4 +178,14 @@ This is one of the most important parts of The Ranch Ecosystem. There will be no
 
 If an owner of a BTC Bull thinks this is a great idea, then, by all means, take part in it and hopefully enjoy the upside from our investment.&#x20;
 
-If an owner of a BTC Bull thinks this is a foolish idea, then stay away from them. All money going to purchase these Miners will stem from the sale of Kangaroo NFTs (TRKK). There success or failure of these NFTs will have no bearing on those who do not participate. That is the foundational reason no voting will be needed. If you like the idea, jump in. Think its not for you, stay away.&#x20;
+If an owner of a BTC Bull thinks this is a foolish idea, then stay away from them. All money going to purchase these Miners will stem from the sale of Kangaroo NFTs (TRKK). There success or failure of these NFTs will have no bearing on those who do not participate. That is the foundational reason no voting will be needed. If you like the idea, jump in. Think it's not for you, stay away.&#x20;
+
+
+
+
+
+## OUR NATIVE TOKEN
+
+Will we eventually have a native token? Yes
+
+There currently isn't a timeline for this addition. However, when the time does arise, all BTC Bull owners will split and be airdropped a portion of the Total Supply.&#x20;
