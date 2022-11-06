@@ -1,4 +1,4 @@
-# HOW THE BTC BULLS WORK WITHIN THE RANCH
+# The Ranch 101
 
 ## 10,000 FT VIEW OF 10,000 BTC BULLS
 
@@ -27,13 +27,11 @@ The Ranch BTC Bulls will not revolve around its own native token by design. The 
 
 When a user elects to enter the daily raffle when minting BTC Bull NFTs, 3% of the transaction cost is held for the Daily Raffle, and the user becomes eligible to win the Raffle Drawing when it reaches 100 entries. Opting into the raffle is a manual and voluntary process for the user themselves and only allows participation in that particular drawing.  If a user elects to mint 1 BTC Bull NFT or 10 BTC Bull NFTs and opts to enter the Daily Minting Raffle, they will be entered into the Raffle one single time. A single winner shall receive the entire Daily Raffle amount, and then it is reset. When the Minting Raffle is reset, all users who mint new BTC Bull NFTs are eligible to enter the Raffle, this doesn't matter if it's the first time a user has minted or the user has taken part in previous Minting Raffles.&#x20;
 
-![Fig 1](<../../.gitbook/assets/image (8).png>)
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 When a user does not elect to enter the Minting Raffle, the 3% that would have gone to the Minting Raffle is then passed to the BTC Miners Safe. The user will not be entered into the Minting Raffle during this transaction. Thus, they are not eligible to win it:&#x20;
 
-![Fig 2](<../../.gitbook/assets/image (6).png>)
-
-
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ## ![](<../../.gitbook/assets/Compounding Illustration.svg>) MONTHLY BTC MINING REWARDS
 
