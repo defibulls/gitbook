@@ -10,6 +10,6 @@ Currently, obtaining a KYC will verify individuals' existence by gathering perso
 
 * The Ranch project will fall under the DEFI-Bulls LLC formed in Wyoming, United States.&#x20;
 * We plan to have numerous AMAs supporting each project within The Ranch where you’ll know exactly what we look like and what we are all about.
-* The Ranch Bulls contract will be audited by [https://shellboxes.com/](https://shellboxes.com/) and other solidity developers in this space before deployment.
+* The Ranch Bulls contract has been audited by [https://shellboxes.com/](https://shellboxes.com/) and other solidity developers in this space before deployment.
 
 \
