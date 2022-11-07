@@ -27,11 +27,11 @@ The Ranch BTC Bulls will not revolve around its own native token by design. The 
 
 When a user elects to enter the daily raffle when minting BTC Bull NFTs, 3% of the transaction cost is held for the Daily Raffle, and the user becomes eligible to win the Raffle Drawing when it reaches 100 entries. Opting into the raffle is a manual and voluntary process for the user themselves and only allows participation in that particular drawing.  If a user elects to mint 1 BTC Bull NFT or 10 BTC Bull NFTs and opts to enter the Daily Minting Raffle, they will be entered into the Raffle one single time. A single winner shall receive the entire Daily Raffle amount, and then it is reset. When the Minting Raffle is reset, all users who mint new BTC Bull NFTs are eligible to enter the Raffle, this doesn't matter if it's the first time a user has minted or the user has taken part in previous Minting Raffles.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>FIG 1</p></figcaption></figure>
 
 When a user does not elect to enter the Minting Raffle, the 3% that would have gone to the Minting Raffle is then passed to the BTC Miners Safe. The user will not be entered into the Minting Raffle during this transaction. Thus, they are not eligible to win it:&#x20;
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (3).png" alt=""><figcaption><p>FIG 2</p></figcaption></figure>
 
 ## ![](<../../.gitbook/assets/Compounding Illustration.svg>) MONTHLY BTC MINING REWARDS
 
@@ -45,15 +45,13 @@ All BTC mining efforts will be processed monthly between the 1st and 5th of the 
 
 
 
-
-
-![Fig 3](<../../.gitbook/assets/image (4).png>)
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>FIG 3</p></figcaption></figure>
 
 ## ![](<../../.gitbook/assets/Networking (1).svg>) BTC BULL CENTRALITY
 
-Ownership of a BTC BULL is the central part of this project. There will be other assets deployed within the ecosystem, but all assets are tied back to the BTC Bulls. For example, let's say we deploy Llama's within The Ranch, which will be invested into another project to create revenue for us. Each Llama NFT would be rewarded pro-rata, but the funds are sent back to the BTC Bulls contract and go through this logic to update USDC.e amounts for the BTC Bulls.
+Ownership of a BTC BULL is the central part of this project. Other assets will be deployed within the ecosystem, but all assets are tied back to the BTC Bulls. As the project moves forward, there will be other voluntary investment opportunities to take part in that will be paid out in UDSC.e as they are sent back to the BTC BULLS smart contract. Future partnerships with other projects will have baked-in incentives for also be for BTC BULL owners only. When we decide to launch our Native Token of The Ranch, BTC BULL owners will be the only ones receiving airdrops. &#x20;
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ## MAINTENANCE FEES
 
@@ -104,11 +102,11 @@ A very important concept and design of the project revolves around the HOSTING S
 
 #### HOW IS THE LIQUIDATION FUNCTION USED?
 
-![](<../../.gitbook/assets/image (11) (1).png>)
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-When funds are deposited back into the smart contract and NFTs are rewarded in the pro-rata format, variables and mappings are updated on the contract. If a user is 4 months behind on paying monthly maintenance fees, that user will get liquidated. In this project, that means that the past 4 WBTC deposits made into that user's balance will be deducted from them and sent to the HOSTING SAFE. This is the WBTC that will be used to pay invoices in the absence of users paying maintenance fees. If this does happen to a user, the months behind and total maintenance fees due variables are reset back to zero. The next month will be as if that user has started fresh on the contract and will only be 1 month behind on their maintenance fees (after that month's rewards are dispersed).&#x20;
+When funds are deposited into the smart contract and BTC BULL NFTs are rewarded in the pro-rata format, variables and mappings are updated on the contract. If a user is 4 months behind on paying monthly maintenance fees, that user will get liquidated. In this project, that means that the WBTC contract balance for that user will be deducted from them and sent to the HOSTING SAFE. This is the WBTC that will be used to pay invoices in the absence of users paying maintenance fees. If this does happen to a user, the months behind and total maintenance fees due variables are reset back to zero. The next month will be as if that user has started fresh on the contract and will only be 1 month behind on their maintenance fees (after that month's rewards are dispersed).&#x20;
 
-* The key difference between our liquidation structure and other projects, such as StrongBlock, is if a user gets behind and simply doesn't pay the maintenance fees. They wouldn't lose everything as you would have in StrongBlock. In our ecosystem, the user would simply forfeit the WBTC in their account on our platform, and then they are reset back to good standing ready to redeem themselves.&#x20;
+* The key difference between our liquidation structure and other projects, such as StrongBlock, is if a user gets behind and simply doesn't pay the maintenance fees. They wouldn't lose everything as you would have in StrongBlock. In our ecosystem, the user would simply forfeit the WBTC in their account on our platform, and then they are reset back to good standing, ready to redeem themselves.&#x20;
 
 
 
@@ -116,7 +114,7 @@ When funds are deposited back into the smart contract and NFTs are rewarded in t
 
 
 
-We are setting ourselves up to mine Bitcoin until the very last day possible. Each BTC Bull will be working on The Ranch until that day happens in the year 2040. At that point, each BTC Bull will eventually lose its mission of mining BTC. As with everything that happens on The Ranch, we will pivot and find another use case for the Bulls. They are beloved in our community and will not be abandoned.
+We are setting ourselves up to mine Bitcoin until the very last possible day. Each BTC Bull will be working on The Ranch until that day happens in the year 2040. At that point, each BTC Bull will eventually lose its mission of mining BTC. As with everything that happens on The Ranch, we will pivot and find another use case for the Bulls. They are beloved in our community and will not be abandoned.
 
 ![The year 2040 will bring an end to BTC mining and each BTC Bull will pivot to another assignment. ](<../../.gitbook/assets/image (9) (1).png>)
 
