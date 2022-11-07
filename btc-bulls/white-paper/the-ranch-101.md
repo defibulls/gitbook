@@ -4,8 +4,6 @@
 
 The BTC Bulls community is built around Bitcoin Mining. This project is a hybrid of a MAAS (mining-as-a-service) and a club. The Ranch itself is a community-driven ecosystem; each member is expected to pull their own weight for the betterment of the community as a whole. The key point of the BTC Bulls is buying an NFT, which are means of buying into a fractionalized BTC mining cluster. The BTC Bulls will serve as the central focus of The Ranch ecosystem. Other animals will join The Ranch, and the reward system of those NFTs tie back to the ownership of the BTC Bulls themselves.&#x20;
 
-&#x20;
-
 
 
 ## TOKENOMICS&#x20;
@@ -31,7 +29,7 @@ When a user elects to enter the daily raffle when minting BTC Bull NFTs, 3% of t
 
 When a user does not elect to enter the Minting Raffle, the 3% that would have gone to the Minting Raffle is then passed to the BTC Miners Safe. The user will not be entered into the Minting Raffle during this transaction. Thus, they are not eligible to win it:&#x20;
 
-<figure><img src="../../.gitbook/assets/image (3) (3).png" alt=""><figcaption><p>FIG 2</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>FIG 2</p></figcaption></figure>
 
 ## ![](<../../.gitbook/assets/Compounding Illustration.svg>) MONTHLY BTC MINING REWARDS
 
@@ -45,7 +43,7 @@ All BTC mining efforts will be processed monthly between the 1st and 5th of the 
 
 
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>FIG 3</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption><p>FIG 3</p></figcaption></figure>
 
 ## ![](<../../.gitbook/assets/Networking (1).svg>) BTC BULL CENTRALITY
 
@@ -148,9 +146,9 @@ When minting new NFTs, each user can voluntarily choose to enter the Daily Raffl
 
 ## PAUSING OF THE CONTRACT:&#x20;
 
-#### WBTC WITHDRAWS:&#x20;
+#### WBTC DEPOSITS INTO THE CONTRACT:&#x20;
 
-During the first couple days of each month, between the 1st to 5th day of each month, all the Bitcoin rewards will be withdrawn from our Compass Mining account and converted to WBTC. When the WBTC is deposited into the contract and dispersed to NFTs owners, All WBTC withdraws will be paused during this short amount of time. While the contract updates every account during this process, it is important to make sure all accounts are static and not in the middle of any transaction.&#x20;
+During the first couple days of each month, between the 1st to 5th day of each month, 2/3 of the Bitcoin rewards will be withdrawn from the mining facility and converted to WBTC. When the WBTC is deposited into the contract and dispersed to NFTs owners, All WBTC withdraws will be paused during this short amount of time. While the contract updates every account during this process, it is important to make sure all accounts are static and not in the middle of any transaction.&#x20;
 
 #### MINTING NEW NFTS
 
