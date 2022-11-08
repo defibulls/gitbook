@@ -6,9 +6,9 @@ The BTC Bulls community is built around Bitcoin Mining. This project is a hybrid
 
 
 
-## TOKENOMICS&#x20;
+## TOKENS/COINS THAT WILL BE USED&#x20;
 
-The Ranch BTC Bulls will not revolve around its own native token by design. The primary tokens this project will use include:&#x20;
+The Ranch BTC Bulls will not revolve around its own native token by design. The primary tokens this project will use include the following:
 
 * BTC (BITCOIN)
   * BTC is used as the BTC mining reward token that is received for our mining efforts.&#x20;
