@@ -1,8 +1,8 @@
-# The Ranch 101
+# THE RANCH 101
 
 ## 10,000 FT VIEW OF 10,000 BTC BULLS
 
-The BTC Bulls community is built around Bitcoin Mining. This project is a hybrid of a MAAS (mining-as-a-service) and a club. The Ranch itself is a community-driven ecosystem; each member is expected to pull their own weight for the betterment of the community as a whole. The key point of the BTC Bulls is buying an NFT, which are means of buying into a fractionalized BTC mining cluster. The BTC Bulls will serve as the central focus of The Ranch ecosystem. Other animals will join The Ranch, and the reward system of those NFTs tie back to the ownership of the BTC Bulls themselves.&#x20;
+The BTC Bulls community is built around Bitcoin Mining. This project is a hybrid of a MAAS (mining-as-a-service) and a club. The Ranch itself is a community-driven ecosystem; each member is expected to pull their weight for the betterment of the community. The key point of the BTC Bulls is buying an NFT, which are means of buying into a fractionalized BTC mining cluster. The BTC Bulls will serve as the central focus of The Ranch ecosystem. Other animals will join The Ranch, and the reward system of those NFTs tie back to the ownership of the BTC Bulls themselves.&#x20;
 
 
 
@@ -25,7 +25,7 @@ The Ranch BTC Bulls will not revolve around its own native token by design. The 
 
 When a user elects to enter the daily raffle when minting BTC Bull NFTs, 3% of the transaction cost is held for the Daily Raffle, and the user becomes eligible to win the Raffle Drawing when it reaches 100 entries. Opting into the raffle is a manual and voluntary process for the user themselves and only allows participation in that particular drawing.  If a user elects to mint 1 BTC Bull NFT or 10 BTC Bull NFTs and opts to enter the Daily Minting Raffle, they will be entered into the Raffle one single time. A single winner shall receive the entire Daily Raffle amount, and then it is reset. When the Minting Raffle is reset, all users who mint new BTC Bull NFTs are eligible to enter the Raffle, this doesn't matter if it's the first time a user has minted or the user has taken part in previous Minting Raffles.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>FIG 1</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (3).png" alt=""><figcaption><p>FIG 1</p></figcaption></figure>
 
 When a user does not elect to enter the Minting Raffle, the 3% that would have gone to the Minting Raffle is then passed to the BTC Miners Safe. The user will not be entered into the Minting Raffle during this transaction. Thus, they are not eligible to win it:&#x20;
 
@@ -41,15 +41,13 @@ All BTC mining efforts will be processed monthly between the 1st and 5th of the 
 
 **2/3** of the monthly reward received will be converted to WBTC and deposited into the BTC Bulls Smart Contract with 10% going back to The Ranch Core Team for continued project growth, security measures, and marketing. The remaining 90% is then dispersed to the owners of the BTC Bulls NFTs in pro-rata format. Using this approach, each NFT is awarded the exact same amount. An address owning 5 NFTs would get 5x more WBTC rewards than a person owning a single NFT.
 
-
-
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption><p>FIG 3</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>FIG 3</p></figcaption></figure>
 
 ## ![](<../../.gitbook/assets/Networking (1).svg>) BTC BULL CENTRALITY
 
 Ownership of a BTC BULL is the central part of this project. Other assets will be deployed within the ecosystem, but all assets are tied back to the BTC Bulls. As the project moves forward, there will be other voluntary investment opportunities to take part in that will be paid out in UDSC.e as they are sent back to the BTC BULLS smart contract. Future partnerships with other projects will have baked-in incentives for also be for BTC BULL owners only. When we decide to launch our Native Token of The Ranch, BTC BULL owners will be the only ones receiving airdrops. &#x20;
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>FIG 4</p></figcaption></figure>
 
 ## MAINTENANCE FEES
 
@@ -88,9 +86,7 @@ The next month, we bring online 220 more miners, then we would be sharing a \~$7
 
 Each transaction will go through this logic process when paying monthly maintenance fees. If a user has enough USDC.e on the contract, the maintenance fees amount will be deducted from their USDC.e balance when paying the maintenance fees. Otherwise, each user will need to pay the maintenance fees from their own personal wallet using USDC.e
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>FIG 5</p></figcaption></figure>
-
-
+<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption><p>FIG 5</p></figcaption></figure>
 
 ## HOSTING SAFE
 
@@ -100,7 +96,7 @@ A very important concept and design of the project revolves around the HOSTING S
 
 #### HOW IS THE LIQUIDATION FUNCTION USED?
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption><p>FIG 6</p></figcaption></figure>
 
 When funds are deposited into the smart contract and BTC BULL NFTs are rewarded in the pro-rata format, variables and mappings are updated on the contract. If a user is 4 months behind on paying monthly maintenance fees, that user will get liquidated. In this project, that means that the WBTC contract balance for that user will be deducted from them and sent to the HOSTING SAFE. This is the WBTC that will be used to pay invoices in the absence of users paying maintenance fees. If this does happen to a user, the months behind and total maintenance fees due variables are reset back to zero. The next month will be as if that user has started fresh on the contract and will only be 1 month behind on their maintenance fees (after that month's rewards are dispersed).&#x20;
 
@@ -126,7 +122,7 @@ We are projecting each miner to be operational for 60 months. Some will last lon
 
 #### WHAT HAPPENS WHEN THE MINERS DIE/FAIL?
 
-When this happens, it's a best-effort attempt to get the most money we can from selling them back to Compass Mining or on a third-party platform. All revenue generated from the selling of a miner is dispersed back into the project according to Fig 3. Miners will inevitably die, hundreds if not thousands of miners will die during this project. That's why we will constantly be buying more miners as we turn 1/3 of monthly rewards back into new purchase orders.&#x20;
+When this happens, it's a best-effort attempt to get the most money we can from selling them back to Compass Mining or on a third-party platform. All revenue generated from the selling of a miner is dispersed back into the project according to Fig 3. Miners will inevitably die, and hundreds, if not thousands, of miners will die during this project. That's why we will constantly be buying more miners as we turn 1/3 of monthly rewards back into new purchase orders.&#x20;
 
 
 
@@ -140,7 +136,7 @@ The entire raffle process is NOT controlled by the owners of the contract in any
 
 * What is VRF?  Chainlink VRF (Verifiable Random Function) is a provably fair and verifiable random number generator (RNG) that enables smart contracts to access random values.
 
-When minting new NFTs, each user can voluntarily choose to enter the Daily Raffle, where 3% of each transaction cost is used to award the Raffle winner. Once 100 people enter the raffle, **a random participant** is selected and will receive the entire raffle fund which will be uploaded to the amount of USDC.e that is allowed to be withdrawn from the contract from that user.&#x20;
+When minting new NFTs, users can voluntarily enter the Daily Raffle, where 3% of each transaction cost is used to award the Raffle winner. Once 100 people enter the raffle, **a random participant** is selected and will receive the entire raffle fund, which will be uploaded to the amount of USDC.e that is allowed to be withdrawn from the contract from that user.&#x20;
 
 
 
@@ -183,3 +179,21 @@ If an owner of a BTC Bull thinks this is a foolish idea, then stay away from the
 Will we eventually have a native token? Yes
 
 There currently isn't a timeline for this addition. However, when the time does arise, all BTC Bull owners will split and be airdropped a portion of the Total Supply.&#x20;
+
+
+
+
+
+## ![](<../../.gitbook/assets/Buddy System.svg>) **THE PARTNER-NETWORK**
+
+The Partner-Network is an onboarding system for new participants in The Ranch Ecosystem. Participation is completely voluntary. Unlike other multi-level marketing and scam-type referral systems, which consist of pyramid structures, tiered referral trees, etc. There is only 1 level of affiliate rewards within The Ranch Ecosystem. Rewards are issued whenever the referred individual mints new BTC Bull NFTs or during the monthly payout of WBTC to NFT holders. 2% of the minting transaction cost will be given to the partner of the referred person. During monthly payouts, 2% of the calculated reward is given to the partner of the referred person. The person set as your partner must own a BTC Bull at that moment to be considered 'active' and receive the benefit.&#x20;
+
+* Do I have to have a partner? No
+* Does not having a partner benefit or hurt me? No, anyone with a partner or without a partner will have 2% deducted during the above transactions. If the partner is in an active state, then it goes to the partner of the referred person; if not, it goes to The Ranch Core Team.
+* Can I switch my partner multiple times? No, once a partner is selected, it is final. &#x20;
+* How do I set a partner? In order to add your own partner, you must enter your partner's wallet address and click the “Update” button. &#x20;
+
+
+
+
+
