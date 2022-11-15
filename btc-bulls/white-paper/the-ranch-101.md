@@ -23,13 +23,13 @@ The Ranch BTC Bulls will not revolve around its own native token by design. The 
 
 ### MINTING NFTS
 
-When a user elects to enter the daily raffle when minting BTC Bull NFTs, 3% of the transaction cost is held for the Daily Raffle, and the user becomes eligible to win the Raffle Drawing when it reaches 100 entries. Opting into the raffle is a manual and voluntary process for the user themselves and only allows participation in that particular drawing.  If a user elects to mint 1 BTC Bull NFT or 10 BTC Bull NFTs and opts to enter the Daily Minting Raffle, they will be entered into the Raffle one single time. A single winner shall receive the entire Daily Raffle amount, and then it is reset. When the Minting Raffle is reset, all users who mint new BTC Bull NFTs are eligible to enter the Raffle, this doesn't matter if it's the first time a user has minted or the user has taken part in previous Minting Raffles.&#x20;
+When a user elects to enter the Minting raffle when minting BTC Bull NFTs, 3% of the transaction cost is held in the Minting Raffle Fund, and the user becomes eligible to win the raffle drawing when it reaches 100 entries. Opting into the raffle is a manual and voluntary process for the user themselves and only allows participation in that particular drawing.  If a user elects to mint 1 BTC Bull NFT or 10 BTC Bull NFTs and opts to enter the Daily Minting Raffle, they will be entered into the raffle one single time. A single winner shall receive the entire Daily Raffle amount, and then it is reset. When the Minting Raffle is reset, all users who mint new BTC Bull NFTs are eligible to enter the Raffle, this doesn't matter if it's the first time a user has minted or the user has taken part in previous Minting Raffles.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (2) (3).png" alt=""><figcaption><p>FIG 1</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption><p>FIG 1</p></figcaption></figure>
 
-When a user does not elect to enter the Minting Raffle, the 3% that would have gone to the Minting Raffle is then passed to the BTC Miners Safe. The user will not be entered into the Minting Raffle during this transaction. Thus, they are not eligible to win it:&#x20;
+When a user does not elect to enter the Minting Raffle, the 3% that would have gone to the Minting Raffle Fund is then passed to the BTC Miners Safe. The user will not be entered into the Minting Raffle during this transaction. Thus, they are not eligible to win it:&#x20;
 
-<figure><img src="../../.gitbook/assets/image (3) (3).png" alt=""><figcaption><p>FIG 2</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>FIG 2</p></figcaption></figure>
 
 ## ![](<../../.gitbook/assets/Compounding Illustration.svg>) MONTHLY BTC MINING REWARDS
 
@@ -41,13 +41,13 @@ All BTC mining efforts will be processed monthly between the 1st and 5th of the 
 
 **2/3** of the monthly reward received will be converted to WBTC and deposited into the BTC Bulls Smart Contract with 10% going back to The Ranch Core Team for continued project growth, security measures, and marketing. The remaining 90% is then dispersed to the owners of the BTC Bulls NFTs in pro-rata format. Using this approach, each NFT is awarded the exact same amount. An address owning 5 NFTs would get 5x more WBTC rewards than a person owning a single NFT.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>FIG 3</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>FIG 3</p></figcaption></figure>
 
 ## ![](<../../.gitbook/assets/Networking (1).svg>) BTC BULL CENTRALITY
 
 Ownership of a BTC BULL is the central part of this project. Other assets will be deployed within the ecosystem, but all assets are tied back to the BTC Bulls. As the project moves forward, there will be other voluntary investment opportunities to take part in that will be paid out in UDSC.e as they are sent back to the BTC BULLS smart contract. Future partnerships with other projects will have baked-in incentives for also be for BTC BULL owners only. When we decide to launch our Native Token of The Ranch, BTC BULL owners will be the only ones receiving airdrops. &#x20;
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>FIG 4</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>FIG 4</p></figcaption></figure>
 
 ## MAINTENANCE FEES
 
