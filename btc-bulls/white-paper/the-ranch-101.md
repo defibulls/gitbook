@@ -2,7 +2,13 @@
 
 ## 10,000 FT VIEW OF 10,000 BTC BULLS
 
-The BTC Bulls community is built around Bitcoin Mining. This project is a hybrid of a MAAS (mining-as-a-service) and a club. The Ranch itself is a community-driven ecosystem; each member is expected to pull their weight for the betterment of the community. The key point of the BTC Bulls is buying an NFT, which are means of buying into a fractionalized BTC mining cluster. The BTC Bulls will serve as the central focus of The Ranch ecosystem. Other animals will join The Ranch, and the reward system of those NFTs tie back to the ownership of the BTC Bulls themselves.&#x20;
+The BTC Bulls community is built around Bitcoin Mining. This project combines a MAAS (mining-as-a-service) and a club. The heart of the ecosystem is buying a BTC Bull NFT, which is means of buying into a fractionalized BTC mining cluster and sharing mining rewards. The BTC Bulls will serve as the central focus of The Ranch ecosystem as the project evolves.&#x20;
+
+## TOTAL SUPPLY AND MINT COST:
+
+The BTC Bulls Community is an NFT collection built on the Polygon Blockchain, with 10,000 BTC Bulls being released in 10 different tiers. Each tier must be bought out completely before the next tier opens, and USDC.e is the token used for all buying in all tiers.&#x20;
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt="Cost breakdown when buying BTC Bulls"><figcaption><p>FIG 0</p></figcaption></figure>
 
 
 
@@ -13,7 +19,7 @@ The Ranch BTC Bulls will not revolve around its own native token by design. The 
 * BTC (BITCOIN)
   * BTC is used as the BTC mining reward token that is received for our mining efforts.&#x20;
 * WBTC (WRAPPED BITCOIN)
-  * WBTC standardizes BITCOIN to the ERC20 format. This allows us to convert BTC to WBTC,  backed 1:1, and allows us to payout out thousands of NFTs within the project.&#x20;
+  * WBTC standardizes BITCOIN to the ERC20 format. This allows us to convert BTC to WBTC,  backed 1:1, and pay out thousands of NFTs within the project.&#x20;
 * USDC.e&#x20;
   * Used to mint the NFTs and also the reward token used in our minting reward system, mint raffle drawings, and our other ecosystem animal NFTs that tie back to the BTC Bulls to reward the owners.&#x20;
 * MATIC &#x20;
@@ -29,7 +35,7 @@ When a user elects to enter the Minting raffle when minting BTC Bull NFTs, 3% of
 
 When a user does not elect to enter the Minting Raffle, the 3% that would have gone to the Minting Raffle Fund is then passed to the BTC Miners Safe. The user will not be entered into the Minting Raffle during this transaction. Thus, they are not eligible to win it:&#x20;
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>FIG 2</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>FIG 2</p></figcaption></figure>
 
 ## ![](<../../.gitbook/assets/Compounding Illustration.svg>) MONTHLY BTC MINING REWARDS
 
@@ -47,7 +53,7 @@ All BTC mining efforts will be processed monthly between the 1st and 5th of the 
 
 Ownership of a BTC BULL is the central part of this project. Other assets will be deployed within the ecosystem, but all assets are tied back to the BTC Bulls. As the project moves forward, there will be other voluntary investment opportunities to take part in that will be paid out in UDSC.e as they are sent back to the BTC BULLS smart contract. Future partnerships with other projects will have baked-in incentives for also be for BTC BULL owners only. When we decide to launch our Native Token of The Ranch, BTC BULL owners will be the only ones receiving airdrops. &#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>FIG 4</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (3).png" alt=""><figcaption><p>FIG 4</p></figcaption></figure>
 
 ## MAINTENANCE FEES
 
