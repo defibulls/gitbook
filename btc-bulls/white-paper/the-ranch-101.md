@@ -4,11 +4,36 @@
 
 The BTC Bulls community is built around Bitcoin Mining. This project combines a MAAS (mining-as-a-service) and a club. The heart of the ecosystem is buying a BTC Bull NFT, which is means of buying into a fractionalized BTC mining cluster and sharing mining rewards. The BTC Bulls will serve as the central focus of The Ranch ecosystem as the project evolves.&#x20;
 
+## BITCOIN MINING
+
+<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption><p>FIG 0</p></figcaption></figure>
+
+Mining that benefits the environment and increases profitability; DEAL!&#x20;
+
+How can we mine BITCOIN and help the environment and be as profitable as we can? Flare Gas!&#x20;
+
+Mining BITCOIN using flare gas is hugely beneficial for all involved:&#x20;
+
+* The Ranch gets the cheapest electric rates possible. Lower than hydro and on-grid sources. &#x20;
+* Consuming flare gas in a generator to mine Bitcoin is a cleaner process than simply letting it burn in the air.&#x20;
+
+Still, have questions?&#x20;
+
+* &#x20;What is flare gas?&#x20;
+* "Why is there flare gas?"&#x20;
+* How does this work?&#x20;
+
+The video link below from SPACE DESIGN WAREHOUSE explains it much better than the text will and also gives you an introduction to who we will be hosting with. The Ranch is partnering with 'Musk Miners' to host all of our Bitcoin Miners in various flare gas locations.  &#x20;
+
+[https://www.youtube.com/watch?v=90ToBZ0PNqc\&t=228s](https://www.youtube.com/watch?v=90ToBZ0PNqc\&t=228s)
+
+
+
 ## TOTAL SUPPLY AND MINT COST:
 
 The BTC Bulls Community is an NFT collection built on the Polygon Blockchain, with 10,000 BTC Bulls being released in 10 different tiers. Each tier must be bought out completely before the next tier opens, and USDC.e is the token used for all buying in all tiers.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt="Cost breakdown when buying BTC Bulls"><figcaption><p>FIG 0</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (3).png" alt="Cost breakdown when buying BTC Bulls"><figcaption><p>FIG 0</p></figcaption></figure>
 
 
 
@@ -35,7 +60,9 @@ When a user elects to enter the Minting raffle when minting BTC Bull NFTs, 3% of
 
 When a user does not elect to enter the Minting Raffle, the 3% that would have gone to the Minting Raffle Fund is then passed to the BTC Miners Safe. The user will not be entered into the Minting Raffle during this transaction. Thus, they are not eligible to win it:&#x20;
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>FIG 2</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (2).png" alt=""><figcaption><p>FIG 2</p></figcaption></figure>
+
+
 
 ## ![](<../../.gitbook/assets/Compounding Illustration.svg>) MONTHLY BTC MINING REWARDS
 
@@ -47,13 +74,13 @@ All BTC mining efforts will be processed monthly between the 1st and 5th of the 
 
 **2/3** of the monthly reward received will be converted to WBTC and deposited into the BTC Bulls Smart Contract with 10% going back to The Ranch Core Team for continued project growth, security measures, and marketing. The remaining 90% is then dispersed to the owners of the BTC Bulls NFTs in pro-rata format. Using this approach, each NFT is awarded the exact same amount. An address owning 5 NFTs would get 5x more WBTC rewards than a person owning a single NFT.
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>FIG 3</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>FIG 3</p></figcaption></figure>
 
 ## ![](<../../.gitbook/assets/Networking (1).svg>) BTC BULL CENTRALITY
 
 Ownership of a BTC BULL is the central part of this project. Other assets will be deployed within the ecosystem, but all assets are tied back to the BTC Bulls. As the project moves forward, there will be other voluntary investment opportunities to take part in that will be paid out in UDSC.e as they are sent back to the BTC BULLS smart contract. Future partnerships with other projects will have baked-in incentives for also be for BTC BULL owners only. When we decide to launch our Native Token of The Ranch, BTC BULL owners will be the only ones receiving airdrops. &#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (3).png" alt=""><figcaption><p>FIG 4</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>FIG 4</p></figcaption></figure>
 
 ## MAINTENANCE FEES
 
@@ -136,7 +163,7 @@ When this happens, it's a best-effort attempt to get the most money we can from 
 
 
 
-![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (5) (2).png>)
 
 The entire raffle process is NOT controlled by the owners of the contract in any way, as we are utilizing Chainlinks VRFv2.&#x20;
 
