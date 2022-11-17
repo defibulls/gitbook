@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/Farm.png
+coverY: 72
+---
+
 # OPERATIONS 101
 
 ## 10,000 FT VIEW OF 10,000 BTC BULLS

@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/Farm.png
+coverY: 289.6
+---
+
 # VISION
 
 ## The Ranch:&#x20;
