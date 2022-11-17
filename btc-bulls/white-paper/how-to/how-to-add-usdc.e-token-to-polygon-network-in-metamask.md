@@ -1,4 +1,4 @@
-# How to Add USDC Token to Polygon Network in MetaMask
+# How to Add USDC.e Token to Polygon Network in MetaMask
 
 
 
