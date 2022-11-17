@@ -20,7 +20,7 @@ Mining Bitcoin using flare gas is hugely beneficial for all involved:&#x20;
 Still, have questions?&#x20;
 
 * &#x20;What is flare gas?&#x20;
-* "Why is there flare gas?"&#x20;
+* Why is there flare gas?
 * How does this work?&#x20;
 
 The video link below from SPACE DESIGN WAREHOUSE explains it much better than the text and gives you an introduction to who we will be hosting with. The Ranch is partnering with 'Musk Miners' to host all of our Bitcoin Miners in various flare gas locations.  &#x20;
@@ -31,7 +31,7 @@ The video link below from SPACE DESIGN WAREHOUSE explains it much better than th
 
 ## TOTAL SUPPLY AND MINT COST:
 
-The BTC Bulls Community is an NFT collection built on the Polygon Blockchain, with 10,000 BTC Bulls being released in 10 different tiers. Each tier must be bought out completely before the next tier opens, and USDC.e is the token used for all buying in all tiers.&#x20;
+The BTC Bulls Community is an NFT collection built on the Polygon Blockchain, with 10,000 BTC Bulls being released in 10 different tiers. Each tier must be bought out completely before the next tier opens. USDC.e is the token used for purchasing in all tiers.&#x20;
 
 <figure><img src="../../.gitbook/assets/image (1) (3).png" alt="Cost breakdown when buying BTC Bulls"><figcaption><p>FIG 0</p></figcaption></figure>
 
@@ -76,11 +76,7 @@ All BTC mining efforts will be processed monthly between the 1st and 5th of the 
 
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>FIG 3</p></figcaption></figure>
 
-## ![](<../../.gitbook/assets/Networking (1).svg>) BTC BULL CENTRALITY
-
-Ownership of a BTC BULL is the central part of this project. Other assets will be deployed within the ecosystem, but all assets are tied back to the BTC Bulls. As the project moves forward, there will be other voluntary investment opportunities to take part in that will be paid out in UDSC.e as they are sent back to the BTC BULLS smart contract. Future partnerships with other projects will have baked-in incentives for also be for BTC BULL owners only. When we decide to launch our Native Token of The Ranch, BTC BULL owners will be the only ones receiving airdrops. &#x20;
-
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>FIG 4</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (4).png" alt=""><figcaption><p>FIG 4</p></figcaption></figure>
 
 ## MAINTENANCE FEES
 
@@ -138,7 +134,7 @@ $185,000 - $150,000 == $30,000 left to cover&#x20;
 
 In this instance, we would have to convert $30,000 of our mined BTC into USDT and pay for the hosting fees. The rest then gets dispersed as rewards for the month, according to FIG 3.&#x20;
 
-## HOW DOES A USER PAY THEIR MAINTENANCE FEES?
+#### HOW DOES A USER PAY THEIR MAINTENANCE FEES?
 
 Each transaction will go through this logic process when paying monthly maintenance fees. If a user has enough USDC.e on the contract, the maintenance fee amount will be deducted from their USDC.e balance when paying the maintenance fees. Otherwise, each user will need to pay the maintenance fees from their own personal wallet using USDC.e
 
@@ -146,7 +142,7 @@ Each transaction will go through this logic process when paying monthly maintena
 
 ## HOSTING SAFE
 
-As noted in the Minting figures (Fig 1 and Fig 2), 5% of each minting transaction will fund the HOSTING SAFE. This money is reserved for hosting fee invoices.  When the project starts, the first month's invoices will be paid using this HOSTING SAFE balance. Each month when users pay their maintenance fees, that money goes to replenish the HOSTING SAFE. &#x20;
+As noted in the Minting figures (FIG 1 and FIG 2), 5% of each minting transaction will fund the HOSTING SAFE. This money is kept in the HOSTING SAFE multi-sig wallet to pay for hosting fee invoices. Each month when users pay their maintenance fees, that money goes to replenish the HOSTING SAFE balance. &#x20;
 
 A very important concept and design of the project revolves around the HOSTING SAFE and what would happen if the HOSTING SAFE were to run out of money. As every user is required to pay their maintenance fees before being allowed to withdraw their rewards, this should take care of itself. If we are still in a deficit, this problem will likely crop up if enough users are not paying their maintenance fees over time. If this scenario does play out, we will have to use a portion of our monthly mining rewards to cover the invoice. The Ranch has simple ground rules to comply with; pay your fees to help yourself and the community alike. There is **NO** plan to punish all holders of BTC Bulls if this were to happen. This is why there is a liquidation function in the contract.&#x20;
 
@@ -154,37 +150,41 @@ A very important concept and design of the project revolves around the HOSTING S
 
 <figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption><p>FIG 6</p></figcaption></figure>
 
-When funds are deposited into the smart contract and BTC BULL NFTs are rewarded in the pro-rata format, variables and mappings are updated on the contract. If a user is 4 months behind on paying monthly maintenance fees, that user will get liquidated. In this project, that means that the WBTC contract balance for that user will be deducted from them and sent to the HOSTING SAFE. This is the WBTC that will be used to pay invoices in the absence of users paying maintenance fees. If this does happen to a user, the months behind and total maintenance fees due variables are reset back to zero. The next month will be as if that user has started fresh on the contract and will only be 1 month behind on their maintenance fees (after that month's rewards are dispersed).&#x20;
+When funds are deposited into the smart contract and BTC BULL NFTs are rewarded in the pro-rata format, variables and mappings are updated on the contract. If a user is 4 months behind on paying monthly maintenance fees, that user will get liquidated. In this project, that means that the WBTC contract balance for that user will be deducted from them and sent to the HOSTING SAFE. This is the WBTC that will be used to pay invoices in the absence of users paying maintenance fees. If this does happen to a user, the maintenance\_fee\_standing and total\_maintenance\_fees\_due variables are reset back to zero. The next month will be as if that user has started fresh on the contract.
 
-* The key difference between our liquidation structure and other projects, such as StrongBlock, is if a user gets behind and simply doesn't pay the maintenance fees. They wouldn't lose everything as you would have in StrongBlock. In our ecosystem, the user would simply forfeit the WBTC in their account on our platform, and then they are reset back to good standing, ready to redeem themselves.&#x20;
+* The key difference between our liquidation structure and other projects, such as StrongBlock, is if a user gets behind and simply doesn't pay the maintenance fees. They wouldn't lose everything as you would have in StrongBlock. In our ecosystem, the user would simply forfeit the current WBTC in their account on our contract, and then they are reset back to good standing, ready to redeem themselves.&#x20;
+
+
+
+## ![](<../../.gitbook/assets/Networking (1).svg>) BTC BULL CENTRALITY
+
+Ownership of a BTC BULL is the central part of this project. Other assets will be deployed within the ecosystem, but all assets are tied back to the BTC Bulls. Future partnerships with other projects will have incentives for BTC Bull owners only. When we launch our native token of The Ranch, BTC Bull owners will be the only ones receiving them. &#x20;
+
+Any random gifts from any Core Team members will only be dispersed to individuals holding a BTC Bull NFT.&#x20;
 
 
 
 ## HOW LONG WILL THE BTC BULLS LAST?&#x20;
 
-
-
-We are setting ourselves up to mine Bitcoin until the very last possible day. Each BTC Bull will be working on The Ranch until that day happens in the year 2040. At that point, each BTC Bull will eventually lose its mission of mining BTC. As with everything that happens on The Ranch, we will pivot and find another use case for the Bulls. They are beloved in our community and will not be abandoned.
+Each BTC Bull will be working on The Ranch until that day happens in the year 2040. At that point, each BTC Bull will eventually lose its mission of mining BTC. As with everything that happens on The Ranch, we will pivot and find another use case for the Bulls. They are beloved in our community and will not be abandoned.
 
 ![The year 2040 will bring an end to BTC mining and each BTC Bull will pivot to another assignment. ](<../../.gitbook/assets/image (9) (1).png>)
 
 
 
-## HOW LONG DOES EACH MINER LAST AND WHAT IS DONE WHEN THEY FAIL?
+## HOW LONG DOES EACH MINER LAST, AND WHAT IS DONE WHEN THEY FAIL?
 
 
 
-We are projecting each miner to be operational for 60 months. Some will last longer, and others will fail before that time. When designing the project, we had two options. (1) Take 100% of all the mining rewards coming from Compass Mining and disperse those to the community or (2) Take a percentage of the mining Rewards Monthly and continue buying more miners for the project. Had we gone with option 1, the BTC Bulls revenue stream would die around 60 months. The goal of the project is to mine Bitcoin until the very end. Turning back a portion of the monthly profits to buy more miners is how we are going to do that. We are going to use 1/3 of all monthly rewards to purchase more miners. 2/3 of that monthly reward amount is then dispersed into the contract and distributed according to Fig 3 above. &#x20;
+We are projecting each miner to be operational for 60 months. Some will last longer, and others will fail before that time. When designing the project, we had two options. (1) Take 100% of all the mining rewards and disperse those to the community, or (2) Take a percentage of the mining Rewards Monthly and continue buying more miners for the project. Had we gone with option 1, the BTC Bulls' revenue stream would die around 60 months. The goal of the project is to mine Bitcoin until the very end. Turning back a portion of the monthly profits to buy more miners is how we are going to do that. We are going to use 1/3 of all monthly rewards to purchase more miners. 2/3 of that monthly mined amount is then dispersed into the contract and distributed according to FIG 3.&#x20;
 
 #### WHAT HAPPENS WHEN THE MINERS DIE/FAIL?
 
-When this happens, it's a best-effort attempt to get the most money we can from selling them back to Compass Mining or on a third-party platform. All revenue generated from the selling of a miner is dispersed back into the project according to Fig 3. Miners will inevitably die, and hundreds, if not thousands, of miners will die during this project. That's why we will constantly be buying more miners as we turn 1/3 of monthly rewards back into new purchase orders.&#x20;
+When a miner fails, most likely, it will be a hashboard or power supply issue. If that is the case, the hosting staff will fix those miners on-site, and we will pay for fixes with the HOSTING SAFE. If it's truly the end of life for a miner because it's not worth repairing, it's a best-effort attempt to get the most money we can from selling them. All revenue generated from selling a miner is dispersed back into the project, according to FIG 3. Miners will inevitably die, and hundreds, if not thousands, of miners will die during this project. That's why we will constantly be buying more miners as we turn 1/3 of monthly rewards back into new purchase orders.&#x20;
 
 
 
 ## ![](<../../.gitbook/assets/Raffle Drawing Machine.svg>) MINTING RAFFLE
-
-
 
 ![](<../../.gitbook/assets/image (5) (2).png>)
 
@@ -200,17 +200,15 @@ When minting new NFTs, users can voluntarily enter the Daily Raffle, where 3% of
 
 #### WBTC DEPOSITS INTO THE CONTRACT:&#x20;
 
-During the first couple days of each month, between the 1st to 5th day of each month, 2/3 of the Bitcoin rewards will be withdrawn from the mining facility and converted to WBTC. When the WBTC is deposited into the contract and dispersed to NFTs owners, All WBTC withdraws will be paused during this short amount of time. While the contract updates every account during this process, it is important to make sure all accounts are static and not in the middle of any transaction.&#x20;
+During the first couple days of each month, between the 1st to 5th day, 2/3 of the Bitcoin rewards will be withdrawn from the mining facility and converted to WBTC. When the WBTC is deposited into the contract and dispersed to BTC Bull owners, All WBTC withdraws will be paused during this short amount of time. While the contract updates every account during this process, it is important to ensure all accounts are static and not in the middle of any transactions.&#x20;
 
-#### MINTING NEW NFTS
+#### DURING THE MINTING RAFFLE
 
 During the Minting Raffle, The minting function will pause and no longer allow any new mints for a few minutes. This is to allow the Minting Raffle function to work correctly without any data changing mid-process.  &#x20;
 
 
 
 
-
-&#x20;
 
 ## ADDITIONAL REVENUE STREAMS
 
@@ -238,8 +236,6 @@ There currently isn't a timeline for this addition. However, when the time does 
 
 
 
-
-
 ## ![](<../../.gitbook/assets/Buddy System.svg>) **THE PARTNER-NETWORK**
 
 The Partner-Network is an onboarding system for new participants in The Ranch Ecosystem. Participation is completely voluntary. Unlike other multi-level marketing and scam-type referral systems, which consist of pyramid structures, tiered referral trees, etc. There is only 1 level of affiliate rewards within The Ranch Ecosystem. Rewards are issued whenever the referred individual mints new BTC Bull NFTs or during the monthly payout of WBTC to NFT holders. 2% of the minting transaction cost will be given to the partner of the referred person. During monthly payouts, 2% of the calculated reward is given to the partner of the referred person. The person set as your partner must own a BTC Bull at that moment to be considered 'active' and receive the benefit.&#x20;
@@ -247,7 +243,11 @@ The Partner-Network is an onboarding system for new participants in The Ranch Ec
 * Do I have to have a partner? No
 * Does not having a partner benefit or hurt me? No, anyone with a partner or without a partner will have 2% deducted during the above transactions. If the partner is in an active state, then it goes to the partner of the referred person; if not, it goes to The Ranch Core Team.
 * Can I switch my partner multiple times? No, once a partner is selected, it is final. &#x20;
-* How do I set a partner? In order to add your own partner, you must enter your partner's wallet address and click the “Update” button. &#x20;
+*   How do I set a partner? Once logged into the website, under the "GRANARY" tab, there is a 'BUDDY ADDRESS" section. Click the pencil icon and update the address with your desired partner. This is a transaction with the contract, so you will have to approve this through MetaMask.&#x20;
+
+
+
+    <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 
 
