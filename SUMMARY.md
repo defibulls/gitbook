@@ -19,4 +19,4 @@
     * [How to Add Polygon (MATIC) Network to MetaMask](btc-bulls/white-paper/how-to/how-to-add-polygon-matic-network-to-metamask.md)
     * [How to Add USDC.e Token to Polygon Network in MetaMask](btc-bulls/white-paper/how-to/how-to-add-usdc.e-token-to-polygon-network-in-metamask.md)
   * [AUDIT](btc-bulls/audit.md)
-  * [Projections](btc-bulls/handbook/projections.md)
+  * [PROJECTIONS](btc-bulls/handbook/projections.md)
