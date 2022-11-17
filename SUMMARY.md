@@ -10,13 +10,13 @@
 
 ## BTC Bulls
 
-* [📓 WHITE-PAPER](btc-bulls/white-paper/README.md)
-  * [VISION](btc-bulls/white-paper/vision.md)
-  * [COLLECTION](btc-bulls/white-paper/collection.md)
-  * [THE RANCH 101](btc-bulls/white-paper/the-ranch-101.md)
-    * [Projections](btc-bulls/white-paper/the-ranch-101/projections.md)
-  * [FAQ](btc-bulls/white-paper/faq.md)
-  * [HOW TO](btc-bulls/white-paper/how-to/README.md)
-    * [How to Add Polygon (MATIC) Network to MetaMask](btc-bulls/white-paper/how-to/how-to-add-polygon-matic-network-to-metamask.md)
-    * [How to Add USDC.e Token to Polygon Network in MetaMask](btc-bulls/white-paper/how-to/how-to-add-usdc.e-token-to-polygon-network-in-metamask.md)
-  * [AUDIT](btc-bulls/audit.md)
+* [📓 HANDBOOK](btc-bulls/handbook/README.md)
+  * [VISION](btc-bulls/handbook/vision.md)
+  * [COLLECTION](btc-bulls/handbook/collection.md)
+  * [OPERATIONS 101](btc-bulls/handbook/operations-101/README.md)
+    * [Projections](btc-bulls/handbook/operations-101/projections.md)
+  * [FAQ](btc-bulls/handbook/faq.md)
+  * [HOW TO](btc-bulls/handbook/how-to/README.md)
+    * [How to Add Polygon (MATIC) Network to MetaMask](btc-bulls/handbook/how-to/how-to-add-polygon-matic-network-to-metamask.md)
+    * [How to Add USDC.e Token to Polygon Network in MetaMask](btc-bulls/handbook/how-to/how-to-add-usdc.e-token-to-polygon-network-in-metamask.md)
+  * [AUDIT](btc-bulls/handbook/audit.md)
