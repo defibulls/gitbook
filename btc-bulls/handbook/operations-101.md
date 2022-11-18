@@ -187,7 +187,7 @@ The entire raffle process is NOT controlled by the owners of the contract in any
 
 #### MINTING RAFFLE
 
-When minting new NFTs, users can voluntarily enter the Daily Raffle, where 3% of each transaction cost is used to award the Raffle winner. Once 100 people enter the raffle, **a random participant** is selected and will receive the entire raffle fund, which will be uploaded to the amount of USDC.e that is allowed to be withdrawn from the contract from that user.&#x20;
+When minting new NFTs, users can voluntarily enter the Minting Raffle, where 3% of each transaction cost is used to award the Raffle winner. Once 100 people enter the raffle, **a random participant** is selected and will receive the entire raffle fund, which will be uploaded to the amount of USDC.e that is allowed to withdraw from the contract from that user.&#x20;
 
 #### ROYALTY RAFFLE
 
