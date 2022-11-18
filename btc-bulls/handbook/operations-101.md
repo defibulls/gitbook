@@ -191,7 +191,7 @@ When minting new NFTs, users can voluntarily enter the Minting Raffle, where 3% 
 
 #### ROYALTY RAFFLE
 
-There will be a 10% royalty on the sale when selling BTC Bulls on secondary marketplaces.  2.5% of that gets paid to the marketplace as a fee. The remaining 7.5% will be split 50/50.&#x20;
+There will be a 10% royalty fee when selling BTC Bulls on secondary marketplaces.  2.5% of that gets paid to the marketplace as a fee. The remaining 7.5% will be split 50/50.&#x20;
 
 * **50%** going back to The Ranch for project development and project-related costs.&#x20;
 * **50%** goes into our monthly Royalty Raffle. Each month, this 50% will be divided equally and dispersed to 3 BTC Bulls. This amount will be uploaded into the USDC.e balance on the contract for those 3 BTC Bulls owners.&#x20;
@@ -210,24 +210,22 @@ This is one of the most important parts of The Ranch Ecosystem. There will be no
 
 * One such project coming soon would be adding Kangaroos to The Ranch. These will be used to purchase Kadena Miners. For example, these Kangaroo NFTs could sell for $100
 
-If an owner of a BTC Bull thinks this is a great idea, then, by all means, take part in it and hopefully enjoy the upside from our investment.&#x20;
-
-If an owner of a BTC Bull thinks this is a foolish idea, then stay away from them. All money going to purchase these Miners will stem from the sale of Kangaroo NFTs (TRKK). The success or failure of these NFTs will have no bearing on those who do not participate. That is the foundational reason no voting will be needed. If you like the idea, jump in. Think it's not for you, stay away.&#x20;
+If an owner of a BTC Bull thinks this is a great idea, then, by all means, take part in it and hopefully enjoy the upside from the investment. On the flip side of that, If an owner of a BTC Bull thinks this is a foolish idea, then I stay away from them. All money going to purchase these Miners will stem from the sale of Kangaroo NFTs (TRKK). The success or failure of these TRKK NFTs will have no bearing on those who do not participate. That is the foundational reason no voting will be needed. If you like the idea, jump in. Think it's not for you, stay away.&#x20;
 
 
 
-## ![](<../../.gitbook/assets/Buddy System.svg>) **THE PARTNER-NETWORK**
+## ![](<../../.gitbook/assets/Buddy System.svg>) **THE BUDDY SYSTEM**
 
-The Partner-Network is an onboarding system for new participants in The Ranch Ecosystem. Participation is completely voluntary. Unlike other multi-level marketing and scam-type referral systems, which consist of pyramid structures, tiered referral trees, etc. There is only 1 level of affiliate rewards within The Ranch Ecosystem. Rewards are issued whenever the referred individual mints new BTC Bull NFTs or during the monthly payout of WBTC to NFT holders. 2% of the minting transaction cost will be given to the partner of the referred person. During monthly payouts, 2% of the calculated reward is given to the partner of the referred person. The person set as your partner must own a BTC Bull at that moment to be considered 'active' and receive the benefit.&#x20;
+The Buddy System is an onboarding system for new participants in The Ranch Ecosystem. Participation is completely voluntary. Unlike other multi-level marketing and scam-type referral systems, which consist of pyramid structures, tiered referral trees, etc. There is only 1 level of affiliate rewards within The Ranch Ecosystem. Rewards are issued whenever the referred individual mints new BTC Bull NFTs or during the monthly payout of WBTC to NFT holders. 2% of the minting transaction cost will be given to the Buddy of the referred person. During monthly payouts, 2% of the calculated reward is given to the Buddy of the referred person. 2% of the winning Royalty Raffle amount will go to the Buddy of the referred person. The person set as your partner must own a BTC Bull at that moment to be considered 'active' and receive the benefit.&#x20;
 
-* Do I have to have a partner? No
-* Does not having a partner benefit or hurt me? No, anyone with a partner or without a partner will have 2% deducted during the above transactions. If the partner is in an active state, then it goes to the partner of the referred person; if not, it goes to The Ranch Core Team.
-* Can I switch my partner multiple times? No, once a partner is selected, it is final. &#x20;
-*   How do I set a partner? Once logged into the website, under the "GRANARY" tab, there is a 'BUDDY ADDRESS" section. Click the pencil icon and update the address with your desired partner. This is a transaction with the contract, so you will have to approve this through MetaMask.&#x20;
+* Do I have to have a Buddy? No
+* Does not having a Buddy benefit or hurt me? No, anyone with a Buddy or without a Buddy will have 2% deducted during the transactions. If the Buddy is in an active state, then it goes to the Buddy of the referred person; if not, it goes to The Ranch Core Team.
+* Can I switch my Buddy multiple times? No, once a Buddy is selected, it is final. &#x20;
+*   How do I set up my Buddy address? Once logged into the website, under the "GRANARY" tab, there is a 'BUDDY ADDRESS" section. Click the pencil icon and update the address with your desired partner. This is a transaction with the contract, so you will have to approve this through MetaMask.&#x20;
 
 
 
-    <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>FIG 7</p></figcaption></figure>
 
 ## OUR NATIVE TOKEN
 
