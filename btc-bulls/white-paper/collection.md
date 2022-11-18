@@ -14,9 +14,8 @@ coverY: -446.4
 * First dibs on future project partnerships
 * Receive an airdrop of our Native Token when it launches.
 * &#x20;22 BTC Bulls are considered 'enlightened' and thus the rarest!&#x20;
-  * 'Enlightened' BTC Bull attribute is revealed once the whole collection is minted.&#x20;
+  * 'Enlightened' BTC Bulls attribute is revealed once the whole collection is minted.&#x20;
   * Once revealed, 'Enlightened' BTC Bulls are maintenance fee exempt moving forward.&#x20;
+* Initial Raffle opportunity upon minting a BTC Bull and long-term raffle opportunities through Royalty Raffle.&#x20;
 
-
-
-_Lifetime means as long the project sustains itself and/or until the year 2040 when we can no longer mine bitcoin._  &#x20;
+_Lifetime means as long the project sustains itself and/or until the year 2040, when we can no longer mine bitcoin._  &#x20;
