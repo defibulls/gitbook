@@ -161,27 +161,9 @@ When funds are deposited into the smart contract and BTC BULL NFTs are rewarded 
 
 
 
-## ![](<../../.gitbook/assets/Networking (1).svg>) BTC BULL CENTRALITY
-
-Ownership of a BTC BULL is the central part of this project. Other assets will be deployed within the ecosystem, but all assets are tied back to the BTC Bulls. Future partnerships with other projects will have incentives for BTC Bull owners only. When we launch our native token of The Ranch, BTC Bull owners will be the only ones receiving them. &#x20;
-
-Any random gifts from any Core Team members will only be dispersed to individuals holding a BTC Bull NFT.&#x20;
-
-
-
-## HOW LONG WILL THE BTC BULLS LAST?&#x20;
-
-Each BTC Bull will be working on The Ranch until that day happens in the year 2040. At that point, each BTC Bull will eventually lose its mission of mining BTC. As with everything that happens on The Ranch, we will pivot and find another use case for the Bulls. They are beloved in our community and will not be abandoned.
-
-![The year 2040 will bring an end to BTC mining and each BTC Bull will pivot to another assignment. ](<../../.gitbook/assets/image (9) (1).png>)
-
-
-
 ## HOW LONG DOES EACH MINER LAST, AND WHAT IS DONE WHEN THEY FAIL?
 
-
-
-We are projecting each miner to be operational for 60 months. Some will last longer, and others will fail before that time. When designing the project, we had two options. (1) Take 100% of all the mining rewards and disperse those to the community, or (2) Take a percentage of the mining Rewards Monthly and continue buying more miners for the project. Had we gone with option 1, the BTC Bulls' revenue stream would die around 60 months. The goal of the project is to mine Bitcoin until the very end. Turning back a portion of the monthly profits to buy more miners is how we are going to do that. We are going to use 1/3 of all monthly rewards to purchase more miners. 2/3 of that monthly mined amount is then dispersed into the contract and distributed according to FIG 3.&#x20;
+We are projecting each miner to be operational for 60 months. Some will last longer, and others will fail before that time. When designing the project, we had two options. (1) Take 100% of all the mining rewards and disperse those to the community, or (2) Take a percentage of the mining Rewards Monthly and continue buying more miners for the project. Had we gone with option 1, the BTC Bulls' revenue stream would die around 60 months. The goal of the project is to mine Bitcoin until the very end. Turning back a portion of the monthly profits to buy more miners is how we are going to do that. We are going to use 1/3 of all monthly rewards to purchase more miners. 2/3 of that monthly mined amount is then dispersed into the contract and distributed according to FIG 3.
 
 #### WHAT HAPPENS WHEN THE MINERS DIE/FAIL?
 
@@ -189,7 +171,13 @@ When a miner fails, most likely, it will be a hashboard or power supply issue. I
 
 
 
-## ![](<../../.gitbook/assets/Raffle Drawing Machine.svg>) MINTING RAFFLE
+## ![](<../../.gitbook/assets/Networking (1).svg>) BTC BULL CENTRALITY
+
+Ownership of a BTC BULL is the central part of this project. Other assets will be deployed within the ecosystem, but all assets are tied back to the BTC Bulls. Future partnerships with other projects will have incentives for BTC Bull owners only. When we launch our native token of The Ranch, BTC Bull owners will be the only ones receiving them. &#x20;
+
+All Royalty Raffles only include those who own a BTC Bull.&#x20;
+
+## ![](<../../.gitbook/assets/Raffle Drawing Machine.svg>) RAFFLE
 
 ![](<../../.gitbook/assets/image (5) (2).png>)
 
@@ -197,21 +185,18 @@ The entire raffle process is NOT controlled by the owners of the contract in any
 
 * What is VRF?  Chainlink VRF (Verifiable Random Function) is a provably fair and verifiable random number generator (RNG) that enables smart contracts to access random values.
 
+#### MINTING RAFFLE
+
 When minting new NFTs, users can voluntarily enter the Daily Raffle, where 3% of each transaction cost is used to award the Raffle winner. Once 100 people enter the raffle, **a random participant** is selected and will receive the entire raffle fund, which will be uploaded to the amount of USDC.e that is allowed to be withdrawn from the contract from that user.&#x20;
 
+#### ROYALTY RAFFLE
 
+There will be a 10% royalty on the sale when selling BTC Bulls on secondary marketplaces.  2.5% of that gets paid to the marketplace as a fee. The remaining 7.5% will be split 50/50.&#x20;
 
-## PAUSING OF THE CONTRACT:&#x20;
+* **50%** going back to The Ranch for project development and project-related costs.&#x20;
+* **50%** goes into our monthly Royalty Raffle. Each month, this 50% will be divided equally and dispersed to 3 BTC Bulls. This amount will be uploaded into the USDC.e balance on the contract for those 3 BTC Bulls owners.&#x20;
 
-#### WBTC DEPOSITS INTO THE CONTRACT:&#x20;
-
-During the first couple days of each month, between the 1st to 5th day, 2/3 of the Bitcoin rewards will be withdrawn from the mining facility and converted to WBTC. When the WBTC is deposited into the contract and dispersed to BTC Bull owners, All WBTC withdraws will be paused during this short amount of time. While the contract updates every account during this process, it is important to ensure all accounts are static and not in the middle of any transactions.&#x20;
-
-#### DURING THE MINTING RAFFLE
-
-During the Minting Raffle, The minting function will pause and no longer allow any new mints for a few minutes. This is to allow the Minting Raffle function to work correctly without any data changing mid-process.  &#x20;
-
-
+Our community will be filled with holders with long-term mindsets, but there will always be those who need to sell for liquidity and/or profit opportunities. Looking at what other projects have done in the past, if we get anywhere close to a quarter of the numbers those projects hit, these raffle amounts have the potential to be special.
 
 
 
@@ -221,21 +206,13 @@ There **WILL** be additional revenue opportunities within The Ranch.
 
 * Will BTC Bull owners be able to vote on them? NO
 
-This is one of the most important parts of The Ranch Ecosystem. There will be no voting for projects to see if the majority want to take part in them. As with all things, there will be good and bad investments along the way. The important part for us is that each additional idea that comes about will be 100% optional. These additional revenue streams will also come in the form of other Animals that live within The Ranch.&#x20;
+This is one of the most important parts of The Ranch Ecosystem. There will be no voting for projects to see if the majority want to participate. As with all things, there will be good and bad investments along the way. The important part for us is that each additional idea that comes about will be 100% optional. These additional revenue streams will also come from other Animals that live within The Ranch.&#x20;
 
 * One such project coming soon would be adding Kangaroos to The Ranch. These will be used to purchase Kadena Miners. For example, these Kangaroo NFTs could sell for $100
 
 If an owner of a BTC Bull thinks this is a great idea, then, by all means, take part in it and hopefully enjoy the upside from our investment.&#x20;
 
 If an owner of a BTC Bull thinks this is a foolish idea, then stay away from them. All money going to purchase these Miners will stem from the sale of Kangaroo NFTs (TRKK). The success or failure of these NFTs will have no bearing on those who do not participate. That is the foundational reason no voting will be needed. If you like the idea, jump in. Think it's not for you, stay away.&#x20;
-
-
-
-## OUR NATIVE TOKEN
-
-Will we eventually have a native token? Yes
-
-There currently isn't a timeline for this addition. However, when the time does arise, all BTC Bull owners will split and be airdropped a portion of the Total Supply.&#x20;
 
 
 
@@ -251,6 +228,22 @@ The Partner-Network is an onboarding system for new participants in The Ranch Ec
 
 
     <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+## OUR NATIVE TOKEN
+
+Will we eventually have a native token? Yes
+
+There currently isn't a timeline for this addition. However, when the time does arise, all BTC Bull owners will split and be airdropped a portion of the Total Supply.&#x20;
+
+## PAUSING OF THE CONTRACT:&#x20;
+
+#### WBTC DEPOSITS INTO THE CONTRACT:&#x20;
+
+During the first couple days of each month, between the 1st to 5th day, 2/3 of the Bitcoin rewards will be withdrawn from the mining facility and converted to WBTC. When the WBTC is deposited into the contract and dispersed to BTC Bull owners, All WBTC withdraws will be paused during this short amount of time. While the contract updates every account during this process, it is important to ensure all accounts are static and not in the middle of any transactions.&#x20;
+
+#### DURING THE MINTING RAFFLE
+
+During the Minting Raffle, The minting function will pause and no longer allow any new mints for a few minutes. This is to allow the Minting Raffle function to work correctly without any data changing mid-process.  &#x20;
 
 
 
