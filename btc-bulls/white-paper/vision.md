@@ -9,7 +9,7 @@ coverY: 289.6
 
 #### First and Foremost, if this project doesn't provide value to the participants then this project is an absolute failure on my part.&#x20;
 
-#### Transparency. As a member of the community, events, contracts, and decisions will be totally transparent to anyone and everyone who cares to know. If you want to know where each dollar goes within the project, it's there for viewing.&#x20;
+#### Transparency. As a community member, events, contracts, and decisions will be transparent to anyone and everyone who cares to know. If you want to know where each dollar goes within the project, it's there for viewing. Handle as much as you can through smart contracts and on the blockchain. &#x20;
 
 ## BTC BULLS:&#x20;
 
