@@ -19,7 +19,7 @@ For this projection, I have built a project calculator that looks to run the pro
 
 #### NO MAINTENANCE FEES&#x20;
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>FIG zero_maintenance_fees</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>FIG zero_maintenance_fees</p></figcaption></figure>
 
 Notice that we only total 179.220 BTC mined over 120 months. Also, notice that we receive more BTC in the earlier months of the projection than we do towards the end. &#x20;
 
@@ -27,7 +27,7 @@ Notice that we only total 179.220 BTC mined over 120 months. Also, notice that w
 
 #### $15 MAX MAINTENANCE FEE
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>FIG 15_maintenance_fees</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (4).png" alt=""><figcaption><p>FIG 15_maintenance_fees</p></figcaption></figure>
 
 With the addition of our $15 max maintenance fee, we jump to 486.29, an improvement of 307 Bitcoins. These are merely projections within my scripts.&#x20;
 

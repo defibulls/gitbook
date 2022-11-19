@@ -7,30 +7,28 @@ coverY: 72
 
 ## 10,000 FT VIEW OF 10,000 BTC BULLS
 
-The BTC Bulls community is built around Bitcoin Mining. This project combines a MAAS (mining-as-a-service) and a club. The heart of the ecosystem is buying a BTC Bull NFT, which is means of buying into a fractionalized BTC mining cluster and sharing mining rewards. The BTC Bulls will serve as the central focus of The Ranch ecosystem as the project evolves.&#x20;
+The BTC Bulls community is built around Bitcoin Mining. This project combines a MAAS (mining-as-a-service) and a club. The heart of the ecosystem is buying a BTC Bull NFT, which means buying into a fractionalized BTC mining cluster and sharing mining rewards.  There is strength in numbers, and the BTC Bulls will put that on full display.&#x20;
 
 ## BITCOIN MINING
 
-<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption><p>FIG 0</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-Bitcoin Mining that benefits the environment and increases profitability?&#x20;
+A single person can do this alone, but it is without question that it doesn't stack up against what we can do as a community.&#x20;
 
-How can we mine Bitcoin, help the environment, and be as profitable as we can? Flare Gas!&#x20;
+Anyone can buy and host mining equipment at a mining facility or their own house if they are set up for it. If they chose to do that, they would be seen as a 'residential' buyer and be subject to fewer benefits. Residential buyers buy a miner or two but do not buy in bulk. Reputable mining companies want to sell to this class of buyers but don't cater to them as they do to their bigger clients.&#x20;
 
-Mining Bitcoin using flare gas is hugely beneficial for all involved:&#x20;
+The "Strength in numbers" aspect of the project is the foundational reason for our success. Collectively we move out of the 'Residential' space and are seen as an 'Enterprise' client. This is hugely important for the project for two key reasons.&#x20;
 
-* The Ranch gets the cheapest electric rates possible. Lower than hydro and on-grid sources. &#x20;
-* Consuming flare gas in a generator to mine Bitcoin is a cleaner process than simply letting it burn in the air.&#x20;
+* Cheaper prices for miners&#x20;
+* Cheaper prices for electricity&#x20;
 
-Still, have questions?&#x20;
 
-* &#x20;What is flare gas?&#x20;
-* Why is there flare gas?
-* How does this work?&#x20;
 
-The video link below from SPACE DESIGN WAREHOUSE explains it much better than the text and gives you an introduction to who we will be hosting with. The Ranch is partnering with 'Musk Miners' to host all of our Bitcoin Miners in various flare gas locations.  &#x20;
 
-[https://www.youtube.com/watch?v=90ToBZ0PNqc\&t=228s](https://www.youtube.com/watch?v=90ToBZ0PNqc\&t=228s)
+
+
+
+
 
 
 
@@ -79,7 +77,7 @@ All BTC mining efforts will be processed monthly between the 1st and 5th of the 
 
 **2/3** of the monthly reward received will be converted to WBTC and deposited into the BTC Bulls Smart Contract, with 10% going back to The Ranch Core Team for continued project growth, security measures, and marketing. The remaining 90% is then dispersed to the owners of the BTC Bulls NFTs in pro-rata format. Using this approach, each NFT is awarded the exact same amount. An address owning 5 NFTs would get 5x more WBTC rewards than a person owning a single NFT.
 
-<figure><img src="../../.gitbook/assets/image (2) (4).png" alt=""><figcaption><p>FIG 3</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (4) (1).png" alt=""><figcaption><p>FIG 3</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (1) (4).png" alt=""><figcaption><p>FIG 4</p></figcaption></figure>
 
