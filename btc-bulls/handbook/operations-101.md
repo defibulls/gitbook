@@ -17,14 +17,14 @@ One person can mine Bitcoin alone, but it doesn't stack up against what we can d
 
 Anyone can buy and host mining equipment at a mining facility or their own house if they are set up for it. If they chose to do that, they would be seen as a 'residential' buyer and be subject to fewer benefits. Residential buyers buy a miner or two but do not buy in bulk. Reputable mining companies want to sell to this class of buyers but don't cater to them as they do to their bigger clients.&#x20;
 
-The "Strength in numbers" aspect of the project is the foundational reason for our success. Collectively we move out of the 'Residential' space and are seen as an 'Enterprise' client. This is hugely important for the project for two key reasons.&#x20;
+The "Strength in numbers" aspect of the project will be the foundational reason for our success. Collectively we move out of the 'Residential' space and are seen as an 'Enterprise' client. This is hugely important for the project for two key reasons.&#x20;
 
 * Cheaper prices for miners&#x20;
 * Cheaper prices for electricity&#x20;
 
-Profitability for the project comes down to these two variables; lower price for the miners and locking in lower electricity rates. Partnering with a reputable company like Compass Mining, we can ensure we are getting the best deal possible on our initial investment, the best hosting rate, and peace of mind knowing they do all the backend work of security, maintenance, and system uptime.
+We are excited to partner with Compass Mining to launch the project as they'll be the best fit to make us as profitable as we can be for multiple reasons.  First and foremost, we will see our 'Enterprise' customer relationship bear fruit immediately with the initial cost of miners and hosting rates. Secondly, Compass does a great job on the back end handling all the logistics, security, maintenance, system uptime SLAs (service level agreements), and automation.&#x20;
 
-Compass mining also gives us flexibility when we move out of this bear market. Any miners we buy now for extremely lower prices can later be sold on their platform to other customers as 'turn key' solutions for a 2-4x gain if we want to sell them and move into newer equipment.&#x20;
+Another reason is that Compass gives us flexibility when we move out of this bear market. Any miners we buy now for extremely lower prices can later be sold on their platform to other customers as 'turn key' solutions for a 2-4x gain if we want to sell them and move into newer equipment.&#x20;
 
 ## TOTAL SUPPLY AND MINT COST:
 
