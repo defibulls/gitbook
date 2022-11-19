@@ -13,7 +13,7 @@ The BTC Bulls community is built around Bitcoin Mining. This project combines a 
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-A single person can do this alone, but it is without question that it doesn't stack up against what we can do as a community.&#x20;
+One person can mine Bitcoin alone, but it doesn't stack up against what we can do as a community.&#x20;
 
 Anyone can buy and host mining equipment at a mining facility or their own house if they are set up for it. If they chose to do that, they would be seen as a 'residential' buyer and be subject to fewer benefits. Residential buyers buy a miner or two but do not buy in bulk. Reputable mining companies want to sell to this class of buyers but don't cater to them as they do to their bigger clients.&#x20;
 
@@ -22,15 +22,9 @@ The "Strength in numbers" aspect of the project is the foundational reason for o
 * Cheaper prices for miners&#x20;
 * Cheaper prices for electricity&#x20;
 
+Profitability for the project comes down to these two variables; lower price for the miners and locking in lower electricity rates. Partnering with a reputable company like Compass Mining, we can ensure we are getting the best deal possible on our initial investment, the best hosting rate, and peace of mind knowing they do all the backend work of security, maintenance, and system uptime.
 
-
-
-
-
-
-
-
-
+Compass mining also gives us flexibility when we move out of this bear market. Any miners we buy now for extremely lower prices can later be sold on their platform to other customers as 'turn key' solutions for a 2-4x gain if we want to sell them and move into newer equipment.&#x20;
 
 ## TOTAL SUPPLY AND MINT COST:
 
@@ -87,9 +81,9 @@ All BTC mining efforts will be processed monthly between the 1st and 5th of the 
 
 The key to the success and profitability of this project is all about the timing of the start of the project. The price of the BTC miners and the hosting/electricity fees are the key factors. In December of 2021, an S19j Pro BTC Miner cost roughly $13K. Today, due to market conditions and the onset of the bear market, that same S19j Pro BTC MIner can be purchased for nearly $3K.&#x20;
 
-This is the prime reason the project is kicking off now and relies heavily on the bear market. We have purchased BTC miners leading up to the start of this project to vet out the sellers and hosting facilities. Buying and hosting at the right facilities is crucial to this project, and that is why we are excited to work with Musk Miners. Anyone can buy a single miner themselves and host it at their house. For the sake of an Antminer S19j Pro 100 TH/s, the challenge for said buyer is that the Miner requires a 240v outlet and a suitable place to host it. As an owner of an Antminer s19a Pro 110 TH/s sitting in my garage now, I can tell you without a doubt that these sound like a freight train, produce way more heat than you want to deal with, and cost more in electricity than you would pay at these hosting facilities. I personally have to pay $0.12 (which isn't that bad in terms of the national price of electricity in the US) kWh at my home. This doesn't compare to what we can expect with flare gas locations, where we can get our electric fees down to $.059, if not lower, when we factor in the buying power we possess as a project.&#x20;
+This is the prime reason the project is kicking off now and relies heavily on the bear market. We have purchased BTC miners leading up to the start of this project to vet out the sellers and hosting facilities. Anyone can buy a single miner themselves and host it at their house. For the sake of an Antminer S19j Pro 100 TH/s, the challenge for said buyer is that the Miner requires a 240v outlet and a suitable place to host it. As an owner of an Antminer s19a Pro 110 TH/s sitting in my garage now, I can tell you without a doubt that these sound like a freight train, produce way more heat than you want to deal with, and cost more in electricity than you would pay at these hosting facilities. I personally have to pay $0.12 (which isn't that bad in terms of the national price of electricity in the US) kWh at my home. This doesn't compare to what we can expect with flare gas locations, where we can get our electric fees down to $.070&#x20;
 
-But what about the MAINTENANCE FEES? What is this, and why is this important? Let's play out an example of how this project will go. We start selling the project the BTC Bull NFTs and purchase miners from the onset. We go through the first three tiers and sell 2999 BTC Bulls. Let's assume all buyers of NFTs choose to enter the daily raffle; 89% of the minting cost would go to buying miners for the project.&#x20;
+But what about the MAINTENANCE FEES? What is this, and why is this important? Let's play out an example of how this project will go. We start the project and sell our BTC Bull NFTs and purchase miners. We go through the first three tiers and sell 2999 BTC Bulls. Let's assume all buyers of NFTs choose to enter the daily raffle; 89% of the minting cost would go to buying miners for the project.&#x20;
 
 * TIER 1 = (999 \* 350) \* 0.89&#x20;
 * TIER 2 = (1000 \* 360) \* 0.89&#x20;
@@ -97,7 +91,7 @@ But what about the MAINTENANCE FEES? What is this, and why is this important? Le
 
 
 
-BTC\_MINER\_FUND == ((999 \* 350) + (1000 \* 360) + (1000 \* 370 )) \* 0.89  ==  $960,888.50
+BTC MINERS SAFE == ((999 \* 350) + (1000 \* 360) + (1000 \* 370 )) \* 0.89  ==  $960,888.50
 
 
 
@@ -109,11 +103,7 @@ The way the hosting works at the hosting facility is that they will provide us w
 
 $5.22 x 30days = $156.60/month
 
-Why so expensive? Firstly the cost of electricity, it would cost nearly double this price to run at your house.  Secondly, they provide 24/7 security and optimal conditions for each miner. &#x20;
-
-
-
-The BTC\_MINER\_FUND is then used to purchase and start building the project's BTC MINER CLUSTER. Let's assume we can purchase 100 TH/s Antminer S19s for \~ $4000 each
+The BTC MINERS SAFE is then used to purchase and start building the project's BTC MINER CLUSTER. Let's assume we can purchase 100 TH/s Antminer S19s for \~ $4000 each
 
 $960,888.50 / $4000 == \~240 Antminer S19 100Th/s&#x20;
 
@@ -129,13 +119,13 @@ The next month, we bring online 240 more miners, then we would be sharing a \~$7
 
 Through compounding efforts, our BTC Miner Cluster has the potential to grow to a very large and powerful number. We can't predict what the future holds for us and thus have set a monthly maintenance fee cap for all BTC Bulls. Even if the calculated monthly maintenance fee exceeds $15, the max maintenance fee for each BTC Bull will be $15.
 
-From all our projections, see [projections](projections.md), the last thing we want to do as a project is burn our mined Bitcoin to pay for hosting fees. However, there is a delicate line between burning bitcoin for hosting fees and having reasonable and consistent maintenance fee expectations for all BTC Bull NFT holders. &#x20;
+From all our projections, see [projections](projections.md), the last thing we want to do as a project is burn our mined Bitcoin to pay for hosting fees. However, there is a delicate line between burning Bitcoin for hosting fees and having reasonable and consistent maintenance fee expectations for all BTC Bull NFT holders. &#x20;
 
 A hosting invoice of $185,000 being shared between all 10,000 BTC Bulls works out to be $18.50 per NFT. With the maintenance fees cap in place, each BTC Bull gets a $15 maintenance fee for the month.&#x20;
 
 $185,000 - $150,000 == $30,000 left to cover&#x20;
 
-In this instance, we would have to convert $30,000 of our mined BTC into USDT and pay for the hosting fees. The rest then gets dispersed as rewards for the month, according to FIG 3.&#x20;
+In this instance, we would have to convert $30,000 of our mined BTC to pay for the hosting fees. The rest then gets dispersed as rewards for the month, according to FIG 3.&#x20;
 
 #### HOW DOES A USER PAY THEIR MAINTENANCE FEES?
 
