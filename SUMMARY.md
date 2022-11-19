@@ -20,3 +20,4 @@
     * [How to Add USDC.e Token to Polygon Network in MetaMask](btc-bulls/white-paper/how-to/how-to-add-usdc.e-token-to-polygon-network-in-metamask.md)
   * [AUDIT](btc-bulls/audit.md)
   * [PROJECTIONS](btc-bulls/handbook/projections.md)
+  * [RAFFLE DEEP DIVE](btc-bulls/handbook/raffle-deep-dive.md)
