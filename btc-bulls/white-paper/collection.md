@@ -18,11 +18,13 @@ coverY: -446.4
 
     * 'Enlightened' BTC Bulls are any bulls with a Little Amigo.&#x20;
     * BTC Bulls are revealed after each TEIR sells out.&#x20;
-    * Once revealed, 'Enlightened' BTC Bulls are maintenance fee exempt moving forward. &#x20;
+    * Once revealed, 'Enlightened' BTC Bulls are maintenance fee exempt moving forward\*\*. &#x20;
     * The location of each 'Enlightened' BTC Bull is unknown to all, including the creator. We know how many exist in the collection, not where they reside.&#x20;
 
 
 
     <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-_Lifetime means as long the project sustains itself and/or until the year 2040, when we can no longer mine bitcoin._  &#x20;
+\*Lifetime means as long the project sustains itself and/or until the year 2040 when we can no longer mine bitcoin.  &#x20;
+
+\*\*Submit a ticket showing NFT in Discord. The contract gets updated with the NFT number, and then maintenance exclusion starts.&#x20;
