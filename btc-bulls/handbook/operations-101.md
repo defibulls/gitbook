@@ -11,7 +11,7 @@ The BTC Bulls community is built around Bitcoin Mining. This project combines a 
 
 ## BITCOIN MINING
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 One person can mine Bitcoin alone, but it doesn't stack up against what we can do as a community.&#x20;
 
