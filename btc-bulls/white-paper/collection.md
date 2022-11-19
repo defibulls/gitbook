@@ -23,7 +23,7 @@ coverY: -446.4
 
 
 
-    <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 \*Lifetime means as long the project sustains itself and/or until the year 2040 when we can no longer mine bitcoin.  &#x20;
 

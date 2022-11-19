@@ -213,7 +213,7 @@ The Buddy System is an onboarding system for new participants in The Ranch Ecosy
 
 
 
-    <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>FIG 7</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1) (5).png" alt=""><figcaption><p>FIG 7</p></figcaption></figure>
 
 ## OUR NATIVE TOKEN
 
