@@ -26,6 +26,8 @@ We are excited to partner with Compass Mining to launch the project as they'll b
 
 Another reason is that Compass gives us flexibility when we move out of this bear market. Any miners we buy now for extremely lower prices can later be sold on their platform to other customers as 'turn key' solutions for a 2-4x gain if we want to sell them and move into newer equipment.&#x20;
 
+Check them out: [https://compassmining.io/](https://compassmining.io/)
+
 ## TOTAL SUPPLY AND MINT COST:
 
 The BTC Bulls Community is an NFT collection built on the Polygon Blockchain, with 10,000 BTC Bulls being released in 10 different tiers. Each tier must be bought out completely before the next tier opens. USDC.e is the token used for purchasing in all tiers.&#x20;
@@ -137,15 +139,17 @@ Each transaction will go through this logic process when paying monthly maintena
 
 As noted in the Minting figures (FIG 1 and FIG 2), 5% of each minting transaction will fund the HOSTING SAFE. This money is kept in the HOSTING SAFE multi-sig wallet to pay for hosting fee invoices. Each month when users pay their maintenance fees, that money goes to replenish the HOSTING SAFE balance. &#x20;
 
-A very important concept and design of the project revolves around the HOSTING SAFE and what would happen if the HOSTING SAFE were to run out of money. As every user is required to pay their maintenance fees before being allowed to withdraw their rewards, this should take care of itself. If we are still in a deficit, this problem will likely crop up if enough users are not paying their maintenance fees over time. If this scenario does play out, we will have to use a portion of our monthly mining rewards to cover the invoice. The Ranch has simple ground rules to comply with; pay your fees to help yourself and the community alike. There is **NO** plan to punish all holders of BTC Bulls if this were to happen. This is why there is a liquidation function in the contract.&#x20;
+A very important concept and design of the project revolves around the HOSTING SAFE and what would happen if the HOSTING SAFE were to run out of money. As every user must pay their maintenance fees before being allowed to withdraw their rewards, this should take care of itself. If we are still in a deficit, this problem will likely crop up if enough users are not paying their maintenance fees over time. If this scenario does play out, we will have to use a portion of our monthly mining rewards to cover the invoice. The Ranch has simple ground rules to comply with; pay your fees to help yourself and the community alike. There is **NO** plan to punish all holders of BTC Bulls if this were to happen. This is why there is a liquidation function in the contract.&#x20;
 
 #### HOW IS THE LIQUIDATION FUNCTION USED?
 
 <figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption><p>FIG 6</p></figcaption></figure>
 
-When funds are deposited into the smart contract and BTC BULL NFTs are rewarded in the pro-rata format, variables and mappings are updated on the contract. If a user is 4 months behind on paying monthly maintenance fees, that user will get liquidated. In this project, that means that the WBTC contract balance for that user will be deducted from them and sent to the HOSTING SAFE. This is the WBTC that will be used to pay invoices in the absence of users paying maintenance fees. If this does happen to a user, the maintenance\_fee\_standing and total\_maintenance\_fees\_due variables are reset back to zero. The next month will be as if that user has started fresh on the contract.
+When monthly WBTC is deposited into the smart contract, the BTC Bull NFTs are rewarded in the pro-rata format. Variables and mappings are updated on the contract for each address that owns an NFT. The maintenance fees work like a clock and tick down each month during the 'reward' period. A 'reward' period happens between the 1st to 5th of each month. If a user lets their maintenance clock get to 0, that user gets checked for a possible liquidation event. In this project, liquidation means that the WBTC balance for that wallet address will be deducted from them and sent to the HOSTING SAFE. This is the WBTC that will be used to pay invoices in the absence of users paying maintenance fees. If this does happen to a user, their maintenance clock is reset back to three, and the total maintenance balance for that user is reset back to zero. That address also has a counter that keeps track of how many liquidations they have, which will be incremented by 1.&#x20;
 
-* The key difference between our liquidation structure and other projects, such as StrongBlock, is if a user gets behind and simply doesn't pay the maintenance fees. They wouldn't lose everything as you would have in StrongBlock. In our ecosystem, the user would simply forfeit the current WBTC in their account on our contract, and then they are reset back to good standing, ready to redeem themselves.&#x20;
+The key difference between our liquidation structure and other projects, such as StrongBlock, is if a user gets behind and simply doesn't pay the maintenance fees. They wouldn't lose everything as you would have in StrongBlock. In our ecosystem, the user would simply forfeit the current WBTC in their account on our contract, and then they are reset back to good standing, ready to receive next month's WBTC awards. &#x20;
+
+If a user's maintenance clock gets to zero, they are up for a possible liquidation event. We don't want to liquidate anyone and have made the contract work in a way that avoids this, if possible, by default. The contract will check If a user has more than three months of max maintenance fees, $45, in their USDC.e rewards balance. If that user does, we deduct the $45 from their USDC.e balance and send it to the HOSTING SAFE. That user then gets their maintenance clock reset back to three, and their maintenance fee balance resets to zero. This user will not be liquidated and thus wouldn't have their liquidation count incremented.  On the flip side of this, if that user doesn't have $45 in their USDC.e rewards balance, they would get liquidated.&#x20;
 
 
 
@@ -163,7 +167,7 @@ When a miner fails, most likely, it will be a hashboard or power supply issue. I
 
 Ownership of a BTC BULL is the central part of this project. Other assets will be deployed within the ecosystem, but all assets are tied back to the BTC Bulls. Future partnerships with other projects will have incentives for BTC Bull owners only. When we launch our native token of The Ranch, BTC Bull owners will be the only ones receiving them. &#x20;
 
-All Royalty Raffles only include those who own a BTC Bull.&#x20;
+Any and all Raffles require ownership of a BTC Bull.&#x20;
 
 ## ![](<../../.gitbook/assets/Raffle Drawing Machine.svg>) RAFFLE
 
