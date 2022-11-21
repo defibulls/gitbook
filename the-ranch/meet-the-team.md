@@ -23,7 +23,7 @@ Wasn't around for the web2 boom but won't miss web3!&#x20;
 
 ## Sam
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 #### Project Web Developer
 

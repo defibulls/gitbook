@@ -16,7 +16,10 @@ coverY: -446.4
 * Initial Raffle opportunity upon minting a BTC Bull and long-term raffle opportunities through Royalty Raffle
 * &#x20;23 BTC Bulls are considered 'enlightened' and thus the rarest!&#x20;
   * Once revealed, 'Enlightened' BTC Bulls are maintenance fee exempt moving forward\*\* &#x20;
-  * The location of each 'Enlightened' BTC Bull is unknown to all, including the creator. We know how many exist in the collection, not where they reside.&#x20;
+  * The location of each 'Enlightened' BTC Bull is unknown to all, including the creator. We know how many exist in the collection, not where they reside.
+  *   The location of 'Enlightened' BTC Bulls is unknown to all, including the team. We only know 23 exist within the collection.
+
+      ![](<../../.gitbook/assets/image (3).png>)
 
 \*Lifetime means as long the project sustains itself and/or until the year 2040 when we can no longer mine bitcoin.  &#x20;
 
