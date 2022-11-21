@@ -14,16 +14,9 @@ coverY: -446.4
 * First dibs on future project partnerships
 * Receive an airdrop of our Native Token when it launches
 * Initial Raffle opportunity upon minting a BTC Bull and long-term raffle opportunities through Royalty Raffle
-*   &#x20;23 BTC Bulls are considered 'enlightened' and thus the rarest!&#x20;
-
-    * 'Enlightened' BTC Bulls are any bulls with a Little Amigo
-    * BTC Bulls are revealed after each TEIR sells out
-    * Once revealed, 'Enlightened' BTC Bulls are maintenance fee exempt moving forward\*\* &#x20;
-    * The location of each 'Enlightened' BTC Bull is unknown to all, including the creator. We know how many exist in the collection, not where they reside&#x20;
-
-
-
-    <figure><img src="../../.gitbook/assets/image (1) (6).png" alt=""><figcaption></figcaption></figure>
+* &#x20;23 BTC Bulls are considered 'enlightened' and thus the rarest!&#x20;
+  * Once revealed, 'Enlightened' BTC Bulls are maintenance fee exempt moving forward\*\* &#x20;
+  * The location of each 'Enlightened' BTC Bull is unknown to all, including the creator. We know how many exist in the collection, not where they reside.&#x20;
 
 \*Lifetime means as long the project sustains itself and/or until the year 2040 when we can no longer mine bitcoin.  &#x20;
 
