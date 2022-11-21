@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/Farm.png
+cover: ../../../.gitbook/assets/Farm.png
 coverY: 72
 ---
 
@@ -11,7 +11,7 @@ The BTC Bulls community is built around Bitcoin Mining. This project combines a 
 
 ## BITCOIN MINING
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 One person can mine Bitcoin alone, but it doesn't stack up against what we can do as a community.&#x20;
 
@@ -32,7 +32,7 @@ Check them out: [https://compassmining.io/](https://compassmining.io/)
 
 The BTC Bulls Community is an NFT collection built on the Polygon Blockchain, with 10,000 BTC Bulls being released in 10 different tiers. Each tier must be bought out completely before the next tier opens. USDC.e is the token used for purchasing in all tiers.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (3).png" alt="Cost breakdown when buying BTC Bulls"><figcaption><p>FIG 0</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (3).png" alt="Cost breakdown when buying BTC Bulls"><figcaption><p>FIG 0</p></figcaption></figure>
 
 
 
@@ -55,15 +55,15 @@ The Ranch BTC Bulls will not revolve around its own native token by design. The 
 
 When a user elects to enter the Minting raffle when minting BTC Bull NFTs, 3% of the transaction cost is held in the Minting Raffle Fund, and the user becomes eligible to win the raffle drawing when it reaches 100 entries. Opting into the raffle is a manual and voluntary process for the user themselves and only allows participation in that particular drawing.  If a user elects to mint 1 BTC Bull NFT or 10 BTC Bull NFTs and opts to enter the Daily Minting Raffle, they will be entered into the raffle one single time. A single winner shall receive the entire Daily Raffle amount, and then it is reset. When the Minting Raffle is reset, all users who mint new BTC Bull NFTs are eligible to enter the Raffle, this doesn't matter if it's the first time a user has minted or the user has taken part in previous Minting Raffles.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption><p>FIG 1</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption><p>FIG 1</p></figcaption></figure>
 
 When a user does not elect to enter the Minting Raffle, the 3% that would have gone to the Minting Raffle Fund is then passed to the BTC Miners Safe. The user will not be entered into the Minting Raffle during this transaction. Thus, they are not eligible to win it:&#x20;
 
-<figure><img src="../../.gitbook/assets/image (3) (2).png" alt=""><figcaption><p>FIG 2</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (2).png" alt=""><figcaption><p>FIG 2</p></figcaption></figure>
 
 
 
-## ![](<../../.gitbook/assets/Compounding Illustration.svg>) MONTHLY BTC MINING REWARDS
+## ![](<../../../.gitbook/assets/Compounding Illustration.svg>) MONTHLY BTC MINING REWARDS
 
 
 
@@ -73,9 +73,9 @@ All BTC mining efforts will be processed monthly between the 1st and 5th of the 
 
 **2/3** of the monthly reward received will be converted to WBTC and deposited into the BTC Bulls Smart Contract, with 10% going back to The Ranch Core Team for continued project growth, security measures, and marketing. The remaining 90% is then dispersed to the owners of the BTC Bulls NFTs in pro-rata format. Using this approach, each NFT is awarded the exact same amount. An address owning 5 NFTs would get 5x more WBTC rewards than a person owning a single NFT.
 
-<figure><img src="../../.gitbook/assets/image (2) (4) (1).png" alt=""><figcaption><p>FIG 3</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (4) (1).png" alt=""><figcaption><p>FIG 3</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (1) (4).png" alt=""><figcaption><p>FIG 4</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (4).png" alt=""><figcaption><p>FIG 4</p></figcaption></figure>
 
 ## MAINTENANCE FEES
 
@@ -121,7 +121,7 @@ The next month, we bring online 240 more miners, then we would be sharing a ≈$
 
 Through compounding efforts, our BTC Miner Cluster has the potential to grow to a very large and powerful number. We can't predict what the future holds for us and thus have set a monthly maintenance fee cap for all BTC Bulls. Even if the calculated monthly maintenance fee exceeds $15, the max maintenance fee for each BTC Bull will be $15.
 
-From all our projections, see [projections](projections.md), the last thing we want to do as a project is burn our mined Bitcoin to pay for hosting fees. However, there is a delicate line between burning Bitcoin for hosting fees and having reasonable and consistent maintenance fee expectations for all BTC Bull NFT holders. &#x20;
+From all our projections, see [projections](../projections.md), the last thing we want to do as a project is burn our mined Bitcoin to pay for hosting fees. However, there is a delicate line between burning Bitcoin for hosting fees and having reasonable and consistent maintenance fee expectations for all BTC Bull NFT holders. &#x20;
 
 A hosting invoice of $185,000 being shared between all 10,000 BTC Bulls works out to be $18.50 per NFT. With the maintenance fees cap in place, each BTC Bull gets a $15 maintenance fee for the month.&#x20;
 
@@ -133,7 +133,7 @@ In this instance, we would have to convert $30,000 of our mined BTC to pay for t
 
 Each transaction will go through this logic process when paying monthly maintenance fees. If a user has enough USDC.e on the contract, the maintenance fee amount will be deducted from their USDC.e balance when paying the maintenance fees. Otherwise, each user will need to pay the maintenance fees from their own personal wallet using USDC.e
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption><p>FIG 5</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption><p>FIG 5</p></figcaption></figure>
 
 #### HOSTING SAFE
 
@@ -143,7 +143,7 @@ A very important concept and design of the project revolves around the HOSTING S
 
 #### HOW IS THE LIQUIDATION FUNCTION USED?
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>FIG 6</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption><p>FIG 6</p></figcaption></figure>
 
 When monthly WBTC is deposited into the smart contract, the BTC Bull NFTs are rewarded in the pro-rata format. Variables and mappings are updated on the contract for each address that owns an NFT. The maintenance fees work like a clock and tick down each month during the 'reward' period. A 'reward' period happens between the 1st to 5th of each month. If a user lets their maintenance clock get to 0, that user gets checked for a possible liquidation event. In this project, liquidation means that the WBTC balance for that wallet address will be deducted from them and sent to the HOSTING SAFE. This is the WBTC that will be used to pay invoices in the absence of users paying maintenance fees. If this does happen to a user, their maintenance clock is reset back to three, and the total maintenance balance for that user is reset back to zero. That address also has a counter that keeps track of how many liquidations they have, which will be incremented by 1.&#x20;
 
@@ -151,7 +151,7 @@ The key difference between our liquidation structure and other projects, such as
 
 If a user's maintenance clock gets to zero, they are up for a possible liquidation event. We don't want to liquidate anyone and have made the contract work in a way that avoids this, if possible, by default. The contract will check If a user has more than three months of max maintenance fees, $45, in their USDC.e rewards balance. If that user does, we deduct the $45 from their USDC.e balance and send it to the HOSTING SAFE. That user then gets their maintenance clock reset back to three, and their maintenance fee balance resets to zero. This user will not be liquidated and thus wouldn't have their liquidation count incremented.  On the flip side of this, if that user doesn't have $45 in their USDC.e rewards balance, they would get liquidated.&#x20;
 
-Within the project, we have built in many ways a user can increase their USDC.e rewards on the contract. Referring people to the project gives you 2% of their minting transaction cost. The minting raffle increases any of the winner's USDC.e balance on the contract, and the Royalty Raffle will do the same. A user can also load USDC.e into their own rewards balance. This would allow a user always to have USDC.e in their account and avoid liquidation. As long as the user has $45 in their USDC.e balance, they can't get liquidated. Users can deposit up to $540 into their own USDC.e rewards, which would protect them from liquidation for ≈ three years.&#x20;
+Within the project, we have built many ways a user can increase their USDC.e rewards on the contract and will continue to build more as time goes on. Referring people to the project gives you 2% of their minting transaction cost. The minting raffle increases any of the winner's USDC.e balance on the contract, and the Royalty Raffle will do the same. A user can also load USDC.e into their own rewards balance. This would allow a user always to have USDC.e in their account and avoid liquidation. As long as the user has $45 in their USDC.e balance, they can't get liquidated. Users can deposit up to $540 into their own USDC.e rewards, which would protect them from liquidation for ≈ three years.&#x20;
 
 
 
@@ -165,15 +165,15 @@ When a miner fails, most likely, it will be a hashboard or power supply issue. I
 
 
 
-## ![](<../../.gitbook/assets/Networking (1).svg>) BTC BULL CENTRALITY
+## ![](<../../../.gitbook/assets/Networking (1).svg>) BTC BULL CENTRALITY
 
 Ownership of a BTC BULL is the central part of this project. Other assets will be deployed within the ecosystem, but all assets are tied back to the BTC Bulls. Future partnerships with other projects will have incentives for BTC Bull owners only. When we launch our native token of The Ranch, BTC Bull owners will be the only ones receiving them. &#x20;
 
 Any and all Raffles require ownership of a BTC Bull.&#x20;
 
-## ![](<../../.gitbook/assets/Raffle Drawing Machine.svg>) RAFFLE
+## ![](<../../../.gitbook/assets/Raffle Drawing Machine.svg>) RAFFLE
 
-![](<../../.gitbook/assets/image (5) (2).png>)
+![](<../../../.gitbook/assets/image (5) (2).png>)
 
 The entire raffle process is NOT controlled by the owners of the contract in any way, as we are utilizing Chainlinks VRFv2.&#x20;
 
@@ -208,7 +208,7 @@ If an owner of a BTC Bull thinks this is a great idea, then, by all means, take 
 
 
 
-## ![](<../../.gitbook/assets/Buddy System.svg>) **THE BUDDY SYSTEM**
+## ![](<../../../.gitbook/assets/Buddy System.svg>) **THE BUDDY SYSTEM**
 
 The Buddy System is an onboarding system for new participants in The Ranch Ecosystem. Participation is completely voluntary. Unlike other multi-level marketing and scam-type referral systems, which consist of pyramid structures, tiered referral trees, etc. There is only 1 level of affiliate rewards within The Ranch Ecosystem. Rewards are issued whenever the referred individual mints new BTC Bull NFTs or during the monthly payout of WBTC to NFT holders. 2% of the minting transaction cost will be given to the Buddy of the referred person. During monthly payouts, 2% of the calculated reward is given to the Buddy of the referred person. 2% of the winning Royalty Raffle amount will go to the Buddy of the referred person. The person set as your partner must own a BTC Bull at that moment to be considered 'active' and receive the benefit.&#x20;
 
@@ -219,7 +219,7 @@ The Buddy System is an onboarding system for new participants in The Ranch Ecosy
 
 
 
-    <figure><img src="../../.gitbook/assets/image (1) (5).png" alt=""><figcaption><p>FIG 7</p></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (1) (5).png" alt=""><figcaption><p>FIG 7</p></figcaption></figure>
 
 ## OUR NATIVE TOKEN
 
