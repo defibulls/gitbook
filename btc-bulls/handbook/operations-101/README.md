@@ -188,7 +188,7 @@ When minting new NFTs, users can voluntarily enter the Minting Raffle, where 3% 
 There will be a 10% royalty fee when selling BTC Bulls on secondary marketplaces.  2.5% of that gets paid to the marketplace as a fee. The remaining 7.5% will be split 50/50.&#x20;
 
 * **50%** going back to The Ranch for project development and project-related costs.&#x20;
-* **50%** goes into our monthly Royalty Raffle. Each month, this 50% will be divided equally and dispersed between up to 3 BTC Bulls. This amount will be uploaded into the USDC.e balance on the contract for those winning BTC Bulls owners. See the raffle explanation for a deeper explanation, further explanation [here](raffle-deep-dive.md). &#x20;
+* **50%** goes into our monthly Royalty Raffle. Each month, this 50% will be divided equally and dispersed between up to 3 BTC Bulls. This amount will be uploaded into the USDC.e balance on the contract for those winning BTC Bulls owners. See the raffle explanation for a deeper explanation, further explanation [here](royalty-raffle.md). &#x20;
 
 Our community will be filled with holders with long-term mindsets, but there will always be those who need to sell for liquidity and/or profit opportunities. Looking at what other projects have done in the past, if we get anywhere close to a quarter of the numbers those projects hit, these raffle amounts have the potential to be special.
 

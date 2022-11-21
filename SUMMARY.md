@@ -14,7 +14,7 @@
   * [VISION](btc-bulls/white-paper/vision.md)
   * [COLLECTION](btc-bulls/white-paper/collection.md)
   * [OPERATIONS 101](btc-bulls/handbook/operations-101/README.md)
-    * [RAFFLE DEEP DIVE](btc-bulls/handbook/operations-101/raffle-deep-dive.md)
+    * [ROYALTY RAFFLE](btc-bulls/handbook/operations-101/royalty-raffle.md)
     * [MAINTENANCE FEES](btc-bulls/handbook/operations-101/maintenance-fees.md)
     * [PROJECTIONS](btc-bulls/handbook/operations-101/projections.md)
   * [FAQ](btc-bulls/white-paper/faq.md)
