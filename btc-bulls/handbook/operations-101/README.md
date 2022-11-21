@@ -121,7 +121,7 @@ The next month, we bring online 240 more miners, then we would be sharing a ≈$
 
 Through compounding efforts, our BTC Miner Cluster has the potential to grow to a very large and powerful number. We can't predict what the future holds for us and thus have set a monthly maintenance fee cap for all BTC Bulls. Even if the calculated monthly maintenance fee exceeds $15, the max maintenance fee for each BTC Bull will be $15.
 
-From all our projections, see [projections](../projections.md), the last thing we want to do as a project is burn our mined Bitcoin to pay for hosting fees. However, there is a delicate line between burning Bitcoin for hosting fees and having reasonable and consistent maintenance fee expectations for all BTC Bull NFT holders. &#x20;
+From all our projections, see [projections](projections.md), the last thing we want to do as a project is burn our mined Bitcoin to pay for hosting fees. However, there is a delicate line between burning Bitcoin for hosting fees and having reasonable and consistent maintenance fee expectations for all BTC Bull NFT holders. &#x20;
 
 A hosting invoice of $185,000 being shared between all 10,000 BTC Bulls works out to be $18.50 per NFT. With the maintenance fees cap in place, each BTC Bull gets a $15 maintenance fee for the month.&#x20;
 
