@@ -105,19 +105,19 @@ The way the hosting works at the hosting facility is that they will provide us w
 
 $5.22 x 30days = $156.60/month
 
-The BTC MINERS SAFE is then used to purchase and start building the project's BTC MINER CLUSTER. Let's assume we can purchase 100 TH/s Antminer S19s for \~ $4000 each
+The BTC MINERS SAFE is then used to purchase and start building the project's BTC MINER CLUSTER. Let's assume we can purchase 100 TH/s Antminer S19s for ≈$4000 each
 
-$960,888.50 / $4000 == \~240 Antminer S19 100Th/s&#x20;
+$960,888.50 / $4000 == ≈ 240 Antminer S19 100Th/s&#x20;
 
 When factoring in tax or other transaction expenses, the BTC MINER CLUSTER starts off with about 240 s19j Pro miners or about 24,000 TH/s of mining power.&#x20;
 
 #### HOW DOES THE PROJECT PAY THE HOSTING INVOICE?
 
-Each BTC Bull NFT on the project shares the hosting invoice. In the current example, 240 miners on the invoice would be \~ $38,000 if we average a $156.60 hosting fee per miner. Since we have 2999 BTC Bulls in circulation, each BTC Bull NFT will share that invoice, and $12.53 will be the calculated monthly maintenance fee.
+Each BTC Bull NFT on the project shares the hosting invoice. In the current example, 240 miners on the invoice would be ≈ $38,000 if we average a $156.60 hosting fee per miner. Since we have 2999 BTC Bulls in circulation, each BTC Bull NFT will share that invoice, and $12.53 will be the calculated monthly maintenance fee.
 
 As the project continues to grow and we mint out Tier 6, there will be 6999 BTC Bulls in circulation; this changes the maintenance fees accordingly. For the sake of this example, we would purchase more miners to add to the BTC MINING CLUSTER, but that could take up to 30 days to come online. Now that 6999 BTC Bull NFTs exist, a larger invoice is shared amongst more BTC Bulls.&#x20;
 
-The next month, we bring online 240 more miners, then we would be sharing a \~$76,000 invoice amongst 6999 BTC bulls, putting each BTC Bull maintenance fee for the month at about \~$10.85
+The next month, we bring online 240 more miners, then we would be sharing a ≈$76,000 invoice amongst 6999 BTC bulls, putting each BTC Bull maintenance fee for the month at about ≈$10.85
 
 Through compounding efforts, our BTC Miner Cluster has the potential to grow to a very large and powerful number. We can't predict what the future holds for us and thus have set a monthly maintenance fee cap for all BTC Bulls. Even if the calculated monthly maintenance fee exceeds $15, the max maintenance fee for each BTC Bull will be $15.
 
@@ -135,7 +135,7 @@ Each transaction will go through this logic process when paying monthly maintena
 
 <figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption><p>FIG 5</p></figcaption></figure>
 
-## HOSTING SAFE
+#### HOSTING SAFE
 
 As noted in the Minting figures (FIG 1 and FIG 2), 5% of each minting transaction will fund the HOSTING SAFE. This money is kept in the HOSTING SAFE multi-sig wallet to pay for hosting fee invoices. Each month when users pay their maintenance fees, that money goes to replenish the HOSTING SAFE balance. &#x20;
 
@@ -143,13 +143,15 @@ A very important concept and design of the project revolves around the HOSTING S
 
 #### HOW IS THE LIQUIDATION FUNCTION USED?
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>FIG 6</p></figcaption></figure>
 
 When monthly WBTC is deposited into the smart contract, the BTC Bull NFTs are rewarded in the pro-rata format. Variables and mappings are updated on the contract for each address that owns an NFT. The maintenance fees work like a clock and tick down each month during the 'reward' period. A 'reward' period happens between the 1st to 5th of each month. If a user lets their maintenance clock get to 0, that user gets checked for a possible liquidation event. In this project, liquidation means that the WBTC balance for that wallet address will be deducted from them and sent to the HOSTING SAFE. This is the WBTC that will be used to pay invoices in the absence of users paying maintenance fees. If this does happen to a user, their maintenance clock is reset back to three, and the total maintenance balance for that user is reset back to zero. That address also has a counter that keeps track of how many liquidations they have, which will be incremented by 1.&#x20;
 
 The key difference between our liquidation structure and other projects, such as StrongBlock, is if a user gets behind and doesn't pay the maintenance fees. They wouldn't lose everything as you would have in StrongBlock. In our ecosystem, the user would forfeit the current WBTC in their account on our contract, and then they are reset back to good standing, ready to receive next month's WBTC awards. &#x20;
 
 If a user's maintenance clock gets to zero, they are up for a possible liquidation event. We don't want to liquidate anyone and have made the contract work in a way that avoids this, if possible, by default. The contract will check If a user has more than three months of max maintenance fees, $45, in their USDC.e rewards balance. If that user does, we deduct the $45 from their USDC.e balance and send it to the HOSTING SAFE. That user then gets their maintenance clock reset back to three, and their maintenance fee balance resets to zero. This user will not be liquidated and thus wouldn't have their liquidation count incremented.  On the flip side of this, if that user doesn't have $45 in their USDC.e rewards balance, they would get liquidated.&#x20;
+
+Within the project, we have built in many ways a user can increase their USDC.e rewards on the contract. Referring people to the project gives you 2% of their minting transaction cost. The minting raffle increases any of the winner's USDC.e balance on the contract, and the Royalty Raffle will do the same. A user can also load USDC.e into their own rewards balance. This would allow a user always to have USDC.e in their account and avoid liquidation. As long as the user has $45 in their USDC.e balance, they can't get liquidated. Users can deposit up to $540 into their own USDC.e rewards, which would protect them from liquidation for ≈ three years.&#x20;
 
 
 
