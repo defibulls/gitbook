@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/Farm.png
+cover: ../../.gitbook/assets/Farm (1).png
 coverY: 289.6
 ---
 

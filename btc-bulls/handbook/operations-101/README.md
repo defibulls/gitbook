@@ -1,5 +1,5 @@
 ---
-cover: ../../../.gitbook/assets/Farm.png
+cover: ../../../.gitbook/assets/Farm (1).png
 coverY: 72
 ---
 
@@ -53,7 +53,7 @@ The Ranch BTC Bulls will not revolve around its own native token by design. The 
 
 ## MINTING NFTS
 
-When a user elects to enter the Minting raffle when minting BTC Bull NFTs, 3% of the transaction cost is held in the Minting Raffle Fund, and the user becomes eligible to win the raffle drawing when it reaches 100 entries. Opting into the raffle is a manual and voluntary process for the user themselves and only allows participation in that particular drawing.  If a user elects to mint 1 BTC Bull NFT or 10 BTC Bull NFTs and opts to enter the Daily Minting Raffle, they will be entered into the raffle one single time. A single winner shall receive the entire Daily Raffle amount, and then it is reset. When the Minting Raffle is reset, all users who mint new BTC Bull NFTs are eligible to enter the Raffle, this doesn't matter if it's the first time a user has minted or the user has taken part in previous Minting Raffles.&#x20;
+When a user elects to enter the Minting raffle when minting BTC Bull NFTs, 3% of the transaction cost is held in the Minting Raffle Fund, and the user becomes eligible to win the raffle drawing when it reaches 100 entries. Opting into the raffle is a manual and voluntary process and only allows participation in that particular drawing. If a user elects to mint 1 BTC Bull NFT or 10 BTC Bull NFTs and opts to enter the Minting Raffle, they will be entered into the raffle once. A single winner shall receive the entire Minting Raffle balance, which is then reset. When the Minting Raffle is reset, all users who mint new BTC Bull NFTs are eligible to enter the Raffle, this doesn't matter if it's the first time a user has minted or taken part in previous Minting Raffles.&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption><p>FIG 1</p></figcaption></figure>
 
@@ -71,21 +71,17 @@ All BTC mining efforts will be processed monthly between the 1st and 5th of the 
 
 **1/3** of all rewards received from the mining facility will be reinvested back into the mining cluster to purchase more BTC miners.&#x20;
 
-**2/3** of the monthly reward received will be converted to WBTC and deposited into the BTC Bulls Smart Contract, with 10% going back to The Ranch Core Team for continued project growth, security measures, and marketing. The remaining 90% is then dispersed to the owners of the BTC Bulls NFTs in pro-rata format. Using this approach, each NFT is awarded the exact same amount. An address owning 5 NFTs would get 5x more WBTC rewards than a person owning a single NFT.
+**2/3** of the monthly reward received will be converted to WBTC and deposited into the BTC Bulls Smart Contract, with 10% going back to The Ranch Core Team for continued project growth, security measures, and marketing. The remaining 90% is then dispersed to the owners of the BTC Bulls NFTs in pro-rata format. Using this approach, each NFT is awarded the same amount. An address owning 5 NFTs would get 5x more WBTC rewards than a wallet address owning a single NFT.
 
 <figure><img src="../../../.gitbook/assets/image (2) (4) (1).png" alt=""><figcaption><p>FIG 3</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (1) (4).png" alt=""><figcaption><p>FIG 4</p></figcaption></figure>
-
-## MAINTENANCE FEES
-
-
+## HOSTING FEES
 
 The key to the success and profitability of this project is all about the timing of the start of the project. The price of the BTC miners and the hosting/electricity fees are the key factors. In December of 2021, an S19j Pro BTC Miner cost roughly $13K. Today, due to market conditions and the onset of the bear market, that same S19j Pro BTC MIner can be purchased for nearly $3K.&#x20;
 
-This is the prime reason the project is kicking off now and relies heavily on the bear market. We have purchased BTC miners leading up to the start of this project to vet out the sellers and hosting facilities. Anyone can buy a single miner themselves and host it at their house. For the sake of an Antminer S19j Pro 100 TH/s, the challenge for said buyer is that the Miner requires a 240v outlet and a suitable place to host it. As an owner of an Antminer s19a Pro 110 TH/s sitting in my garage now, I can tell you without a doubt that these sound like a freight train, produce way more heat than you want to deal with, and cost more in electricity than you would pay at these hosting facilities. I personally have to pay $0.12 (which isn't that bad in terms of the national price of electricity in the US) kWh at my home. This doesn't compare to what we can expect with flare gas locations, where we can get our electric fees down to $.070&#x20;
+This is the prime reason the project is kicking off now and relies heavily on the bear market. We have purchased BTC miners leading up to the start of this project to vet out the sellers and hosting facilities. Anyone can buy a single miner themselves and host it at their house. For the sake of an Antminer S19j Pro 100 TH/s, the challenge for said buyer is that the Miner requires a 240v outlet and a suitable place to host it. As an owner of an Antminer s19a Pro 110 TH/s sitting in my garage now, I can tell you without a doubt that these sound like a freight train, produce way more heat than you want to deal with, and cost more in electricity than you would pay at these hosting facilities. I have to pay $0.12 (which isn't that bad in terms of the national price of electricity in the US) kWh at my home. This doesn't compare to what we can expect with flare gas locations, where we can get our electric fees down to $.070&#x20;
 
-But what about the MAINTENANCE FEES? What is this, and why is this important? Let's play out an example of how this project will go. We start the project and sell our BTC Bull NFTs and purchase miners. We go through the first three tiers and sell 2999 BTC Bulls. Let's assume all buyers of NFTs choose to enter the daily raffle; 89% of the minting cost would go to buying miners for the project.&#x20;
+But what about the MAINTENANCE FEES? What is this, and why is this important? Let's play out an example of how this project will go. We start the project and sell our BTC Bull NFTs, and purchase miners. We go through the first three tiers and sell 2999 BTC Bulls. Let's assume all buyers of NFTs choose to enter the daily raffle; 89% of the minting cost would go to buying miners for the project.&#x20;
 
 * TIER 1 = (999 \* 350) \* 0.89&#x20;
 * TIER 2 = (1000 \* 360) \* 0.89&#x20;
@@ -105,7 +101,7 @@ The way the hosting works at the hosting facility is that they will provide us w
 
 $5.22 x 30days = $156.60/month
 
-The BTC MINERS SAFE is then used to purchase and start building the project's BTC MINER CLUSTER. Let's assume we can purchase 100 TH/s Antminer S19s for ≈$4000 each
+The BTC MINERS SAFE is then used to purchase and build the project's BTC MINER CLUSTER. Let's assume we can purchase 100 TH/s Antminer S19s for ≈$4000 each
 
 $960,888.50 / $4000 == ≈ 240 Antminer S19 100Th/s&#x20;
 
@@ -113,45 +109,45 @@ When factoring in tax or other transaction expenses, the BTC MINER CLUSTER start
 
 #### HOW DOES THE PROJECT PAY THE HOSTING INVOICE?
 
-Each BTC Bull NFT on the project shares the hosting invoice. In the current example, 240 miners on the invoice would be ≈ $38,000 if we average a $156.60 hosting fee per miner. Since we have 2999 BTC Bulls in circulation, each BTC Bull NFT will share that invoice, and $12.53 will be the calculated monthly maintenance fee.
+When BTC Bulls are minted from the contract, they work and live on the grounds of The Ranch.&#x20;
 
-As the project continues to grow and we mint out Tier 6, there will be 6999 BTC Bulls in circulation; this changes the maintenance fees accordingly. For the sake of this example, we would purchase more miners to add to the BTC MINING CLUSTER, but that could take up to 30 days to come online. Now that 6999 BTC Bull NFTs exist, a larger invoice is shared amongst more BTC Bulls.&#x20;
+<figure><img src="../../../.gitbook/assets/Farm (2).png" alt=""><figcaption></figcaption></figure>
 
-The next month, we bring online 240 more miners, then we would be sharing a ≈$76,000 invoice amongst 6999 BTC bulls, putting each BTC Bull maintenance fee for the month at about ≈$10.85
+As an owner of a BTC Bull(s), you are leasing the fenced plot of land, a stockyard, for your Bulls to live. Some owners will have stockyards with 1 or 2 Bulls, while others will create much larger ones. There is no limit on how many BTC Bulls can be housed within a particular stockyard. Each BTC Bull within your designated plot carries a $15 hosting fee per month. The collection of individual stockyard hosting fees goes directly to pay for the actual hosting fees of the project.&#x20;
 
-Through compounding efforts, our BTC Miner Cluster has the potential to grow to a very large and powerful number. We can't predict what the future holds for us and thus have set a monthly maintenance fee cap for all BTC Bulls. Even if the calculated monthly maintenance fee exceeds $15, the max maintenance fee for each BTC Bull will be $15.
+This approach allows each BTC Bull within The Ranch to share the hosting invoice evenly. In the above example, 240 miners on the invoice would be ≈ $38,000 if we average a $156.60 hosting fee per miner. Since we have 2999 BTC Bulls in circulation, each BTC Bull NFT will share that invoice, and we would be able to retain leftover  ≈ $7,000 within the HOSTING SAFE to pay on later hosting invoices.&#x20;
 
-From all our projections, see [projections](projections.md), the last thing we want to do as a project is burn our mined Bitcoin to pay for hosting fees. However, there is a delicate line between burning Bitcoin for hosting fees and having reasonable and consistent maintenance fee expectations for all BTC Bull NFT holders. &#x20;
+Through compounding efforts, our BTC Mining Cluster has the potential to grow to a very large and powerful number. The following month we could add more miners as more Tiers sell out and our compounding efforts start. This could give us an invoice of $185,000 shared between all 9960\* BTC Bulls. With the set hosting fees for each plot, once we collected the $15 from each BTC Bull, we would still be short of paying the monthly invoice.&#x20;
 
-A hosting invoice of $185,000 being shared between all 10,000 BTC Bulls works out to be $18.50 per NFT. With the maintenance fees cap in place, each BTC Bull gets a $15 maintenance fee for the month.&#x20;
+$185,000 - $149,400 == $30,600 left to cover&#x20;
 
-$185,000 - $150,000 == $30,000 left to cover&#x20;
+In this instance, we would have to convert $30,600 of our mined BTC to pay the remainder of the invoice. The rest of that mined BTC gets dispersed as monthly rewards, according to FIG 3.&#x20;
 
-In this instance, we would have to convert $30,000 of our mined BTC to pay for the hosting fees. The rest then gets dispersed as rewards for the month, according to FIG 3.&#x20;
+From all our projections, see [projections](projections.md), the last thing we want to do as a project is burn our mined Bitcoin to pay for hosting invoices. However, there is a delicate line between burning Bitcoin for hosting fees and having reasonable and consistent maintenance fee expectations for all BTC Bull NFT holders. &#x20;
 
-#### HOW DOES A USER PAY THEIR MAINTENANCE FEES?
+#### HOW DOES A USER PAY THEIR HOSTING FEES FOR THEIR STOCKYARD?
 
-Each transaction will go through this logic process when paying monthly maintenance fees. If a user has enough USDC.e on the contract, the maintenance fee amount will be deducted from their USDC.e balance when paying the maintenance fees. Otherwise, each user will need to pay the maintenance fees from their own personal wallet using USDC.e
+Each transaction will go through this logic process when paying monthly hosting fees. If a user has enough USDC.e within their hosting reserve balance on the contract, the maintenance fee amount will be deducted from that balance. Otherwise, each user will need to pay the hosting fees from their wallet using USDC.e&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption><p>FIG 5</p></figcaption></figure>
 
 #### HOSTING SAFE
 
-As noted in the Minting figures (FIG 1 and FIG 2), 5% of each minting transaction will fund the HOSTING SAFE. This money is kept in the HOSTING SAFE multi-sig wallet to pay for hosting fee invoices. Each month when users pay their maintenance fees, that money goes to replenish the HOSTING SAFE balance. &#x20;
+As noted in the Minting figures (FIG 1 and 2), 5% of each minting transaction will fund the HOSTING SAFE. This money is kept in the HOSTING SAFE multi-sig wallet to pay for hosting fee invoices. Each month when users pay their stockyard hosting fees, they replenish the HOSTING SAFE balance. &#x20;
 
-A very important concept and design of the project revolves around the HOSTING SAFE and what would happen if the HOSTING SAFE were to run out of money. As every user must pay their maintenance fees before being allowed to withdraw their rewards, this should take care of itself. If we are still in a deficit, this problem will likely crop up if enough users are not paying their maintenance fees over time. If this scenario does play out, we will have to use a portion of our monthly mining rewards to cover the invoice. The Ranch has simple ground rules to comply with; pay your fees to help yourself and the community alike. There is **NO** plan to punish all holders of BTC Bulls if this were to happen. This is why there is a liquidation function in the contract.&#x20;
+A very important concept and design feature of the project revolves around HOSTING SAFE and ensuring we keep funds in there to keep the project healthy. Every plot owner must pay the hosting fee for any BTC Bulls on the property within their plot. Every plot/stockyard owner within The Ranch has a 'Survey Clock' on their account ranging from 0-3. This represents how many pay periods can go by before The Ranch surveys its plot. A plot survey happens whenever a plot owner's account gets to zero on their survey clock.  When the survey clock does expire or gets to zero, their account is checked during the monthly pay period.&#x20;
 
-#### HOW IS THE LIQUIDATION FUNCTION USED?
+When a plot owner's stockyard is surveyed and checked, The Ranch is looking to redeem the hosting fees due from that plot owner.  This is a normal process within our ecosystem. Essentially what we are doing is checking to see if the plot owners hosting reserve balance can cover their hosting balance. If that is the case, we pay the hosting balance for that plot owner's account and automatically reset their hosting balance and survey clock. If the account hosting reserve balance can not cover the hosting balance, we are forced to settle up with the account in another way. We would take the WBTC in that owner's account and send it to the HOSTING SAFE multi-sig wallet and then reset that account's hosting balances and survey clock. Essentially we are liquidating the WBTC from that user's account and will have to sell it to help pay for the project hosting fee invoices. That plots owners account also has a counter that keeps track of how many liquidations they have, which will be incremented by 1.
+
+####
 
 <figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption><p>FIG 6</p></figcaption></figure>
 
-When monthly WBTC is deposited into the smart contract, the BTC Bull NFTs are rewarded in the pro-rata format. Variables and mappings are updated on the contract for each address that owns an NFT. The maintenance fees work like a clock and tick down each month during the 'reward' period. A 'reward' period happens between the 1st to 5th of each month. If a user lets their maintenance clock get to 0, that user gets checked for a possible liquidation event. In this project, liquidation means that the WBTC balance for that wallet address will be deducted from them and sent to the HOSTING SAFE. This is the WBTC that will be used to pay invoices in the absence of users paying maintenance fees. If this does happen to a user, their maintenance clock is reset back to three, and the total maintenance balance for that user is reset back to zero. That address also has a counter that keeps track of how many liquidations they have, which will be incremented by 1.&#x20;
+The key difference between our liquidation structure and other projects, such as StrongBlock, is if a user gets behind and doesn't pay their hosting fees. They wouldn't lose everything as you would have in StrongBlock. In our ecosystem, the user only forfeits the current WBTC in their account on our contract, and then they are reset back to good standing, ready to receive next month's WBTC rewards.&#x20;
 
-The key difference between our liquidation structure and other projects, such as StrongBlock, is if a user gets behind and doesn't pay the maintenance fees. They wouldn't lose everything as you would have in StrongBlock. In our ecosystem, the user would forfeit the current WBTC in their account on our contract, and then they are reset back to good standing, ready to receive next month's WBTC awards. &#x20;
+Plot owners do have the option to never be checked or surveyed. The only time any account is surveyed is if their survey clock gets to zero. A user can pay bi-monthly and never let their survey clock touch zero, and thus they would never be checked using this logic flow.  This approach is a manual process and perfectly fine for users to do. We wanted more of an autopay feature for plot owners and thus created the survey clock to handle it. As long as users have enough in their hosting reserve balance, that account can go for a long time without being liquidated.  &#x20;
 
-If a user's maintenance clock gets to zero, they are up for a possible liquidation event. We don't want to liquidate anyone and have made the contract work in a way that avoids this, if possible, by default. The contract will check If a user has more than three months of max maintenance fees, $45, in their USDC.e rewards balance. If that user does, we deduct the $45 from their USDC.e balance and send it to the HOSTING SAFE. That user then gets their maintenance clock reset back to three, and their maintenance fee balance resets to zero. This user will not be liquidated and thus wouldn't have their liquidation count incremented.  On the flip side of this, if that user doesn't have $45 in their USDC.e rewards balance, they would get liquidated.&#x20;
-
-Within the project, we have built many ways a user can increase their USDC.e rewards on the contract and will continue to build more as time goes on. Referring people to the project gives you 2% of their minting transaction cost. The minting raffle increases any of the winner's USDC.e balance on the contract, and the Royalty Raffle will do the same. A user can also load USDC.e into their own rewards balance. This would allow a user always to have USDC.e in their account and avoid liquidation. As long as the user has $45 in their USDC.e balance, they can't get liquidated. Users can deposit up to $540 into their own USDC.e rewards, which would protect them from liquidation for ≈ three years.&#x20;
+Within the project, we have built many ways a user can increase their USDC.e balances on the contract and will continue to build more as time goes on. Referring people to the project gives you 2% of their minting transaction cost. The minting raffle and the Royalty Raffle will do the same and have the ability to fund an account for a long time. Alternatively, a user can also load USDC.e into their hosting reserve balance to cover survey events.  This would allow a user always to have USDC.e in their account and avoid liquidation. As long as the user has more in their hosting reserver balance than they do in their hosting balance, they can't get liquidated. Users can deposit up to $1000 per transaction into their hosting reserve balance, protecting them from liquidation as far as the user wants to project it out into the future.&#x20;
 
 
 

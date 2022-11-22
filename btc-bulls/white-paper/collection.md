@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/Farm.png
+cover: ../../.gitbook/assets/Farm (1).png
 coverY: -446.4
 ---
 
@@ -16,7 +16,7 @@ coverY: -446.4
 * Initial Raffle opportunity upon minting a BTC Bull and long-term raffle opportunities through Royalty Raffle
 * &#x20;20 BTC Bulls are considered 'enlightened' and thus the rarest!&#x20;
   * Once revealed, 'Enlightened' BTC Bulls are maintenance fee exempt moving forward\*\* &#x20;
-  *   The location of 'Enlightened' BTC Bulls is unknown to all, including the team. We only know 23 exist within the collection.
+  *   The location of 'Enlightened' BTC Bulls is unknown to all, including the team. We only know 20 exist within the collection.
 
       <img src="../../.gitbook/assets/image.png" alt="" data-size="original">
 
