@@ -32,7 +32,7 @@ Check them out: [https://compassmining.io/](https://compassmining.io/)
 
 The BTC Bulls Community is an NFT collection built on the Polygon Blockchain, with 10,000 BTC Bulls being released in 10 different tiers. Each tier must be bought out completely before the next tier opens. USDC.e is the token used for purchasing in all tiers.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1) (3).png" alt="Cost breakdown when buying BTC Bulls"><figcaption><p>FIG 0</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (3) (1).png" alt="Cost breakdown when buying BTC Bulls"><figcaption><p>FIG 0</p></figcaption></figure>
 
 
 

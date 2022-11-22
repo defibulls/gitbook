@@ -1,6 +1,6 @@
 # MAINTENANCE FEES
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 A hypothetical example outlines how this works for two users, Star and Triangle.
 
