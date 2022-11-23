@@ -8,11 +8,11 @@ description: Information on this page only refers to the BTC Bulls and not the B
 
 When a user elects to enter the Minting raffle when minting BTC Bull NFTs, 3% of the transaction cost is held in the Minting Raffle Fund, and the user becomes eligible to win the raffle drawing when it reaches 100 entries. Opting into the raffle is a manual and voluntary process and only allows participation in that particular drawing. If a user elects to mint 1 BTC Bull NFT or 10 BTC Bull NFTs and opts to enter the Minting Raffle, they will be entered into the raffle once. A single winner shall receive the entire Minting Raffle balance, which is then reset. When the Minting Raffle is reset, all users who mint new BTC Bull NFTs are eligible to enter the Raffle, this doesn't matter if it's the first time a user has minted or taken part in previous Minting Raffles.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>FIG Bull_1</p></figcaption></figure>
 
 When a user does not elect to enter the Minting Raffle, the 3% that would have gone to the Minting Raffle Fund is then passed to the BTC Miners Safe. The user will not be entered into the Minting Raffle during this transaction. Thus, they are not eligible to win it.
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>FIG Bull_2</p></figcaption></figure>
 
 
 
@@ -75,20 +75,6 @@ As noted in the Minting figures (FIG 1 and 2), 5% of each minting transaction wi
 A very important concept and design feature of the project revolves around HOSTING SAFE and ensuring we keep funds in there to keep the project healthy. Every plot owner must pay the hosting fee for any BTC Bulls on the property within their plot. Every plot/stockyard owner within The Ranch has a 'Survey Clock' on their account ranging from 0-3. This represents how many pay periods can go by before The Ranch surveys its plot. A plot survey happens whenever a plot owner's account gets to zero on their survey clock.  When the survey clock does expire or gets to zero, their account is checked during the monthly pay period.&#x20;
 
 When a plot owner's stockyard is surveyed and checked, The Ranch is looking to redeem the hosting fees due from that plot owner.  This is a normal process within our ecosystem. Essentially what we are doing is checking to see if the plot owners hosting reserve balance can cover their hosting balance. If that is the case, we pay the hosting balance for that plot owner's account for them with their hosting reserve automatically and reset their hosting balance back to 0 and survey clock to 3. If the account hosting reserve balance can not cover the hosting balance, we are forced to settle up with the account in another way. We would take the WBTC in that owner's account and send it to the HOSTING SAFE multi-sig wallet and then reset that account's hosting balances and survey clock. Essentially we are liquidating the WBTC from that user's account and will have to sell it to help pay for the project hosting fee invoices. That plots owners account also has a counter that keeps track of how many liquidations they have, which will be incremented by 1.
-
-
-
-
-
-
-
-
-
-##
-
-####
-
-####
 
 <figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption><p>FIG 5</p></figcaption></figure>
 
