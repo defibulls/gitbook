@@ -18,11 +18,11 @@ coverY: -446.4
   * Once revealed, 'Enlightened' BTC Bulls are maintenance fee exempt moving forward\*\* &#x20;
   *   The location of 'Enlightened' BTC Bulls is unknown to all, including the team. We only know 20 exist within the collection.
 
-      <img src="../../.gitbook/assets/image.png" alt="" data-size="original">
+      <img src="../../.gitbook/assets/image (4).png" alt="" data-size="original">
 
 ## BTC Bears
 
-![](<../../.gitbook/assets/invisible2-modified (6).png>)
+![](<../../.gitbook/assets/invisible2-modified (2).png>)
 
 ### **A collection of 10,000 BTC Bear NFTs on the Polygon Blockchain.**&#x20;
 

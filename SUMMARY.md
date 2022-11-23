@@ -14,6 +14,7 @@
   * [VISION](trbc/handbook/vision.md)
   * [COLLECTION](trbc/handbook/collection.md)
   * [OPERATIONS 101](trbc/handbook/operations-101/README.md)
+    * [BTC Bulls](trbc/handbook/operations-101/btc-bulls.md)
     * [ROYALTY RAFFLE](trbc/handbook/operations-101/royalty-raffle.md)
     * [MAINTENANCE FEES](trbc/handbook/operations-101/maintenance-fees.md)
     * [PROJECTIONS](trbc/handbook/operations-101/projections.md)
