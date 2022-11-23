@@ -22,17 +22,13 @@ The key to the success and profitability of this project is all about the timing
 
 This is the prime reason the project is kicking off now and relies heavily on the bear market. We have purchased BTC miners leading up to the start of this project to vet out the sellers and hosting facilities. Anyone can buy a single miner themselves and host it at their house. For the sake of an Antminer S19j Pro 100 TH/s, the challenge for said buyer is that the Miner requires a 240v outlet and a suitable place to host it. As an owner of an Antminer s19a Pro 110 TH/s sitting in my garage now, I can tell you without a doubt that these sound like a freight train, produce way more heat than you want to deal with, and cost more in electricity than you would pay at these hosting facilities. I have to pay $0.12 (which isn't that bad in terms of the national price of electricity in the US) kWh at my home. This doesn't compare to what we can expect with flare gas locations, where we can get our electric fees down to $.070&#x20;
 
-But what about the MAINTENANCE FEES? What is this, and why is this important? Let's play out an example of how this project will go. We start the project and sell our BTC Bull NFTs, and purchase miners. We go through the first three tiers and sell 2999 BTC Bulls. Let's assume all buyers of NFTs choose to enter the daily raffle; 89% of the minting cost would go to buying miners for the project.&#x20;
+But what about the HOSTING FEES? What is this, and why is this important? Let's play out an example of how this project will go. We start the project and sell our BTC Bull NFTs, and purchase miners. We go through the first three tiers and sell 2999 BTC Bulls. Let's assume all buyers of NFTs choose to enter the daily raffle; 89% of the minting cost would go to buying miners for the project.&#x20;
 
 * TIER 1 = (999 \* 350) \* 0.89&#x20;
 * TIER 2 = (1000 \* 360) \* 0.89&#x20;
 * TIER 3 = (1000 \* 370) \* 0.89&#x20;
 
-
-
 BTC MINERS SAFE == ((999 \* 350) + (1000 \* 360) + (1000 \* 370 )) \* 0.89  ==  $960,888.50
-
-
 
 The way the hosting works at the hosting facility is that they will provide us with a monthly invoice for each miner they host that is calculated like this:&#x20;
 
@@ -46,15 +42,15 @@ The BTC MINERS SAFE is then used to purchase and build the project's BTC MINER C
 
 $960,888.50 / $4000 == ≈ 240 Antminer S19 100Th/s&#x20;
 
-When factoring in tax or other transaction expenses, the BTC MINER CLUSTER starts off with about 240 s19j Pro miners or about 24,000 TH/s of mining power.&#x20;
+When factoring in tax or other transaction expenses, the BTC MINER CLUSTER starts with about 240 s19j Pro miners or about 24,000 TH/s of mining power.&#x20;
 
-#### HOW DOES THE PROJECT PAY THE HOSTING INVOICE?
+#### HOW DOES THE BTC BULLS COMMUNITY PAY THE HOSTING INVOICE?
 
 When BTC Bulls are minted from the contract, they work and live on the grounds of The Ranch.&#x20;
 
 <figure><img src="../../../.gitbook/assets/Farm (2).png" alt=""><figcaption></figcaption></figure>
 
-As an owner of a BTC Bull(s), you are leasing the fenced plot of land, a stockyard, for your Bulls to live. Some owners will have stockyards with 1 or 2 Bulls, while others will create much larger ones. There is no limit on how many BTC Bulls can be housed within a particular stockyard. Each BTC Bull within your designated plot carries a $15 hosting fee per month. The collection of individual stockyard hosting fees goes directly to pay for the actual hosting fees of the project.&#x20;
+As an owner of a BTC Bull(s), you are leasing the fenced plot of land, a stockyard, for your Bulls to live. Some owners will have stockyards with 1 or 2 Bulls, while others will create much larger ones. There is no limit on how many BTC Bulls can be housed within a particular stockyard. Each BTC Bull within your designated plot carries a $15 hosting fee per month. The collection of individual stockyard hosting fees goes directly to pay for the actual hosting fees of the BTC Bulls mining cluster at Compass Mining.&#x20;
 
 This approach allows each BTC Bull within The Ranch to share the hosting invoice evenly. In the above example, 240 miners on the invoice would be ≈ $38,000 if we average a $156.60 hosting fee per miner. Since we have 2999 BTC Bulls in circulation, each BTC Bull NFT will share that invoice, and we would be able to retain leftover  ≈ $7,000 within the HOSTING SAFE to pay on later hosting invoices.&#x20;
 
