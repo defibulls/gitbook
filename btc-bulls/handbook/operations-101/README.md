@@ -129,7 +129,7 @@ From all our projections, see [projections](projections.md), the last thing we w
 
 Each transaction will go through this logic process when paying monthly hosting fees. If a user has enough USDC.e within their hosting reserve balance on the contract, the maintenance fee amount will be deducted from that balance. Otherwise, each user will need to pay the hosting fees from their wallet using USDC.e&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption><p>FIG 5</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption><p>FIG 4</p></figcaption></figure>
 
 #### HOSTING SAFE
 
@@ -137,9 +137,9 @@ As noted in the Minting figures (FIG 1 and 2), 5% of each minting transaction wi
 
 A very important concept and design feature of the project revolves around HOSTING SAFE and ensuring we keep funds in there to keep the project healthy. Every plot owner must pay the hosting fee for any BTC Bulls on the property within their plot. Every plot/stockyard owner within The Ranch has a 'Survey Clock' on their account ranging from 0-3. This represents how many pay periods can go by before The Ranch surveys its plot. A plot survey happens whenever a plot owner's account gets to zero on their survey clock.  When the survey clock does expire or gets to zero, their account is checked during the monthly pay period.&#x20;
 
-When a plot owner's stockyard is surveyed and checked, The Ranch is looking to redeem the hosting fees due from that plot owner.  This is a normal process within our ecosystem. Essentially what we are doing is checking to see if the plot owners hosting reserve balance can cover their hosting balance. If that is the case, we pay the hosting balance for that plot owner's account and automatically reset their hosting balance and survey clock. If the account hosting reserve balance can not cover the hosting balance, we are forced to settle up with the account in another way. We would take the WBTC in that owner's account and send it to the HOSTING SAFE multi-sig wallet and then reset that account's hosting balances and survey clock. Essentially we are liquidating the WBTC from that user's account and will have to sell it to help pay for the project hosting fee invoices. That plots owners account also has a counter that keeps track of how many liquidations they have, which will be incremented by 1.
+When a plot owner's stockyard is surveyed and checked, The Ranch is looking to redeem the hosting fees due from that plot owner.  This is a normal process within our ecosystem. Essentially what we are doing is checking to see if the plot owners hosting reserve balance can cover their hosting balance. If that is the case, we pay the hosting balance for that plot owner's account for them with their hosting reserve automatically and reset their hosting balance back to 0 and survey clock to 3. If the account hosting reserve balance can not cover the hosting balance, we are forced to settle up with the account in another way. We would take the WBTC in that owner's account and send it to the HOSTING SAFE multi-sig wallet and then reset that account's hosting balances and survey clock. Essentially we are liquidating the WBTC from that user's account and will have to sell it to help pay for the project hosting fee invoices. That plots owners account also has a counter that keeps track of how many liquidations they have, which will be incremented by 1.
 
-<figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption><p>FIG 5</p></figcaption></figure>
 
 The key difference between our liquidation structure and other projects, such as StrongBlock, is if a user gets behind and doesn't pay their hosting fees. They wouldn't lose everything as you would have in StrongBlock. In our ecosystem, the user only forfeits the current WBTC in their account on our contract, and then they are reset back to good standing, ready to receive next month's WBTC rewards.&#x20;
 
@@ -151,19 +151,13 @@ Within the project, we have built many ways a user can increase their USDC.e bal
 
 ## HOW LONG DOES EACH MINER LAST, AND WHAT IS DONE WHEN THEY FAIL?
 
-We are projecting each miner to be operational for 60 months. Some will last longer, and others will fail before that time. When designing the project, we had two options. (1) Take 100% of all the mining rewards and disperse those to the community, or (2) Take a percentage of the mining Rewards Monthly and continue buying more miners for the project. Had we gone with option 1, the BTC Bulls' revenue stream would die around 60 months. The goal of the project is to mine Bitcoin until the very end. Turning back a portion of the monthly profits to buy more miners is how we are going to do that. We are going to use 1/3 of all monthly rewards to purchase more miners. 2/3 of that monthly mined amount is then dispersed into the contract and distributed according to FIG 3.
-
-#### WHAT HAPPENS WHEN THE MINERS DIE/FAIL?
-
-When a miner fails, most likely, it will be a hashboard or power supply issue. If that is the case, the hosting staff will fix those miners on-site, and we will pay for fixes with the HOSTING SAFE. If it's truly the end of life for a miner because it's not worth repairing, it's a best-effort attempt to get the most money we can from selling them. All revenue generated from selling a miner is dispersed back into the project, according to FIG 3. Miners will inevitably die, and hundreds, if not thousands, of miners will die during this project. That's why we will constantly be buying more miners as we turn 1/3 of monthly rewards back into new purchase orders.&#x20;
-
-
+We are projecting each miner to be operational for 60 months. Some will last longer, and others will fail before that time. All miners that can be repaired will be. If the miners are in bad enough condition, we will work with Compass Mining to get what we can for it, and then all those funds will be dispersed, as seen in FIG 3.&#x20;
 
 ## ![](<../../../.gitbook/assets/Networking (1).svg>) BTC BULL CENTRALITY
 
 Ownership of a BTC BULL is the central part of this project. Other assets will be deployed within the ecosystem, but all assets are tied back to the BTC Bulls. Future partnerships with other projects will have incentives for BTC Bull owners only. When we launch our native token of The Ranch, BTC Bull owners will be the only ones receiving them. &#x20;
 
-Any and all Raffles require ownership of a BTC Bull.&#x20;
+All Raffles require ownership of a BTC Bull.&#x20;
 
 ## ![](<../../../.gitbook/assets/Raffle Drawing Machine.svg>) RAFFLE
 
