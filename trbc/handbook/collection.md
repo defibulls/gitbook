@@ -22,7 +22,7 @@ coverY: -446.4
 
 ## BTC Bears
 
-![](<../../.gitbook/assets/invisible2-modified (3).png>)
+![](<../../.gitbook/assets/invisible2-modified (6).png>)
 
 ### **A collection of 10,000 BTC Bear NFTs on the Polygon Blockchain.**&#x20;
 
