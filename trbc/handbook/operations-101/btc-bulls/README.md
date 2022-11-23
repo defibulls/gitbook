@@ -8,11 +8,11 @@ description: Information on this page only refers to the BTC Bulls and not the B
 
 When a user elects to enter the Minting raffle when minting BTC Bull NFTs, 3% of the transaction cost is held in the Minting Raffle Fund, and the user becomes eligible to win the raffle drawing when it reaches 100 entries. Opting into the raffle is a manual and voluntary process and only allows participation in that particular drawing. If a user elects to mint 1 BTC Bull NFT or 10 BTC Bull NFTs and opts to enter the Minting Raffle, they will be entered into the raffle once. A single winner shall receive the entire Minting Raffle balance, which is then reset. When the Minting Raffle is reset, all users who mint new BTC Bull NFTs are eligible to enter the Raffle, this doesn't matter if it's the first time a user has minted or taken part in previous Minting Raffles.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>FIG Bull_1</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>FIG Bull_1</p></figcaption></figure>
 
 When a user does not elect to enter the Minting Raffle, the 3% that would have gone to the Minting Raffle Fund is then passed to the BTC Miners Safe. The user will not be entered into the Minting Raffle during this transaction. Thus, they are not eligible to win it.
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>FIG Bull_2</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (5).png" alt=""><figcaption><p>FIG Bull_2</p></figcaption></figure>
 
 
 
@@ -48,7 +48,7 @@ When factoring in tax or other transaction expenses, the BTC MINER CLUSTER start
 
 When BTC Bulls are minted from the contract, they work and live on the grounds of The Ranch.&#x20;
 
-<figure><img src="../../../.gitbook/assets/Farm (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Farm (2).png" alt=""><figcaption></figcaption></figure>
 
 As an owner of a BTC Bull(s), you are leasing the fenced plot of land, a stockyard, for your Bulls to live. Some owners will have stockyards with 1 or 2 Bulls, while others will create much larger ones. There is no limit on how many BTC Bulls can be housed within a particular stockyard. Each BTC Bull within your designated plot carries a $15 hosting fee per month. The collection of individual stockyard hosting fees goes directly to pay for the actual hosting fees of the BTC Bulls mining cluster at Compass Mining.&#x20;
 
@@ -66,7 +66,7 @@ From all our projections, see [projections](projections.md), the last thing we w
 
 Each transaction will go through this logic process when paying monthly hosting fees. If a user has enough USDC.e within their hosting reserve balance on the contract, the maintenance fee amount will be deducted from that balance. Otherwise, each user will need to pay the hosting fees from their wallet using USDC.e&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption><p>FIG 4</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption><p>FIG BULL_3</p></figcaption></figure>
 
 #### HOSTING SAFE
 
@@ -76,7 +76,7 @@ A very important concept and design feature of the project revolves around HOSTI
 
 When a plot owner's stockyard is surveyed and checked, The Ranch is looking to redeem the hosting fees due from that plot owner.  This is a normal process within our ecosystem. Essentially what we are doing is checking to see if the plot owners hosting reserve balance can cover their hosting balance. If that is the case, we pay the hosting balance for that plot owner's account for them with their hosting reserve automatically and reset their hosting balance back to 0 and survey clock to 3. If the account hosting reserve balance can not cover the hosting balance, we are forced to settle up with the account in another way. We would take the WBTC in that owner's account and send it to the HOSTING SAFE multi-sig wallet and then reset that account's hosting balances and survey clock. Essentially we are liquidating the WBTC from that user's account and will have to sell it to help pay for the project hosting fee invoices. That plots owners account also has a counter that keeps track of how many liquidations they have, which will be incremented by 1.
 
-<figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption><p>FIG 5</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (13).png" alt=""><figcaption><p>FIG 5</p></figcaption></figure>
 
 The key difference between our liquidation structure and other projects, such as StrongBlock, is if a user gets behind and doesn't pay their hosting fees. They wouldn't lose everything as you would have in StrongBlock. In our ecosystem, the user only forfeits the current WBTC in their account on our contract, and then they are reset back to good standing, ready to receive next month's WBTC rewards.&#x20;
 
@@ -86,9 +86,9 @@ Within the project, we have built many ways a user can increase their USDC.e bal
 
 
 
-## ![](<../../../.gitbook/assets/image (1).png>)RAFFLE
+## ![](<../../../../.gitbook/assets/image (1).png>)RAFFLE
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 The entire raffle process is NOT controlled by the owners of the contract in any way, as we are utilizing Chainlinks VRFv2.&#x20;
 
