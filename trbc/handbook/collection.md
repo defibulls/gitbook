@@ -5,7 +5,7 @@ coverY: -446.4
 
 # COLLECTION
 
-## BTC Bulls
+## ![](<../../.gitbook/assets/invisible1-modified (3).png>)BTC Bulls
 
 ### ****![](../../.gitbook/assets/47.png)****![](../../.gitbook/assets/62.png)****
 
@@ -22,7 +22,7 @@ coverY: -446.4
 
 ## BTC Bears
 
-![](<../../.gitbook/assets/invisible2-modified (2).png>)
+![](../../.gitbook/assets/invisible1-modified.png)![](<../../.gitbook/assets/invisible2-modified (2).png>)
 
 ### **A collection of 10,000 BTC Bear NFTs on the Polygon Blockchain.**&#x20;
 
