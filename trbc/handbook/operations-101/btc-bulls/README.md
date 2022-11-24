@@ -48,7 +48,7 @@ When factoring in tax or other transaction expenses, the BTC MINER CLUSTER start
 
 <figure><img src="../../../../.gitbook/assets/Farm (2).png" alt=""><figcaption></figcaption></figure>
 
-As an owner of a BTC Bull(s), you are leasing the fenced plot of land, a stockyard, for your Bulls to live. Some owners will have stockyards with 1 or 2 Bulls, while others will create much larger ones. There is no limit on how many BTC Bulls can be housed within a particular stockyard. Each BTC Bull within your designated plot carries a $15 hosting fee per month. The collection of individual stockyard hosting fees goes directly to pay for the actual hosting fees of the BTC Bulls mining cluster at Compass Mining.&#x20;
+As an owner of a BTC Bull(s), you are leasing the fenced plot of land, a stockyard, for your Bulls to live. Some owners will have stockyards with 1 or 2 Bulls, while others can create much larger ones. There is no limit on how many BTC Bulls can be housed within a particular stockyard. Each BTC Bull within your designated plot carries a $15 hosting fee per month. The collection of individual stockyard hosting fees goes directly to pay for the actual hosting fees of the BTC Bulls mining cluster at Compass Mining.&#x20;
 
 This approach allows each BTC Bull within The Ranch to share the hosting invoice evenly. In the above example, 240 miners on the invoice would be ≈ $38,000 if we average a $156.60 hosting fee per miner. Since we have 2999 BTC Bulls in circulation, each BTC Bull NFT will share that invoice, and we would be able to retain leftover  ≈ $7,000 within the HOSTING SAFE to pay on later hosting invoices.&#x20;
 
@@ -62,21 +62,39 @@ From all our projections, see [projections](projections.md), the last thing we w
 
 &#x20;_\* 9960 comes from 20 BTC Bulls exempt from Minting Luck, + we will rotate 20 other BTC Bulls every three months (January, April, July, and October) via a drawing._&#x20;
 
-#### HOW DOES A USER PAY THEIR HOSTING FEES FOR THEIR STOCKYARD?
+#### THE HOSTING SAFE
 
-We have two ways users can pay their respective hosting fees. A manual transaction will go through this logic in the following figure when paying monthly hosting fees. If a user has enough USDC.e within their hosting reserve balance on the contract, the maintenance fee amount will be deducted from that balance. Otherwise, each user will need to pay the hosting fees from their wallet using USDC.e&#x20;
+A very important concept and design feature of the project revolves around HOSTING SAFE and ensuring we keep funds in there to keep the project healthy. Every plot owner must pay the hosting fee for all their BTC Bulls on the property. Every plot/stockyard owner within The Ranch has a 'Hosting Clock' on their account ranging from 0-3. This represents how many monthly reward periods can go by before The Ranch queries your stockyard account. The Ranch only queries accounts whenever a plot owner's account reaches zero on their hosting clock. &#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (5).png" alt=""><figcaption><p>FIG BULL_3</p></figcaption></figure>
+Essentially plot owner accounts look like this:&#x20;
 
-#### HOSTING SAFE
+<figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>FIG Bull_3</p></figcaption></figure>
+
+When a plot owner's stockyard is checked, The Ranch is confirming the hosting fee balance for the account is in good shape. This is a normal process within our ecosystem. Essentially what we are doing is checking to see if the plot owner has WBTC rewards in their account. If any account does, they would have been given hosting fees as well during that event. We are confirmed there are no hosting fees due from the stockyard owner. If hosting fees are due, we will check the account hosting reserve balance and see if it is larger than the hosting fee balance on the account. If that is the case, we will auto-pay the hosting fee balance for that plot owner's account using their hosting reserve balance and reset their hosting invoice balance to 0 and their survey clock to 3. If the account hosting reserve balance can not cover the hosting fee balance, we are forced to settle up with the account in another way. We would take the WBTC in that owner's account and send it to the HOSTING SAFE multi-sig wallet and then reset that account's hosting fee balance and set the hosting clock to 3. Essentially we are liquidating the WBTC from that user's account and will have to sell it to help pay for the community hosting fee invoices at the mining facility. That plots owners account also has a counter that keeps track of how many times they have been liquidated, which will be incremented by 1.
+
+####
+
+####
+
+####
+
+####
+
+#### PAYING HOSTING FEES
+
+Each BTC Bull owners account looks like this:&#x20;
+
+We have two ways users can pay their respective hosting fees. A can submit a manual transaction using this logic in the following figure when paying monthly hosting fees. If a user has enough USDC.e within their hosting fee reserve balance on the contract, the hosting fee balance will be deducted from that balance. Otherwise, the user will need to pay the hosting fees from their wallet using USDC.e
+
+<figure><img src="../../../../.gitbook/assets/image (5).png" alt=""><figcaption><p>FIG BULL_4</p></figcaption></figure>
+
+#### AUTO-PAY AND THE HOSTING SAFE
 
 As noted in the Minting figures (FIG 1 and 2), 5% of each minting transaction will fund the HOSTING SAFE. This money is kept in the HOSTING SAFE multi-sig wallet to pay for hosting fee invoices. Each month when users pay their stockyard hosting fees, they replenish the HOSTING SAFE balance. &#x20;
 
-A very important concept and design feature of the project revolves around the HOSTING SAFE and ensuring we keep funds in there to keep the project healthy. Every plot owner must pay the hosting fee for all of their BTC Bulls on the property. Every plot/stockyard owner within The Ranch has a 'Survey Clock' on their account ranging from 0-3. This represents how many monthly reward periods can go by before The Ranch surveys its plot. A plot survey happens whenever a plot owner's account gets to zero on their survey clock.  When the survey clock does expire and gets to zero, their account is checked during the monthly reward period.&#x20;
 
-When a plot owner's stockyard is surveyed and checked, The Ranch is looking to redeem the hosting fees due from that plot owner.  This is a normal process within our ecosystem. Essentially what we are doing is checking to see if the plot owners hosting reserve balance can cover their hosting invoice balance. If that is the case, we pay the hosting invoice balance for that plot owner's account using their account hosting reserve balance and reset their hosting invoice balance to 0 and their survey clock to 3. If the account hosting reserve balance can not cover the hosting invoice balance, we are forced to settle up with the account in another way. We would take the WBTC in that owner's account and send it to the HOSTING SAFE multi-sig wallet and then reset that account's hosting invoice balance and set the survey clock to 3. Essentially we are liquidating the WBTC from that user's account and will have to sell it to help pay for the community hosting fee invoices at the mining facility. That plots owners account also has a counter that keeps track of how many liquidations they have, which will be incremented by 1.
 
-<figure><img src="../../../../.gitbook/assets/image (13).png" alt=""><figcaption><p>FIG 5</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (13).png" alt=""><figcaption><p>FIG Bull_5</p></figcaption></figure>
 
 The key difference between our liquidation structure and other projects, such as StrongBlock, is if a user gets behind and doesn't pay their hosting fees. They wouldn't lose everything as you would have in StrongBlock. In our ecosystem, the user only forfeits the current WBTC in their account on our contract, and then they are reset back to good standing, ready to receive next month's WBTC rewards.&#x20;
 

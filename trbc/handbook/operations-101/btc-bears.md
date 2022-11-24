@@ -8,13 +8,13 @@ description: Information on this page only refers to the BTC Bears and not the B
 
 When a user elects to enter the Minting raffle when minting BTC Bears NFTs, 3% of the transaction cost is held in the Minting Raffle Fund, and the user becomes eligible to win the Minting Raffle when it reaches 100 entries. Opting into the raffle is a manual and voluntary process and only allows participation in that particular drawing. If a user elects to mint 1 BTC Bear NFT or 10 BTC Bear NFTs and opts to enter the Minting Raffle, they will be entered into the raffle once. A single winner shall receive the entire Minting Raffle balance, which is then reset. When the Minting Raffle is reset, all users who mint new BTC Bear NFTs are eligible to enter the Raffle; this doesn't matter if it's the first time a user has minted or taken part in previous Minting Raffles.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>FIG Bear_1</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (4).png" alt=""><figcaption><p>FIG Bear_1</p></figcaption></figure>
 
 
 
 When a user does not elect to enter the Minting Raffle, the 3% that would have gone to the Minting Raffle Fund is then passed to the BTC Miners Safe. The user will not be entered into the Minting Raffle during this transaction. Thus, they are not eligible to win it.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>FIG Bear_2</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>FIG Bear_2</p></figcaption></figure>
 
 
 

@@ -11,7 +11,7 @@ The BTC Bulls and BTC Bears are separate communities within The Ranch, built aro
 
 ## BITCOIN MINING
 
-<figure><img src="../../../.gitbook/assets/image (3) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 One person can mine Bitcoin alone, but it doesn't stack up against what we can do as a community.&#x20;
 
