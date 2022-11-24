@@ -60,6 +60,8 @@ In this instance, we would have to convert $30,600 of our mined BTC to pay the r
 
 From all our projections, see [projections](projections.md), the last thing we want to do as a community is burn our mined Bitcoin to pay for hosting invoices. However, there is a delicate line between burning Bitcoin for hosting fees and having reasonable and consistent maintenance fee expectations for all BTC Bull NFT holders. &#x20;
 
+&#x20;_\* 9960 comes from 20 BTC Bulls exempt from Minting Luck, + we will rotate 20 other BTC Bulls every three months (January, April, July, and October) via a drawing._&#x20;
+
 #### HOW DOES A USER PAY THEIR HOSTING FEES FOR THEIR STOCKYARD?
 
 We have two ways users can pay their respective hosting fees. A manual transaction will go through this logic in the following figure when paying monthly hosting fees. If a user has enough USDC.e within their hosting reserve balance on the contract, the maintenance fee amount will be deducted from that balance. Otherwise, each user will need to pay the hosting fees from their wallet using USDC.e&#x20;
