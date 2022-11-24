@@ -5,9 +5,9 @@ coverY: -446.4
 
 # COLLECTION
 
-## ![](<../../.gitbook/assets/invisible1-modified (3).png>)BTC Bulls
+## BTC Bulls
 
-### ****![](../../.gitbook/assets/47.png)****![](../../.gitbook/assets/62.png)****
+****![](../../.gitbook/assets/47.png)****![](../../.gitbook/assets/62.png)****
 
 ### **A collection of 10,000 BTC Bull NFTs on the Polygon Blockchain.**&#x20;
 
