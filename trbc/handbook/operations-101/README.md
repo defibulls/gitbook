@@ -24,7 +24,7 @@ The "Strength in numbers" aspect of the project will be the foundational reason 
 
 We are excited to partner with Compass Mining to launch the project as they'll be the best fit to make us as profitable as we can be for multiple reasons.  First and foremost, we will see our 'Enterprise' customer relationship bear fruit immediately with the initial cost of miners and hosting rates. Secondly, Compass does a great job on the back end handling all the logistics, security, maintenance, system uptime SLAs (service level agreements), and automation.&#x20;
 
-Another reason is that Compass gives us flexibility when we move out of this bear market. Any miners we buy now for extremely lower prices can later be sold on their platform to other customers as 'turn key' solutions for a 2-4x gain if we want to sell them and move into newer equipment.&#x20;
+Another reason partnering with Compass Mining is a great idea, they provide us flexibility when we move in more bullish times. Any miners we buy now for greatly reduced prices can later be sold on their platform to other customers as 'turn key' solutions for a 2-4x gain if we want to sell them and move into newer equipment.&#x20;
 
 Check them out: [https://compassmining.io/](https://compassmining.io/)
 
@@ -71,11 +71,11 @@ The Buddy System is an onboarding system for new participants in The Ranch Ecosy
 
 
 
-## FUTURE ADDITIONAL REVENUE STREAMS
+## ADDITIONAL REVENUE STREAMS
 
 There **WILL** be additional revenue opportunities within The Ranch in due time.&#x20;
 
-* Will BTC Bull or BTC Bear owners be able to vote on them? NO
+* Will BTC Bull or BTC Bear owners be able to vote on them? No
 
 This is one of the most important parts of The Ranch Ecosystem. There will be no voting for projects to see if the majority want to participate. As with all things, there will be good and bad investments. The important part is that each additional idea will be 100% optional. These additional revenue streams will also come from other Animals that live within The Ranch.&#x20;
 
@@ -87,27 +87,17 @@ If an owner of a BTC Bull/Bear thinks this is a great idea, then, by all means, 
 
 We are projecting each miner to be operational for 60 months. Some will last longer, and others will fail before that time. All miners that can be repaired will be. If the miners are in bad enough condition, we will work with Compass Mining to get what we can for it, and then all those funds will be dispersed, as seen in FIG 0.&#x20;
 
-## PAUSING OF THE CONTRACT:&#x20;
-
-#### WBTC DEPOSITS INTO THE CONTRACT:&#x20;
-
-Between the 1st to 5th day, 2/3 of the Bitcoin rewards will be withdrawn from the mining facility and converted to WBTC. When the WBTC is deposited into the contract and dispersed to BTC Bull owners, All WBTC withdraws will be paused during this short time. While the contract updates every account during this process, it is important to ensure all accounts are static and not in the middle of any transactions.&#x20;
-
-#### DURING THE MINTING RAFFLE
-
-During the Minting Raffle, The minting function will pause and no longer allow new mints for a few seconds to a couple of minutes. This is to allow the Minting Raffle function to work correctly without any data changing mid-process.  &#x20;
 
 
 
 
-
-## THE DIVIDE WITHIN THE RANCH
+## THE GREAT DIVIDE WITHIN THE RANCH
 
 ## ![](../../../.gitbook/assets/82.png)![](<../../../.gitbook/assets/invisible2-modified (4).png>)
 
 
 
-The BTC Bulls and the BTC Bears are different communities separated by different smart contracts and different wallets. The foundational divide between them resides in how they operate within the project. Everything above this section is the similarities between the communities. Everything to follow is grouped into the BTC Bulls Community or the BTC Bears Community. They are fundamentally different projects with different viewpoints. Only time will tell which side played their cards better.
+The BTC Bulls and the BTC Bears are different communities separated by different smart contracts and different wallets. The foundational divide between them resides in how they operate within the project. Everything above this section is the similarities between the two communities. Everything to follow is grouped into the BTC Bulls Community or the BTC Bears Community. They are fundamentally different projects with different viewpoints. Only time will tell which side played their cards better.
 
 
 
