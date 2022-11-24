@@ -9,7 +9,27 @@ coverY: 72
 
 The BTC Bulls and BTC Bears are separate communities within The Ranch, built around Bitcoin Mining. This project combines a MAAS (mining-as-a-service) and a club. The heart of the ecosystem is buying BTC Bulls and/or BTC Bears, a way of buying into a fractionalized BTC mining cluster and sharing mining rewards.  There is strength in numbers, and the BTC Bulls and the BTC Bears, while separate, will put this on full display as a community.&#x20;
 
-## BITCOIN MINING
+## WHY START THE PROJECT?
+
+The key to the success and profitability of this project is all about the timing of the start of the project. The price of the BTC miners and the hosting/electricity fees are the key factors. In December of 2021, an S19j Pro BTC Miner cost roughly $13K. Today, due to market conditions and the onset of the bear market, that same S19j Pro BTC MIner can be purchased for nearly $3K.&#x20;
+
+This is the prime reason the project is kicking off now and relies heavily on the bear market. We have purchased BTC miners leading up to the start of this project to vet out the sellers and hosting facilities. Anyone can buy a single miner themselves and host it at their house. For the sake of an Antminer S19j Pro 100 TH/s, the challenge for said buyer is that the Miner requires a 240v outlet and a suitable place to host it. As an owner of an Antminer s19a Pro 110 TH/s sitting in my garage now, I can tell you without a doubt that these sound like a freight train, produce way more heat than you want to deal with, and cost more in electricity than you would pay at these hosting facilities. I have to pay $0.12 (which isn't that bad in terms of the national price of electricity in the US) kWh at my home. This doesn't compare to what enterprise clients at mining facilities get by default; buying in bulk allows the 'big boys' to start with electricity prices at or below $.070 kWh. &#x20;
+
+The way the hosting works at large hosting facilities is that they will provide a monthly invoice for each miner they host that is calculated like this:&#x20;
+
+
+
+3,105watts x 24hr / 1000 = 74.52kWh                (Each S19 runs at about 3100-3200 watts)
+
+74.52kWh x 0.070$/kwh = $5.22                        (Cost of a single S19/day in electricity at low rate)
+
+$5.22 x 30 days = $156.60/month                      (Cost of electricity per month per miner)
+
+
+
+Knowing how critical energy costs are for any BTC mining operation, our project has to partner with someone with connections and deals with energy providers to make us as profitable as possible.&#x20;
+
+## PARTERNSHIPS
 
 <figure><img src="../../../.gitbook/assets/image (3) (4) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -71,23 +91,9 @@ The Buddy System is an onboarding system for new participants in The Ranch Ecosy
 
 
 
-## ADDITIONAL REVENUE STREAMS
-
-There **WILL** be additional revenue opportunities within The Ranch in due time.&#x20;
-
-* Will BTC Bull or BTC Bear owners be able to vote on them? No
-
-This is one of the most important parts of The Ranch Ecosystem. There will be no voting for projects to see if the majority want to participate. As with all things, there will be good and bad investments. The important part is that each additional idea will be 100% optional. These additional revenue streams will also come from other Animals that live within The Ranch.&#x20;
-
-* A future example would look like adding Kangaroos to The Ranch. These will be used to purchase Kadena Miners. For example, these Kangaroo NFTs could sell for $100
-
-If an owner of a BTC Bull/Bear thinks this is a great idea, then, by all means, take part in it and hopefully enjoy the upside from the investment. On the flip side of that, If an owner of a BTC Bull/Bear thinks this isn't on board with the idea, then stay away from them. All money to purchase these Miners will stem from the sale of Kangaroo NFTs (TRKK). The success or failure of these TRKK NFTs will have no bearing on those who do not participate. That is the foundational reason no voting will be needed. If you like the idea, jump in. Think it's not for you, then it's not for you.&#x20;
-
 ## HOW LONG DOES EACH MINER LAST, AND WHAT IS DONE WHEN THEY FAIL?
 
 We are projecting each miner to be operational for 60 months. Some will last longer, and others will fail before that time. All miners that can be repaired will be. If the miners are in bad enough condition, we will work with Compass Mining to get what we can for it, and then all those funds will be dispersed, as seen in FIG 0.&#x20;
-
-
 
 
 
