@@ -32,7 +32,7 @@ Both communities still host equipment at Compass Mining and will have monthly ho
 
 #### HOSTING SAFE
 
-As noted in the Minting figures (FIG 1 and 2), 5% of each minting transaction will fund the HOSTING SAFE. For the BTC Bears, this acts as a war chest in times of need. We don't have any mechanism to refill it, it's simply there when we need it and gone once we use it.&#x20;
+As noted in the Minting figures (FIG 1 and 2), 5% of each minting transaction will fund the HOSTING SAFE. For the BTC Bears, this acts as a war chest in times of need. We don't have any mechanism to refill it; it's simply there when we need it and gone once we drain it in time of need.&#x20;
 
 ## ![](<../../../.gitbook/assets/image (1) (5).png>)RAFFLE
 
