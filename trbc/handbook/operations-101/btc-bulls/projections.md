@@ -7,7 +7,7 @@
 3. All mined BTC goes back to the project and gets dispersed, according to [FIG 0](../#monthly-btc-mining-rewards). We are **NOT** taking a portion of the monthly revenue to invest in alt-coins or other investments. There will be opportunities within our ecosystem for alt-coin mining, alt-coins, and external promising projects, but they will be optional to partake in (see [additional revenue streams](../#additional-revenue-streams)). This allows us to retain as much BTC as possible and, more importantly, disperse as much BTC/WBTC back to each BTC Bull owner.&#x20;
 4. BTC/WBTC will be dispersed to NFT owners once the mining equipment is deployed. We will not withhold paying out NFT holders for months while we compound our mining efforts. We have built the 1/3 reinvestment/compound strategy for this exact reason.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (5).png" alt=""><figcaption><p>FIG 10</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (5) (3).png" alt=""><figcaption><p>FIG 10</p></figcaption></figure>
 
 
 

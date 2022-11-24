@@ -8,11 +8,13 @@ description: Information on this page only refers to the BTC Bears and not the B
 
 When a user elects to enter the Minting raffle when minting BTC Bears NFTs, 3% of the transaction cost is held in the Minting Raffle Fund, and the user becomes eligible to win the Minting Raffle when it reaches 100 entries. Opting into the raffle is a manual and voluntary process and only allows participation in that particular drawing. If a user elects to mint 1 BTC Bear NFT or 10 BTC Bear NFTs and opts to enter the Minting Raffle, they will be entered into the raffle once. A single winner shall receive the entire Minting Raffle balance, which is then reset. When the Minting Raffle is reset, all users who mint new BTC Bear NFTs are eligible to enter the Raffle; this doesn't matter if it's the first time a user has minted or taken part in previous Minting Raffles.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>FIG Bear_1</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>FIG Bear_1</p></figcaption></figure>
+
+
 
 When a user does not elect to enter the Minting Raffle, the 3% that would have gone to the Minting Raffle Fund is then passed to the BTC Miners Safe. The user will not be entered into the Minting Raffle during this transaction. Thus, they are not eligible to win it.
 
-<figure><img src="../../../.gitbook/assets/image (2) (5).png" alt=""><figcaption><p>FIG Bear_2</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>FIG Bear_2</p></figcaption></figure>
 
 
 
@@ -32,9 +34,9 @@ Both communities still host equipment at Compass Mining and will have monthly ho
 
 As noted in the Minting figures (FIG 1 and 2), 5% of each minting transaction will fund the HOSTING SAFE. For the BTC Bears, this acts as a war chest in times of need. We don't have any mechanism to refill it, it's simply there when we need it and gone once we use it.&#x20;
 
-## ![](<../../../.gitbook/assets/image (1).png>)RAFFLE
+## ![](<../../../.gitbook/assets/image (1) (5).png>)RAFFLE
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 The entire raffle process is NOT controlled by the owners of the contract in any way, as we are utilizing Chainlinks VRFv2.&#x20;
 

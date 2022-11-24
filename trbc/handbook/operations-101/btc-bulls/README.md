@@ -64,7 +64,7 @@ From all our projections, see [projections](projections.md), the last thing we w
 
 We have two ways users can pay their respective hosting fees. A manual transaction will go through this logic in the following figure when paying monthly hosting fees. If a user has enough USDC.e within their hosting reserve balance on the contract, the maintenance fee amount will be deducted from that balance. Otherwise, each user will need to pay the hosting fees from their wallet using USDC.e&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption><p>FIG BULL_3</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (5).png" alt=""><figcaption><p>FIG BULL_3</p></figcaption></figure>
 
 #### HOSTING SAFE
 
@@ -84,9 +84,9 @@ Within the project, we have built many ways a user can increase their USDC.e bal
 
 
 
-## ![](<../../../../.gitbook/assets/image (1).png>)RAFFLE
+## ![](<../../../../.gitbook/assets/image (1) (5).png>)RAFFLE
 
-<figure><img src="../../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 The entire raffle process is NOT controlled by the owners of the contract in any way, as we are utilizing Chainlinks VRFv2.&#x20;
 
