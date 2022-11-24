@@ -8,7 +8,7 @@ description: Information on this page only refers to the BTC Bulls and not the B
 
 When a user elects to enter the Minting raffle when minting BTC Bull NFTs, 3% of the transaction cost is held in the Minting Raffle Fund, and the user becomes eligible to win the raffle drawing when it reaches 100 entries. Opting into the raffle is a manual and voluntary process and only allows participation in that particular drawing. If a user elects to mint 1 BTC Bull NFT or 10 BTC Bull NFTs and opts to enter the Minting Raffle, they will be entered into the raffle once. A single winner shall receive the entire Minting Raffle balance, which is then reset. When the Minting Raffle is reset, all users who mint new BTC Bull NFTs are eligible to enter the Raffle; this doesn't matter if it's the first time a user has minted or taken part in previous Minting Raffles.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>FIG Bull_1</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (3).png" alt=""><figcaption><p>FIG Bull_1</p></figcaption></figure>
 
 When a user does not elect to enter the Minting Raffle, the 3% that would have gone to the Minting Raffle Fund is then passed to the BTC Miners Safe. The user will not be entered into the Minting Raffle during this transaction. Thus, they are not eligible to win it.
 
@@ -72,9 +72,7 @@ Essentially plot owner accounts look like this:&#x20;
 
 When a plot owner's stockyard is checked, The Ranch is confirming the hosting fee balance for the account is in good shape. This is a normal process within our ecosystem. Essentially what we are doing is checking to see if the plot owner has WBTC rewards in their account. If any account does, they would have been given hosting fees as well during that event. Since the account now has a HostingClock of zero, we are confirming that there is a larger Hosting Fee Reserve balance for the account than the Hosting Fee balance. If that is the case, we will auto-pay the hosting fee balance for that plot owner's account using their hosting reserve balance and reset their hosting invoice balance to 0 and their HostingClock to 3. If the account hosting reserve balance can not cover the hosting fee balance, we are forced to settle up with the account in another way. We would take the WBTC in that owner's account and send it to the HOSTING SAFE multi-sig wallet and then reset that account's hosting fee balance and set the hosting clock to 3. Essentially we are liquidating the WBTC from that user's account and will have to sell it to help pay for the community hosting fee invoices at the mining facility. That plots owners account also has a counter that keeps track of how many times they have been liquidated, which will be incremented by 1. The process flow looks like this:
 
-<figure><img src="../../../../.gitbook/assets/image (13).png" alt=""><figcaption><p>FIG Bull_5</p></figcaption></figure>
-
-
+<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption><p>FIG Bull_4</p></figcaption></figure>
 
 Using the Hosting Clock as a mechanism in auto-pay setup is only used when HostingClocks get to zero for an account. Users always have the option to pay for the hosting fees manually, which would never allow the HostingClock to tick down to zero. An owner can always do a manual hosting fee payment using this logic in the following figure. If a user has enough USDC.e within their hosting fee reserve balance, the hosting fee balance will be deducted from that balance. Otherwise, the user will need to pay the hosting fees from their wallet using USDC.e
 
@@ -82,15 +80,9 @@ A confirmed transaction sends the money to the Hosting Safe and resets the accou
 
 <figure><img src="../../../../.gitbook/assets/image (5).png" alt=""><figcaption><p>FIG BULL_4</p></figcaption></figure>
 
+The key difference between our liquidation structure and other projects, such as StrongBlock, is if a user gets behind and doesn't pay their hosting fees. They wouldn't lose everything as you would have in StrongBlock. In our ecosystem, the user only forfeits the current WBTC in their account on our contract, and then they are reset back to good standing, ready to receive next month's WBTC rewards. &#x20;
 
-
-
-
-The key difference between our liquidation structure and other projects, such as StrongBlock, is if a user gets behind and doesn't pay their hosting fees. They wouldn't lose everything as you would have in StrongBlock. In our ecosystem, the user only forfeits the current WBTC in their account on our contract, and then they are reset back to good standing, ready to receive next month's WBTC rewards.&#x20;
-
-Plot owners do have the option never to be checked or surveyed. The only time any account is surveyed is if their survey clock gets to zero. A user can pay bi-monthly and never let their survey clock touch zero, and thus they would never be checked using this logic flow.  This approach is a manual process and perfectly fine for users to do. We wanted more of an autopay feature for plot owners and thus created the survey clock to handle it. If users have enough in their hosting reserve balance, that account can go for a long time without being liquidated.  &#x20;
-
-Within the project, we have built many ways a user can increase their USDC.e balances on the contract and will continue to build more as time goes on. Referring people to the project gives you 2% of their minting transaction cost. The minting raffle and the Royalty Raffle will do the same and can fund an account for a long time. Alternatively, users can load USDC.e into their hosting reserve balance to cover survey events.  This would allow a user always to have USDC.e in their account and avoid liquidation. As long as the user has more in their hosting reserve balance than in their hosting balance, they can't get liquidated. Users can deposit up to $1000 per transaction into their hosting reserve balance, protecting them from liquidation as far as the user wants to project it out into the future. All funds within the hosting reserve for an account can be withdrawn at any time.&#x20;
+Within the project, we have built many ways a user can increase their USDC.e balances on the contract and will continue to build more as time goes on. Referring people to the project gives you 2% of their minting transaction cost. The minting raffle and the Royalty Raffle will do the same and can fund an account for a long time. Alternatively, users can load USDC.e into their hosting reserve balance to cover auto-pay events.  This would allow a user always to have USDC.e in their account and avoid liquidation. As long as the user has more in their hosting reserve balance than in their hosting fee balance, they can't get liquidated. Users can deposit up to $1000 per transaction into their hosting reserve balance, protecting them from liquidation as far as the user wants to project it out into the future. All funds within the hosting reserve for an account can be withdrawn at any time.&#x20;
 
 
 
