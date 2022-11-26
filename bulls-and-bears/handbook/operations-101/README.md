@@ -64,13 +64,13 @@ The communities do not share resources and are completely segmented from each ot
 
 Using the **1/3** and **2/3** approaches discussed above is going to be the way the project starts. This approach is an ideal ratio to help grow the number of miners working for us. However, this is not written in stone by design. When we move back into a Bull Market, and the price of BTC nears and surpasses its all-time high prices, it doesn't make sense for the project to keep pulling **1/3** back to reinvest into miners. We will open this to a vote within each community on the best way to approach this as it nears. The plan is to move to a 95/5 ratio where only 5% gets peeled off for reinvestment (likely into a fund to buy at later times), and 95% gets sent to the contract for disbursement to NFT holders within each community.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (19).png" alt=""><figcaption><p>FIG 0</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (19) (1).png" alt=""><figcaption><p>FIG 0</p></figcaption></figure>
 
 ## TOTAL SUPPLY AND MINT COST:
 
 The BTC Bulls Community and The BTC Bears Community are NFT collections built on the Polygon Blockchain, with 10,000 of each collection released in 10 different tiers. Each tier must be bought out completely before the next tier opens. USDC.e is the token used for purchasing in all tiers.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1) (3) (1).png" alt="Cost breakdown when buying BTC Bulls"><figcaption><p>FIG 1</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (3) (1) (1).png" alt="Cost breakdown when buying BTC Bulls"><figcaption><p>FIG 1</p></figcaption></figure>
 
 ## TOKENS/COINS THAT WILL BE USED&#x20;
 
