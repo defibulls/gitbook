@@ -13,38 +13,38 @@ The BTC Bulls and BTC Bears are separate communities within The Ranch, built aro
 
 The key to the success and profitability of this project is all about the timing of the start of the project. The price of the BTC miners and the hosting/electricity fees are the key factors. In December of 2021, an S19j Pro BTC Miner cost roughly $13K. Today, due to market conditions and the onset of the bear market, that same S19j Pro BTC MIner can be purchased for nearly $3K.&#x20;
 
-This is the prime reason the project is kicking off now and relies heavily on the bear market. We have purchased BTC miners leading up to the start of this project to vet out the sellers and hosting facilities. Anyone can buy a single miner themselves and host it at their house. For the sake of an Antminer S19j Pro 100 TH/s, the challenge for said buyer is that the Miner requires a 240v outlet and a suitable place to host it. As an owner of an Antminer s19a Pro 110 TH/s sitting in my garage now, I can tell you without a doubt that these sound like a freight train, produce way more heat than you want to deal with, and cost more in electricity than you would pay at these hosting facilities. I have to pay $0.12 (which isn't that bad in terms of the national price of electricity in the US) kWh at my home. This doesn't compare to what enterprise clients at mining facilities get by default; buying in bulk allows the 'big boys' to start with electricity prices at or below $.070 kWh. &#x20;
+This is the prime reason the project is kicking off now and relies heavily on the bear market. We have purchased BTC miners leading up to the start of this project to vet out the sellers and hosting facilities. Anyone can buy a single miner themselves and host it at their house. For the sake of an Antminer S19j Pro 100 TH/s, the challenge for said buyer is that the Miner requires a 240v outlet and a suitable place to host it. As an owner of an Antminer s19a Pro 110 TH/s sitting in my garage now, I can tell you without a doubt that these sound like a freight train, produce way more heat than you want to deal with, and cost more in electricity than you would pay at these hosting facilities. I have to pay $0.12 (which isn't that bad in terms of the national price of electricity in the US) kWh at my home. This doesn't compare to what 'enterprise' clients at mining facilities get; buying in bulk allows the 'big boys' to start with electricity prices at or below $.070 kWh. &#x20;
 
 The way the hosting works at large hosting facilities is that they will provide a monthly invoice for each miner they host that is calculated like this:&#x20;
 
 
 
-3,105watts x 24hr / 1000 = 74.52kWh                (Each S19 runs at about 3100-3200 watts)
+3,105 watts x 24hr / 1000 = 74.52kWh                (Each S19 runs at about 3100-3200 watts)
 
-74.52kWh x 0.070$/kwh = $5.22                        (Cost of a single S19/day in electricity at low rate)
+74.52 kWh x 0.070$/kwh = $5.22                        (Cost of a single S19/day in electricity at low rate)
 
 $5.22 x 30 days = $156.60/month                      (Cost of electricity per month per miner)
 
 
 
-Knowing how critical energy costs are for any BTC mining operation, our project has to partner with someone with connections and deals with energy providers to make us as profitable as possible.&#x20;
+Knowing that the energy costs will be a critical factor in the project's success, we know that partnering with the right business will make a huge difference.&#x20;
 
-## PARTERNSHIPS
+## PARTNERSHIPS
 
 <figure><img src="../../../.gitbook/assets/image (3) (4) (1).png" alt=""><figcaption></figcaption></figure>
 
-One person can mine Bitcoin alone, but it doesn't stack up against what we can do as a community.&#x20;
+We are excited to partner with Compass Mining as we launch the project.&#x20;
 
 Anyone can buy and host mining equipment at a mining facility or their own house if they are set up for it. If they chose to do that, they would be seen as a 'residential' buyer and be subject to fewer benefits. Residential buyers buy a miner or two but do not buy in bulk. Reputable mining companies want to sell to this class of buyers but don't cater to them as they do to their bigger clients.&#x20;
 
-The "Strength in numbers" aspect of the project will be the foundational reason for our success. Collectively we move out of the 'Residential' space and are seen as an 'Enterprise' client. This is hugely important for the project for two key reasons.&#x20;
+The "Strength in numbers" aspect of the project will be the foundational reason for our success. Collectively we move out of the 'residential' space and are seen as an 'enterprise' client. This is hugely important for the project for two key reasons.&#x20;
 
 * Cheaper prices for miners&#x20;
 * Cheaper prices for electricity&#x20;
 
-We are excited to partner with Compass Mining to launch the project as they'll be the best fit to make us as profitable as we can be for multiple reasons.  First and foremost, we will see our 'Enterprise' customer relationship bear fruit immediately with the initial cost of miners and hosting rates. Secondly, Compass does a great job on the back end handling all the logistics, security, maintenance, system uptime SLAs (service level agreements), and automation.&#x20;
+First and foremost, we will see our 'Enterprise' customer relationship bear fruit immediately with the initial cost of miners and hosting rates. Secondly, Compass does a great job on the back end handling all the logistics, security, maintenance, system uptime SLAs (service level agreements), and automation.&#x20;
 
-Another reason partnering with Compass Mining is a great idea, they provide us flexibility when we move in more bullish times. Any miners we buy now for greatly reduced prices can later be sold on their platform to other customers as 'turn key' solutions for a 2-4x gain if we want to sell them and move into newer equipment.&#x20;
+Another reason partnering with Compass Mining is a great idea, they provide us flexibility when we move into more bullish times. Any miners we buy now for greatly reduced prices can later be sold on their platform to other customers as 'turn key' solutions for a 2-4x gain if we want to sell them and move into newer equipment.&#x20;
 
 Check them out: [https://compassmining.io/](https://compassmining.io/)
 
@@ -56,9 +56,13 @@ All BTC mining efforts will be processed monthly between the 1st and 5th of the 
 
 **1/3** of all rewards received from the mining facility will be reinvested back into the mining cluster to purchase more BTC miners.&#x20;
 
-**2/3** of the monthly mining rewards will be converted to WBTC and deposited into the respective smart contract of the BTC Bulls or the BTC Bears depending on which mining cluster the rewards are coming from. When deposited into the smart contract, 10% goes back to The Ranch Core Team for continued project growth, security measures, and marketing. The remaining 90% is then dispersed to the owners of the BTC Bulls or BTC Bear NFTs in pro-rata format. Using this approach, each NFT is awarded the same amount. An address owning 5 NFTs would get 5x more WBTC rewards than a wallet address owning a single NFT.
+**2/3** of the monthly mining rewards will be converted to WBTC and deposited into the respective smart contract of the BTC Bulls or the BTC Bears, depending on which mining cluster the rewards are coming from. When deposited into the smart contract, 10% goes back to The Ranch Core Team for continued project growth, security measures, and marketing. The remaining 90% is then dispersed to the owners of the BTC Bulls or BTC Bear NFTs in pro-rata format. Using this approach, each NFT is awarded the same amount. An address owning 5 NFTs would get 5x more WBTC rewards than a wallet address owning a single NFT.
 
 The communities do not share resources and are completely segmented from each other. A BTC Bear doesn't benefit from the BTC Bull's mining rewards and the BTC Bull doesn't benefit from what the BTC Bears are doing.&#x20;
+
+
+
+Using the **1/3** and **2/3** approaches discussed above is going to be the way the project starts. This approach is an ideal ratio to help grow the number of miners working for us. However, this is not written in stone by design. When we move back into a Bull Market, and the price of BTC nears and surpasses its all-time high prices, it doesn't make sense for the project to keep pulling **1/3** back to reinvest into miners. We will open this to a vote within each community on the best way to approach this as it nears. The plan is to move to a 95/5 ratio where only 5% gets peeled off for reinvestment (likely into a fund to buy at later times), and 95% gets sent to the contract for disbursement to NFT holders within each community.&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (19).png" alt=""><figcaption><p>FIG 0</p></figcaption></figure>
 
@@ -70,7 +74,7 @@ The BTC Bulls Community and The BTC Bears Community are NFT collections built on
 
 ## TOKENS/COINS THAT WILL BE USED&#x20;
 
-The Ranch BTC Bulls will not revolve around its own native token by design. The primary tokens this project will use include the following:
+The Ranch BTC Bulls will not revolve around its native token by design. The primary tokens this project will use include the following:
 
 * BTC (BITCOIN)
   * BTC is used as the BTC mining reward token that is received for our mining efforts.&#x20;
@@ -83,13 +87,19 @@ The Ranch BTC Bulls will not revolve around its own native token by design. The 
 
 ## ![](<../../../.gitbook/assets/Buddy System.svg>) **THE BUDDY SYSTEM**
 
-The Buddy System is an onboarding system for new participants in The Ranch Ecosystem. Participation is completely voluntary. Unlike other multi-level marketing and scam-type referral systems, which consist of pyramid structures, tiered referral trees, etc. There is only 1 level of affiliate rewards within The Ranch Ecosystem. Rewards are issued whenever the referred individual mints new BTC Bull NFTs, BTC Bear NFTs, or during the monthly payout of WBTC to NFT holders. 2% of the minting transaction cost will be given to the Buddy of the referred person. During monthly payouts, 2% of the calculated reward is given to the Buddy of the referred person. 2% of the winning Royalty Raffle amount will go to the Buddy of the referred person. The person set as your Buddy on The BTC Bulls contract must own a BTC Bull at that rewarding moment to be considered 'active' and receive the benefit. The person set as your Buddy on The BTC Bears contract must own a BTC Bear at that rewarding moment to be considered 'active' and receive the benefit.&#x20;
+The Buddy System is an onboarding system for new participants in The Ranch Ecosystem. Participation is completely voluntary. Unlike other multi-level marketing and scam-type referral systems, which consist of pyramid structures, tiered referral trees, etc. There is only 1 level of affiliate rewards within The Ranch Ecosystem. Rewards are issued whenever the referred individual mints new NFTs, during the monthly rewarding of WBTC to NFT holders, and during any raffle win. A referred individual to the project only counts within a particular community. For example, if you refer someone to the BTC Bears community and they are also in the BTC Bulls community, you would only get rewards from transactions and events happening on the BTC Bears contract.
+
+* 2% of the minting transaction cost.
+* 2% of monthly WBTC reward payouts.
+* 2% of the Royalty Raffle winning amount.&#x20;
+
+
+
+Within both communities, a Buddy must be in an 'active' state to receive the benefit. Active means the Buddy of the referred person owns a Bull or Bear at the time of the event.&#x20;
 
 * Do I have to have a Buddy? No
-* Does not having a Buddy benefit or hurt me? No, anyone with a Buddy or without a Buddy will have 2% deducted during the transactions. If the Buddy is in an active state, it goes to the Buddy of the referred person; if not, it goes to The Ranch Core Team.
+* Does not having a Buddy hurt me? No, anyone with a Buddy or without a Buddy will have 2% deducted during the rewarding transactions. If the Buddy is in an active state, it goes to the Buddy of the referred person; if not, it goes to The Ranch Core Team.
 * Can I switch my Buddy multiple times? No, once a Buddy is selected, it is final. &#x20;
-
-
 
 ## HOW LONG DOES EACH MINER LAST, AND WHAT IS DONE WHEN THEY FAIL?
 
