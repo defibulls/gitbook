@@ -55,3 +55,13 @@ The key difference between our liquidation structure and other projects, such as
 Within the project, we have built many ways a user can increase their USDC.e balances on the contract and will continue to build more as time goes on. Referring people to the project gives you 2% of their minting transaction cost. The minting raffle and the Royalty Raffle will do the same and can fund an account for a long time. To transfer funds from an account's USDC.e rewards balance to their hosting reserve balance, users must send their rewards to their wallet and fund the hosting reserve directly. &#x20;
 
 To fund your hosting reserve balance to cover auto-pay events, you do this in the hosting section of your account.  This allows users always to have USDC.e in their account to pay for hosting fees and avoid liquidation. As long as the user has more in their hosting reserve balance than in their hosting fee balance, they can't get liquidated. Users can deposit up to $1000 per transaction into their hosting reserve balance, protecting them from liquidation as far as the user wants to project it out into the future. All funds within the hosting reserve for an account can be withdrawn at any time.&#x20;
+
+
+
+## HOSTING FEES FOR THE BTC Bears
+
+The BTC Bears work exactly like the BTC Bulls, with one exception; the amount of hosting fees due from each BTC Bear is only $1 per month, whereas the BTC Bulls carry a $15 a month obligation.&#x20;
+
+The hosting difference stems from what's happening on The Ranch with the BTC Bulls. The BTC Bulls are domesticated cattle that are provided land, shelter, and food. The BTC Bears, on the other hand, live in the surrounding forest of the property and thus don't incur the same expense.
+
+To desire to own BTC Bulls or BTC Bears depends on your mathematical stance on their actions and what they are doing for the project.&#x20;
