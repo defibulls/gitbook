@@ -18,19 +18,19 @@ When factoring in tax or other transaction expenses, the BTC MINER CLUSTER start
 
 <figure><img src="../../../.gitbook/assets/Farm (2).png" alt=""><figcaption></figcaption></figure>
 
-As an owner of a BTC Bull(s), you are leasing the fenced plot of land, a stockyard, for your Bulls to live. Some owners will have stockyards with 1 or 2 Bulls, while others can create much larger ones. There is no limit on how many BTC Bulls can be housed within a particular stockyard. Each BTC Bull within your designated plot carries a $15 hosting fee per month. The collection of individual stockyard hosting fees goes directly to pay for the actual hosting fees of the BTC Bulls mining cluster at Compass Mining.&#x20;
+As an owner of a BTC Bull(s), you are leasing the fenced plot of land, a stockyard, for your Bulls to live and graze. Some owners will have stockyards with a single Bull, while others can create much larger ones. There is no limit on how many BTC Bulls can be housed within a particular stockyard. Each BTC Bull within your designated plot carries a $15 hosting fee per month. The collection of individual stockyard hosting fees goes directly to pay for the actual hosting fees of the BTC Bulls mining cluster at Compass Mining.&#x20;
 
 This approach allows each BTC Bull within The Ranch to share the hosting invoice evenly. In the above example, 240 miners on the invoice would be ≈ $38,000 if we average a $156.60 hosting fee per miner. Since we have 2999 BTC Bulls in circulation, each BTC Bull NFT will share that invoice, and we would be able to retain the leftover  ≈ $7,000 within the HOSTING SAFE to pay on later hosting invoices.&#x20;
 
-Through compounding efforts, our BTC Mining Cluster has the potential to grow into a very large and powerful one. The following month we could add more miners as more Tiers sell out and our compounding efforts start. This could give us an invoice of $185,000 shared between all 9960\* BTC Bulls. With the set hosting fees for each plot, once we collected the $15 from each BTC Bull, we would still be short of paying the monthly invoice.&#x20;
+Through compounding efforts, our BTC Mining Cluster has the potential to grow very large and powerful. The following month we could add more miners as more Tiers sell out and our compounding efforts start. This could give us an invoice of $185,000 shared between all 9960\* BTC Bulls. With the set hosting fees for each plot, once we collected the $15 from each BTC Bull, we would still be short of paying the monthly invoice.&#x20;
 
 $185,000 - $149,400 == $30,600 left to cover&#x20;
 
 In this instance, we would have to convert $30,600 of our mined BTC to pay the remainder of the invoice. The rest of that mined BTC gets dispersed as monthly rewards, according to FIG 0.&#x20;
 
-From all our projections, see [projections](projections.md), the last thing we want to do as a BTC Bulls Community is burning our mined Bitcoin to pay for hosting invoices. However, there is a delicate line between burning Bitcoin for hosting fees and having reasonable and consistent hosting fee expectations for all BTC Bull NFT holders. &#x20;
+From all our projections, the last thing we want to do as a BTC Bulls Community is burn our mined Bitcoin to pay for hosting invoices. However, there is a delicate line between burning Bitcoin for hosting fees and having reasonable and consistent hosting fee expectations for all BTC Bull NFT holders. &#x20;
 
-&#x20;_\* 9960 comes from 20 BTC Bulls exempt from Minting Luck, + we will rotate 20 other BTC Bulls every three months (January, April, July, and October) via a drawing._&#x20;
+&#x20;_\* 9960 comes from 20 BTC Bulls exempt from Minting Luck, + we will rotate 20 other BTC Bulls every three months (January, April, July, and October) via a drawing; these NFTs are exempt from hosting fees._&#x20;
 
 #### THE HOSTING SAFE
 

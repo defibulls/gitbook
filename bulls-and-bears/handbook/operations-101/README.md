@@ -62,15 +62,17 @@ The communities do not share resources and are completely segmented from each ot
 
 
 
-Using the **1/3** and **2/3** approaches discussed above is going to be the way the project starts. This approach is an ideal ratio to help grow the number of miners working for us. However, this is not written in stone by design. When we move back into a Bull Market, and the price of BTC nears and surpasses its all-time high prices, it doesn't make sense for the project to keep pulling **1/3** back to reinvest into miners. We will open this to a vote within each community on the best way to approach this as it nears. The plan is to move to a 95/5 ratio where only 5% gets peeled off for reinvestment (likely into a fund to buy at later times), and 95% gets sent to the contract for disbursement to NFT holders within each community.&#x20;
+Using the **1/3** and **2/3** approaches discussed above is going to be the way the project starts. This approach is an ideal ratio to help grow the number of miners working for us. However, this is not written in stone by design. When we move back into a Bull Market, and the price of BTC nears and surpasses its all-time high prices, it doesn't make sense for the project to keep pulling **1/3** back to reinvest into miners. We will open this to a vote within each community on the best way to approach this as it nears.
 
-<figure><img src="../../../.gitbook/assets/image (19) (1).png" alt=""><figcaption><p>FIG 0</p></figcaption></figure>
+As of now, we are planning to shift to a 90% - 100% reward structure when the price of BTC surpasses $60K. This will be put to the vote within each community when the time comes to solidify the exact percentage of distribution. The intent will be to let NFT owners capitalize on the price action of BTC when the time comes.&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (19).png" alt=""><figcaption><p>FIG 0</p></figcaption></figure>
 
 ## TOTAL SUPPLY AND MINT COST:
 
 The BTC Bulls Community and The BTC Bears Community are NFT collections built on the Polygon Blockchain, with 10,000 of each collection released in 10 different tiers. Each tier must be bought out completely before the next tier opens. USDC.e is the token used for purchasing in all tiers.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1) (3) (1) (1).png" alt="Cost breakdown when buying BTC Bulls"><figcaption><p>FIG 1</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (3) (1).png" alt="Cost breakdown when buying BTC Bulls"><figcaption><p>FIG 1</p></figcaption></figure>
 
 ## TOKENS/COINS THAT WILL BE USED&#x20;
 
@@ -107,13 +109,15 @@ We are projecting each miner to be operational for 60 months. Some will last lon
 
 
 
-## THE GREAT DIVIDE WITHIN THE RANCH
+## BTC Bulls vs. BTC Bears
 
 ## ![](../../../.gitbook/assets/82.png)![](<../../../.gitbook/assets/invisible2-modified (4).png>)
 
 
 
-The BTC Bulls and the BTC Bears are different communities separated by different smart contracts and different wallets. The foundational divide between them resides in how they operate within the project. Everything above this section is the similarities between the two communities. Everything to follow is grouped into the BTC Bulls Community or the BTC Bears Community. They are fundamentally different projects with different viewpoints. Only time will tell which side played their cards better.
+The BTC Bulls and the BTC Bears are different communities separated by different smart contracts and different wallets. There is only one key difference between them within The Ranch ecosystem; where they reside and their obligations to the property. To be a Bull or Bear depends on your mathematical stance on their actions.&#x20;
+
+&#x20;
 
 
 

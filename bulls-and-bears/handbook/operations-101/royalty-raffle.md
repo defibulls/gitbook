@@ -2,7 +2,7 @@
 
 ## ![](<../../../.gitbook/assets/image (1) (5).png>)RAFFLE
 
-<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (5).png" alt=""><figcaption></figcaption></figure>
 
 The entire raffle process is NOT controlled by the owners of the contract in any way, as we are utilizing Chainlinks VRFv2.&#x20;
 

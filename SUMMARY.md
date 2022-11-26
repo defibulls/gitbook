@@ -24,4 +24,3 @@
     * [How to Add Polygon (MATIC) Network to MetaMask](bulls-and-bears/handbook/how-to/how-to-add-polygon-matic-network-to-metamask.md)
     * [How to Add USDC.e Token to Polygon Network in MetaMask](bulls-and-bears/handbook/how-to/how-to-add-usdc.e-token-to-polygon-network-in-metamask.md)
   * [AUDIT](bulls-and-bears/handbook/audit.md)
-  * [Page 1](bulls-and-bears/handbook/page-1.md)
