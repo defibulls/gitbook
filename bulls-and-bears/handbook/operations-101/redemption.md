@@ -1,6 +1,6 @@
 # REDEMPTION
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 Ideally, all BTC Bull and BTC Bear owners keep accounts looking good and healthy, but mistakes happen. There is a lot of value in avoiding liquidations as nobody wants to lose WBTC rewards, and the Royalty Raffle eligibility depends on a clean liquidation score of 0. &#x20;
 
