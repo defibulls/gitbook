@@ -1,6 +1,6 @@
 # HOSTING
 
-## HOSTING FEES FOR THE BTC BULLS
+## HOSTING FEES FOR THE BTC Bulls
 
 What is this, and why is this important? Let's play out an example of how this project will go. We start the project and sell our BTC Bull NFTs, and purchase miners. We go through the first three tiers and sell 2999 BTC Bulls. Let's assume all buyers of NFTs choose to enter the daily raffle; 89% of the minting cost would go to buying miners for the project.&#x20;
 
