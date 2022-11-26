@@ -33,5 +33,3 @@ coverY: -446.4
 
 
 \*Lifetime means as long the project sustains itself and/or until the year 2040 when we can no longer mine bitcoin.  &#x20;
-
-\*\*Submit a ticket showing NFT in Discord. The contract gets updated with the NFT number, and then maintenance exclusion starts.&#x20;
