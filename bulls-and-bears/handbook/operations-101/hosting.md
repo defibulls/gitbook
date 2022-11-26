@@ -60,8 +60,22 @@ To fund your hosting reserve balance to cover auto-pay events, you do this in th
 
 ## HOSTING FEES FOR THE BTC Bears
 
-The BTC Bears work exactly like the BTC Bulls, with one exception; the amount of hosting fees due from each BTC Bear is only $1 per month, whereas the BTC Bulls carry a $15 a month obligation.&#x20;
+The BTC Bears work exactly like the BTC Bulls, with one key exception; the amount of hosting fees due from each BTC Bear is only $1 per month, whereas the BTC Bulls carry a $15 a month obligation.&#x20;
 
-The hosting difference stems from what's happening on The Ranch with the BTC Bulls. The BTC Bulls are domesticated cattle that are provided land, shelter, and food. The BTC Bears, on the other hand, live in the surrounding forest of the property and thus don't incur the same expense.
+The hosting difference stems from what needs to happen on The Ranch regarding both animals. The BTC Bulls are domesticated cattle that are provided land for grazing, shelter, and food. The BTC Bears, on the other hand, live in the surrounding forest of the property and thus don't incur the same expense.
 
-To desire to own BTC Bulls or BTC Bears depends on your mathematical stance on their actions and what they are doing for the project.&#x20;
+To desire to own BTC Bulls or BTC Bears depends on your mathematical stance on their actions and what they are doing for their community. Playing out the same scenario as the BTC Bulls did would look like this:
+
+The BTC Bears Community Mining cluster also has 240 miners getting the same electricity rate, each BTC Bear would contribute to the hosting fee evenly. Working with an invoice of ≈$38,000 and having 2999 BTC Bears in circulation, we would only be able to contribute 2999 dollars towards that invoice.
+
+$38,000 - $2999 == ≈$35,00 left to cover&#x20;
+
+In this instance, we would have to convert ≈$35,000  of our mined BTC to pay the remainder of the invoice. The rest of that mined BTC gets dispersed as monthly rewards to the Bears Community, according to FIG 0.&#x20;
+
+It's a trade-off that one must consider to pay monthly to benefit the community as the BTC Bulls do with their hosting fees or contribute little now and see how it plays out in the coming Bull Market.
+
+&#x20;__&#x20;
+
+__
+
+__
