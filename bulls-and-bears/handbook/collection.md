@@ -20,7 +20,7 @@ coverY: -446.4
 
       <img src="../../.gitbook/assets/image (4).png" alt="" data-size="original">
 
-## BTC Bears
+## BTC Bears (IMAGES COMING SOON)
 
 ![](../../.gitbook/assets/invisible1-modified.png)![](<../../.gitbook/assets/invisible2-modified (2).png>)
 
