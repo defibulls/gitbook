@@ -22,6 +22,7 @@
     * [COMMUNITY VOTING](bulls-and-bears/handbook/operations-101/community-voting.md)
     * [PROJECTIONS](bulls-and-bears/handbook/operations-101/projections.md)
     * [FAQ](bulls-and-bears/handbook/operations-101/faq.md)
+    * [SECURITY & TRANSPARENCY](bulls-and-bears/handbook/operations-101/security-and-transparency.md)
   * [HOW TO](bulls-and-bears/handbook/how-to/README.md)
     * [How to Add Polygon (MATIC) Network to MetaMask](bulls-and-bears/handbook/how-to/how-to-add-polygon-matic-network-to-metamask.md)
     * [How to Add USDC.e Token to Polygon Network in MetaMask](bulls-and-bears/handbook/how-to/how-to-add-usdc.e-token-to-polygon-network-in-metamask.md)
