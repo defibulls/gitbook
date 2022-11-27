@@ -9,7 +9,7 @@ coverY: 0
 
 ![](<../.gitbook/assets/image (6) (1) (1).png>)
 
-#### Project Owner, Smart Contract Developer, Business POC &#x20;
+#### Project Founder, Smart Contract Developer, Business POC &#x20;
 
 Network Engineer by day working on the SD-WAN solutions of tomorrow.
 
