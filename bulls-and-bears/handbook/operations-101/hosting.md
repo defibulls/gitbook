@@ -60,7 +60,7 @@ To fund your hosting reserve balance to cover auto-pay events, you do this in th
 
 ## HOSTING FEES FOR THE BTC Bears
 
-The BTC Bears work exactly like the BTC Bulls, with one key exception; the amount of hosting fees due from each BTC Bear is only $1 per month, whereas the BTC Bulls carry a $15 a month obligation.&#x20;
+The BTC Bears work exactly like the BTC Bulls, with two exceptions. Firstly, the amount of hosting fees due from each BTC Bear is only $1 per month, whereas the BTC Bulls carry a $15 a month obligation. Secondly, there are no rare NFTs within the BTC Bears that are exempt from the $1 Hosting Fee per month.&#x20;
 
 The hosting difference stems from what needs to happen on The Ranch regarding both animals. The BTC Bulls are domesticated cattle that are provided land for grazing, shelter, and food. The BTC Bears, on the other hand, live in the surrounding forest of the property and thus don't incur the same expense.
 
