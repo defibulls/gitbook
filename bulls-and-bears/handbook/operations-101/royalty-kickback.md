@@ -1,4 +1,4 @@
-# ROYALTY RAFFLE
+# ROYALTY KICKBACK
 
 ## ![](<../../../.gitbook/assets/image (1) (5) (2).png>)RAFFLE
 
@@ -19,7 +19,7 @@ When minting new NFTs, users can voluntarily enter the Minting Raffle, where 3% 
 There will be a 12.5% royalty fee when selling BTC Bulls on OpenSea.  2.5% gets paid to OpenSea as a fee, and the remaining 10% is split 50/50.&#x20;
 
 * **50%** going back to The Ranch for project development and project-related costs.&#x20;
-* **50%** goes into our monthly Royalty Raffle. Each month, this 50% will be divided equally and dispersed between up to 3 BTC Bull owners. This amount will be uploaded into the USDC.e rewards balance on the contract for those winning BTC Bull owners. See the raffle explanation for a deeper explanation, further explanation [here](royalty-raffle.md). &#x20;
+* **50%** goes into our monthly Royalty Raffle. Each month, this 50% will be divided equally and dispersed between up to 3 BTC Bull owners. This amount will be uploaded into the USDC.e rewards balance on the contract for those winning BTC Bull owners. See the raffle explanation for a deeper explanation, further explanation [here](royalty-kickback.md). &#x20;
 
 Our community will be filled with holders with long-term mindsets, but there will always be those who need to sell for liquidity and/or profit opportunities. Looking at what other projects have done in the past, if we get anywhere close to a quarter of the numbers those projects hit, these raffle amounts have the potential to be special.
 

@@ -17,7 +17,7 @@
     * [MINTING](bulls-and-bears/handbook/operations-101/minting.md)
     * [HOSTING](bulls-and-bears/handbook/operations-101/hosting.md)
     * [REDEMPTION](bulls-and-bears/handbook/operations-101/redemption.md)
-    * [ROYALTY RAFFLE](bulls-and-bears/handbook/operations-101/royalty-raffle.md)
+    * [ROYALTY KICKBACK](bulls-and-bears/handbook/operations-101/royalty-kickback.md)
     * [AFTERMARKET NFT SALES](bulls-and-bears/handbook/operations-101/aftermarket-nft-sales.md)
     * [COMMUNITY VOTING](bulls-and-bears/handbook/operations-101/community-voting.md)
     * [PROJECTIONS](bulls-and-bears/handbook/operations-101/projections.md)
