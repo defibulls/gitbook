@@ -1,6 +1,6 @@
 # ROYALTY RAFFLE
 
-## ![](<../../../.gitbook/assets/image (1) (5).png>)RAFFLE
+## ![](<../../../.gitbook/assets/image (1) (5) (2).png>)RAFFLE
 
 <figure><img src="../../../.gitbook/assets/image (3) (1) (5).png" alt=""><figcaption></figcaption></figure>
 

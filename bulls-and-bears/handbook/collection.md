@@ -18,7 +18,7 @@ coverY: -446.4
   * Once revealed, 'Enlightened' BTC Bulls are maintenance fee exempt moving forward\*\* &#x20;
   *   The location of 'Enlightened' BTC Bulls is unknown to all, including the team. We only know 20 exist within the collection.
 
-      <img src="../../.gitbook/assets/image (4).png" alt="" data-size="original">
+      <img src="../../.gitbook/assets/image (4) (3).png" alt="" data-size="original">
 
 ## BTC Bears (IMAGES COMING SOON)
 
