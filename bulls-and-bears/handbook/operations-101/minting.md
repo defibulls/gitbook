@@ -4,11 +4,11 @@
 
 * 89% of transaction goes to the BTC MINERS SAFE to purchase miners at the hosting facility.&#x20;
 * 5% is sent to the HOSTING SAFE, the multi-sig wallet used to pay hosting fees at compass mining.&#x20;
-* 3% is held in the minting launch sweepstakes.
+* 3% is held for the Minting Sweepstakes.
 * 2% goes to the partner of the address minting NFTs.
 * 1% goes to MARKETING SAFE multi-sig wallet.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (2) (3) (2).png" alt=""><figcaption><p>FIG Bull_1_RaffleEntry</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (3) (2).png" alt=""><figcaption><p>FIG MintingDistribution</p></figcaption></figure>
 
 ## **MINTING SWEEPSTAKES**
 
@@ -27,6 +27,6 @@ When minting BTC Bulls or BTC Bears, any wallet addresses not in the current swe
 * All entries have a 1% chance to enter
 * Alternative Means of Entry (AMOE)
   * Purchase is not necessary
-  * For additional details, please visit the official discord channel "The Ranch Info / amoe"
+  * For additional details, please visit the official discord channel _"The Ranch Info / amoe"_
 
 &#x20;
