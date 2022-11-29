@@ -11,6 +11,10 @@ The BTC Bulls and BTC Bears are separate communities within The Ranch, built aro
 
 ## WHY START THE PROJECT?
 
+This is a sided question:&#x20;
+
+Reason 1:
+
 The key to the success and profitability of this project is all about the timing of the start of the project. The price of the BTC miners and the hosting/electricity fees are the key factors. In December of 2021, an S19j Pro BTC Miner cost roughly $13K. Today, due to market conditions and the onset of the bear market, that same S19j Pro BTC MIner can be purchased for nearly $3K.&#x20;
 
 This is the prime reason the project is kicking off now and relies heavily on the bear market. We have purchased BTC miners leading up to the start of this project to vet out the sellers and hosting facilities. Anyone can buy a single miner themselves and host it at their house. For the sake of an Antminer S19j Pro 100 TH/s, the challenge for said buyer is that the Miner requires a 240v outlet and a suitable place to host it. As an owner of an Antminer s19a Pro 110 TH/s sitting in my garage now, I can tell you without a doubt that these sound like a freight train, produce way more heat than you want to deal with, and cost more in electricity than you would pay at these hosting facilities. I have to pay $0.12 (which isn't that bad in terms of the national price of electricity in the US) kWh at my home. This doesn't compare to what 'enterprise' clients at mining facilities get; buying in bulk allows the 'big boys' to start with electricity prices at or below $.070 kWh. &#x20;
