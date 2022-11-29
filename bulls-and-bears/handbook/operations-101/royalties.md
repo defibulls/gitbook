@@ -33,10 +33,17 @@ For example, let's assume we needed to find three winners because we were giving
 
 We received our list of numbers from the Chainlink VRF system and deduced those numbers into indexes of the potential winners. A list of potential winning indexes might be 5, 55, 83, 189, 788, 4422, 8832, and so on.
 
-1. Check who owns index number 5 and get the owner.
-2. Check if that address has a liquidation count of zero. If true, we place them in the winning array list. If they have, we skip them and move on to the following number in the list, which is 55.&#x20;
+1. Check who owns index number 5 and get the owner's address.
+2. Check if that address has a liquidation count of zero. If true, we place them in the winning array list. If they have a score of more than 0, we skip them and move on to the following number in the list, which is 55.&#x20;
 3. This process continues until we find three winners that meet the winning criteria.&#x20;
 4. Once we find three winners, the function ends.
 
 We send the list of winners each $500, and the fun starts all over again next month.&#x20;
+
+
+
+_Alternative Means of Entry (AMOE)_
+
+* _No purchase Necessary_
+* _For additional details, please visit the official discord channel "The Ranch Info / amoe"_
 
