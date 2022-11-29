@@ -11,7 +11,7 @@ The BTC Bulls and BTC Bears are separate communities within The Ranch, built aro
 
 ## WHY START THE PROJECT?
 
-This is a sided question:&#x20;
+This is a two sided question:&#x20;
 
 Reason 1:
 
