@@ -13,7 +13,7 @@ The BTC Bulls and BTC Bears are separate communities within The Ranch, built aro
 
 This is a two sided question:&#x20;
 
-Reason 1:
+**Reason 1:**
 
 The key to the success and profitability of this project is all about the timing of the start of the project. The price of the BTC miners and the hosting/electricity fees are the key factors. In December of 2021, an S19j Pro BTC Miner cost roughly $13K. Today, due to market conditions and the onset of the bear market, that same S19j Pro BTC MIner can be purchased for nearly $3K.&#x20;
 
@@ -32,6 +32,12 @@ $5.22 x 30 days = $156.60/month                      (Cost of electricity per mo
 
 
 Knowing that the energy costs will be a critical factor in the project's success, we know that partnering with the right business will make a huge difference.&#x20;
+
+**Reason 2:**
+
+****
+
+****
 
 ## PARTNERSHIPS
 
