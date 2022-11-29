@@ -1,6 +1,6 @@
 # ROYALTIES
 
-## ![](<../../../.gitbook/assets/image (1) (5) (2).png>)ROYALTY KICKBACKS
+## ![](<../../../.gitbook/assets/image (1) (5) (2).png>)ROYALTY SWEEPSTAKES
 
 <figure><img src="../../../.gitbook/assets/image (3) (1) (5).png" alt=""><figcaption></figcaption></figure>
 
@@ -17,22 +17,26 @@ There will be a 12.5% royalty fee when selling BTC Bulls on OpenSea.  2.5% gets 
 
 Our community will be filled with holders with long-term mindsets, but there will always be those who need to sell for liquidity and/or profit opportunities. Looking at what other projects have done in the past, if we get anywhere close to a quarter of the numbers those projects hit, these raffle amounts have the potential to be special.
 
-To win a royalty raffle, the BTC Bull owner's address must be free of any liquidations. If a BTC Bull owner is chosen as the winner but does have liquidations, the function will skip that address and move on to the index number in the queue.&#x20;
-
-As previously stated, there is a 12.5% royalty when selling BTC Bulls on OpenSea. 50% of the Royalty disbursement will be raffled off using the Royalty Raffle Contract. Only BTC Bull owners that have not been liquidated before will be eligible to win the Royalty Raffle. This is the best way to thank participants who stay on top of their game, which helps our ecosystem.&#x20;
+To win royalty sweepstakes, the BTC Bull owner's address must have a liquidation score of zero. If a BTC Bull owner is chosen as the winner but does have liquidations, the function will skip that address and move on to the index number in the queue. This is the best way to thank participants who stay on top of their game, which helps our ecosystem.&#x20;
 
 ### The way the function works:&#x20;
 
-We will request 20 very large random numbers using chainlinks VRF setup.&#x20;
+We first determine the amount of USDC that will be rewarded during this royalty sweepstakes and see how many times the $500 award max amount can be divided into it to find the number\_of\_winners.
 
-These numbers go through a few mathematical functions to arrive at 20 possible NFT indexes that are eligible to win the USDC.e balance on the Royalty Raffle contract (50% of that month's Royalties)
+If that number\_of\_winners is 5, then we will request ten more numbers than that from the Chainlink VRF system; 15 incredibly large numbers.&#x20;
 
-Let's assume we have found the twenty winning indexes; 5, 55, 83, 189, 788, 4422, 8832, and so on.&#x20;
+If that number\_of\_winners is 18, then we will request double that amount from the Chainlink VRF system; 36 incredibly larger numbers. &#x20;
 
-* First, we check who owns index number 5 and get the owner
-* Secondly, check if that address has been liquidated before. If they haven't, we place them in the winning array. If they have, we skip them and move on to the following number in the list, which is 55.&#x20;
-* This process continues until we find three winners that meet the criteria of winning (owner of that NFT and no liquidations on account).&#x20;
-* Once we find three winners, the function ends. We split the balance into three equal parts and award the three winners.&#x20;
-* If only one person of the 20 index numbers meets the eligibility criteria. That single address will receive the entire balance (being 3x larger).&#x20;
-* If no one meets the criteria in the 20 winning numbers, we repeat the process until someone wins.&#x20;
+These numbers go through a few mathematical functions to arrive at possible NFT index numbers of the BTC Bulls or BTC Bears, depending on which contract is awarded.
+
+For example, let's assume we needed to find three winners because we were giving away $1830, 3 winners would be getting $500 each, and $30 remains on the contract for the next royalty sweepstakes.
+
+We received our list of numbers from the Chainlink VRF system and deduced those numbers into indexes of the potential winners. A list of potential winning indexes might be 5, 55, 83, 189, 788, 4422, 8832, and so on.
+
+1. Check who owns index number 5 and get the owner.
+2. Check if that address has a liquidation count of zero. If true, we place them in the winning array list. If they have, we skip them and move on to the following number in the list, which is 55.&#x20;
+3. This process continues until we find three winners that meet the winning criteria.&#x20;
+4. Once we find three winners, the function ends.
+
+We send the list of winners each $500, and the fun starts all over again next month.&#x20;
 
