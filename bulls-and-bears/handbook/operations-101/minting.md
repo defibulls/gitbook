@@ -1,5 +1,27 @@
 # MINTING
 
+## GATE CODE:&#x20;
+
+When anyone mints one of the BTC Bulls or the BTC Bears, what's happening is there is a transaction happening on the property of the ranch, and the transaction takes place on our land. To make your way onto the property of "The Ranch" and mint/adopt a BTC Bull or BTC Bear, you must get through the gate first, and that's exactly where the need for the gate code comes into play. Before each minting window, a new gate code will be published by the team. All minting of Bulls and Bears will require the gate code to match up. Without the gate code, no entry, thus no minting.&#x20;
+
+**Weekly Gate Code:** None
+
+
+
+## **MINTING WINDOWS:**
+
+Minting of the BTC Bulls and the BTC Bears can only happen during open business hours of the property, in which we will have an open window to mint/adopt the Bulls and Bears.&#x20;
+
+**Window 1:** from 8 AM EST on Dec 12, 2022, to 5 PM EST on Dec 16, 2022
+
+**Window 2:** from 8 AM EST on Dec 19, 2022, to 5 PM EST on Dec 23, 2022
+
+**Window 3:** from 8 AM EST on Dec 26, 2022, to 5 PM EST on Dec 30, 2022
+
+If more windows are needed to mint the full collection of the BTC Bulls and/or the BTC Bears, additional windows will follow the same structure from an 8 AM Monday to 5 PM Friday approach.&#x20;
+
+
+
 ## MINTING BTC Bulls and BTC Bears
 
 * 89% of the transaction goes to the BTC MINERS SAFE to purchase miners at the hosting facility.&#x20;
