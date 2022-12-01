@@ -26,17 +26,17 @@ If more windows are needed to mint the full collection of the BTC Bulls and/or t
 
 * 89% of the transaction goes to the BTC MINERS SAFE to purchase miners at the hosting facility.&#x20;
 * 5% is sent to the HOSTING SAFE, the multi-sig wallet used to pay hosting fees at compass mining.&#x20;
-* 3% is held for the Minting Sweepstakes.
+* 3% is held for the Minting Giveaway.
 * 2% goes to the partner of the address minting NFTs.
 * 1% goes to MARKETING SAFE multi-sig wallet.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (2) (3) (2).png" alt=""><figcaption><p>FIG MintingDistribution</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>FIG MINT</p></figcaption></figure>
 
-## **MINTING SWEEPSTAKES**
+## **MINTING GIVEAWAY**
 
 ## &#x20;**** ![](<../../../.gitbook/assets/image (4).png>)&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (7).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -57,7 +57,7 @@ _Alternative Means of Entry (AMOE)_
 
 * _No purchase is Necessary._&#x20;
 * Minting doesn't give you better odds than an AMOE entry
-* _Details_ [_here_](../../../contest-rules/)_._&#x20;
+* _Details found_ [_here_](../../../contest-rules/)__
 
 __
 
