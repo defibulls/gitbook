@@ -1,6 +1,6 @@
 # MINTING GIVEAWAY
 
-**\*\*\*\* The Ranch Minting Giveaway Rules  \*\*\*\***\
+**\*\*\*\* The Ranch BTC Bulls and BTC Bears Minting Giveaway Rules  \*\*\*\***\
 
 
 **NO PURCHASE IS NECESSARY TO PLAY OR WIN.**&#x20;

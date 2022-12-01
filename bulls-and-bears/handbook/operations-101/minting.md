@@ -57,7 +57,7 @@ _Alternative Means of Entry (AMOE)_
 
 * _No purchase is Necessary._&#x20;
 * Minting doesn't give you better odds than an AMOE entry
-* _Details found_ [_here_](../../../contest-rules/)__
+* _Details_ [_here_](../../../contest-rules/)_._&#x20;
 
 __
 
