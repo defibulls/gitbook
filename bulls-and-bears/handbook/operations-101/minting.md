@@ -44,17 +44,21 @@ The entire raffle process is NOT controlled by the owners of the contract in any
 
 * What is VRF?  Chainlink VRF (Verifiable Random Function) is a provably fair and verifiable random number generator (RNG) that enables smart contracts to access random values.
 
-When minting BTC Bulls or BTC Bears, any wallet addresses not in the current sweepstakes will be entered into it. The sweepstake kicks off every time 100 unique wallet addresses have minted an NFT from that particular contract (BTC Bulls or BTC Bears). If users elect to mint 1 NFT or 5 NFTs, they will be entered into the minting sweepstakes only once.&#x20;
+When minting BTC Bulls or BTC Bears, any wallet addresses not in the current sweepstakes will be entered into it. The Minting giveaway kicks off at the end of each Minting Windows. If users elect to mint 1 NFT or 5 NFTs, they will be entered into the minting giveaway only once.&#x20;
 
-Each winner of the minting sweepstakes will win up to $500. If the minting sweepstakes balance is $450, then a single winner shall be chosen with the winning amount of $450. If $1200 is held in the minting sweepstakes balance, two of the 100 entries will win, each awarded $500, and the remaining $200 remaining in the fund for the next iteration. If $3312 were held in the minting sweepstakes balance, six winners would be chosen, each winning $500, and $312 would remain for the next iteration.  After each iteration of the minting sweepstakes, it is reset. When the Minting Raffle is reset, all users who mint new NFTs from then on are eligible to enter the minting sweepstakes on that particular contract; this doesn't matter if it's the first time a wallet address has been minted or taken part in previous minting sweepstakes. Once it is reset, it's fair game for all.
+Each winner of the minting giveaway will win up to $590. If the minting giveaway balance is $450, then a single winner shall be chosen with the winning amount of $450. If $1200 is held in the minting giveaway balance, two entries will win, each awarded $590 and the remaining $20 remaining in the fund for the next iteration. If $3312 were held in the minting sweepstakes balance, five winners would be chosen, each winning $590, and $362 would remain for the next iteration.  After each iteration of the minting giveaway, it is reset. When the Minting Raffle is reset, all users who mint new NFTs from then on are eligible to enter the minting giveaway on that particular contract; this doesn't matter if it's the first time a wallet address has been minted or taken part in a previous minting giveaway. Once it is reset, it's fair game for all.
 
-* All entries have a 1% chance to win.
+* All entries have an equal chance to win.
+* All addresses can only enter a particular giveaway once.&#x20;
 
 __
 
 _Alternative Means of Entry (AMOE)_
 
-* _No purchase Necessary_
-* _For additional details, please visit the official discord channel "The Ranch Info / amoe"_
+* _No purchase is Necessary._&#x20;
+* Minting doesn't give you better odds than an AMOE entry
+* _Details_ [_here_](../../../contest-rules/)_._&#x20;
+
+__
 
 &#x20;
