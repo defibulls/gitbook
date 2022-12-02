@@ -15,7 +15,7 @@ This is a loaded question and one I have to give two answers to:
 
 **Reason 1:**
 
-The bear market is doing what it does best; purging scammers, rug pulls, and deceitful players. The last year has been chaos and financial obliteration in the crypto space, and BTC looks to be at or near its bottom amidst all the drama. The goal from the beginning stages of this project was to launch when we were close and/or at the bottom. There is always the risk of going even lower, but since BTC has shown that 15K is likely the bottom, the time is now to launch.&#x20;
+The bear market is doing what it does best; purging scammers, rug pulls, and deceitful players. The last year has been chaos, and financial obliteration in the crypto space and BTC looks to be at or near its bottom amidst all the drama. The goal from the beginning stages of this project was to launch when we were close and/or at the bottom. There is always the risk of going even lower, but since BTC has shown that 15K is likely the bottom, the time is now to launch.&#x20;
 
 **Reason 2:**
 

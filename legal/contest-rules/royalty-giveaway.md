@@ -59,7 +59,7 @@ Entrants who are potential Prize winners may be required to provide some or all 
 
 \
 **HOW TO WIN A PRIZE:**\
-The potential Prize winners will be notified on the official “The Ranch” discord page. If the winner entered the promotion via minting BTC Bulls or BTC Bears, the winning amount of $595 would be deposited into the udsc awards for that address. If a winner is chosen from an AMOE Entry Ticket, the winner has five days to prove ownership of the polygon account. If the said winner of the AMOE Entry Ticket does not prove ownership within this time frame, the winning amount will be lost and placed into the next promotion window balance to award. \
+The potential Prize winners will be notified on the official “The Ranch” discord page. If the winner entered the promotion via minting BTC Bulls or BTC Bears, the winning amount of $590 would be deposited into the udsc awards for that address. If a winner is chosen from an AMOE Entry Ticket, the winner has five days to prove ownership of the polygon account. If the said winner of the AMOE Entry Ticket does not prove ownership within this time frame, the winning amount will be lost and placed into the next promotion window balance to award. \
 
 
 **PRIZE WINNER VERIFICATION AND ELIGIBILITY:**\
@@ -68,7 +68,7 @@ The potential Prize winners may be subject to eligibility verification. Each pot
 Non-compliance by a potential Prize winner within this time may result in forfeiture of the subject Prize. The return of a Prize and/or Prize notification as undeliverable may result in forfeiture of that Prize. In no case shall Sponsor be liable in any manner where a potential Prize winner has not received notification sent from Sponsor or where Sponsor fails to receive a response from a potential Prize winner within the required response period. The winning Entry, as well as the associated information of the potential Prize winner, must identically match the records maintained by Sponsor and Administrator in order for a Prize to be awarded. In the event of a dispute, the information maintained by Sponsor and Administrator will govern. Entries will be deemed made by the person under whose e-mail address the Entry was submitted, regardless of who actually submitted the Entry.\
 \
 **PRIZE DESCRIPTION:**\
-(a) Prize. Each Prize winner will $**595 in USDC.e** \
+(a) Prize. Each Prize winner will $**590 in USDC.e** \
 \
 **ODDS OF WINNING A PRIZE:**\
 The odds of winning a Prize depend on the number of entrants participating in the Promotion during the Promotion Period, but can be calculated by dividing the number of Prizes by the total number of Entries received.\

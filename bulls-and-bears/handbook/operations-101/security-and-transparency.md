@@ -12,7 +12,6 @@
     * BTC MINERS SAFE:&#x20;
     * HOSTING SAFE:
     * MARKETING SAFE:
-    * AMOE SAFE:
 
 
 * **BTC Bears:**
@@ -20,7 +19,6 @@
   * BTC MINERS SAFE:&#x20;
   * HOSTING SAFE:
   * MARKETING SAFE:
-  * AMOE SAFE:
 
 **Insurance:** The Ranch Core Team will seek to establish insurance to secure the project further.
 
