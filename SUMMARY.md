@@ -33,7 +33,9 @@
     * [How to Add Polygon (MATIC) Network to MetaMask](bulls-and-bears/how-to-mint-a-btc-bull-bear/purchase-polygon-network-tokens-and-stablecoins/how-to-add-polygon-matic-network-to-metamask.md)
     * [How to Add USDC.e Token to Polygon Network in MetaMask](bulls-and-bears/how-to-mint-a-btc-bull-bear/purchase-polygon-network-tokens-and-stablecoins/how-to-add-usdc.e-token-to-polygon-network-in-metamask.md)
 
-***
+## LEGAL
 
-* [CONTEST RULES](contest-rules/README.md)
-  * [MINTING GIVEAWAY](contest-rules/minting-giveaway.md)
+* [PRIVACY POLICY](legal/privacy-policy.md)
+* [Page 2](legal/page-2.md)
+* [CONTEST RULES](legal/contest-rules/README.md)
+  * [MINTING GIVEAWAY](legal/contest-rules/minting-giveaway.md)
