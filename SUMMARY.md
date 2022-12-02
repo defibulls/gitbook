@@ -16,7 +16,6 @@
   * [OPERATIONS 101](bulls-and-bears/handbook/operations-101/README.md)
     * [MINTING](bulls-and-bears/handbook/operations-101/minting.md)
     * [HOSTING](bulls-and-bears/handbook/operations-101/hosting.md)
-    * [REDEMPTION](bulls-and-bears/handbook/operations-101/redemption.md)
     * [ROYALTIES](bulls-and-bears/handbook/operations-101/royalties.md)
     * [AFTERMARKET NFT SALES](bulls-and-bears/handbook/operations-101/aftermarket-nft-sales.md)
     * [COMMUNITY VOTING](bulls-and-bears/handbook/operations-101/community-voting.md)
