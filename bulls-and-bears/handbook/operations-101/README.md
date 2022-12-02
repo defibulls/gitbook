@@ -39,10 +39,6 @@ Knowing that the energy costs will be a critical factor in the project's success
 
 ****
 
-****
-
-****
-
 ## PARTNERSHIPS
 
 <figure><img src="../../../.gitbook/assets/image (3) (4) (1).png" alt=""><figcaption></figcaption></figure>
