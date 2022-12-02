@@ -36,6 +36,6 @@
 ## LEGAL
 
 * [PRIVACY POLICY](legal/privacy-policy.md)
-* [Page 2](legal/page-2.md)
+* [TERMS OF SERVICE](legal/terms-of-service.md)
 * [CONTEST RULES](legal/contest-rules/README.md)
   * [MINTING GIVEAWAY](legal/contest-rules/minting-giveaway.md)
