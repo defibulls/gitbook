@@ -45,35 +45,35 @@ In an ongoing effort to better understand our users and the Services, we might a
 
 ### How We Share Personal Information
 
-We share the Personal Information we collect and receive only with trusted third parties and business partners to help us use such Personal Information to provide services to you, as described herein, such as: web hosting services, IT and cybersecurity tools and developers.
+We share the Personal Information we collect and receive only with trusted third parties and business partners to help us use such Personal Information to provide services to you, as described herein, such as web hosting services, IT and cybersecurity tools, and developers.
 
-In the event of a merger, reorganization, dissolution or similar corporate event, or the sale of all or substantially all of our assets, we expect that the information that we have collected, including Personal Information, would be transferred to the surviving entity in a merger or the acquiring entity. If we are involved in a merger, acquisition, or asset sale, or in the unlikely event of bankruptcy, liquidation or receivership of our business, and your personal information becomes subject to a different privacy policy, we will provide affected users notice through the Services.
+In the event of a merger, reorganization, dissolution, or similar corporate event, or the sale of all or substantially all of our assets, we expect that the information that we have collected, including Personal Information, would be transferred to the surviving entity in a merger or the acquiring entity. If we are involved in a merger, acquisition, or asset sale, or in the unlikely event of bankruptcy, liquidation, or receivership of our business, and your personal information becomes subject to a different privacy policy, we will provide affected users notice through the Services.
 
-Finally, we may also share such Personal Information where required to do so by law or subpoena or if we reasonably believe that such action is necessary to (a) comply with the law and the lawful requests by governmental, self-regulatory or other public authorities (including for the purpose of meeting national security or law enforcement requirements); (b) to enforce our terms of use or to protect the security, quality or integrity of our Services; and/or (c) to exercise or protect the rights, property, or personal safety of The Ranch, our users, or others.
+Finally, we may also share such Personal Information where required to do so by law or subpoena or if we reasonably believe that such action is necessary to (a) comply with the law and the lawful requests by governmental, self-regulatory or other public authorities (including to meet national security or law enforcement requirements); (b) to enforce our terms of use or to protect the security, quality or integrity of our Services; and/or (c) to exercise or protect the rights, property, or personal safety of The Ranch, our users, or others.
 
 ### Selling Personal Information
 
-Cool Cats will not rent or sell your Personal Information into third parties without your consent.
+The Ranch will not rent or sell your Personal Information to third parties without your consent.
 
 ### Cross-Border Storage and Processing
 
-The Personal Information we collect or receive may be stored and processed in the United States or any other country in which Cool Cats or its affiliates, or service providers maintain facilities. Cool Cats may transfer information that we collect about you, including Personal Information, to affiliated entities, or to other third parties across borders and from your country or jurisdiction to other countries or jurisdictions around the world. If you are located in the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that we may transfer information, including Personal Information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction, and you consent to the transfer of information to the U.S. or any other country in which Cool Cats or its affiliates, or service providers maintain facilities and the use and disclosure of information about you as described in this Privacy Policy.
+The Personal Information we collect or receive may be stored and processed in the United States or any other country in which The Ranch or its affiliates or service providers maintain facilities. The Ranch may transfer information that we collect about you, including Personal Information, to affiliated entities or third parties across borders and from your country or jurisdiction to other countries or jurisdictions around the world. If you are located in the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that we may transfer information, including Personal Information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction. You consent to the transfer of information to the U.S. or any other country in which The Ranch or its affiliates or service providers maintain facilities and the use and disclosure of information about you as described in this Privacy Policy.
 
 ### For How Long Do We Keep Personal Information
 
-We will maintain Personal Information in our records until such information is automatically deleted in accordance with Cool Cats’ data retention policy in effect from time to time or until you ask us to delete this information, if earlier. If certain information has already been provided to third parties as described in this Privacy Policy, retention of that information will be subject to those third parties’ policies.
+We will maintain Personal Information in our records until such information is automatically deleted per The Ranch's data retention policy in effect from time to time or until you ask us to delete this information, if earlier. If certain information has already been provided to third parties as described in this Privacy Policy, retention of that information will be subject to those third parties' policies.
 
 ### How We Keep Personal Information Secure
 
-Cool Cats uses commercially reasonable safeguards to preserve the integrity and security of all Personal Information Cool Cats collects from you or form third parties, including encryption. However, Cool Cats cannot ensure or warrant the security of any information you transmit to Cool Cats or guarantee that information on the Services may not be accessed, disclosed, altered, or destroyed.
+The Ranch uses commercially reasonable safeguards to preserve the integrity and security of all Personal Information The Ranch collects from you or from third parties, including encryption. However, The Ranch cannot ensure or warrant the security of any information you transmit to The Ranch or guarantee that information on the Services may not be accessed, disclosed, altered, or destroyed.
 
 ### Children
 
-The Services are not intended for individuals under the age of eighteen (18), and Cool Cats does not knowingly collect or solicit any information from anyone under the age of 18 or knowingly allow such persons to register as users.
+The Services are not intended for individuals under the age of eighteen (18), and The Ranch does not knowingly collect or solicit any information from anyone under the age of 18 or knowingly allow such persons to register as users.
 
 ### Your Rights
 
-You may exercise the rights to which you are eligible with respect to your Personal Information by contacting Cool Cats at any time using – see “Contact Us” below.
+You may exercise the rights to which you are eligible concerning your Personal Information by contacting The Ranch at any time using – see “Contact Us” below.
 
 ### Opt-Out for Direct Marketing
 
