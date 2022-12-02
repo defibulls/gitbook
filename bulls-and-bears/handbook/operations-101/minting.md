@@ -4,7 +4,11 @@
 
 When anyone mints one of the BTC Bulls or the BTC Bears, what's happening is there is a transaction happening on the property of the ranch, and the transaction takes place on our land. To make your way onto the property of "The Ranch" and mint/adopt a BTC Bull or BTC Bear, you must get through the gate first, and that's exactly where the need for the gate code comes into play. Before each minting window, a new gate code will be published by the team. All minting of Bulls and Bears will require the gate code to match up. Without the gate code, no entry, thus no minting.&#x20;
 
-**Weekly Gate Code:** None
+**Window 1 Gate Code:** Not yet revealed
+
+**Window 2 Gate Code:** Not yet revealed
+
+**Window 3 Gate Code:** Not yet revealed
 
 
 
@@ -44,7 +48,7 @@ The entire raffle process is NOT controlled by the owners of the contract in any
 
 * What is VRF?  Chainlink VRF (Verifiable Random Function) is a provably fair and verifiable random number generator (RNG) that enables smart contracts to access random values.
 
-When minting BTC Bulls or BTC Bears, any wallet addresses not in the current giveaway will be entered into it. The Minting giveaway kicks off at the end of each Minting Windows. If users elect to mint 1 NFT or 5 NFTs, they will be entered into the minting giveaway only once.&#x20;
+When minting BTC Bulls or BTC Bears, any wallet addresses not in the current giveaway will be entered. The Minting giveaway kicks off at the end of each Minting Windows. If users elect to mint 1 NFT or 5 NFTs, they will be entered into the minting giveaway only once.&#x20;
 
 Each winner of the minting giveaway will win up to $590. If the minting giveaway balance is $450, then a single winner shall be chosen with the winning amount of $450. If $1200 is held in the minting giveaway balance, two entries will win, each awarded $590 and the remaining $20 remaining in the fund for the next iteration. If $3312 were held in the minting giveaway balance, five winners would be chosen, each winning $590, and $362 would remain for the next iteration.  After each iteration of the minting giveaway, it is reset. When the Minting Raffle is reset, all users who mint new NFTs from then on are eligible to enter the minting giveaway on that particular contract; this doesn't matter if it's the first time a wallet address has been minted or taken part in a previous minting giveaway. Once it is reset, it's fair game for all.
 
