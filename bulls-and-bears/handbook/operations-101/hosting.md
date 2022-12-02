@@ -38,7 +38,7 @@ A fundamental concept and design feature of the project revolves around the HOST
 
 Essentially plot owner accounts look like this:&#x20;
 
-<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FFv8dhycY0uS8Gdt4TW7Y%2Fuploads%2FsS235F1pFNtBLAThBImj%2Fimage.png?alt=media&#x26;token=916924b5-8a53-4185-b88a-0a375dcb9af4" alt=""><figcaption><p>FIG 3</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption><p>FIG 3</p></figcaption></figure>
 
 When a plot owner's stockyard is checked, we check to see if the plot owner has WBTC rewards in their account. If any account does, we then check if that account has a hostingFeeBalance greater than zero. If they have a hosting balance greater than zero, we check to see if the user's hosting fee reserve balance is larger than their hosting fee balance. If that is the case, we will auto-pay the hosting fee balance for that plot owner's account using their hosting reserve balance and reset their hosting fee balance to 0 and their HostingClock to 3. If the account hosting reserve balance can not cover the hosting fee balance, we are forced to settle up with the account in another way. We would take the WBTC in that owner's account and send it to the HOSTING SAFE multi-sig wallet and then reset that account's hosting fee balance and set the hosting clock to 3. Essentially we are liquidating the WBTC from that user's account and will have to sell it to help pay for the community hosting fee invoices at the mining facility. That plots owners account also has a counter that keeps track of how many times they have been liquidated, which will be incremented by 1.  The process flow looks like this:
 

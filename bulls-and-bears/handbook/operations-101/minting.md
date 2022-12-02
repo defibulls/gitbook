@@ -38,7 +38,7 @@ If more windows are needed to mint the full collection of the BTC Bulls and/or t
 
 ## **MINTING GIVEAWAY**
 
-## &#x20;**** ![](<../../../.gitbook/assets/image (4).png>)&#x20;
+## &#x20;**** ![](<../../../.gitbook/assets/image (4) (1).png>)&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (1) (7).png" alt=""><figcaption></figcaption></figure>
 
