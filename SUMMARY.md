@@ -37,3 +37,4 @@
 * [TERMS OF SERVICE](legal/terms-of-service.md)
 * [CONTEST RULES](legal/contest-rules/README.md)
   * [MINTING GIVEAWAY](legal/contest-rules/minting-giveaway.md)
+  * [ROYALTY GIVEAWAY](legal/contest-rules/royalty-giveaway.md)
