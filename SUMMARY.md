@@ -25,7 +25,7 @@
   * [FAQ](bulls-and-bears/handbook/faq.md)
   * [AUDIT](bulls-and-bears/handbook/audit.md)
   * [WEBSITE & SOCIALS](bulls-and-bears/handbook/website-and-socials.md)
-* [2023 ROADMAP](bulls-and-bears/2023-roadmap.md)
+* [22-23 ROADMAP](bulls-and-bears/22-23-roadmap.md)
 * [HOW TO MINT A BTC Bull/Bear](bulls-and-bears/how-to-mint-a-btc-bull-bear/README.md)
   * [Installing MetaMask](bulls-and-bears/how-to-mint-a-btc-bull-bear/installing-metamask.md)
   * [Add Polygon Network to your wallet](bulls-and-bears/how-to-mint-a-btc-bull-bear/add-polygon-network-to-your-wallet.md)
