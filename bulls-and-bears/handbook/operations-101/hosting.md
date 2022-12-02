@@ -2,7 +2,7 @@
 
 ## HOSTING FEES FOR THE BTC Bulls
 
-What is this, and why is this important? Let's play out an example of how this project will go. We start the project and sell our BTC Bull NFTs, and purchase miners. We go through the first three tiers and sell 2999 BTC Bulls. Let's assume all buyers of NFTs choose to enter the daily raffle; 89% of the minting cost would go to buying miners for the project.&#x20;
+What is this, and why is this important? Let's play out an example of how this project will go. We start the project and sell our BTC Bull NFTs, and purchase miners. We go through the first three tiers and sell 2999 BTC Bulls. 89% of the minting cost would be buying BTC miners for the project.&#x20;
 
 * TIER 1 = (999 \* 350) \* 0.89&#x20;
 * TIER 2 = (1000 \* 360) \* 0.89&#x20;
@@ -10,7 +10,7 @@ What is this, and why is this important? Let's play out an example of how this p
 
 BTC MINERS SAFE == ((999 \* 350) + (1000 \* 360) + (1000 \* 370 )) \* 0.89  ==  $960,888.50
 
-The BTC MINERS SAFE is then used to purchase and build the project's BTC MINER CLUSTER. Let's assume we can purchase 100 TH/s Antminer S19s for ≈$4000 each
+The BTC MINERS SAFE is then used to purchase and build the project's BTC MINER CLUSTER. Let's assume we can purchase 100 TH/s Antminer S19s for ≈$4000 each.
 
 $960,888.50 / $4000 == ≈ 240 Antminer S19 100Th/s&#x20;
 
@@ -34,7 +34,7 @@ From all our projections, the last thing we want to do as a BTC Bulls Community 
 
 #### THE HOSTING SAFE
 
-A very important concept and design feature of the project revolves around the HOSTING\_SAFE and ensuring we keep funds in there to keep the project healthy. Every plot owner must pay the hosting fee for all their BTC Bulls on the property. Every plot/stockyard owner within The Ranch has a 'Hosting Clock' on their account ranging from 0-3. This represents how many monthly reward periods can go by before The Ranch queries your stockyard account. The Ranch only queries accounts whenever a plot owner's account reaches zero on their hosting clock. &#x20;
+A fundamental concept and design feature of the project revolves around the HOSTING\_SAFE and ensuring we keep funds in there to keep the project healthy. Every plot owner must pay the hosting fee for all their BTC Bulls on the property. Every plot/stockyard owner within The Ranch has a 'Hosting Clock' on their account ranging from 0-3. This represents how many monthly reward periods can go by before The Ranch queries your stockyard account. The Ranch only queries accounts whenever a plot owner's account reaches zero on their hosting clock. &#x20;
 
 Essentially plot owner accounts look like this:&#x20;
 
