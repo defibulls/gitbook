@@ -87,7 +87,7 @@ Additionally, if you are a EEA resident, we note that we are processing your inf
 
 ### Rights of California Consumers and Residents
 
-Under California law, specific disclosures are required, and California residents have additional rights regarding their Personal Information. Please review this section to learn more. You can download a printable copy of this Privacy Policy \[here]\(/uploads/Coolcats-Privacy-Policy.pdf).
+Under California law, specific disclosures are required, and California residents have additional rights regarding their Personal Information. Please review this section to learn more. You can download a printable copy of this Privacy Policy.
 
 ### California Do Not Track Disclosure
 
@@ -95,36 +95,36 @@ Do Not Track is a privacy preference that users can set in their web browsers. W
 
 ### California Privacy Rights
 
-The following details the categories of Personal Information that we collect and have collected over the past twelve (12) months: IP addresses.
+The following details the categories of Personal Information that we collected over the past twelve (12) months: IP addresses.
 
 Under the California Consumer Protection Act of 2018 (“CCPA”), a California consumer has the following special rights:
 
 – right to request that the business disclose what Personal Information it collects, uses, discloses, and sells;\
 – right to request the deletion of their Personal Information collected by the business; and\
-– the right, at any time, to direct a business that sells Personal Information about the consumer to third parties not to sell the consumer’s Personal Information (“right to opt-out”).
+– the right, at any time, to direct a business that sells Personal Information about the consumer to third parties, not to sell the consumer’s Personal Information (“right to opt-out”).
 
 Over the past twelve (12) months, we have not disclosed any Personal Information to any third parties and do not expect to do so in the future.
 
 Based on our understanding of the term “sell” under the CCPA, we do not sell your Personal Information.
 
-To exercise their rights and request copies of the data collected about them in the past 12 months, that their Personal Information collected by Cool Cats be deleted or to exercise their right of opt out, California residents may make a request at legal@coolcatsnft.com. Such request must include sufficient information to allow us to verify that you are the person about whom we have collected Personal Information and describe your request in sufficient detail to allow us to understand, evaluate, and respond to it. Opt-Out Requests may be cancelled by making an Opt-In Request.
+To exercise their rights and request copies of the data collected about them in the past 12 months, that their Personal Information collected by The Ranch be deleted or to exercise their right to opt-out, California residents may request defibulls+legal@gmail.com. Such request must include sufficient information to allow us to verify that you are the person about whom we have collected Personal Information and describe your request in sufficient detail to allow us to understand, evaluate, and respond to it. Opt-Out Requests may be canceled by making an Opt-In Request.
 
 We will work to respond to your valid request within 45 days of receipt. We will not charge you a fee for making a valid request unless your valid request(s) is excessive, repetitive, or manifestly unfounded. If we determine that your valid request warrants a fee, we will notify you of the fee and explain that decision before completing your request.
 
-We will use the information you provide to make your CCPA rights requests to verify your identity, identify the Personal Information we may hold about you and act upon your request. We strongly recommend that you submit the email that you used when you registered with the Services. After you submit a CCPA rights requests using one of our forms, you will be required to verify access to the email address you submitted. You will receive an email with a follow-up link to complete your email verification process. You are required to verify your email in order for us to proceed with your CCPA rights requests. Please check your spam or junk folder in case you can’t see the verification email in your inbox. If you are a California resident and have any questions regarding your CCPA rights under this Privacy Policy, please contact us at to [legal@coolcatsnft.com](https://www.coolcatsnft.com/legal@coolcatsnft.com).
+We will use the information you provide to make your CCPA rights requests to verify your identity, identify the Personal Information we may hold about you and act upon your request. We strongly recommend that you submit the email that you used when you registered with the Services. After you submit a CCPA rights request using one of our forms, you will be required to verify access to the email address you submitted. You will receive an email with a follow-up link to complete your email verification process. You must verify your email for us to proceed with your CCPA rights requests. Please check your spam or junk folder if you can’t see the verification email in your inbox. If you are a California resident and have any questions regarding your CCPA rights under this Privacy Policy, please contact us at to defibulls+legal@gmail.com
 
 ### Right to be free from discrimination.
 
 You may exercise any of the above rights without fear of being discriminated against. We are permitted to provide a different price or rate to you if the difference is directly related to the value provided to you by your data.
 
-California Customers may request further information about our compliance with California’s privacy law, and may request to review and request changes to their Personal Information collected and stored by Cool Cats by e-mailing [legal@coolcatsnft.com](https://www.coolcatsnft.com/legal@coolcatsnft.com) or contacting us as stated below.
+California Customers may request further information about our compliance with California’s privacy law. They may request to review and request changes to their Personal Information collected and stored by The Ranch by emailing defibulls+legal@gmail.com or contacting us as stated below.
 
 ### Changes to this Privacy Policy
 
-This Privacy Policy is effective as of the date stated at the top of this Privacy Policy. We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons, and will post any changes on the Services as soon as they go into effect. We encourage you to periodically review this page for the latest information on our privacy practices. You can always check the “last updated” date at the top of this document to see when the Privacy Policy was last changed.
+This Privacy Policy is effective as of the date stated at the top of this Privacy Policy. We may update this privacy policy from time to time to reflect, for example, changes to our practices or for other operational, legal, or regulatory reasons. We will post any changes on the Services as soon as they go into effect. We encourage you to periodically review this page for the latest information on our privacy practices. You can always check the “last updated” date at the top of this document to see when the Privacy Policy was last changed.
 
 ### Contact Us
 
-For more information about our privacy practices, if you have questions, or if you would like to make a data request or a complaint, please contact us by e-mail at [legal@coolcatsnft.com](https://www.coolcatsnft.com/legal@coolcatsnft.com).
+For more information about our privacy practices, if you have questions, or if you would like to make a data request or a complaint, please contact us by e-mail at defibulls+legal@gmail.com.
 
-We will respond to requests within a reasonable timeframe. We retain and use your information as necessary to comply with our legal and contractual obligations, statute of limitations, resolution of disputes, and enforcement of our agreements. Please note that we may not be able to delete all of your data upon request depending on the reasons above and the nature of your interactions.
+We will respond to requests within a reasonable timeframe. We retain and use your information as necessary to comply with our legal and contractual obligations, the statute of limitations, the resolution of disputes, and the enforcement of our agreements. Please note that we may not be able to delete all of your data upon request depending on the reasons above and the nature of your interactions.
