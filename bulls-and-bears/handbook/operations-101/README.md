@@ -11,9 +11,13 @@ The BTC Bulls and BTC Bears are separate communities within The Ranch, built aro
 
 ## WHY START THE PROJECT?
 
-This is a two sided question:&#x20;
+This is a loaded question and one I have to give two answers to:
 
 **Reason 1:**
+
+The bear market is doing what it does best; purging scammers, rug pulls, and deceitful players. The last year has been chaos, and financial obliteration in the crypto space and BTC looks to be at or near its bottom amidst all the drama. The goal from the beginning stages of this project was to launch when we were close and/or at the bottom. There is always the risk of going even lower, but since BTC has shown that 15K is likely the bottom, the time is now to launch.&#x20;
+
+**Reason 2:**
 
 The key to the success and profitability of this project is all about the timing of the start of the project. The price of the BTC miners and the hosting/electricity fees are the key factors. In December of 2021, an S19j Pro BTC Miner cost roughly $13K. Today, due to market conditions and the onset of the bear market, that same S19j Pro BTC MIner can be purchased for nearly $3K.&#x20;
 
@@ -33,7 +37,7 @@ $5.22 x 30 days = $156.60/month                      (Cost of electricity per mo
 
 Knowing that the energy costs will be a critical factor in the project's success, we know that partnering with the right business will make a huge difference.&#x20;
 
-**Reason 2:**
+****
 
 ****
 
