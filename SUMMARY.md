@@ -20,7 +20,6 @@
     * [ROYALTIES](bulls-and-bears/handbook/operations-101/royalties.md)
     * [AFTERMARKET NFT SALES](bulls-and-bears/handbook/operations-101/aftermarket-nft-sales.md)
     * [COMMUNITY VOTING](bulls-and-bears/handbook/operations-101/community-voting.md)
-    * [PROJECTIONS](bulls-and-bears/handbook/operations-101/projections.md)
     * [SECURITY & TRANSPARENCY](bulls-and-bears/handbook/operations-101/security-and-transparency.md)
   * [FAQ](bulls-and-bears/handbook/faq.md)
   * [AUDIT](bulls-and-bears/handbook/audit.md)
