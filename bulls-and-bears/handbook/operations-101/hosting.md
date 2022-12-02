@@ -74,10 +74,8 @@ In this instance, we would have to convert ≈$23,000  of our mined BTC to pay t
 
 The BTC Bears do everything else under the same rules as the BTC Bulls regarding Minting Giveaways, Royalty Giveaways, and liquidation events.
 
+&#x20;__&#x20;
 
-
-## WHEN DO HOSTING FEES START?
-
-Hosting Fees pay the invoices at Compass Mining. Thus, they won't start until an invoice is generated, which would be on the first award event in Q1 of 2023.
+__
 
 __
