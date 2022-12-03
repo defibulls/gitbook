@@ -36,9 +36,9 @@ From all our projections, the last thing we want to do as a BTC Bulls Community 
 
 A fundamental concept and design feature of the project revolves around the HOSTING\_SAFE and ensuring we keep funds in there to keep the project healthy. Every plot owner must pay the hosting fee for all their BTC Bulls on the property. Every plot/stockyard owner within The Ranch has a 'Hosting Clock' on their account ranging from 0-3. This represents how many monthly reward periods can go by before The Ranch queries your stockyard account. The Ranch only queries accounts whenever a plot owner's account reaches zero on their hosting clock. &#x20;
 
-Essentially plot owner accounts look like this:&#x20;
+Essentially each plot owners accounts looks like this:&#x20;
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>FIG_ACCOUNT</p></figcaption></figure>
 
 When a plot owner's stockyard is checked, we check to see if the plot owner has WBTC rewards in their account. If any account does, we then check if that account has a hostingFeeBalance greater than zero. If they have a hosting balance greater than zero, we check to see if the user's hosting fee reserve balance is larger than their hosting fee balance. If that is the case, we will auto-pay the hosting fee balance for that plot owner's account using their hosting reserve balance and reset their hosting fee balance to 0 and their HostingClock to 3. If the account hosting reserve balance can not cover the hosting fee balance, we are forced to settle up with the account in another way. We would take the WBTC in that owner's account and send it to the HOSTING SAFE multi-sig wallet and then reset that account's hosting fee balance and set the hosting clock to 3. Essentially we are liquidating the WBTC from that user's account and will have to sell it to help pay for the community hosting fee invoices at the mining facility. That plots owners account also has a counter that keeps track of how many times they have been liquidated, which will be incremented by 1.  The process flow looks like this:
 
