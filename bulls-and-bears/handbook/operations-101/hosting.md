@@ -18,11 +18,11 @@ When factoring in tax or other transaction expenses, the BTC MINER CLUSTER start
 
 <figure><img src="../../../.gitbook/assets/Farm (2).png" alt=""><figcaption></figcaption></figure>
 
-As an owner of a BTC Bull(s), you are leasing the fenced plot of land, a stockyard, for your Bulls to live and graze. Some owners will have stockyards with a single Bull, while others can create much larger ones. There is no limit on how many BTC Bulls can be housed within a particular stockyard. Each BTC Bull within your designated plot carries a max $15 hosting fee per month. The collection of individual stockyard hosting fees goes directly to pay for the actual hosting fees of the BTC Bulls mining cluster at Compass Mining.&#x20;
+As an owner of a BTC Bull(s), you are leasing the fenced plot of land, a stockyard, for your Bulls to live and graze. Some owners will have stockyards with a single Bull, while others can create much larger ones. There is no limit on how many BTC Bulls can be housed within a particular stockyard. Each BTC Bull within your designated plot carries a $15 hosting fee per month. The collection of individual stockyard hosting fees goes directly to pay for the actual hosting fees of the BTC Bulls mining cluster at Compass Mining.&#x20;
 
-This approach allows each BTC Bull within The Ranch to share the hosting invoice evenly. In the above example, 240 miners on the invoice would be ≈ $38,000 if we average a $156.60 hosting fee per miner. Since we have 2999 BTC Bulls in circulation, each BTC Bull NFT will share that invoice, and that calculation would come out to be $12.67 per BTC Bull. For the sake of easy math and never wanting to be short on the project, we will round up each hosting calculation. In this example, we would set the monthly hosting fee to $13 and would be able to retain a small amount left over in our HOSTING SAFE wallet that would go to pay next month to pay on later hosting invoices. The intent behind this approach is to avoid having excess hosting fees sitting in a wallet for no reason. Unlike other projects, our hosting fees serve the direct purpose of paying the actual invoices from Compass Mining, not trying to build any treasury for the project. &#x20;
+This approach allows each BTC Bull within The Ranch to share the hosting invoice evenly. In the above example, 240 miners on the invoice would be ≈ $38,000 if we average a $156.60 hosting fee per miner. Since we have 2999 BTC Bulls in circulation, each BTC Bull NFT will share that invoice, and we would be able to retain the leftover  ≈ $7,000 within the HOSTING SAFE to pay on later hosting invoices.&#x20;
 
-Through compounding efforts, our BTC Mining Cluster has the potential to grow very large and powerful. The following month we could add more miners as more Tiers sell out and our compounding efforts start. This could give us an invoice of $185,000 shared between all 9960\* BTC Bulls. With the set hosting fees for each plot, once we collected the $15 from each BTC Bull, as that is the max hosting fee allowed for each BTC Bull on the project, we would still be short of paying the monthly invoice.&#x20;
+Through compounding efforts, our BTC Mining Cluster has the potential to grow very large and powerful. The following month we could add more miners as more Tiers sell out and our compounding efforts start. This could give us an invoice of $185,000 shared between all 9960\* BTC Bulls. With the set hosting fees for each plot, once we collected the $15 from each BTC Bull, we would still be short of paying the monthly invoice.&#x20;
 
 $185,000 - $149,400 == $30,600 left to cover&#x20;
 
@@ -60,7 +60,7 @@ To fund your hosting reserve balance to cover auto-pay events, you do this in th
 
 ## HOSTING FEES FOR THE BTC Bears
 
-The BTC Bears work exactly like the BTC Bulls, with one exception. Firstly, the amount of hosting fees due from each BTC Bear is only a max of $5 per month, whereas the BTC Bulls carry a $15 monthly max obligation.&#x20;
+The BTC Bears work exactly like the BTC Bulls, with one exception. Firstly, the amount of hosting fees due from each BTC Bear is only $5 per month, whereas the BTC Bulls carry a $15 a month obligation.&#x20;
 
 The hosting difference stems from what needs to happen on The Ranch regarding both animals. The BTC Bulls are domesticated cattle that are provided land for grazing, shelter, and food. The BTC Bears, on the other hand, live in the surrounding forest of the property and thus don't incur the same expense on our property other than fencing and general preying protection from attacking our livestock.&#x20;
 
@@ -78,6 +78,6 @@ The BTC Bears do everything else under the same rules as the BTC Bulls regarding
 
 ## WHEN DO HOSTING FEES START?
 
-Hosting Fees pay the invoices at Compass Mining. Thus, they won't start until an invoice is generated, which would be on the first award event estimated for Q1 of 2023.
+Hosting Fees pay the invoices at Compass Mining. Thus, they won't start until an invoice is generated, which would be on the first award event in Q1 of 2023.
 
 __
