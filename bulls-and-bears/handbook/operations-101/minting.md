@@ -36,10 +36,6 @@ If more windows are needed to mint the full collection of the BTC Bulls and/or t
 
 <figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>FIG MINT</p></figcaption></figure>
 
-## **'OG' STATUS ON THE RANCH:**
-
-The only way to become an 'OG' on the project is to have minted BTC Bulls or BTC Bears from the contract itself. If someone obtains their BTC Bull or BTC bear from OpenSea, they will be given access to the WBTC mining rewards each month, but they will not be an 'OG' on the property. As time marches on, fewer and fewer original owners will remain, and the [royalties](royalties.md) section will become more appealing.&#x20;
-
 ## **MINTING GIVEAWAY**
 
 ## &#x20;**** ![](<../../../.gitbook/assets/image (4) (1).png>)&#x20;
