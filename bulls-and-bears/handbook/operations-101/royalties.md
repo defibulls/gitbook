@@ -1,13 +1,17 @@
 # ROYALTIES
 
-## ROYALTY REWARDS
+## ![](<../../../.gitbook/assets/image (1) (5) (2).png>)ROYALTY REWARDS
+
+<figure><img src="../../../.gitbook/assets/image (3) (1) (5).png" alt=""><figcaption></figcaption></figure>
+
+#### ROYALTY REWARDS
 
 There will be a 12.5% royalty fee when selling BTC Bulls on OpenSea.  2.5% gets paid to OpenSea as a fee, and the remaining 10% is split 50/50.&#x20;
 
 * **50%** going back to The Ranch for project development and project-related costs.&#x20;
 * **50%** goes into our monthly Royalty Rewards.
 
-Our community will be filled with holders with long-term mindsets, but there will always be those who need to sell for liquidity and/or profit opportunities. Looking at what other projects have done in the past, if we get close to a quarter of the numbers those projects hit, this could serve as a cool approach to reward those who supported first and stayed around.
+Our community will be filled with holders with long-term mindsets, but there will always be those who need to sell for liquidity and/or profit opportunities. Looking at what other projects have done in the past, if we get anywhere close to a quarter of the numbers those projects hit, this could serve as a cool approach to reward those who supported first and stayed around.
 
 To participate in Royalty Rewards, the BTC Bull/Bear owner's address must have a liquidation score of zero.
 

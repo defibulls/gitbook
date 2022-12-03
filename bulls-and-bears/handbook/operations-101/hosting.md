@@ -60,7 +60,7 @@ To fund your hosting reserve balance to cover auto-pay events, you do this in th
 
 ## HOSTING FEES FOR THE BTC Bears
 
-The BTC Bears work exactly like the BTC Bulls, with one exception. Firstly, the amount of hosting fees due from each BTC Bear is only $5 per month, whereas the BTC Bulls carry a $15 a month obligation.&#x20;
+The BTC Bears work exactly like the BTC Bulls, with one exception. Firstly, the amount of hosting fees due from each BTC Bear is only a max of $5 per month, whereas the BTC Bulls carry a $15 monthly max obligation.&#x20;
 
 The hosting difference stems from what needs to happen on The Ranch regarding both animals. The BTC Bulls are domesticated cattle that are provided land for grazing, shelter, and food. The BTC Bears, on the other hand, live in the surrounding forest of the property and thus don't incur the same expense on our property other than fencing and general preying protection from attacking our livestock.&#x20;
 
@@ -78,6 +78,6 @@ The BTC Bears do everything else under the same rules as the BTC Bulls regarding
 
 ## WHEN DO HOSTING FEES START?
 
-Hosting Fees pay the invoices at Compass Mining. Thus, they won't start until an invoice is generated, which would be on the first award event in Q1 of 2023.
+Hosting Fees pay the invoices at Compass Mining. Thus, they won't start until an invoice is generated, which would be on the first award event estimated for Q1 of 2023.
 
 __
