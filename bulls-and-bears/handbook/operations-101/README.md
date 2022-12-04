@@ -11,7 +11,7 @@ The BTC Bulls and BTC Bears are separate communities within The Ranch, built aro
 
 A project built with:
 
-* Real utility&#x20;
+* Real Utility&#x20;
 * Real Yield
 * Real Rewards
 
@@ -140,7 +140,7 @@ We are projecting each miner to be operational for 60 months. Some will last lon
 
 ## BTC Bulls vs. BTC Bears
 
-## ![](../../../.gitbook/assets/82.png)![](<../../../.gitbook/assets/invisible2-modified (4).png>)
+## ![](../../../.gitbook/assets/82.png)![](<../../../.gitbook/assets/Base character.jpg>)
 
 
 
