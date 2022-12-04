@@ -6,4 +6,4 @@ The only way to obtain an early supporter rank (ES) is to be an original owner o
 
 #### Why does this matter?
 
-On BTC Bull and BTC Bear, owners that are ES of the project will be allowed to take part in the royalty rewards program. As time marches on, fewer and fewer addresses who minted the BTC Bulls and the BTC Bears from the contract will remain. Thus the royalty rewards will become a more valuable opportunity over time.
+On BTC Bull and BTC Bear, owners that are 'ES' of the project will be allowed to take part in the royalty rewards program. As time marches on, fewer and fewer addresses who minted the BTC Bulls and the BTC Bears from the contract will remain. Thus the royalty rewards will become a more valuable opportunity over time.
