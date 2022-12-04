@@ -34,7 +34,7 @@ The last year has been chaos and financial obliteration in the crypto space. The
 
 **Reason 3:**&#x20;
 
-The price of BTC could likely fall further in December, but this will likely take place in the early months of next year when consumers realize they took on a bit too much debt over the holiday season and start selling their BTC and other tokens/coins to make up for it.&#x20;
+The price of BTC could likely fall further in the early months of next year when consumers realize they took on too much debt over the holiday season and start selling their BTC and other tokens/coins to make up for it.&#x20;
 
 **Reason 4:**
 
@@ -140,7 +140,7 @@ We are projecting each miner to be operational for 60 months. Some will last lon
 
 ## BTC Bulls vs. BTC Bears
 
-## ![](../../../.gitbook/assets/82.png)![](<../../../.gitbook/assets/invisible2-modified (4).png>)
+## ![](../../../.gitbook/assets/82.png)![](../../../.gitbook/assets/image.png)
 
 
 
