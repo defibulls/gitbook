@@ -7,17 +7,36 @@ coverY: 72
 
 ## 10,000 FT VIEW OF 10,000 BTC Bulls & BTC Bears
 
-The BTC Bulls and BTC Bears are separate communities within The Ranch, built around Bitcoin Mining. This project combines a MAAS (mining-as-a-service) and a club. The heart of the ecosystem is buying BTC Bulls and/or BTC Bears, a way of buying into a fractionalized BTC mining cluster and sharing mining rewards.  There is strength in numbers, and the BTC Bulls and the BTC Bears, while separate, will put this on full display as a community.&#x20;
+The BTC Bulls and BTC Bears are separate communities within The Ranch, built around Bitcoin Mining. This project is a club and a MAAS (mining-as-a-service) hybrid model. The heart of the ecosystem is buying BTC Bulls and/or BTC Bears, a way of buying into a fractionalized BTC mining cluster and sharing mining rewards.&#x20;
+
+A project built with:
+
+* Real utility&#x20;
+* Real Yield
+* Real Rewards
+
+There is strength in numbers, and the BTC Bulls and the BTC Bears, while separate, will put this on full display as a community.&#x20;
 
 ## WHY START THE PROJECT?
 
-This is a loaded question and one I have to give two answers to:
+This is a loaded question and one I have to give several answers to:
 
 **Reason 1:**
 
-The bear market is doing what it does best; purging scammers, rug pulls, and deceitful players. The last year has been chaos and financial obliteration in the crypto space, and BTC looks to be at or near its bottom amidst all the drama. The goal from the beginning stages of this project was to launch when we were close and/or at the bottom. There is always the risk of going even lower, but since BTC has shown that 15K is likely the bottom, the time is now to launch.&#x20;
+The bear market is doing what it does best; purging scammers, rug pulls, and deceitful players.&#x20;
 
 **Reason 2:**
+
+The last year has been chaos and financial obliteration in the crypto space. The goal from the beginning stages of this project was to launch when we were close and/or at the bottom of the Bear Market concerning BTC. Likely, we haven't reached the bottom of the Bear market yet, as the BTC hash rate hasn't collapsed yet. BTC hash rate collapsing around Bitcoins bottom makes sense from a cause-and-effect point of view. Two key events are happening or have happened that are affecting this:
+
+* Lots of BTC mining companies are struggling, and a few of the larger publicly-traded Mining Companies have or are in the process of filing for bankruptcy. (i.e., compute-north & core-scientific).&#x20;
+* The profitability of BTC mining is causing the small players to close up shop as profits are dwindling.
+
+**Reason 3:**&#x20;
+
+The price of BTC could likely fall further in December, but this will likely take place in the early months of next year when consumers realize they took on a bit too much debt over the holiday season and start selling their BTC and other tokens/coins to make up for it.&#x20;
+
+**Reason 4:**
 
 The key to the success and profitability of this project is all about the timing of the start of the project. The price of the BTC miners and the hosting/electricity fees are the key factors. In December of 2021, an S19j Pro BTC Miner cost roughly $13K. Today, due to market conditions and the onset of the bear market, that same S19j Pro BTC MIner can be purchased for nearly $3K.&#x20;
 
