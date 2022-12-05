@@ -4,7 +4,7 @@
 
 ## The Ranch
 
-* [Meet the Team](the-ranch/meet-the-team.md)
+* [TEAM](the-ranch/team.md)
 * [LLC](the-ranch/llc.md)
 * [KYC](the-ranch/kyc.md)
 
