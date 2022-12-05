@@ -14,7 +14,7 @@ To vote a Ranch-Master out of the Leadership Council, the following must be met.
 
 ## ELDERS
 
-* Must be a SUPER-BEAR or SUPER-BULL or higher rank.
+* Must be a SUPER-BEAR with at least 1 BTC Bull or SUPER-BULL with at least 1 BTC Bear.&#x20;
 * It cannot exceed 400 members.&#x20;
 * Leadership Council can remove members as seen fit.
 * Reasons for removal are but not limited to inactivity in chat, inactivity in voting, not holding required tokens, and malicious intent towards the club.&#x20;
