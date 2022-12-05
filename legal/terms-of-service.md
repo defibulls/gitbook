@@ -130,7 +130,7 @@ The Terms of Service and our Privacy Policy constitute the sole and entire agree
 
 \
 **22. Your Comments and Concerns**\
-The Services are operated by Defi-Bulls LLC, located at <\<insert address>>All notices of copyright infringement claims should be sent to the copyright agent designated in these Terms of Service in the manner and by the means set out therein. All other feedback, comments, requests for technical support, and other communications relating to the Services should be directed to: defibulls+legal@gmail.com
+The Services are operated by Defi-Bulls LLC, located at DEFI-BULLS LLC, #131, 269 Market Place Blvd, Cartersville, GA 30121. All notices of copyright infringement claims should be sent to the copyright agent designated in these Terms of Service in the manner and by the means set out therein. All other feedback, comments, requests for technical support, and other communications relating to the Services should be directed to: defibulls+legal@gmail.com
 
 
 
