@@ -7,13 +7,17 @@
 
 ## ELDERS
 
-* Cannot exceed 400 members.
-* Acts as a pseudo "Board of Directors" for P.E.C system
+* It cannot exceed 400 members.
+* Acts as a pseudo "Board of Directors" for the P.E.C system
 
 ## MEMBERS
 
 * Public Members owning at least 1 BTC Bull and/or 1 BTC Bear
 * Full voting power respective to their NFT 'Community Vote' (Bulls and/or Bears)
+
+
+
+<figure><img src="../../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 
 

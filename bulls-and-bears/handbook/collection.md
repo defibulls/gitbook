@@ -24,7 +24,7 @@ coverY: -446.4
 
 ## BTC Bears
 
-![](<../../.gitbook/assets/image (20).png>)![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (20).png>)![](<../../.gitbook/assets/image (1).png>)
 
 ### **A collection of 10,000 BTC Bear NFTs on the Polygon Blockchain.**&#x20;
 
