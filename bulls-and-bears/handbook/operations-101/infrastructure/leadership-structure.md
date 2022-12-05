@@ -7,7 +7,7 @@
 
 ## ELDERS
 
-* Cannot exceed 400 members
+* Cannot exceed 400 members.
 * Acts as a pseudo "Board of Directors."
 
 

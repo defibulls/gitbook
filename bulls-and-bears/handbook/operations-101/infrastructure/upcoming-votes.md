@@ -1,4 +1,4 @@
-# VOTING
+# UPCOMING VOTES
 
 The Ranch BTC Bull and BTC Bear NFT holders will help us decide future actions for each community. All NFT owners of BTC Bulls and BTC Bears will have access to voting.&#x20;
 

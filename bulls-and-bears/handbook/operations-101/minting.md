@@ -34,7 +34,7 @@ If more windows are needed to mint the full collection of the BTC Bulls and/or t
 * 2% goes to the partner of the address minting NFTs.
 * 1% goes to MARKETING SAFE multi-sig wallet.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>FIG MINT</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>FIG MINT</p></figcaption></figure>
 
 ## **MINTING GIVEAWAY**
 
