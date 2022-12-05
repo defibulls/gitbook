@@ -20,15 +20,16 @@ coverY: -446.4
 
       <img src="../../.gitbook/assets/image (4) (3).png" alt="" data-size="original">
 
-## BTC Bears (IMAGES COMING SOON)
+## BTC Bears
 
 ![](<../../.gitbook/assets/image (20).png>)![](../../.gitbook/assets/image.png)
 
 ### **A collection of 10,000 BTC Bear NFTs on the Polygon Blockchain.**&#x20;
 
 * No whitelist; You are in because you want to be, not who you know
-* Lifetime access to the BTC Bears mining cluster's rewards\*
-* Initial Raffle opportunity upon minting a BTC Bears and long-term raffle opportunities through Royalty Raffle
+* Lifetime access to the BTC Bulls mining cluster's rewards\*
+* Initial Raffle opportunity upon minting a BTC Bull and long-term raffle opportunities through Royalty Raffle
+* &#x20;20 BTC Bulls are considered 'enlightened' and thus the rarest!&#x20;
 
 
 
