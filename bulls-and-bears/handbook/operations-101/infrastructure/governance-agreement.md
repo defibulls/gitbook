@@ -7,10 +7,15 @@
   * 90% of the Public Vote (with NFT weights)
   * Unanimous vote from Leadership Council
 
+To vote a Ranch Master out of the Leadership Council, the following must be met.&#x20;
+
+* 90% of Elders vote (1 elder = 1 vote)
+* 75% of the Community vote (With NFT weights)
+
 ## ELDERS
 
 * Must be a SUPER-BEAR or SUPER-BULL or higher rank.
-* Can not exceed 400 members.&#x20;
+* It cannot exceed 400 members.&#x20;
 * Leadership Council can remove members as seen fit.
 * Reasons for removal are but not limited to inactivity in chat, inactivity in voting, not holding required tokens, and malicious intent towards the club.&#x20;
 
