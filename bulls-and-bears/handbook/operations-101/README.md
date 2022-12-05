@@ -140,7 +140,7 @@ We are projecting each miner to be operational for 60 months. Some will last lon
 
 ## BTC Bulls vs. BTC Bears
 
-## ![](../../../.gitbook/assets/82.png)![](<../../../.gitbook/assets/Base character.jpg>)
+## ![](../../../.gitbook/assets/82.png)![](../../../.gitbook/assets/246.png)
 
 
 
