@@ -7,7 +7,7 @@
   * 90% of the Public Vote (with NFT weights)
   * Unanimous vote from Leadership Council
 
-To vote a Ranch Master out of the Leadership Council, the following must be met.&#x20;
+To vote a Ranch-Master out of the Leadership Council, the following must be met.&#x20;
 
 * 90% of Elders vote (1 elder = 1 vote)
 * 75% of the Community vote (With NFT weights)
