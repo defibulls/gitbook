@@ -22,7 +22,7 @@
       * [DISCORD ROLES](bulls-and-bears/handbook/operations-101/infrastructure/discord-roles.md)
       * [LEADERSHIP STRUCTURE](bulls-and-bears/handbook/operations-101/infrastructure/leadership-structure.md)
       * [GOVERNANCE AGREEMENT](bulls-and-bears/handbook/operations-101/infrastructure/governance-agreement.md)
-      * [UPCOMING VOTES](bulls-and-bears/handbook/operations-101/infrastructure/upcoming-votes.md)
+      * [UPCOMING VOTES](bulls-and-bears/handbook/operations-101/community-voting.md)
     * [VOTING SYSTEM](bulls-and-bears/handbook/operations-101/voting-system/README.md)
       * [ELDER VOTE SYSTEM](bulls-and-bears/handbook/operations-101/voting-system/elder-vote-system.md)
       * [OFFICIAL COMMUNITY VOTE](bulls-and-bears/handbook/operations-101/voting-system/official-community-vote.md)
