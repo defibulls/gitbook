@@ -12,13 +12,15 @@ coverY: -446.4
 ### **A collection of 10,000 BTC Bull NFTs on the Polygon Blockchain.**&#x20;
 
 * No whitelist; You are in because you want to be, not who you know
-* Lifetime access to the BTC Bulls mining cluster's rewards\*
-* Initial Raffle opportunity upon minting a BTC Bull and long-term raffle opportunities through Royalty Raffle
+* Access to the BTC Bulls mining cluster's rewards\*
+* Initial Minting Giveaway opportunity upon minting a BTC Bull and long-term royalty rewards program opportunities.&#x20;
 * &#x20;20 BTC Bulls are considered 'enlightened' and thus the rarest!&#x20;
   * Once revealed, 'Enlightened' BTC Bulls are maintenance fee exempt moving forward\*\* &#x20;
   *   The location of 'Enlightened' BTC Bulls is unknown to all, including the team. We only know 20 exist within the collection.
 
       <img src="../../.gitbook/assets/image (4) (3).png" alt="" data-size="original">
+
+\*Access as long as the project can successfully mine BTC and the individual retains ownership of the BTC Bull.  &#x20;
 
 ## BTC Bears
 
@@ -27,10 +29,10 @@ coverY: -446.4
 ### **A collection of 10,000 BTC Bear NFTs on the Polygon Blockchain.**&#x20;
 
 * No whitelist; You are in because you want to be, not who you know
-* Lifetime access to the BTC Bulls mining cluster's rewards\*
-* Initial Raffle opportunity upon minting a BTC Bull and long-term raffle opportunities through Royalty Raffle
-* &#x20;20 BTC Bulls are considered 'enlightened' and thus the rarest!&#x20;
+* Access to the BTC Bears mining cluster's rewards\*
+* Initial Minting Giveaway opportunity upon minting a BTC Bears and long-term royalty rewards program opportunities.&#x20;
+* &#x20;20 BTC Bears are considered 'enlightened' and thus the rarest!&#x20;
 
 
 
-\*Lifetime means as long the project sustains itself and/or until the year 2040 when we can no longer mine bitcoin.  &#x20;
+\*Access as long as the project can successfully mine BTC and the individual retains ownership of the BTC Bear.  &#x20;
