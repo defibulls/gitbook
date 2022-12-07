@@ -34,12 +34,12 @@ This promotion will be conducted during the following window (each an “Entry W
 **Window 3: from 8 AM EST on Dec 26, 2022, to 5 PM EST on Dec 30, 2022**
 
 \
-Entries must be received prior to the expiration of the Entry Window to be eligible to win a Prize.\
+Entries must be received before the expiration of the Entry Window to be eligible to win a Prize.\
 
 
 **HOW TO ENTER:**\
-(a) Minting Entries. Prospective entrants wishing to enter the Promotion must mint one or more BTC Bulls or BTC Bears during one of the listed promotion windows. Minting will not be allowed unless the gate code is known and used on the minting website. The gate code can be found here: \
-**https://theranch.gitbook.io/the-ranch/bulls-and-bears/handbook/operations-101/minting**
+(a) Minting Entries. Prospective entrants wishing to enter the Promotion must mint one or more BTC Bulls or BTC Bears during one of the listed promotion windows. Minting will not be allowed unless the gate code is known and used on the minting website. The gate code can be found [here](https://theranch.gitbook.io/the-ranch/bulls-and-bears/handbook/operations-101/minting). \
+
 
 \
 (b) Alternative Means of Entry. As an alternative means of entry in the Promotion, entrants that have a Polygon Account may submit mail-in entries in the form of a self-addressed, stamped envelope that contains the AMOE Registration Data, as defined below:\
