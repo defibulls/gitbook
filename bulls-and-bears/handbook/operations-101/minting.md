@@ -61,7 +61,7 @@ _Alternative Means of Entry (AMOE)_
 
 * _No purchase is Necessary._&#x20;
 * Minting doesn't give you better odds than an AMOE entry
-* _Details found_ [_here_](../../../legal/contest-rules/)__
+* _Details found_ [_here_](https://theranch.gitbook.io/the-ranch/legal/contest-rules/minting-giveaway)__
 
 __
 
