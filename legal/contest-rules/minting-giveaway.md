@@ -15,7 +15,7 @@ The Ranch Minting Giveaway (the “Promotion”) is sponsored by DeFi-Bulls LLC 
 The Promotion is open only to individuals who are 18 years of age or older and that can enter into legally binding contracts under applicable law. The Promotion is expressly void in any state or region where prohibited by law. Employees and project Core Team members of ‘The Ranch” (DeFi-Bulls LLC) are not eligible to participate or claim a Prize (as defined below) in the Promotion. Entrants wishing to obtain a copy of these Contest Rules may request a printed copy by writing to:\
 
 
-Defi-Bulls LLC, located at DEFI-BULLS LLC, #131, 269 Market Place Blvd, Cartersville, GA 30121\
+\<Insert address>\
 ****
 
 Participation constitutes each entrant’s full and unconditional agreement to the Sponsor’s and Administrator’s decisions, which are final and binding in all matters related to the Promotion. Winning a Prize is contingent upon fulfilling all requirements set forth herein.\
@@ -34,12 +34,12 @@ This promotion will be conducted during the following window (each an “Entry W
 **Window 3: from 8 AM EST on Dec 26, 2022, to 5 PM EST on Dec 30, 2022**
 
 \
-Entries must be received before the expiration of the Entry Window to be eligible to win a Prize.\
+Entries must be received prior to the expiration of the Entry Window to be eligible to win a Prize.\
 
 
 **HOW TO ENTER:**\
-(a) Minting Entries. Prospective entrants wishing to enter the Promotion must mint one or more BTC Bulls or BTC Bears during one of the listed promotion windows. Minting will not be allowed unless the gate code is known and used on the minting website. The gate code can be found [here](https://theranch.gitbook.io/the-ranch/bulls-and-bears/handbook/operations-101/minting). \
-
+(a) Minting Entries. Prospective entrants wishing to enter the Promotion must mint one or more BTC Bulls or BTC Bears during one of the listed promotion windows. Minting will not be allowed unless the gate code is known and used on the minting website. The gate code can be found here: \
+**https://theranch.gitbook.io/the-ranch/bulls-and-bears/handbook/operations-101/minting**
 
 \
 (b) Alternative Means of Entry. As an alternative means of entry in the Promotion, entrants that have a Polygon Account may submit mail-in entries in the form of a self-addressed, stamped envelope that contains the AMOE Registration Data, as defined below:\
