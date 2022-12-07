@@ -15,7 +15,7 @@ The Ranch Minting Giveaway (the “Promotion”) is sponsored by DeFi-Bulls LLC 
 The Promotion is open only to individuals who are 18 years of age or older and that can enter into legally binding contracts under applicable law. The Promotion is expressly void in any state or region where prohibited by law. Employees and project Core Team members of ‘The Ranch” (DeFi-Bulls LLC) are not eligible to participate or claim a Prize (as defined below) in the Promotion. Entrants wishing to obtain a copy of these Contest Rules may request a printed copy by writing to:\
 
 
-\<Insert address>\
+Defi-Bulls LLC, located at DEFI-BULLS LLC, #131, 269 Market Place Blvd, Cartersville, GA 30121\
 ****
 
 Participation constitutes each entrant’s full and unconditional agreement to the Sponsor’s and Administrator’s decisions, which are final and binding in all matters related to the Promotion. Winning a Prize is contingent upon fulfilling all requirements set forth herein.\
