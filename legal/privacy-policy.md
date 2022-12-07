@@ -4,7 +4,7 @@
 
 Last updated: December 1, 2022
 
-This privacy policy (the “Privacy Policy”) describes how your personal information is collected, used, and shared when you visit https://theranch.community (the “Site”) or use any of the other services (together with the Site, the “Services”) offered by Defi-Bulls LLC (“The Ranch," "TRBC, or “we”).
+This privacy policy (the “Privacy Policy”) describes how your personal information is collected, used, and shared when you visit https://theranch.community (the “Site”) or use any of the other services (together with the Site, the “Services”) offered by  DEFI-Bulls LLC (“The Ranch,” “TR,” “TRBC,” "BTC Bulls," "BTC Bears," “we,” or “us”).
 
 By accessing or using the Services, you consent to the information collection and data handling practices outlined in this Privacy Policy.
 
