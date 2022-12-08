@@ -17,6 +17,7 @@
     * [MINTING](bulls-and-bears/handbook/operations-101/minting.md)
     * [EARLY SUPPORTER](bulls-and-bears/handbook/operations-101/early-supporter.md)
     * [HOSTING](bulls-and-bears/handbook/operations-101/hosting.md)
+    * [INSURANCE](bulls-and-bears/handbook/operations-101/insurance.md)
     * [ROYALTIES](bulls-and-bears/handbook/operations-101/royalties.md)
     * [INFRASTRUCTURE](bulls-and-bears/handbook/operations-101/infrastructure/README.md)
       * [DISCORD ROLES](bulls-and-bears/handbook/operations-101/infrastructure/discord-roles.md)
