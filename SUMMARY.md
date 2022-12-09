@@ -27,6 +27,7 @@
       * [RANCHER VOTE SYSTEM](bulls-and-bears/handbook/operations-101/voting-system/rancher-vote-system.md)
       * [UPCOMING VOTES](bulls-and-bears/handbook/operations-101/voting-system/upcoming-votes.md)
     * [AFTERMARKET NFT SALES](bulls-and-bears/handbook/operations-101/aftermarket-nft-sales.md)
+    * [Value Projections](bulls-and-bears/handbook/operations-101/value-projections.md)
   * [FAQ](bulls-and-bears/handbook/faq.md)
   * [AUDIT](bulls-and-bears/handbook/audit.md)
   * [WEBSITE & SOCIALS](bulls-and-bears/handbook/website-and-socials.md)
