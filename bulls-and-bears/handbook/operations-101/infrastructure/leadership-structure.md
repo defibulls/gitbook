@@ -2,8 +2,8 @@
 
 ## LEADERSHIP COUNCIL&#x20;
 
-* Consists of The Ranch Core Team & 5 RANCH\_MASTERS
-* Tiebreaker of all Voting Matters&#x20;
+* Consists of The Ranch Core Team
+* Final say on all Voting Matters&#x20;
 
 ## ELDERS
 

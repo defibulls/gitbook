@@ -11,7 +11,7 @@
 
 ## What purpose do they 'ELDERS' serve?&#x20;
 
-Think of the Elders as a pseudo "Board of Directors," Ideally, the project will take the direction of the community and this will be vetted through the group of ELDERS.&#x20;
+Think of the Elders as a pseudo "Board of Directors," Ideally, the project will take the direction of the community, which will be vetted through the group of ELDERS.&#x20;
 
 
 
