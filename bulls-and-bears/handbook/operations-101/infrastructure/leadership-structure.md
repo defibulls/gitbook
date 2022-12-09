@@ -8,7 +8,7 @@
 ## ELDERS
 
 * It cannot exceed 400 members.
-* Acts as a pseudo "Board of Directors" for the P.E.C system
+* Acts as a pseudo "Board of Directors" for the P.E. system
 
 ## MEMBERS
 
