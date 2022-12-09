@@ -26,7 +26,6 @@
     * [VOTING SYSTEM](bulls-and-bears/handbook/operations-101/voting-system/README.md)
       * [PROPOSAL SYSTEM](bulls-and-bears/handbook/operations-101/voting-system/proposal-system.md)
       * [ELDER VOTE SYSTEM](bulls-and-bears/handbook/operations-101/voting-system/elder-vote-system.md)
-      * [OFFICIAL COMMUNITY VOTE](bulls-and-bears/handbook/operations-101/voting-system/official-community-vote.md)
       * [UPCOMING VOTES](bulls-and-bears/handbook/operations-101/voting-system/upcoming-votes.md)
     * [AFTERMARKET NFT SALES](bulls-and-bears/handbook/operations-101/aftermarket-nft-sales.md)
   * [FAQ](bulls-and-bears/handbook/faq.md)
