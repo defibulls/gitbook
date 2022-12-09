@@ -130,7 +130,17 @@ Within both communities, a Buddy must be in an 'active' state to receive the ben
 
 * Do I have to have a Buddy? No
 * Does not having a Buddy hurt me? No, anyone with a Buddy or without a Buddy will have 2% deducted during the rewarding transactions. If the Buddy is in an active state, it goes to the Buddy of the referred person; if not, it goes to The Ranch Core Team.
-* Can I switch my Buddy multiple times? No, once a Buddy is selected, it is final. &#x20;
+* Can I switch my Buddy multiple times? No, once a Buddy is selected, it is final.
+
+#### How do I add the person who referred me to the project as my Buddy?&#x20;
+
+When you enter the BTC Bulls or BTC Bears section, the buddy address for that community can be changed using the 'hamburger' icon in the top right. An all-zero address indicates a Buddy is not set yet on the account overview. Once a Buddy is set, it will update the address on the account overview.&#x20;
+
+* This is a contract call, so you must confirm the transaction through Metamask.&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+
+
 
 ## HOW LONG DOES EACH MINER LAST, AND WHAT IS DONE WHEN THEY FAIL?
 
