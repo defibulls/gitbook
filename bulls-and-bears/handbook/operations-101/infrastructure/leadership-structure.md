@@ -13,7 +13,6 @@
 ## MEMBERS
 
 * Public Members owning at least 1 BTC Bull and/or 1 BTC Bear
-* Full voting power respective to their NFT 'Community Vote' (Bulls and/or Bears)
 
 
 
