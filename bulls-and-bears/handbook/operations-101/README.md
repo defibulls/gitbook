@@ -118,7 +118,7 @@ The Ranch BTC Bulls will not revolve around its native token by design. The prim
 
 ## ![](<../../../.gitbook/assets/Buddy System.svg>) **THE BUDDY SYSTEM**
 
-The Buddy System is an onboarding system for new participants in The Ranch Ecosystem. Participation is completely voluntary. Unlike other multi-level marketing and scam-type referral systems, which consist of pyramid structures, tiered referral trees, etc. There is only 1 level of affiliate rewards within The Ranch Ecosystem. Rewards are issued whenever the referred individual mints new NFTs, during the monthly rewarding of WBTC to NFT holders, and during any raffle win. A referred individual to the project only counts within a particular community. For example, if you refer someone to the BTC Bears community and they are also in the BTC Bulls community, you would only get rewards from transactions and events happening on the BTC Bears contract.
+The Buddy System is an onboarding system for new participants in The Ranch Ecosystem. Participation is completely voluntary, unlike other multi-level marketing and scam-type referral systems, which consist of pyramid structures, tiered referral trees, etc. There is only 1 level of affiliate rewards within The Ranch Ecosystem. Rewards are issued whenever the referred individual mints new NFTs, during the monthly rewarding of WBTC to NFT holders, and during any raffle win. A referred individual to the project only counts within a particular community. For example, if you refer someone to the BTC Bears community and they are also in the BTC Bulls community, you would only get rewards from transactions and events happening on the BTC Bears contract.
 
 * 2% of the minting transaction cost.
 * 2% of monthly WBTC reward payouts.
@@ -136,7 +136,8 @@ Within both communities, a Buddy must be in an 'active' state to receive the ben
 
 When you enter the BTC Bulls or BTC Bears section, the buddy address for that community can be changed using the 'hamburger' icon in the top right. An all-zero address indicates a Buddy is not set yet on the account overview. Once a Buddy is set, it will update the address on the account overview.&#x20;
 
-* This is a contract call, so you must confirm the transaction through Metamask.&#x20;
+* This is a contract call, so you must confirm the transaction through Metamask.
+* An account can have the same buddy address for the BTC Bears community and the BTC Bulls community, but they are separate decisions on different contracts. Updating the Buddy address in the BTC Bulls section will not do anything within your BTC Bears account. Thus if you wanted a single address to be your Buddy for both communities, this would require two transactions.&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
