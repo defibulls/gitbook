@@ -1,0 +1,413 @@
+import pprint
+import math
+import os
+from tabulate import tabulate
+import matplotlib.pyplot as plt
+
+
+def prGreen(skk):
+    print("\033[92m {}\033[00m".format(skk))
+
+
+def prRed(skk):
+    print("\033[91m {}\033[00m".format(skk))
+
+
+# for tabulate
+table_x = []
+table_y = []
+
+btc_total_over_time = 0
+
+person_1_maintenance_fees_total = 0
+person_1_BTC_rewards_total = 0
+
+btc_price_guess = {
+    "1": 20_000,
+    "12": 40_000,
+    "24": 60_000,
+    "36": 100_000,
+    "48": 58_000,
+    "60": 50_000,
+    "72": 90_000,
+    "84": 120_000,
+    "96": 150_000,
+    "108": 200_000,
+    "120": 240_000,
+}
+mining_payout_daily_guess = {
+    "1": 0.000495,  # JAN 2023
+    "12": 0.000445,  # JAN 2024
+    "24": 0.00025,  # JAN 2025
+    "36": 0.00023,  # JAN 2026
+    "48": 0.00020,  # JAN 2027
+    "60": 0.00020,  # JAN 2028
+    "72": 0.00010,  # JAN 2029
+    "84": 0.00009,  # JAN 2030
+    "96": 0.00008,  # JAN 2031
+    "108": 0.00007,  # JAN 2032
+    "120": 0.000007,  # JAN 2033
+}
+
+miner_price_guess = {
+    "1": 4_000,
+    "12": 8_000,
+    "24": 12_000,
+    "36": 18_000,
+    "48": 15_000,
+    "60": 13_000,
+    "72": 18_000,
+    "84": 19_000,
+    "96": 20_000,
+    "108": 21_000,
+    "120": 22_000,
+}
+
+
+
+
+
+
+nfts_to_sell = 10000
+btcMinersFund = 0
+price_of_nft = 390
+bullOwners = {}
+for person in range(nfts_to_sell):
+    bullOwners[person] = {}
+    bullOwners[person]["deposit"] = price_of_nft
+    btcMinersFund += price_of_nft
+    bullOwners[person]["total_fees_covered"] = 0
+    bullOwners[person]["total_btc_received"] = 0
+    bullOwners[person]["wbtc_payout"] = {}
+    bullOwners[person]["personal_USDC"] = 0
+    bullOwners[person]["maintenance_fees_due"] = {}
+
+# print(bullOwners[1])
+
+# print(btcMinersFund)
+
+
+price_of_btc = 17000
+price_of_miner = 5000  ## price of miner
+electric_bill_monthly_dollars = 155
+
+
+#################################
+###      buy initial Miners   ###
+#################################
+
+btcMiners = {}
+
+miner_id = 1
+while btcMinersFund > price_of_miner:
+    btcMinersFund -= price_of_miner
+    # print(f"btcMinersFund: {btcMinersFund}")
+    btcMiners[miner_id] = {}
+    btcMiners[miner_id]["life_left"] = 60
+
+    miner_id += 1  # increment the ID of the miner
+
+
+# print(btcMiners)
+
+
+########################################################
+###        simulate monthly process of mining        ###
+########################################################
+compass_profile = {}
+coreTeam_profile = {}
+coreTeam_profile_usd_to_date = 0
+coreTeam_profile_btc_to_date = 0
+
+compass_wallet_btc = 0
+compass_wallet_electric_bill_dollars = 0
+
+
+months_to_simulate = 7 * 12
+
+for month in range(1, months_to_simulate + 1):
+    print(f"month: {month}")
+    miners_still_working = 0
+    compass_wallet_btc = 0
+    compass_wallet_electric_bill_dollars = 0
+
+    if str(month) in btc_price_guess:
+        print(f"                            found {month} in btc_price_guess")
+        price_of_btc = btc_price_guess[str(month)]
+        btc_per_miner_per_day = mining_payout_daily_guess[str(month)]
+        price_of_miner = miner_price_guess[str(month)]
+
+    for miner in btcMiners:
+        btcMiners[miner]["life_left"] -= 1
+        if btcMiners[miner]["life_left"] > 0:
+            miners_still_working += 1
+
+            compass_wallet_btc += btc_per_miner_per_day * 30
+            btc_total_over_time += btc_per_miner_per_day * 30
+            compass_wallet_electric_bill_dollars += electric_bill_monthly_dollars
+            # print(
+            #     f"month: {month}::{miner} hosting_invoice_balance: {compass_wallet_electric_bill_dollars}"
+            # )
+        else:
+            pass
+            # prRed(f"miner {miner} is dead")
+
+    ############################################
+    ### Monthly Standing with Compass Mining ###
+    ############################################
+    print("miners_still_working: {:,}".format(miners_still_working))
+    print("hosting_invoice_balance: {:,}".format(compass_wallet_electric_bill_dollars))
+    print(f"btc_earned_for_month : {round(compass_wallet_btc,8)}")
+
+    ###################################################################
+    ##     Calculate the amount each NFT owes for maintenance fees   ##
+    ###################################################################
+    fees_per_nft = compass_wallet_electric_bill_dollars / nfts_to_sell
+
+    if fees_per_nft > 0:
+        fees_per_nft = 0
+
+    print(f"fees_per_nft: {round(fees_per_nft,2)}")
+    print("#" * 50)
+
+    table_xx = [
+        month,
+        "{:,}".format(miners_still_working),
+        "{:,}".format(compass_wallet_electric_bill_dollars),
+        round(compass_wallet_btc, 8),
+        round(btc_total_over_time,8)
+    ]
+    table_x.append(table_xx)
+
+
+
+
+
+    
+
+
+
+        # ###################################################################
+        # ##     iterate over nftOwners to apply maintenance fees          ##
+        # ###################################################################
+        # for person in range(nfts_to_sell):
+        #     bullOwners[person]["maintenance_fees_due"][month] = fees_per_nft
+        #     bullOwners[person]["total_fees_covered"] += fees_per_nft
+
+        # ############################################
+        # ##     append to compass profile          ##
+        # ############################################
+
+        # compass_profile[month] = {}
+        # compass_profile[month]["miners_still_working"] = miners_still_working
+        # compass_profile[month]["monthly_balance_due"] = compass_wallet_electric_bill_dollars
+
+    ########################################################################################
+    ###   simulate paying off the electric bills via maintenace fees from the NFT owners ###
+    ########################################################################################
+
+    prGreen(f'compass_wallet_btc: {compass_wallet_btc}')
+    invoice_left_pay = compass_wallet_electric_bill_dollars - (fees_per_nft * nfts_to_sell)
+    prGreen(f'invoice_left_pay:{invoice_left_pay}')
+    btc_need_cover_rest_of_invoice = invoice_left_pay / price_of_btc
+    prGreen(f'BTC converted to cover:{invoice_left_pay / price_of_btc}')
+
+
+    compass_wallet_btc -= btc_need_cover_rest_of_invoice
+    prRed(f'compass_wallet_btc: {compass_wallet_btc}')
+    
+
+
+    compass_wallet_electric_bill_dollars = 0
+    
+    if price_of_btc <= 60_000:
+
+        ###############################################################################################
+        ###   simulate converting 1/3 of the btc earned to buy more miners and then by more miners  ###
+        ###############################################################################################
+        converted_cash_from_btc_to_buy_miners = (
+            compass_wallet_btc * (1 / 3)
+        ) * price_of_btc
+
+        btcMinersFund += converted_cash_from_btc_to_buy_miners
+
+        # print(
+        #     f"converted_cash_from_btc_to_buy_miners: {converted_cash_from_btc_to_buy_miners}"
+        # )
+        while btcMinersFund > price_of_miner:
+            btcMinersFund -= price_of_miner
+            # print(f"btcMinersFund: {btcMinersFund}")
+            btcMiners[miner_id] = {}
+            btcMiners[miner_id]["life_left"] = 60
+
+            miner_id += 1  # increment the ID of the miner
+            # prGreen(f"miner {miner_id} added")
+
+            ###############################################################################################
+            ###  simulate taking 2/3 to pay out NFTs holder and then 10% of that goes to the coreTeam   ###
+            ###############################################################################################
+
+    
+    
+        disperable_amount_to_nft_holders = (compass_wallet_btc * (2 / 3)) * 0.90
+        disperable_amount_to_each_nft = disperable_amount_to_nft_holders / nfts_to_sell
+        # print(f" disperable_amount_to_nft_holders: {disperable_amount_to_nft_holders}")
+        # print(f"disperable_amount_to_each_nft: {disperable_amount_to_each_nft}")
+
+        person_1_maintenance_fees = fees_per_nft
+        person_1_maintenance_fees_total += fees_per_nft
+        person_1_BTC_rewards = disperable_amount_to_each_nft
+        person_1_BTC_rewards_total += disperable_amount_to_each_nft
+
+        for person in range(nfts_to_sell, 1):
+            bullOwners[person]["wbtc_payout"][month] = {}
+            bullOwners[person]["total_btc_received"] += disperable_amount_to_each_nft
+            bullOwners[person]["wbtc_payout"][month]["btc"] = disperable_amount_to_each_nft
+            bullOwners[person]["wbtc_payout"][month]["usd_value"] = (
+                disperable_amount_to_each_nft * price_of_btc
+            )
+
+    
+    else:
+
+
+
+        ###############################################################################################
+        ###   simulate converting 0 % of the btc earned to buy more miners and then by more miners  ###
+        ###############################################################################################
+        converted_cash_from_btc_to_buy_miners = (
+            compass_wallet_btc * (1/10)
+        ) * price_of_btc
+
+        btcMinersFund += converted_cash_from_btc_to_buy_miners
+
+        # print(
+        #     f"converted_cash_from_btc_to_buy_miners: {converted_cash_from_btc_to_buy_miners}"
+        # )
+        while btcMinersFund > price_of_miner:
+            btcMinersFund -= price_of_miner
+            # print(f"btcMinersFund: {btcMinersFund}")
+            btcMiners[miner_id] = {}
+            btcMiners[miner_id]["life_left"] = 60
+
+            miner_id += 1  # increment the ID of the miner
+            # prGreen(f"miner {miner_id} added")
+
+            ###############################################################################################
+            ###  simulate taking 2/3 to pay out NFTs holder and then 10% of that goes to the coreTeam   ###
+            ###############################################################################################
+
+    
+    
+        disperable_amount_to_nft_holders = (compass_wallet_btc * (9 / 10)) * 0.90
+        disperable_amount_to_each_nft = disperable_amount_to_nft_holders / nfts_to_sell
+        # print(f" disperable_amount_to_nft_holders: {disperable_amount_to_nft_holders}")
+        # print(f"disperable_amount_to_each_nft: {disperable_amount_to_each_nft}")
+
+        person_1_maintenance_fees = fees_per_nft
+        person_1_maintenance_fees_total += fees_per_nft
+        person_1_BTC_rewards = disperable_amount_to_each_nft
+        person_1_BTC_rewards_total += disperable_amount_to_each_nft
+
+        for person in range(nfts_to_sell, 1):
+            bullOwners[person]["wbtc_payout"][month] = {}
+            bullOwners[person]["total_btc_received"] += disperable_amount_to_each_nft
+            bullOwners[person]["wbtc_payout"][month]["btc"] = disperable_amount_to_each_nft
+            bullOwners[person]["wbtc_payout"][month]["usd_value"] = (
+                disperable_amount_to_each_nft * price_of_btc
+            )
+
+    
+
+
+
+
+
+    table_yy = [
+        month,
+        "{:,}".format(int(person_1_maintenance_fees)),
+        "{:,}".format(int(person_1_maintenance_fees_total)),
+        round(person_1_BTC_rewards, 8),
+        round(person_1_BTC_rewards_total, 8),
+    ]
+    table_y.append(table_yy)
+
+    ###################################
+    ###   clear compass_wallet_btc  ###
+    ###################################
+    compass_wallet_btc = 0
+
+#     # if month == 10:
+#     #     break
+
+    # if miners_still_working == 0:
+    #     prRed(f"simulation is officially at month {month}, all miners are dead")
+    #     break
+
+
+headers_x = ["month", "active_miner_count", "hosting_invoice_balance", "BTC_earned","BTC_total_over_time"]
+print(tabulate(table_x, headers_x, tablefmt="pretty"))
+
+
+headers_y = [
+    "month",
+    "hosting_fees",
+    "hosting_fees_total",
+    "BTC_earned",
+    "BTC_earned_Total",
+]
+print(tabulate(table_y, headers_y, tablefmt="pretty"))
+
+
+
+
+# headers_z = ["month", "active_miner_count", "hosting_invoice_balance", "BTC_earned","BTC_total_over_time"]
+# print(tabulate(table_z, headers_z, tablefmt="pretty"))
+
+
+# headers_y = [
+#     "month",
+#     "hosting_fees",
+#     "hosting_fees_total",
+#     "BTC_earned",
+#     "BTC_earned_Total",
+# ]
+# print(tabulate(table_y, headers_y, tablefmt="pretty"))
+
+
+btc_earned = person_1_BTC_rewards_total
+
+
+
+# x-coordinates of left sides of bars 
+left = [1, 2, 3, 4, 5]
+  
+# heights of bars
+height = [(btc_earned * 50_000), (btc_earned * 100_000),(btc_earned * 150_000), (btc_earned * 250_000), (btc_earned * 500_000)]
+  
+# labels for bars
+tick_label = ['50K', '100K', '150K', '250K', '500K']
+  
+# plotting a bar chart
+plt.bar(left, height, tick_label = tick_label,
+        width = 0.8, color = ['orange'])
+  
+# naming the x-axis
+plt.xlabel('BTC PRICE')
+# naming the y-axis
+plt.ylabel('USD VALUE OF MY BTC')
+# plot title
+plt.title('7-year Potential Value From each NFT')
+  
+# # # function to show the plot
+# # plt.show()
+
+
+
+print(f'50K: {int(btc_earned * 50_000)}')
+print(f'100K: {int(btc_earned * 100_000)}')
+print(f'150K: {int(btc_earned * 150_000)}')
+print(f'200K: {int(btc_earned * 200_000)}')
+print(f'250K: {int(btc_earned * 250_000)}')
+print(f'500K: {int(btc_earned * 500_000)}')
+print(f'1M: {int(btc_earned * 1_000_000)}')
