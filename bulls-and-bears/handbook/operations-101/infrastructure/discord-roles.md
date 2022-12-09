@@ -36,34 +36,10 @@
 * Exclusive opportunities (FUTURE)
 * Ongoing utility
 
-## RANCHER-I
-
-* Member Role
-* Holding at least (3 BTC Bulls & 1 BTC Bears) or (3 BTC Bears & 1 BTC Bull)
-* Access to full discord channels
-* Exclusive opportunities (FUTURE)
-* Ongoing utility
-
-## RANCHER-II
+## RANCH-MASTER
 
 * Member Role
 * Holding at least 3 BTC Bulls & 3 BTC Bears
-* Access to full discord channels
-* Exclusive opportunities (FUTURE)
-* Ongoing utility
-
-## RANCHER-III
-
-* Member Role
-* Holding at least 5 BTC Bulls & 5 BTC Bears
-* Access to full discord channels
-* Exclusive opportunities (FUTURE)
-* Ongoing utility
-
-## RANCHER-IV
-
-* Member Role
-* Holding at least 10 BTC Bulls & 10 BTC Bears
 * Access to full discord channels
 * Exclusive opportunities (FUTURE)
 * Ongoing utility

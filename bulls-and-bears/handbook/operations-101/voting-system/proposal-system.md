@@ -21,5 +21,5 @@
 
 * 50 Total Reactions (MINIMUM) \[Subject to change based on community activity]
 * Yes vs. No (Winner Found = MAJORITY VOTE)
-* In the event of a TIE, RANCHERS will be the acting TIEBREAKER
-* In the event of a TIE among RANCHERS, The Core Team will decide the TIEBREAKER.
+* In the event of a TIE, Elders will be the acting TIEBREAKER
+* In the event of a TIE among elders, TIE-BREAK will fall on Leadership Council
