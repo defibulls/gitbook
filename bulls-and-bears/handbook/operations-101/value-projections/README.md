@@ -10,10 +10,10 @@ Regardless of the price I project for BTC and the price of Miners I project when
 
 
 
-When looking at the amount each NFT would have to pay for hosting fees over the same period, the raw numbers come out like this.&#x20;
+When looking at the amount each NFT would have to pay for hosting fees over the same period, the raw numbers come out like this for the BTC Bulls:
 
 * month = represents the current month in the simulation&#x20;
-* hosting\_fees = that's how much each NFT paid in hosting fees for that given month. If under $15, then we were able to pay for the entire hosting invoice with our hosting fees collected. If $15 or over, we went to the max for the NFT of $15 but still had to convert some of our BTC to cover the rest of the hosting fees. &#x20;
+* hosting\_fees = that's how much each NFT paid in hosting fees for that given month. If under $15, then we were able to pay for the entire hosting invoice with our hosting fees collected. If the hosting fee calculation comes to over $15, we use the ceiling for each BTC Bull to not allow the hosting fee to be over $15, so we say $15 instead. &#x20;
 * hosting\_fees\_total =  an aggregate of how much the hosting fees for that NFT have been over the project's life.&#x20;
 * BTC\_earned = how much BTC each NFT received for the given month after all the invoices were paid at the mining facility. &#x20;
 * BTC\_earned\_Total = an aggregate of how much the NFT has earned in BTC over the project's life.&#x20;
