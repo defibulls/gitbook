@@ -86,7 +86,7 @@ Hosting Fees pay the invoices at Compass Mining. Thus, they won't start until an
 
 ### **Hosting Reserve deposit and withdrawal:**&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 The "+" in the hosting reserve balance section is to deposit USDC.e into your hosting reserve balance. Each transaction can be up to $1000.&#x20;
 
@@ -96,7 +96,7 @@ The "-" would withdraw your entire hosting reserve balance.
 
 ### **Hosting Clock:**&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;__&#x20;
 
@@ -108,7 +108,7 @@ A three indicates the clock is full, and the account won't be checked for a liqu
 
 
 
-<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 **A**: shows how many NFTs you own in this particular community.&#x20;
 

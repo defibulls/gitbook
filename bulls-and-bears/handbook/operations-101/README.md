@@ -139,7 +139,7 @@ When you enter the BTC Bulls or BTC Bears section, the buddy address for that co
 * This is a contract call, so you must confirm the transaction through Metamask.
 * An account can have the same buddy address for the BTC Bears community and the BTC Bulls community, but they are separate decisions on different contracts. Updating the Buddy address in the BTC Bulls section will not do anything within your BTC Bears account. Thus if you wanted a single address to be your Buddy for both communities, this would require two transactions.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9) (3).png" alt=""><figcaption></figcaption></figure>
 
 
 

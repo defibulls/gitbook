@@ -20,11 +20,11 @@ When looking at the amount each NFT would have to pay for hosting fees over the 
 
 ### BTC Bulls with a $15 max hosting fee:
 
-<figure><img src="../../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 ### BTC Bears with a $5 max hosting fee:
 
-<figure><img src="../../../../.gitbook/assets/image (3) (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ### If we didn't do hosting fees:
 
