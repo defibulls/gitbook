@@ -7,6 +7,7 @@
 * [TEAM](the-ranch/meet-the-team.md)
 * [LLC](the-ranch/llc.md)
 * [KYC](the-ranch/kyc.md)
+* [OVERALL VISION](the-ranch/overall-vision.md)
 
 ## Bulls & Bears
 
