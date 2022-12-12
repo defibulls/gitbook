@@ -43,9 +43,9 @@ TR provides no guarantee or promise of income or rewards to any party that purch
 
 TR is not an Investment Firm, Financial institution, Brokerage, or Exchange. TR does not buy, sell, or trade any securities, shares, coins, tokens, or any other financial instrument as a service or profit. TR  does not function as any type of financial institution, whether traditional or non-traditional. TR is an NFT as a Service rewards platform. TR develops income or yield generation through operating and maintaining physical assets and does not offer any shares in the company. TR reserves all rights to project-related assets, images, websites, files, documents, NFT artwork, other artwork, website content, application content, discord content, and all other items created and maintained by TR Products & Services.
 
-**4.1 Project Termination**&#x20;
+**4.1 Termination and Transfer**&#x20;
 
-TR has the ability to terminate the contract and sell all assets or transfer ownership of all the assets to another entity if found that TR hasn’t met certain guidelines to maintain, innovate to current industry standards, or fall outside of industry regulations. In such a case of all assets under TR being sold, those funds would be distributed in a pro-rata format to all NFT holders within that particular community. BTC Bear assets would only go to BTC Bear NFT holders and BTC Bull assets would only go to BTC Bull owners. Current ownership of the NFT is needed to receive any distribution of assets in this case.
+TR can terminate the contract and sell all assets or transfer ownership of all the assets to another entity if found that TR hasn’t met certain guidelines to maintain, innovate to current industry standards, or fall outside of industry regulations. In case of all assets under TR are sold, those funds would be distributed in a pro-rata format to all NFT holders within that particular community. BTC Bear assets would only go to BTC Bear NFT holders, and BTC Bull assets would only go to BTC Bull owners. Current ownership of the NFT is needed to receive any distribution of assets in this case.
 
 \
 **5. Prohibited Uses**\
