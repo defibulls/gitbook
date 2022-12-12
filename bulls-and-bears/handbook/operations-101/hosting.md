@@ -80,4 +80,61 @@ The BTC Bears do everything else under the same rules as the BTC Bulls regarding
 
 Hosting Fees pay the invoices at Compass Mining. Thus, they won't start until an invoice is generated, which would be on the first award event estimated for Q1 of 2023.
 
-__
+
+
+## WEBSITE UNDERSTANDING:
+
+### **Hosting Reserve deposit and withdrawal:**&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+
+The "+" in the hosting reserve balance section is to deposit USDC.e into your hosting reserve balance. Each transaction can be up to $1000.&#x20;
+
+The "-" would withdraw your entire hosting reserve balance.
+
+
+
+### **Hosting Clock:**&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+&#x20;__&#x20;
+
+A three indicates the clock is full, and the account won't be checked for a liquidation event for three more reward cycles (1st-5th of each month). 2 would indicate that 1 reward cycle has happened since the last time paid their hosting invoice balance. This will always be a number between 1 to 3 on the website. &#x20;
+
+
+
+
+
+
+
+<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+
+**A**: shows how many NFTs you own in this particular community.&#x20;
+
+**B**: The hosting invoice balance is the hosting fees for this particular owner. 4 NFTs, and the hosting clock was deducted by 1 (starts at 3). &#x20;
+
+**C**: The Hosting Reserve Balance is the amount of money deposited into the owner's account to cover the hosting invoice balance when this owner's account gets to zero.
+
+Is the owner of these NFTs safe from being liquidated when their hosting clock gets to zero?  No, because this account doesn't have enough in its reserve balance to cover the hosting invoice when their hosting clock gets to zero.&#x20;
+
+* the current position is two on the hosting clock, $100 in reserve, and $60 on their hosting invoice balance.&#x20;
+* next pay period would be one on the hosting clock, $100 in reserve, and $120 on their hosting invoice balance.&#x20;
+* next pay period would be 0 on the hosting clock, $100 in reserve, and $180 on their hosting invoice balance.&#x20;
+  * At a hosting clock of zero, we check the account and check if they have more in their reserve than their hosting invoice balance. No, thus, liquidation would happen here as their WBTC rewards would be transferred to the hosting wallet to help pay for hosting invoices for the community.&#x20;
+
+
+
+Now I will add $100 to the hosting reserve balance:&#x20;
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+The shield represents how many times the hosting clock for this owner could get to zero and auto-pay for their hosting invoice balance. The shield of '1' means the account will be safe for one liquidation check.&#x20;
+
+* the current position is two on the hosting clock, $200 in reserve, and $60 on their hosting invoice balance.&#x20;
+* next reward cycle would decrease the hosting clock to one, $200 in reserve, and $120 on their hosting invoice balance.&#x20;
+* next reward cycle would decrease the hosting clock to zero, $200 in reserve, and $180 on their hosting invoice balance.&#x20;
+  * Now that the hosting clock gets to zero, the account is checked and does have enough in the hosting reserve to cover the hosting invoice balance and an auto-pay happens. The hosting clock is reset to 3, the hosting invoice balance is set to zero and the hosting reserve balance is decreased by $180
+
+
+
