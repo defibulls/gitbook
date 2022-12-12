@@ -4,7 +4,7 @@
 
 When anyone mints one of the BTC Bulls or the BTC Bears, what's happening is there is a transaction happening on the property of the ranch, and the transaction takes place on our land. To make your way onto the property of "The Ranch" and mint/adopt a BTC Bull or BTC Bear, you must get through the gate first, and that's exactly where the need for the gate code comes into play. Before each minting window, a new gate code will be published by the team. All minting of Bulls and Bears will require the gate code to match up. Without the gate code, no entry, thus no minting.&#x20;
 
-**Window 1 Gate Code:** Not yet revealed
+**Window 1 Gate Code:  first1212**
 
 **Window 2 Gate Code:** Not yet revealed
 
