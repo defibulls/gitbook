@@ -10,22 +10,24 @@ Regardless of the price I project for BTC and the price of Miners I project when
 
 
 
-When looking at the amount each NFT would have to pay for hosting fees over the same period, the raw numbers come out like this for the BTC Bulls:
+## Project simulation against Data Set:&#x20;
 
-* month = represents the current month in the simulation&#x20;
-* hosting\_fees = that's how much each NFT paid in hosting fees for that given month. If under $15, then we were able to pay for the entire hosting invoice with our hosting fees collected. If the hosting fee calculation comes to over $15, we use the ceiling for each BTC Bull to not allow the hosting fee to be over $15, so we say $15 instead. &#x20;
-* hosting\_fees\_total =  an aggregate of how much the hosting fees for that NFT have been over the project's life.&#x20;
-* BTC\_earned = how much BTC each NFT received for the given month after all the invoices were paid at the mining facility. &#x20;
-* BTC\_earned\_Total = an aggregate of how much the NFT has earned in BTC over the project's life.&#x20;
+If we look at our hosting fees, the approach for the BTC Bulls by only changing the hosting cost between $0,$5, and $15 for the max hosting fee per NFT for the month. You can see the difference it makes when we don't have to burn BTC, in the beginning, being in a down market. In the simulation, I am projecting the price of BTC, the mining payout each miner will get per day, and the cost of buying a new miner. This simulation uses a static price of $350 per NFT and assumes we mint out all 10,000 BTC Bulls.
+
+
+
+<img src="../../../../.gitbook/assets/image (26).png" alt="" data-size="original">
 
 ### BTC Bulls with a $15 max hosting fee:
 
-<figure><img src="../../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ### BTC Bears with a $5 max hosting fee:
 
-<figure><img src="../../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+
+
 
 ### If we didn't do hosting fees:
 
-<figure><img src="../../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>

@@ -33,7 +33,7 @@ coverY: -446.4
 * Initial Minting Giveaway opportunity upon minting a BTC Bears and long-term royalty rewards program opportunities.&#x20;
 *   &#x20;20 BTC Bears are considered 'enlightened' and thus the rarest!&#x20;
 
-    ![](<../../.gitbook/assets/image (2).png>)
+    ![](<../../.gitbook/assets/image (2) (9).png>)
 * Once revealed, 'Enlightened' BTC Bears are maintenance fee exempt moving forward\*\* &#x20;
 * The location of 'Enlightened' BTC Bears is unknown to all, including the team. We only know 20 exist within the collection.
 

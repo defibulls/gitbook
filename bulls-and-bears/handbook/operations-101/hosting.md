@@ -127,7 +127,7 @@ Is the owner of these NFTs safe from being liquidated when their hosting clock g
 
 Now I will add $100 to the hosting reserve balance:&#x20;
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
 The shield represents how many times the hosting clock for this owner could get to zero and auto-pay for their hosting invoice balance. The shield of '1' means the account will be safe for one liquidation check.&#x20;
 
