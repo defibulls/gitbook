@@ -16,7 +16,13 @@ If we look at our hosting fees, the approach for the BTC Bulls by only changing 
 
 
 
+
+
 <img src="../../../../.gitbook/assets/image (26).png" alt="" data-size="original">
+
+###
+
+These projections below show the amount of BTC we get to take back to the smart contract to distribute 90% of the "BTC remaining after" amount to each NFT.&#x20;
 
 ### BTC Bulls with a $15 max hosting fee:
 
