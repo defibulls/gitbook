@@ -1,4 +1,4 @@
-# HOSTING
+# HOSTING FOR BTC Bulls
 
 ## HOSTING FEES FOR THE BTC Bulls
 
@@ -22,9 +22,9 @@ As an owner of a BTC Bull(s), you are leasing the fenced plot of land, a stockya
 
 This approach allows each BTC Bull within The Ranch to share the hosting invoice evenly. In the above example, 240 miners on the invoice would be ≈ $38,000 if we average a $156.60 hosting fee per miner. Since we have 2999 BTC Bulls in circulation, each BTC Bull NFT will share that invoice, and that calculation would come out to be $12.67 per BTC Bull. For the sake of easy math and never wanting to be short on the project, we will round up each hosting calculation. In this example, we would set the monthly hosting fee to $13 and would be able to retain a small amount left over in our HOSTING SAFE wallet that would go to pay next month to pay on later hosting invoices. The intent behind this approach is to avoid having excess hosting fees sitting in a wallet for no reason. Unlike other projects, our hosting fees serve the direct purpose of paying the actual invoices from Compass Mining, not trying to build any treasury for the project. &#x20;
 
-Through compounding efforts, our BTC Mining Cluster has the potential to grow very large and powerful. The following month we could add more miners as more Tiers sell out and our compounding efforts start. This could give us an invoice of $185,000 shared between all 9960\* BTC Bulls. With the set hosting fees for each plot, once we collected the $15 from each BTC Bull, as that is the max hosting fee allowed for each BTC Bull on the project, we would still be short of paying the monthly invoice.&#x20;
+Through compounding efforts, our BTC Mining Cluster has the potential to grow very large and powerful. The following month we could add more miners as more Tiers sell out and our compounding efforts start. This could give us an invoice of $185,000 shared between all 9960\* BTC Bulls. With the set hosting fees for each plot, once we collected the $5 from each BTC Bull, as that is the max hosting fee allowed for each BTC Bull on the project, we would still be short of paying the monthly invoice.&#x20;
 
-$185,000 - $149,400 == $30,600 left to cover&#x20;
+$185,000 - $49,400 == $30,600 left to cover&#x20;
 
 In this instance, we would have to convert $30,600 of our mined BTC to pay the remainder of the invoice. The rest of that mined BTC gets dispersed as monthly rewards, according to FIG 0.&#x20;
 

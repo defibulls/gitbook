@@ -26,7 +26,7 @@ These projections below show the amount of BTC we get to take back to the smart 
 
 ### BTC Bulls with a $15 max hosting fee:
 
-<figure><img src="../../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (5).png" alt=""><figcaption></figcaption></figure>
 
 ### BTC Bears with a $5 max hosting fee:
 
