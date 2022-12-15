@@ -14,39 +14,29 @@ When anyone mints one of the BTC Bulls or the BTC Bears, what's happening is the
 
 ## **MINTING WINDOWS:**
 
-Minting of the BTC Bulls and the BTC Bears can only happen during open business hours of the property, in which we will have an open window to mint/adopt the Bulls and Bears.&#x20;
+Minting of the BTC Bulls can only happen during open business hours of the property, in which we will have an open window to mint/adopt the BTC Bulls.&#x20;
 
-**Window 1:** from 8 AM EST on Dec 12, 2022, to 5 PM EST on Dec 16, 2022
+**Window 1:** from 9 AM EST on Dec 12, 2022, to 9 AM EST on Dec 18, 2022
 
-**Window 2:** from 8 AM EST on Dec 19, 2022, to 5 PM EST on Dec 23, 2022
+**Window 2:** from 9 PM EST on Dec 18, 2022, to 9 AM AM EST on Dec 25, 2022
 
-**Window 3:** from 8 AM EST on Dec 26, 2022, to 5 PM EST on Dec 30, 2022
+**Window 3:** from 9 PM EST on Dec 25, 2022, to 9 AM EST on Jan 01, 2023
 
-If more windows are needed to mint the full collection of the BTC Bulls and/or the BTC Bears, additional windows will follow the same structure from an 8 AM Monday to 5 PM Friday approach.&#x20;
+If more windows are needed to mint the full collection of the BTC Bulls, additional windows will follow the same structure from an 8 AM Monday to 5 PM Friday approach.&#x20;
 
 
 
 ## MINTING BTC Bulls
 
-* 89% of the transaction goes to the BTC MINERS SAFE to purchase miners at the hosting facility.&#x20;
-* 5% is sent to the HOSTING SAFE, the multi-sig wallet used to pay hosting fees at compass mining.&#x20;
+* 79% of the transaction goes to the BTC MINERS SAFE to purchase miners at the hosting facility.&#x20;
+* 15% is sent to the HOSTING SAFE, the multi-sig wallet serving as our war chest for the BTC Bulls. This money is kept in reserve if/when unseen costs arise for the project.&#x20;
 * 3% is held for the Minting Giveaway.
 * 2% goes to the partner of the address minting NFTs.
 * 1% goes to MARKETING SAFE multi-sig wallet.&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption><p>FIG_MINT</p></figcaption></figure>
 
-## MINTING BTC Bears
 
-* 80% of the transaction goes to the BTC MINERS SAFE to purchase miners at the hosting facility.&#x20;
-* 15% is sent to the HOSTING SAFE; the bears use this as more of a war chest to keep funds on hand just in case the price of BTC dips any lower in the short term. This is a security blanket for the community.&#x20;
-* 3% is held for the Minting Giveaway.
-* 2% goes to the partner of the address minting NFTs.
-* 1% goes to MARKETING SAFE multi-sig wallet.&#x20;
-
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
-
-## ****
 
 ## **MINTING GIVEAWAY**
 

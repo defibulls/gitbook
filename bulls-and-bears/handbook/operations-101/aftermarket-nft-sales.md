@@ -1,6 +1,6 @@
 # AFTERMARKET NFT SALES
 
-The Ranch BTC Bulls and BTC Bears collection will be officially listed on Opensea.io for safe aftermarket sales.  All BTC Bull and BTC Bear NFTs relisted and sold on the open market will be subject to a 12.5% royalty fee based on the sale value. This royalty will be distributed to the protocol as follows:\
+The Ranch BTC Bulls will be officially listed on Opensea.io for safe aftermarket sales.  All BTC Bull relisted and sold on the open market will be subject to a 12.5% royalty fee based on the sale value. This royalty will be distributed to the protocol as follows:\
 
 
 * 5% of the sale price will be dispersed using the royalties program. This will take shape as the community votes it into existence. &#x20;

@@ -5,9 +5,9 @@ coverY: 72
 
 # OPERATIONS 101
 
-## 10,000 FT VIEW OF 10K BTC Bulls & BTC Bears
+## 10,000 FT VIEW OF 10K BTC Bulls
 
-The BTC Bulls and BTC Bears are separate communities within The Ranch, built around Bitcoin Mining. This project is a club and a MAAS (mining-as-a-service) hybrid model. The heart of the ecosystem is buying BTC Bulls and/or BTC Bears, a way of buying into a fractionalized BTC mining cluster and sharing mining rewards.&#x20;
+The BTC Bulls are built around Bitcoin Mining. This project is a club and a MAAS (mining-as-a-service) hybrid model. The heart of the ecosystem is buying BTC Bulls as a way of buying into a fractionalized BTC mining cluster and sharing mining rewards.&#x20;
 
 A project built with:
 
@@ -15,7 +15,7 @@ A project built with:
 * Real Yield
 * Real Rewards
 
-There is strength in numbers, and the BTC Bulls and the BTC Bears, while separate, will put this on full display as a community.&#x20;
+There is strength in numbers, and the BTC Bulls will put this on full display as a community.&#x20;
 
 ## WHY START THE PROJECT?
 
@@ -85,9 +85,7 @@ All BTC mining efforts will be processed monthly between the 1st and 5th of the 
 
 **1/3** of all rewards received from the mining facility will be reinvested back into the mining cluster to purchase more BTC miners.&#x20;
 
-**2/3** of the monthly mining rewards will be converted to WBTC and deposited into the respective smart contract of the BTC Bulls or the BTC Bears, depending on which mining cluster the rewards are coming from. When deposited into the smart contract, 10% goes back to The Ranch Core Team for continued project growth, security measures, and marketing. The remaining 90% is then dispersed to the owners of the BTC Bulls or BTC Bear NFTs in pro-rata format. Using this approach, each NFT is awarded the same amount. An address owning 5 NFTs would get 5x more WBTC rewards than a wallet address owning a single NFT.
-
-The communities do not share resources and are completely segmented from each other. A BTC Bear doesn't benefit from the BTC Bull's mining rewards and the BTC Bull doesn't benefit from what the BTC Bears are doing.&#x20;
+**2/3** of the monthly mining rewards will be converted to WBTC and deposited into the respective smart contract of the BTC Bulls. When deposited into the smart contract, 10% goes back to The Ranch Core Team for continued project growth, security measures, and marketing. The remaining 90% is then dispersed to the owners of the BTC Bulls NFTs in pro-rata format. Using this approach, each NFT is awarded the same amount. An address owning 5 NFTs would get 5x more WBTC rewards than a wallet address owning a single NFT.
 
 
 
@@ -99,7 +97,7 @@ As of now, we are planning to shift to a 90% - 100% reward structure when the pr
 
 ## TOTAL SUPPLY AND MINT COST:
 
-The BTC Bulls Community and The BTC Bears Community are NFT collections built on the Polygon Blockchain, with 10,000 of each collection released in 10 different tiers. Each tier must be bought out completely before the next tier opens. USDC.e is the token used for purchasing in all tiers.&#x20;
+The BTC Bulls Community are NFT collections built on the Polygon Blockchain, with 10,000 of each collection released in 10 different tiers. Each tier must be bought out completely before the next tier opens. USDC.e is the token used for purchasing in all tiers.&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (1) (3) (1).png" alt="Cost breakdown when buying BTC Bulls"><figcaption><p>FIG 1</p></figcaption></figure>
 
@@ -118,15 +116,14 @@ The Ranch BTC Bulls will not revolve around its native token by design. The prim
 
 ## ![](<../../../.gitbook/assets/Buddy System.svg>) **THE BUDDY SYSTEM**
 
-The Buddy System is an onboarding system for new participants in The Ranch Ecosystem. Participation is completely voluntary, unlike other multi-level marketing and scam-type referral systems, which consist of pyramid structures, tiered referral trees, etc. There is only 1 level of affiliate rewards within The Ranch Ecosystem. Rewards are issued whenever the referred individual mints new NFTs, during the monthly rewarding of WBTC to NFT holders, and during any raffle win. A referred individual to the project only counts within a particular community. For example, if you refer someone to the BTC Bears community and they are also in the BTC Bulls community, you would only get rewards from transactions and events happening on the BTC Bears contract.
+The Buddy System is an onboarding system for new participants in The Ranch Ecosystem. Participation is completely voluntary, unlike other multi-level marketing and scam-type referral systems, which consist of pyramid structures, tiered referral trees, etc. There is only 1 level of affiliate rewards within The Ranch Ecosystem. Rewards are issued whenever the referred individual mints new NFTs, during the monthly rewarding of WBTC to NFT holders.
 
 * 2% of the minting transaction cost.
-* 2% of monthly WBTC reward payouts.
-* 2% of the Royalty Raffle winning amount.&#x20;
+* 2% of monthly WBTC reward payouts.&#x20;
 
 
 
-Within both communities, a Buddy must be in an 'active' state to receive the benefit. Active means the Buddy of the referred person owns a Bull or Bear at the time of the event.&#x20;
+A Buddy must be in an 'active' state to receive the benefit. Active means the Buddy of the referred person owns a BTC Bull at the time of the event.&#x20;
 
 * Do I have to have a Buddy? No
 * Does not having a Buddy hurt me? No, anyone with a Buddy or without a Buddy will have 2% deducted during the rewarding transactions. If the Buddy is in an active state, it goes to the Buddy of the referred person; if not, it goes to The Ranch Core Team.
@@ -134,10 +131,9 @@ Within both communities, a Buddy must be in an 'active' state to receive the ben
 
 #### How do I add the person who referred me to the project as my Buddy?&#x20;
 
-When you enter the BTC Bulls or BTC Bears section, the buddy address for that community can be changed using the 'hamburger' icon in the top right. An all-zero address indicates a Buddy is not set yet on the account overview. Once a Buddy is set, it will update the address on the account overview.&#x20;
+When you enter the BTC Bulls,  the buddy address for that community can be changed using the 'hamburger' icon in the top right. An all-zero address indicates a Buddy is not set yet on the account overview. Once a Buddy is set, it will update the address on the account overview.&#x20;
 
 * This is a contract call, so you must confirm the transaction through Metamask.
-* An account can have the same buddy address for the BTC Bears community and the BTC Bulls community, but they are separate decisions on different contracts. Updating the Buddy address in the BTC Bulls section will not do anything within your BTC Bears account. Thus if you wanted a single address to be your Buddy for both communities, this would require two transactions.&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (9) (3).png" alt=""><figcaption></figcaption></figure>
 
@@ -148,16 +144,6 @@ When you enter the BTC Bulls or BTC Bears section, the buddy address for that co
 We are projecting each miner to be operational for 60 months. Some will last longer, and others will fail before that time. All miners that can be repaired will be. If the miners are in bad enough condition, we will work with Compass Mining to get what we can for it, and then all those funds will be dispersed, as seen in FIG 0.&#x20;
 
 
-
-## BTC Bulls vs. BTC Bears
-
-## ![](../../../.gitbook/assets/82.png)![](../../../.gitbook/assets/246.png)
-
-
-
-The BTC Bulls and the BTC Bears are different communities separated by different smart contracts and different wallets. There is only one key difference between them within The Ranch ecosystem; where they reside and their obligations to the property. To be a Bull or Bear depends on your mathematical stance on their actions.&#x20;
-
-&#x20;
 
 
 

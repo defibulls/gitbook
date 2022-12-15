@@ -7,11 +7,7 @@ There will be a 12.5% royalty fee when selling BTC Bulls on OpenSea.  2.5% gets 
 * **50%** going back to The Ranch for project development and project-related costs.&#x20;
 * **50%** goes into our monthly Royalty Rewards.
 
-Our community will be filled with holders with long-term mindsets, but there will always be those who need to sell for liquidity and/or profit opportunities. Looking at what other projects have done in the past, if we get close to a quarter of the numbers those projects hit, this could serve as a cool approach to reward those who supported first and stayed around.
-
-To participate in Royalty Rewards, the BTC Bull/Bear owner's address must have a liquidation score of zero.
-
-###
+Our community will be filled with holders with long-term mindsets, but there will always be those who need to sell for liquidity and profit opportunities. Looking at what other projects have done in the past, if we get close to a quarter of the numbers those projects hit, this could serve as a cool approach to reward those who supported first and stayed around.
 
 ### THE COMMUNITY WILL DECIDE!&#x20;
 
@@ -22,9 +18,10 @@ Once the project is officially alive and rolling, royalties on the sale of NFTs 
 
 No decision has been made on this; the community will decide. The part we do know about this whole idea is the criteria each wallet address (account) needs to meet to be eligible to participate in either idea that comes to life is:
 
-* The wallet address owns a Bull or Bear at that given time.&#x20;
-* The wallet address has a liquidation count of zero on their account.
-* The wallet address obtained its BTC Bulls and/or BTC Bears from the contract via minting and thus are "OG's" in their community.&#x20;
+* The wallet address owns a BTC Bull.&#x20;
+* The wallet address used must be an 'early supporter' of the project, thus, must have minted a BTC Bull directly from the project during the minting phase.&#x20;
+
+
 
 
 

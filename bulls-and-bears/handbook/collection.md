@@ -15,26 +15,12 @@ coverY: -446.4
 * Access to the BTC Bulls mining cluster's rewards\*
 * Initial Minting Giveaway opportunity upon minting a BTC Bull and long-term royalty rewards program opportunities.&#x20;
 * &#x20;20 BTC Bulls are considered 'enlightened' and thus the rarest!&#x20;
-  * Once revealed, 'Enlightened' BTC Bulls are hosting fee exempt moving forward\*\* &#x20;
   *   The location of 'Enlightened' BTC Bulls is unknown to all, including the team. We only know 20 exist within the collection.
 
       <img src="../../.gitbook/assets/image (4) (3).png" alt="" data-size="original">
 
-\*Access as long as the project can successfully mine BTC and the individual retains ownership of the BTC Bull.  &#x20;
 
-## BTC Bears
 
-![](<../../.gitbook/assets/image (20).png>)![](<../../.gitbook/assets/image (1) (5) (2).png>)
-
-### **A collection of 10,000 BTC Bear NFTs on the Polygon Blockchain.**&#x20;
-
-* No whitelist; You are in because you want to be, not who you know
-* Access to the BTC Bears mining cluster's rewards\*
-* Initial Minting Giveaway opportunity upon minting a BTC Bears and long-term royalty rewards program opportunities.&#x20;
-*   &#x20;20 BTC Bears are considered 'enlightened' and thus the rarest!&#x20;
-
-    ![](<../../.gitbook/assets/image (2) (9).png>)
-
-Since there are no hosting fees related to the BTC Bears, anyone who mints an 'enlighted' BTC Bear can get a Ledger Stax on us. Once revealed, owners who have one can submit a ticket for this purchase.&#x20;
+Since there are no hosting fees related to the BTC Bulls, anyone who mints an 'enlighted' BTC Bull can get a Ledger Stax on us. Once revealed, owners who have one can submit a ticket for this transfer.&#x20;
 
 ![](<../../.gitbook/assets/image (3).png>)

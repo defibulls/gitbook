@@ -5,9 +5,9 @@
 * Consists of The Ranch Core Team
 * Final say on all Voting Matters&#x20;
 
-## RANCHERS
+## SUPERBULLS
 
-* Acts as a pseudo "Board of Directors".
+* Acts as a pseudo "Board of Directors."
 
 
 
