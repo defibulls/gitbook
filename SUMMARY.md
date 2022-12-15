@@ -17,7 +17,7 @@
   * [OPERATIONS 101](bulls-and-bears/handbook/operations-101/README.md)
     * [MINTING](bulls-and-bears/handbook/operations-101/minting.md)
     * [EARLY SUPPORTER](bulls-and-bears/handbook/operations-101/early-supporter.md)
-    * [HOSTING FOR BTC Bears](bulls-and-bears/handbook/operations-101/hosting-for-btc-bears.md)
+    * [HOSTING FOR BTC Bulls](bulls-and-bears/handbook/operations-101/hosting-for-btc-bulls.md)
     * [INSURANCE](bulls-and-bears/handbook/operations-101/insurance.md)
     * [ROYALTIES](bulls-and-bears/handbook/operations-101/royalties.md)
     * [INFRASTRUCTURE](bulls-and-bears/handbook/operations-101/infrastructure/README.md)
