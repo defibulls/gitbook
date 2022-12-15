@@ -23,4 +23,4 @@ coverY: -446.4
 
 Since there are no hosting fees related to the BTC Bulls, anyone who mints an 'enlighted' BTC Bull can get a Ledger Stax on us. Once revealed, owners who have one can submit a ticket for this transfer.&#x20;
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (3) (7).png>)

@@ -29,14 +29,12 @@ If more windows are needed to mint the full collection of the BTC Bulls, additio
 ## MINTING BTC Bulls
 
 * 79% of the transaction goes to the BTC MINERS SAFE to purchase miners at the hosting facility.&#x20;
-* 15% is sent to the HOSTING SAFE, the multi-sig wallet serving as our war chest for the BTC Bulls. This money is kept in reserve if/when unseen costs arise for the project.&#x20;
+* 15% is sent to the WAR-CHEST SAFE, the multi-sig wallet serving as our war chest for the BTC Bulls. This money is kept in reserve if/when unseen costs arise for the project.&#x20;
 * 3% is held for the Minting Giveaway.
 * 2% goes to the partner of the address minting NFTs.
 * 1% goes to MARKETING SAFE multi-sig wallet.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption><p>FIG_MINT</p></figcaption></figure>
-
-
+<figure><img src="../../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
 ## **MINTING GIVEAWAY**
 
