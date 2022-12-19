@@ -128,6 +128,7 @@ A Buddy must be in an 'active' state to receive the benefit. Active means the Bu
 * Do I have to have a Buddy? No
 * Does not having a Buddy hurt me? No, anyone with a Buddy or without a Buddy will have 2% deducted during the rewarding transactions. If the Buddy is in an active state, it goes to the Buddy of the referred person; if not, it goes to The Ranch Core Team.
 * Can I switch my Buddy multiple times? No, once a Buddy is selected, it is final.
+* If 'Bob' sets 'Alice' as their buddy, 'Alice' will not be allowed to set 'Bob' as hers Buddy later on. This gets blocked by the contract as one of them should have brought the other into the project, not a both bring both.&#x20;
 
 #### How do I add the person who referred me to the project as my Buddy?&#x20;
 
