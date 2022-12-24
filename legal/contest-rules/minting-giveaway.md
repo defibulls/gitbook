@@ -27,11 +27,7 @@ Participation constitutes each entrant’s full and unconditional agreement to t
 This promotion will be conducted during the following window (each an “Entry Window”):
 
 \
-**Window 1: from 8 AM EST on Dec 12, 2022, to 5 PM EST on Dec 16, 2022**
-
-**Window 2: from 8 AM EST on Dec 19, 2022, to 5 PM EST on Dec 23, 2022**
-
-**Window 3: from 8 AM EST on Dec 26, 2022, to 5 PM EST on Dec 30, 2022**
+**Canceled Due to Re-design of project**
 
 \
 Entries must be received before the expiration of the Entry Window to be eligible to win a Prize.\
