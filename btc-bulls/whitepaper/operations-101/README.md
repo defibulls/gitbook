@@ -97,11 +97,9 @@ As of now, we are planning to shift to a 90% - 100% reward structure when the pr
 
 ## TOTAL SUPPLY AND MINT COST:
 
-The BTC Bulls Community are NFT collections built on the Polygon Blockchain, with 10,000 of each collection released in 10 different tiers. Each tier must be bought out completely before the next tier opens. USDC.e is the token used for purchasing in all tiers.&#x20;
+The BTC Bulls Community are NFT collections built on the Polygon Blockchain, with up to 10,000 released. Each tier must be bought out completely before the next tier opens. USDC.e is the token used for purchasing in all tiers.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1) (3) (1).png" alt="Cost breakdown when buying BTC Bulls"><figcaption><p>FIG 1</p></figcaption></figure>
-
-## TOKENS/COINS THAT WILL BE USED&#x20;
+TOKENS/COINS THAT WILL BE USED&#x20;
 
 The Ranch BTC Bulls will not revolve around its native token by design. The primary tokens this project will use include the following:
 
