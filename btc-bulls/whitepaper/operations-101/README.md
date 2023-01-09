@@ -5,7 +5,7 @@ coverY: 72
 
 # OPERATIONS 101
 
-## 10,000 FT VIEW OF 10K BTC Bulls
+## 10,000 FT VIEW OF 5K BTC Bulls
 
 The BTC Bulls are built around Bitcoin Mining. This project is a club and a MAAS (mining-as-a-service) hybrid model. The heart of the ecosystem is buying BTC Bulls as a way of buying into a fractionalized BTC mining cluster and sharing mining rewards.&#x20;
 
