@@ -5,7 +5,7 @@
 The Buddy System is an onboarding system for new participants in The Ranch Ecosystem. Participation is completely voluntary, unlike other multi-level marketing and scam-type referral systems, which consist of pyramid structures, tiered referral trees, etc. There is only 1 level of affiliate rewards within The Ranch Ecosystem. Rewards are issued whenever the referred individual mints new NFTs during the monthly reward of WBTC to NFT holders.
 
 * **2% of the minting transaction cost**.
-* **2% of monthly WBTC reward payouts.**&#x20;
+* **2% of quarterly WBTC reward payouts FOREVER!**
 
 A Buddy must be in an 'active' state to receive the benefit. Active means the Buddy of the referred person owns a BTC Bull at the time of the event.&#x20;
 
