@@ -1,26 +1,37 @@
 # MINTING
 
-##
+## MINTS ALLOWED PER TRANSACTION:
+
+Each transaction must mint 1,2,3,5,7, or 9 BTC Bulls.&#x20;
 
 ## MINT COST:
 
-USDC.e is the token used for purchasing in all presales and public sales.
+The Base Price is as follows:
 
-##
+* Presale 1 Base Price = $400
+* Presale 1 Whitelist Prices:
 
-##
+<figure><img src="../../.gitbook/assets/designneded-01.jpg" alt=""><figcaption><p>Presale 1 whitelist Cost</p></figcaption></figure>
 
-##
+* Presale 2 = $420
+* Presale 3 = $450
+* Public Sale = $500
 
-##
+## COST DISTRIBUTION:&#x20;
 
-## MINTING BTC Bulls
-
-* 79% of the transaction goes to the BTC MINERS SAFE to purchase miners at the hosting facility.&#x20;
-* 15% is sent to the WAR-CHEST SAFE, the multi-sig wallet serving as our war chest for the BTC Bulls. This money is kept in reserve if/when unseen costs arise for the project.&#x20;
-  * "By failing to prepare, you are preparing to fail" is the motto we stand behind when it comes to our war chest model.
-* 3% is held for the Minting Giveaway.
-* 2% goes to the partner of the address minting NFTs.
-* 1% goes to MARKETING SAFE multi-sig wallet.&#x20;
+* 80% of the transaction goes to the BTC MINERS SAFE to purchase miners at the hosting facility.&#x20;
+* 11% is sent to the War Chest. This money is kept in reserve if/when unseen costs arise for the project. A project failing to prepare is a project preparing to fail.&#x20;
+* 6% is held for the Rarity AirDrop Payout.
+* 2% goes to the Buddy of the address minting NFTs.
+* 1% goes to Marketing.&#x20;
 
 &#x20;
+
+
+
+## CREDIT CARD PURCHASE OF BTC Bulls
+
+* 81% of the transaction goes to the BTC MINERS SAFE to purchase miners at the hosting facility.&#x20;
+* 13% is sent to the War Chest. This money is kept in reserve if/when unseen costs arise for the project. A project failing to prepare is a project preparing to fail.&#x20;
+* 6% is held for the Rarity AirDrop Payout.
+* 1% goes to Marketing.&#x20;
