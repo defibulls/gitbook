@@ -10,7 +10,7 @@ All BTC mining efforts will be processed quarterly between the 1st and 5th of th
 
 Mining Rewards will be paid out in WBTC (WRAPPED BITCOIN). WBTC standardizes BITCOIN to the ERC20 format. This allows us to convert BTC to WBTC,  backed 1:1, and pay out thousands of NFTs within the project.&#x20;
 
-### Starting and bear market compounding strategy:
+### Starting and Bear market compounding strategy:
 
 **1/3** of all earned mining rewards received from the mining facility will be reinvested back into the mining cluster to purchase more BTC miners.&#x20;
 

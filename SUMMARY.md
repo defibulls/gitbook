@@ -23,7 +23,6 @@
   * [INSURANCE](btc-bulls/whitepaper/insurance.md)
   * [ROYALTIES](btc-bulls/whitepaper/royalties.md)
   * [DISCORD ROLES](btc-bulls/whitepaper/discord-roles.md)
-  * [AFTERMARKET NFT SALES](btc-bulls/whitepaper/aftermarket-nft-sales.md)
   * [FAQ](btc-bulls/whitepaper/faq.md)
   * [AUDIT](btc-bulls/whitepaper/audit.md)
   * [WEBSITE & SOCIALS](btc-bulls/whitepaper/website-and-socials.md)

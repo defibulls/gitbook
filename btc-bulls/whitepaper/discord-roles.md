@@ -30,3 +30,13 @@
 * Ongoing utility
 * Free DDGT NFT for every 10 NFTs owned (Soon to release)
 
+## MYTHICAL-BULL
+
+* Member Role
+* Holding at least 25 BTC Bulls
+* Access to full discord channels
+* Exclusive opportunities (FUTURE)
+* Ongoing utility
+* Free DDGT NFT for every 10 NFTs owned (Soon to release)
+* You are an invaluable part of this project and future rewards are being carved out within the next project to release under our team. &#x20;
+
