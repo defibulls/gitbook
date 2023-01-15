@@ -9,17 +9,20 @@ coverY: -446.4
 
 ****![](../../.gitbook/assets/47.png)****![](../../.gitbook/assets/62.png)****
 
-### **A collection of 10,000 BTC Bull NFTs on the Polygon Blockchain.**&#x20;
+### **A collection of 5,000 BTC Bull NFTs on the Polygon Blockchain.**&#x20;
 
-* No whitelist; You are in because you want to be, not who you know
 * Access to the BTC Bulls mining cluster's rewards\*
-* Initial Minting Giveaway opportunity upon minting a BTC Bull and long-term royalty rewards program opportunities.&#x20;
-* &#x20;20 BTC Bulls are considered 'enlightened' and thus the rarest!&#x20;
-  *   The location of 'Enlightened' BTC Bulls is unknown to all, including the team. We only know 20 exist within the collection.
+* Initial Rarity opportunity upon minting a BTC Bull and long-term royalty rewards program opportunities.&#x20;
+* &#x20;Within the collection of BTC Bulls, there are three rarity levels.
+  * Gold Rarity = A BTC Bull with a Frog.
+  * Silver Rarity = A BTC Bull with a Turtle.&#x20;
 
-      <img src="../../.gitbook/assets/image (4) (3).png" alt="" data-size="original">
+#### Within the collection, there will be 8 Gold Rarity NFTs and 11 Silver Rarity NFTs.
 
+* Gold Rarity NFTs will each receive an estimated value of $12,000
+* Silver Rarity NFTs will each receive an estimated value of $3,000&#x20;
 
+Rarity Rewards will be air-dropped in the form of our native token for our ecosystem, DDGT, which is 100% backed by USDC.&#x20;
 
 
 

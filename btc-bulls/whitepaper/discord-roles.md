@@ -21,3 +21,12 @@
 * Exclusive opportunities (FUTURE)
 * Ongoing utility
 
+## LEGENDARY-BULL
+
+* Member Role
+* Holding at least 10 BTC Bulls
+* Access to full discord channels
+* Exclusive opportunities (FUTURE)
+* Ongoing utility
+* Free DDGT NFT for every 10 NFTs owned (Soon to release)
+
