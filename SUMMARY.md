@@ -16,6 +16,7 @@
   * [OVERVIEW](btc-bulls/whitepaper/overview.md)
   * [COLLECTION](btc-bulls/whitepaper/collection.md)
   * [MINTING](btc-bulls/whitepaper/minting.md)
+  * [RARITY](btc-bulls/whitepaper/rarity.md)
   * [BUDDY SYSTEM](btc-bulls/whitepaper/buddy-system.md)
   * [PAYOUT](btc-bulls/whitepaper/payout.md)
   * [HOSTING](btc-bulls/whitepaper/hosting.md)
