@@ -2,6 +2,12 @@
 
 The BTC Bulls will be sold in four different phases. Presale 1, Presale 2, Presale 3, Public Sale. During each phase, minting transactions must mint 1,2,3,5,7 or 9 BTC Bulls.&#x20;
 
+ultiplier as shown in the table below:
+
+<table data-view="cards"><thead><tr><th></th><th>NFTs Available </th></tr></thead><tbody><tr><td>Presale 1</td><td>250</td></tr><tr><td>Presale 2</td><td>400</td></tr><tr><td>Presale 3</td><td>550</td></tr><tr><td>Public Sale</td><td>3800</td></tr></tbody></table>
+
+
+
 ## MINT COST:
 
 Presale 1 Base Price per NFT = $400
