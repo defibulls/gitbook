@@ -24,7 +24,7 @@
 
 
 
-## TOP NETWORKER
+## TOP NETWORKERS
 
 The networker count is the number of people that use your wallet address as their Buddy **AND** mint a BTC Bull. The networker count only increases for your wallet when another person sets your address as their buddy and then mints from the contract. Doing so in reverse order will not register correctly on the contract and thus won't increase your networker count.&#x20;
 
