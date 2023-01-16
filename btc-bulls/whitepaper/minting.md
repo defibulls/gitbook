@@ -37,7 +37,7 @@ Public Sale Base Price per NFT = $425
 * 2% goes to the Buddy of the address minting NFTs.
 * 1% goes to MARKETING.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>USDC MINT DISTRIBUTION</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>USDC MINT DISTRIBUTION</p></figcaption></figure>
 
 ## CREDIT CARD PURCHASING OF BTC Bulls
 
@@ -50,4 +50,4 @@ The smart contract itself can support purchasing with credit cards via paper.xyz
 
 _When using a credit card to purchase BTC Bulls, the buddy system awarding is skipped and will not be counted as the paper.xyz will allow you to mint with a paper wallet and then transfer to a wallet of your choice._&#x20;
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption><p>CREDIT CARD MINT DISTRIBUTION</p></figcaption></figure>
