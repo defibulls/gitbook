@@ -30,3 +30,9 @@ The networker count is the number of people that use your wallet address as thei
 
 * The person who refers the most addresses that mint from the project will be the top networker and airdropped a BTC Bull with a Frog.
 * The person who refers the second most addresses that mint from the project will be the second place networker and airdropped a BTC Bull with a Turtle.
+
+
+
+## Rarity Payout:
+
+All rarity airdrop payments will be made in the form of DDGT. See the [DDGT ](ddgt.md)for more info.

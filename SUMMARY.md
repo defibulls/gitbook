@@ -19,6 +19,7 @@
   * [MINTING](btc-bulls/whitepaper/minting.md)
   * [RARITY](btc-bulls/whitepaper/rarity.md)
   * [PAYOUT](btc-bulls/whitepaper/payout.md)
+  * [DDGT](btc-bulls/whitepaper/ddgt.md)
   * [HOSTING](btc-bulls/whitepaper/hosting.md)
   * [EARLY SUPPORTER](btc-bulls/whitepaper/early-supporter.md)
   * [INSURANCE](btc-bulls/whitepaper/insurance.md)
