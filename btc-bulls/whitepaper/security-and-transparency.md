@@ -2,26 +2,17 @@
 
 ## The Ranch Security
 
-**Hardware Security:** The Ranch Core Team intends to secure all funds within the project using Multisig wallets, with owners of these Multisig wallets being Hardware Wallets.
+**Hardware Security:** The Ranch will secure all funds within the project using Multisig wallets.
 
 **Transparency:** Each wallet address for the project will be publicly identified for The Ranch community to monitor.
 
-*   **BTC Bulls:**
-
-    * CONTRACT OWNER:
-    * BTC MINERS SAFE:&#x20;
-    * HOSTING SAFE:
-    * MARKETING SAFE:
-    * AMOE SAFE:
-
-
-* **BTC Bears:**
+* **BTC Bulls:**
   * CONTRACT OWNER:
   * BTC MINERS SAFE:&#x20;
-  * HOSTING SAFE:
+  * WAR CHEST SAFE:
   * MARKETING SAFE:
-  * AMOE SAFE:
+  * RARITY SAFE:
 
-**Insurance:** The Ranch Core Team will seek to establish insurance to secure the project further.
+**Insurance:** The Ranch will insure the assets of the projects to secure the project's future.
 
-**Legal support:** The Ranch Core Team will retain legal support to help with legal advice and other issues that may arise in the future.
+**Legal support:** The Ranch will retain legal support to help with legal advice and other issues that may arise in the future.
