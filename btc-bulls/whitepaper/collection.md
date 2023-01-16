@@ -19,8 +19,8 @@ coverY: -446.4
 
 #### Within the collection, there will be 8 Gold Rarity NFTs and 11 Silver Rarity NFTs.
 
-* Gold Rarity NFTs will each receive an estimated value of $12,000
-* Silver Rarity NFTs will each receive an estimated value of $3,000&#x20;
+* Gold Rarity NFTs will each receive an estimated value of $8,500
+* Silver Rarity NFTs will each receive an estimated value of $2,250&#x20;
 
 Rarity Rewards will be air-dropped in the form of our native token for our ecosystem, DDGT, which is 100% backed by USDC.&#x20;
 
