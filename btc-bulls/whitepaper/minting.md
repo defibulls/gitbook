@@ -43,9 +43,11 @@ Public Sale Base Price per NFT = $425
 
 The smart contract itself can support purchasing with credit cards via paper.xyz
 
-* 81% of the transaction goes to the BTC MINERS SAFE to purchase miners at the hosting facility.&#x20;
+* 80% of the transaction goes to the BTC MINERS SAFE to purchase miners at the hosting facility.&#x20;
 * 13% is sent to the War Chest. This money is kept in reserve if/when unseen costs arise for the project. A project failing to prepare is a project preparing to fail.&#x20;
 * 6% is held for the Rarity AirDrop Payout.
 * 1% goes to Marketing.
 
-_When using a credit card, the buddy address awarding is skipped and will not be counted as the paper.xyz will allow you to mint with a paper wallet and then transfer to your wallet._&#x20;
+_When using a credit card to purchase BTC Bulls, the buddy system awarding is skipped and will not be counted as the paper.xyz will allow you to mint with a paper wallet and then transfer to a wallet of your choice._&#x20;
+
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
