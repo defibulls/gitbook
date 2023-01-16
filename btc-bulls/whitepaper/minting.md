@@ -48,7 +48,7 @@ Public Sale Base Price per NFT = $425
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>USDC MINT DISTRIBUTION</p></figcaption></figure>
 
-## CREDIT CARD PURCHASING OF BTC Bulls
+## COST DISTRIBUTION WHEN BUYING WITH A CREDIT CARD
 
 The smart contract itself can support purchasing with credit cards via paper.xyz
 
