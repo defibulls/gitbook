@@ -16,7 +16,7 @@ Mining Rewards will be paid out in WBTC (WRAPPED BITCOIN). WBTC standardizes BIT
 
 **2/3** of all earned mining rewards will be converted to WBTC and deposited into the respective smart contract of the BTC Bulls. When deposited into the smart contract, 10% goes back to The Ranch Core Team for continued project growth, security measures, and marketing. The remaining 90% is then dispersed to the owners of the BTC Bulls NFTs in pro-rata format. Using this approach, each NFT is awarded the same amount. An address owning 5 NFTs would get 5x more WBTC rewards than a wallet address owning a single NFT.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Bear Market Strategy</p></figcaption></figure>
 
 
 
@@ -26,4 +26,4 @@ Using the **1/3** and **2/3** approaches discussed above is going to be the way 
 
 We are planning to shift to a 100% reward structure when the price of BTC surpasses $50K. This will be put to the vote within each community when the time comes to solidify the exact percentage of distribution. The intent will be to let NFT owners capitalize on the price action of BTC when the time comes.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Bull Market Strategy</p></figcaption></figure>
