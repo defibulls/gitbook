@@ -35,4 +35,4 @@ The networker count is the number of people that use your wallet address as thei
 
 ## Rarity Payout:
 
-All rarity airdrop payments will be made in the form of DDGT. See the [DDGT ](ddgt.md)for more info.
+All rarity airdrop payments will be made in the form of DDGT. See the [DDGT ](ddgt.md)section on why this is a better idea than paying out in USDC.
