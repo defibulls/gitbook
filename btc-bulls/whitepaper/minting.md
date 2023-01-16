@@ -1,6 +1,6 @@
 # MINTING
 
-The BTC Bulls will be sold in four phases; Presale 1, Presale 2, Presale 3, and Public Sale. During each phase, minting transactions must mint 1,2,3,5,7 or 9 BTC Bulls.&#x20;
+The BTC Bulls will be sold in four phases; Presale 1, Presale 2, Presale 3, and a Public Sale. During each phase, minting transactions must mint 1,2,3,5,7 or 9 BTC Bulls.&#x20;
 
 | Phase       | NFTs Available  |
 | ----------- | --------------- |
