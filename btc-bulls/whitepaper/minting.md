@@ -28,14 +28,18 @@ Public Sale Base Price per NFT = $425
 
 * Whitelist Prices:
 
-## COST DISTRIBUTION:&#x20;
+## COST DISTRIBUTION WHEN BUYING WITH USDC:&#x20;
 
 * 80% of the transaction goes to the BTC MINERS SAFE to purchase miners at the hosting facility.&#x20;
 * 11% is sent to the WAR-CHEST, the multi-sig wallet serving as our war chest for the BTC Bulls. This money is kept in reserve if/when unseen costs arise for the project.&#x20;
   * "By failing to prepare, you are preparing to fail" is the motto we stand behind when it comes to our war chest model.
 * 5% is held for the Rarity Airdrops for Bulls with Frogs and Turtles.
 * 2% goes to the Buddy of the address minting NFTs via the Buddy System.
-* 1% goes to MARKETING SAFE multi-sig wallet.&#x20;
+* 1% goes to MARKETING SAFE multi-sig wallet.
+
+&#x20;
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>USDC MINT DISTRIBUTION</p></figcaption></figure>
 
 ## CREDIT CARD PURCHASING OF BTC Bulls
 
