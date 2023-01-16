@@ -8,7 +8,7 @@ description: Know Your Client
 
 ![](../.gitbook/assets/Obsidian\_logo2.png)
 
-* The team has its KYC with OBSIDIAN COUNCIL.
+* The team is fully doxxed and is KYC'd with THE OBSIDIAN COUNCIL.
 * The Ranch project will fall under the DEFI-Bulls LLC, formed in Wyoming, United States.&#x20;
 * The Ranch Bulls contract has been audited by [https://shellboxes.com/](https://shellboxes.com/) and other solidity developers in this space before deployment.
 
