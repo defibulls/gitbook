@@ -15,7 +15,7 @@ The BTC Bulls will be sold in four phases; Presale 1, Presale 2, Presale 3, and 
 
 <figure><img src="../../.gitbook/assets/designneded-05 (1).jpg" alt=""><figcaption></figcaption></figure>
 
-All BTC Bulls will be purchased with TRT. The amount of TRT needed to mint a BTC Bull will not change during the presales and public sales. However, the cost to obtain the needed TRT will change.&#x20;
+#### All BTC Bulls will be purchased with TRT. The amount of TRT needed to mint a BTC Bull will not change during the presales and public sales. However, the cost to obtain the needed TRT will change.&#x20;
 
 * Without being whitelisted, each BTC Bull will cost 400 TRT.&#x20;
 * To be whitelisted, follow Discord and Twitter announcements. There is no limit to the number of wallets that can be whitelisted, but there are simple requirements to do so.
