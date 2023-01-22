@@ -1,6 +1,6 @@
 # RARITY
 
-<figure><img src="../../.gitbook/assets/2nd desssiign-01.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2nd desssiign-01 (1) (1).jpg" alt=""><figcaption></figcaption></figure>
 
 ### During Presale 1:&#x20;
 
