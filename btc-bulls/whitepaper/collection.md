@@ -11,6 +11,7 @@ coverY: -446.4
 
 ### **A collection of 5,000 BTC Bull NFTs on the Polygon Blockchain.**&#x20;
 
+* The BTC Bulls are the OG's on the property.
 * Access to the BTC Bulls mining cluster's rewards\*
 * Initial Rarity opportunity upon minting a BTC Bull and long-term royalty rewards program opportunities.&#x20;
 * &#x20;Within the collection of BTC Bulls, there are three rarity levels.
