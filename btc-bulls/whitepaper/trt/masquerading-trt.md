@@ -1,6 +1,6 @@
 # Masquerading TRT
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
 
 One of the biggest parts of making TRT, TRUST RESERVOIR TOKEN, was more than just having it be our native token. We have been working to bring this token into niche communities to bring them value and introduce them to the good side of web3 and crypto in general. We will be a force of good to better the name of crypto, bring transparency to it, and build Trust all along the way. By "Masquerading" the TRT token, we will make other tokens like DDGT that appeal to that given community to drive adoption of it.  On the backend of websites built for DDGT, all contract calls will be made to the TRT token contract itself. Thus benefiting holders of the TRT token even if you don't have anything to do with Disc Golf. &#x20;
 

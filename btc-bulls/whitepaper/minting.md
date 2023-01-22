@@ -13,29 +13,17 @@ The BTC Bulls will be sold in four phases; Presale 1, Presale 2, Presale 3, and 
 
 ## MINT COST:
 
-Presale 1 Base Price per NFT = $400
+<figure><img src="../../.gitbook/assets/designneded-05 (1).jpg" alt=""><figcaption></figcaption></figure>
 
-* Whitelist Prices:
+All BTC Bulls will be purchased with TRT. The amount of TRT needed to mint a BTC Bull will not change during the presales and public sales. However, the cost to obtain the needed TRT will change.&#x20;
 
-<figure><img src="../../.gitbook/assets/designneded-01.jpg" alt=""><figcaption><p>Presale 1 whitelist Cost</p></figcaption></figure>
-
-Presale 2 Base Price per NFT = $425
-
-* Whitelist Prices:
-
-
-
-Presale 3 Base Price per NFT = $450
-
-* Whitelist Prices:
-
-
-
-
-
-Public Sale Base Price per NFT = $425
-
-* Whitelist Prices:
+* Without being whitelisted, each BTC Bull will cost 400 TRT.&#x20;
+* To be whitelisted, follow Discord and Twitter announcements. There is no limit to the number of wallets that can be whitelisted, but there are simple requirements to do so.
+  * When whitelisted, the overall cost of NFTs does change for two reasons.  &#x20;
+    * Purchasing 1 or 2 during a single transaction gives you a 20% discount, where each BTC Bull will cost 320 TRT.&#x20;
+    * The value is added when purchasing 3, 5, 7, or 9 BTC Bulls in a single transaction because we mint more BTC Bulls to your wallet as a Bonus.&#x20;
+      * Minting 3 BTC Bulls would cost 1200 TRT; however, you would receive 4 BTC Bulls, and the price would average out to be 300 each.&#x20;
+      * Minting 9 BTC Bulls would cost 3600 TRT; however, you would receive 13 BTC Bulls, and the price would average out to be 276 each.&#x20;
 
 ## COST DISTRIBUTION WHEN BUYING WITH USDC:&#x20;
 
