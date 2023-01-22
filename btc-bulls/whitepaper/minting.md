@@ -46,7 +46,7 @@ Public Sale Base Price per NFT = $425
 * 2% goes to the Buddy of the address minting NFTs.
 * 1% goes to MARKETING.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>USDC MINT DISTRIBUTION</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (4).png" alt=""><figcaption><p>USDC MINT DISTRIBUTION</p></figcaption></figure>
 
 ## COST DISTRIBUTION WHEN BUYING WITH A CREDIT CARD
 
