@@ -8,11 +8,13 @@ The only way to increase the allowance of TRT a user is allowed to buy is to min
 
 #### _What is a presale allowance?_ &#x20;
 
-_This is the amount a user is allowed to buy during the presale TRT. They can't be any more than there allowance._&#x20;
+_This is the amount a user is allowed to buy during the presale TRT. They can't be any more than their allowance._&#x20;
 
 
 
 Everyone in the project has to navigate the TRT gathering quest. In the following rudimentary example, we will walk through a user minting during the first presale, which is capped at 250 BTC Bulls Minted.&#x20;
+
+## Presale 1 (phase 1) starts, allowing 250 BTC Bulls to be minted.
 
 Alice starts with 10,000 USDC and a 1000 TRT presale allowance. She buys 1000 TRT for 1000 USDC.&#x20;
 
