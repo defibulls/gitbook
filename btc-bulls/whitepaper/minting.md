@@ -25,7 +25,7 @@ The BTC Bulls will be sold in four phases; Presale 1, Presale 2, Presale 3, and 
       * Minting 3 BTC Bulls would cost 1200 TRT; however, you would receive 4 BTC Bulls, and the price would average out to be 300 each.&#x20;
       * Minting 9 BTC Bulls would cost 3600 TRT; however, you would receive 13 BTC Bulls, and the price would average out to be 276 each.&#x20;
 
-## COST DISTRIBUTION WHEN BUYING WITH USDC:&#x20;
+## COST DISTRIBUTION WHEN BUYING WITH TRT:&#x20;
 
 * 80% of the transaction goes to the BTC MINERS SAFE to purchase miners at the hosting facility.&#x20;
 * 11% is sent to the War Chest, the multi-sig wallet serving as our war chest for the BTC Bulls. This money is kept in reserve if/when unseen costs arise for the project.&#x20;
