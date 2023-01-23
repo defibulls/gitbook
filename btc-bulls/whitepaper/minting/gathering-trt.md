@@ -8,7 +8,7 @@ The only way to increase the allowance of TRT a user is allowed to buy is to min
 
 #### _What is a presale allowance?_ &#x20;
 
-_This is the amount a user is allowed to buy during the presale TRT. They can't be any more than their allowance._&#x20;
+_This is the amount a user is allowed to buy during the presale of TRT before we open it up to everyone to buy. They can't be any more than their allowance._&#x20;
 
 
 
