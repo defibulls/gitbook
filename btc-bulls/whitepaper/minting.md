@@ -11,7 +11,7 @@ The BTC Bulls will be sold in four phases; Presale 1, Presale 2, Presale 3, and 
 
 
 
-## MINT COST:   \*\*\*\* 150 TRT \*\*\*\* (image being updated)
+## MINT COST:  150 $TRT Tokens
 
 <figure><img src="../../.gitbook/assets/designneded-05 (1).jpg" alt=""><figcaption></figcaption></figure>
 
