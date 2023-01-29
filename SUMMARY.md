@@ -24,7 +24,7 @@
     * [Masquerading TRT](btc-bulls/whitepaper/trt/masquerading-trt.md)
     * [Fee Mechanics and Revenue Allocations](btc-bulls/whitepaper/trt/fee-mechanics-and-revenue-allocations.md)
   * [MINTING](btc-bulls/whitepaper/minting.md)
-    * [GATHERING TRT](btc-bulls/whitepaper/minting/gathering-trt.md)
+    * [GATHERING $TRT FOR MINTING](btc-bulls/whitepaper/minting/gathering-usdtrt-for-minting.md)
   * [BUDDY SYSTEM](btc-bulls/whitepaper/buddy-system.md)
   * [RARITY](btc-bulls/whitepaper/rarity.md)
   * [PAYOUT](btc-bulls/whitepaper/payout.md)
