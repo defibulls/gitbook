@@ -12,7 +12,7 @@ _This is the amount of TRT Tokens a user is allowed to buy during the presale of
 
 
 
-<mark style="background-color:purple;">Everyone has to navigate the $TRT gathering quest.</mark> In the following rudimentary example, we will walk through a user, Alice, minting during the first presale phase, which is capped at 250 TR Bulls to be minted during this phase.&#x20;
+<mark style="background-color:purple;">Everyone has to navigate the $TRT gathering quest.</mark> In the following rudimentary example, we will walk through a user, Alice, minting during the first presale phase, which is capped at 250 TR Bulls to be minted during this phase. Note that this example doesn't consider the Buying Fees associated with $TRT and assumes Alice is not whitelisted.&#x20;
 
 ## Presale 1 (phase 1) starts, allowing 250 TR Bulls to be minted.
 
