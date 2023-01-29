@@ -2,7 +2,7 @@
 
 The price of $TRT is simply the $USDC value of the backing treasury divided by the circulating supply. An easy way to understand how the price can go up both on sells, buys, and transfers are to think of the treasury as always having a net positive gain on each transaction. For a sell transaction, more tokens are burned than paid out for a net gain on treasury vs. supply.  For a buy, more $TRT is allocated to the treasury than tokens minted to circulation for a net gain.  The net gain comes from the fees adding more to the backing treasury than the amount minted/paid out.&#x20;
 
-Here is a rudimentary example of how buying and selling effects the price of $TRT.&#x20;
+Here a rudimentary examples of how buying and selling effects the price of $TRT.&#x20;
 
 <figure><img src="../../../../.gitbook/assets/project files-03-3.jpg" alt=""><figcaption></figcaption></figure>
 

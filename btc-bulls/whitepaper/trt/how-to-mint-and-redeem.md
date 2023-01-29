@@ -2,7 +2,7 @@
 
 ### **How to Mint** <a href="#how-to-mint" id="how-to-mint"></a>
 
-1. Through the dApp, navigate to the TRT BUY section
+1. Through the dApp, navigate to the TRT BUY section (Coming Soon)
 2. Approve the contract to allow $USDC
 3. The price of $TRT will be displayed on the dApp
 4. &#x20;Fill in the amount of $USDC or $TRT tokens making sure you have enough $USDC available for purchase.
