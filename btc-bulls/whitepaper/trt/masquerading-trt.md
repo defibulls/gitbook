@@ -14,7 +14,7 @@ It's important to know where the project's founder comes from, the value of his 
 
 Disc Golf is a game that's growing more popular year by year. I played and devoted my early adult life to this game as I toured around the world, playing tournament after tournament with one end goal, to be a World Champion!
 
-The value the DDDGT token brings to Disc Golf, and the value I bring as the ambassador of this Token is critical. I know thousands upon thousands of players, hundreds upon hundreds of tournament directors, and key decision-makers in all game phases.
+The value the TRT token brings to Disc Golf and the value I bring as the ambassador of this Token is critical. I know thousands upon thousands of players, hundreds upon hundreds of tournament directors, and key decision-makers in all game phases.
 
 <figure><img src="../../../.gitbook/assets/14468583_10208614424052226_5717506641693944582_o.jpg" alt=""><figcaption></figcaption></figure>
 
