@@ -10,26 +10,26 @@ The only way to increase the presale allowance of $TRT a user can buy is to mint
 
 _This is the amount of $TRT Tokens a user can buy during the presale of $TRT before we open it up to everyone to buy and start using it for all the other parts of the project. No one can buy any more than their presale allowance._&#x20;
 
-<mark style="background-color:purple;">Everyone has to navigate the $TRT gathering quest.</mark> In the following rudimentary example, we will walk through a user, Alice, minting during the first presale phase, which is capped at 250 TR Bulls to be minted during this phase. Note that this example doesn't consider the Buying Fees associated with $TRT and assumes Alice is not whitelisted.&#x20;
+<mark style="background-color:purple;">Everyone has to navigate the $TRT gathering quest.</mark> In the following rudimentary example, we will walk through a user, Alice, minting during the first presale phase, which is capped at 250 TR Bulls to be minted during this phase. Note that this example doesn't consider the buying fees associated with $TRT and assumes Alice is not whitelisted.&#x20;
 
 ## Presale 1 (phase 1) starts, allowing 250 TR Bulls to be minted.
 
-Alice starts with 5,000 USDC and a 750 $TRT presale allowance. She buys 750 $TRT in exchange for 750 USDC.&#x20;
+Alice starts with 5,000 USDC in her wallet and a 750 $TRT presale allowance. She buys 750 $TRT in exchange for 750 USDC from our Dapp.&#x20;
 
-* Her new total is 4,250 USDC
+* 4,250 USDC, the amount currently in her wallet.
 * 750 $TRT in her wallet
 * A $TRT presale allowance is reduced to 0.&#x20;
 
 Alice mints the most TR Bulls she can with her $TRT holding. Each TR Bull costs 150 $TRT, so she can mint a maximum of five TR Bulls costing 750 $TRT (5 \* 150 == 750).&#x20;
 
-* Her new total is 4,250 USDC
+* 4,250 USDC, the amount currently in her wallet.
 * 0 $TRT in her wallet
 * 5 TR Bull NFTs
 * A $TRT presale allowance of 2,250 (3x minting transaction cost).&#x20;
 
 Alice doesn't have enough $TRT to buy another TR Bull NFT. She purchases her new max $TRT presale allowance of 2,250 $TRT tokens.&#x20;
 
-* Her new total is 2,000 USDC
+* Her new wallet total is 2,000 USDC
 * 2,250 $TRT in her wallet
 * 5 TR Bulls NFTs
 * A $TRT presale allowance of 0.&#x20;
