@@ -1,4 +1,4 @@
-# GATHERING TRT
+# GATHERING $TRT FOR MINTING
 
 Minting the OG's of the project, The TR Bulls are also starting the ecosystem in general to include the presale of the native token we are building, $TRT. Once we start minting TR Bulls on March 30 @ 7 PM, this also kicks off the presale of the $TRT Token.&#x20;
 
