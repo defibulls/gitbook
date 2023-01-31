@@ -13,7 +13,7 @@ The BTC Bulls will be sold in four phases; Presale 1, Presale 2, Presale 3, and 
 
 ## MINT COST:  150 $TRT Tokens
 
-<figure><img src="../../.gitbook/assets/designneded-05 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3rddddddd-01 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 #### All TR Bulls will be purchased with $TRT. The amount of $TRT needed to mint a TR Bull will not change during the presales and public sales. However, the cost to obtain the needed $TRT will change due to the token appreciation mechanics of $TRT itself.&#x20;
 
