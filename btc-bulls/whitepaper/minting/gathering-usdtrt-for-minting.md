@@ -1,10 +1,10 @@
 # GATHERING $TRT FOR MINTING
 
-Minting the OG's of the project, The TR Bulls are also starting the ecosystem in general to include the presale of the native token we are building, $TRT. Once we start minting TR Bulls on March 30 @ 7 PM, this also kicks off the presale of the $TRT Token.&#x20;
+Minting the TR Bulls of the project, the OG Bulls on our land, is starting the ecosystem to include the presale of the native token we are building, $TRT. Once we start minting TR Bulls on March 30 @ 7 PM, this also kicks off the presale of the $TRT Token.&#x20;
 
-Right off the bat, everyone is allotted a $TRT presale allowance of 750 $TRT Tokens. To Mint TR Bulls, you must obtain $TRT first, as that is the ERC20 token used to mint.&#x20;
+Right off the bat, everyone is allotted a $TRT presale allowance of 750 $TRT Tokens. To Mint TR Bulls, you must obtain $TRT first, as that is the ERC20 token used to mint the TR Bulls on our Dapp.&#x20;
 
-The only way to increase the allowance of $TRT a user is allowed to buy is to mint TR Bulls. After every minting transaction, the presale allowance of $TRT is increased for the user based solely on the minting transaction cost. To be exact, the $TRT presale allowance is increased by 3x the minting transaction cost. &#x20;
+The only way to increase the presale allowance of $TRT a user can buy is to mint TR Bulls. After every minting transaction, the presale allowance of $TRT is increased for the user based solely on the minting transaction cost. To be exact, the $TRT presale allowance is increased by 3x to the minting transaction cost. &#x20;
 
 #### _What is a presale allowance?_ &#x20;
 
