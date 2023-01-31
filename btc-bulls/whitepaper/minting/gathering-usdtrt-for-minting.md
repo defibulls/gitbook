@@ -8,9 +8,7 @@ The only way to increase the presale allowance of $TRT a user can buy is to mint
 
 #### _What is a presale allowance?_ &#x20;
 
-_This is the amount of TRT Tokens a user is allowed to buy during the presale of TRT before we open it up to everyone to buy. No one can buy any more than their allowance._&#x20;
-
-
+_This is the amount of $TRT Tokens a user can buy during the presale of $TRT before we open it up to everyone to buy and start using it for all the other parts of the project. No one can buy any more than their presale allowance._&#x20;
 
 <mark style="background-color:purple;">Everyone has to navigate the $TRT gathering quest.</mark> In the following rudimentary example, we will walk through a user, Alice, minting during the first presale phase, which is capped at 250 TR Bulls to be minted during this phase. Note that this example doesn't consider the Buying Fees associated with $TRT and assumes Alice is not whitelisted.&#x20;
 
