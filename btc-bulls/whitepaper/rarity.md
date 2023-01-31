@@ -26,13 +26,13 @@
 
 ## TOP NETWORKERS
 
-The networker count is the number of people that use your wallet address as their Buddy **AND** mint a BTC Bull. The networker count only increases for your wallet when another person sets your address as their buddy and then mints from the contract. Doing so in reverse order will not register correctly on the contract and thus won't increase your networker count.&#x20;
+The networker count is the number of people that use your wallet address as their Buddy **AND** mint a TR Bull. The networker count only increases for your wallet when another person sets your address as their buddy and then mints from the contract. Doing so in reverse order will not register correctly on the contract and thus won't increase your networker count.&#x20;
 
-* The person who refers the most addresses that mint from the project will be the top networker and airdropped a BTC Bull with a Frog.
-* The person who refers the second most addresses that mint from the project will be the second place networker and airdropped a BTC Bull with a Turtle.
+* The person who refers the most addresses that mint from the project will be the top networker and airdropped a TR Bull with a Frog.
+* The person who refers the second most addresses that mint from the project will be the second place networker and airdropped a TR Bull with a Turtle.
 
 
 
 ## Rarity Payout:
 
-All rarity airdrop payments will be made in the form of TRT. See the [TRT ](trt/)section on why this is a better idea than paying out in USDC.
+All rarity airdrop payments will be made in the form of $TRT. See the $[TRT ](../../tr-bulls/whitepaper/usdtrt/)section on why this is a better idea than paying out in USDC.

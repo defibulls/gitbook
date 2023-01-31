@@ -1,20 +1,20 @@
-# Masquerading TRT
+# Masquerading $TRT
 
 <figure><img src="../../../.gitbook/assets/7.jpg" alt=""><figcaption></figcaption></figure>
 
 
 
-One of the biggest parts of making TRT, TRUST RESERVOIR TOKEN, was more than just having it be our native token. We have been working to bring this token into niche communities to bring them value and introduce them to the good side of web3 and crypto in general. We will be a force of good to better the name of crypto, bring transparency to it, and build Trust all along the way. By "Masquerading" the TRT token, we will make other tokens that appeal to that given community to drive adoption.  On the backend of websites built for future Disc Golf Tournaments, all contract calls will be made to the TRT token contract itself. Thus benefiting holders of the TRT token even if you don't have anything to do with Disc Golf. &#x20;
+One of the biggest parts of making $TRT, TRUST RESERVOIR TOKEN, was more than just having it be our native token. We have been working to bring this token into niche communities to bring them value and introduce them to the good side of web3 and crypto in general. We will be a force of good to better the name of crypto, bring transparency to it, and build Trust all along the way. By "Masquerading" the TRT token, we will make other tokens that appeal to that given community to drive adoption.  For example, on the backend of websites built for future Disc Golf Tournaments, all contract calls will be made to the $TRT token contract itself. Thus benefiting holders of the $TRT token even if you don't have anything to do with Disc Golf. &#x20;
 
 
 
 ## Why Disc Golf?
 
-It's important to know where the project's founder comes from, the value of his connection to the game, and this approach to make TRT a key part of Disc Golf moving forward.&#x20;
+It's important to know where the project's founder comes from, the value of his connection to the game, and this approach to make $TRT a key part of Disc Golf moving forward.&#x20;
 
 Disc Golf is a game that's growing more popular year by year. I played and devoted my early adult life to this game as I toured around the world, playing tournament after tournament with one end goal, to be a World Champion!
 
-The value the TRT token brings to Disc Golf and the value I bring as the ambassador of this Token is critical. I know thousands upon thousands of players, hundreds upon hundreds of tournament directors, and key decision-makers in all game phases.
+The value the $TRT token brings to Disc Golf and the value I bring as the ambassador of this Token is critical. I know thousands upon thousands of players, hundreds upon hundreds of tournament directors, and key decision-makers in all game phases.
 
 <figure><img src="../../../.gitbook/assets/14468583_10208614424052226_5717506641693944582_o.jpg" alt=""><figcaption></figcaption></figure>
 
