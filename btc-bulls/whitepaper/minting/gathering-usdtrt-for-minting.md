@@ -58,8 +58,9 @@ Alice purchases the max amount of $TRT she can with the amount of USDC she has l
 
 Alice now mints as many TR Bull NFTs as she can, which is the max anyone can mint in a single transaction, 9 TR Bulls for 1350 $TRT. Having 650 $TRT left, she mints three more TR Bulls for 450 $TRT.&#x20;
 
-* 0 USDC, the amount currently in her wallet.
-* 200 $TRT in her wallet
+* Personal Wallet Total:&#x20;
+  * 0 USDC
+  * 200 $TRT in her wallet
 * 33 TR Bull NFTs (5+ 9 + 7 + 9 + 3)&#x20;
 * $TRT presale allowance of 10,600
   * 5200 remaining before the last minting transaction
