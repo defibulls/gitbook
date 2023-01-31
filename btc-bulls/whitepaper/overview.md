@@ -5,9 +5,9 @@ coverY: 0
 
 # OVERVIEW
 
-## 10,000 FT VIEW OF 5K BTC Bulls
+## 10,000 FT VIEW OF 5K TR Bulls
 
-The BTC Bulls are built around Bitcoin Mining. This project is a club and a MAAS (mining-as-a-service) hybrid model. The heart of the ecosystem is buying BTC Bulls as a way of buying into a fractionalized BTC mining cluster and sharing mining rewards.&#x20;
+The TR Bulls are built around Bitcoin Mining. This project is a club and a MAAS (mining-as-a-service) hybrid model. The heart of the ecosystem is buying TR Bulls as a way of buying into a fractionalized BTC mining cluster and sharing mining rewards.&#x20;
 
 A project built with:
 
@@ -15,7 +15,7 @@ A project built with:
 * Real Yield
 * Real Rewards
 
-There is strength in numbers, and the BTC Bulls will put this on full display as a community.&#x20;
+There is strength in numbers, and the TR Bulls will put this on full display as a community.&#x20;
 
 ## WHY START THE PROJECT?
 
