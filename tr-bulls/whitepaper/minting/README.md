@@ -13,7 +13,7 @@ The BTC Bulls will be sold in four phases; Presale 1, Presale 2, Presale 3, and 
 
 ## MINT COST:  150 $TRT Tokens
 
-<figure><img src="../../.gitbook/assets/3rddddddd-01 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/3rddddddd-01 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 #### All TR Bulls will be purchased with $TRT. The amount of $TRT needed to mint a TR Bull will not change during the presales and public sales. However, the cost to obtain the needed $TRT will change due to the token appreciation mechanics of $TRT itself.&#x20;
 
@@ -34,7 +34,7 @@ The BTC Bulls will be sold in four phases; Presale 1, Presale 2, Presale 3, and 
 * 2% goes to the Buddy of the address minting NFTs.
 * 1% goes to MARKETING.
 
-<figure><img src="../../.gitbook/assets/image (1) (4).png" alt=""><figcaption><p>USDC MINT DISTRIBUTION</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (4).png" alt=""><figcaption><p>USDC MINT DISTRIBUTION</p></figcaption></figure>
 
 ## COST DISTRIBUTION WHEN BUYING WITH A CREDIT CARD
 
@@ -47,4 +47,4 @@ The smart contract itself can support purchasing with credit cards via paper.xyz
 
 _When using a credit card to purchase TR Bulls, the buddy system reward is bypassed and will not be counted as the paper.xyz will allow you to mint with a paper wallet and then transfer to a wallet of your choice._&#x20;
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption><p>CREDIT CARD MINT DISTRIBUTION</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption><p>CREDIT CARD MINT DISTRIBUTION</p></figcaption></figure>
