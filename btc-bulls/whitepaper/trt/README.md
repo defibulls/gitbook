@@ -2,7 +2,7 @@
 description: Our Native Token
 ---
 
-# TRT
+# $TRT
 
 ### What is TRT?
 

@@ -1,3 +1,0 @@
-# HOSTING
-
-coming soon!

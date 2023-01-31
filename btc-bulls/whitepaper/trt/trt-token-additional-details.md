@@ -1,4 +1,4 @@
-# TRT Token - Additional Details
+# $TRT Token - Additional Details
 
 The TRT token is 100% Backed and will always have a backing. There are no algorithmic or inflationary mechanisms, as every token in circulation must be bought (minted).
 
