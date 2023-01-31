@@ -6,7 +6,7 @@
 
 **Transparency:** Each wallet address for the project will be publicly identified for The Ranch community to monitor.
 
-* **BTC Bulls:**
+* **TR Bulls:**
   * CONTRACT OWNER:
   * BTC MINERS SAFE:&#x20;
   * WAR CHEST SAFE:
