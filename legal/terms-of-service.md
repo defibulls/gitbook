@@ -1,7 +1,7 @@
 # TERMS OF SERVICE
 
 \
-**Last updated: DEC 15, 2022**
+**Last updated: FEB 2, 2022**
 
 \
 **1. Eligibility and Acceptance**\
@@ -15,10 +15,6 @@ We may revise and update these Terms of Service from time to time in our sole di
 \
 **3. Accessing the Services; Account Registration and Security**\
 We reserve the right to introduce, withdraw or amend websites, or any content, material, product offering or other Services, in our sole discretion without notice. We make no guarantee that the Services will be available at any time, and we will not be liable if for any reason all or any part of the Services is unavailable at any time or for any period. From time to time, we may restrict access to some parts of the Services, or the entire Services, to users, including registered users. You are responsible for making all arrangements necessary for You to have access to the Services. To access the Services or some of BTC Bulls or BTC Bears Purchaser-only resources, You may be asked to provide certain registration details or other information. It is a condition of Your use of the Services that all the information You provide to access the Services is correct, current, and complete. You agree that all information You provide to register for these Services or otherwise, including, but not limited to, through the use of any Purchaser-only features, is governed by our Privacy Policy, and You consent to all actions we take with respect to Your information consistent with our Privacy Policy. If You choose, or are provided with, a user name, password, or any other piece of information as part of our security procedures, You must treat such information as confidential, and You must not disclose it to any other person or entity. You also acknowledge that Your account is personal to You and agree not to provide any other person with access to the Services or portions of them using Your user name, password, or other security information — not even to another person associated with Your business. You agree to notify us immediately of any unauthorized access to or use of Your user name or password or any other breach of security. If You are using a public or shared computer, You also agree to ensure that You exit from Your account at the end of each session. You should use particular caution when accessing Your account from a public or shared computer so that others are not able to view or record Your password or other personal information. We have the right to disable any user name, password, or other identifier, whether chosen by You or provided by us, at any time if, in our opinion, You have violated any provision of these Terms of Service.
-
-**3.1 Service Fees and Payments:**
-
-The TR rewards distribution when depositing BTC mining awards into the TRBC Smart Contract allocates 10% of all funds deposited to go directly to The Ranch Core Team for the Service Fee. This percentage is collected and distributed directly to costs associated with operating and maintaining the project. This includes but is not limited to: Continued purchases of physical equipment and computer hardware to run/support various assets Power and internet costs for computer-related hardware, Continued purchases of cryptocurrency hardware wallets and steel cyphers for each individual asset Team member compensation for operating and maintaining the TR Discord, website, DAPP, treasury, community voting system, and other project support functions.
 
 \
 **4. Intellectual Property Rights**\
