@@ -16,11 +16,12 @@ A Buddy must be in an 'active' state to receive the benefit. Active means the Bu
 
 #### How do I add the person who referred me to the project as my Buddy?&#x20;
 
-When you enter the TR Bulls, the buddy address for that community can be changed using the 'hamburger' icon in the top right. An all-zero address indicates a Buddy is not set yet on the account overview. Once a Buddy is set, it will update the address on the account overview.&#x20;
+There are two options for this:
 
-* This is a contract call, so you must confirm the transaction through Metamask.
+* Your buddy can set it during your first minting transaction on the mint page.
+* Secondly, you can enter the buddy address using the 'hamburger' icon in the top right. An all-zero address indicates a Buddy is not set yet on the account overview. Once a Buddy is set, it will update the address on the account overview.
 
-<figure><img src="../../.gitbook/assets/image (9) (3).png" alt=""><figcaption></figcaption></figure>
+
 
 
 
