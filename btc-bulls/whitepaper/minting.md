@@ -7,7 +7,7 @@ The BTC Bulls will be sold in four phases; Presale 1, Presale 2, Presale 3, and 
 | Presale 1   | 250             |
 | Presale 2   | 400             |
 | Presale 3   | 550             |
-| Public Sale | 3800            |
+| Public Sale | 3700            |
 
 
 
