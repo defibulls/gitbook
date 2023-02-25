@@ -14,23 +14,53 @@ During each phase, minting transactions must mint 1,2,3,5,7 or 9 TR Bulls.&#x20;
 | Presale 1   | 250             |
 | Presale 2   | 400             |
 | Presale 3   | 550             |
-| Public Sale | 3700            |
+| Public Sale | 3800            |
 
 
 
-## MINT COST:  150 $TRT Tokens
+## MINT COST:  Phase dependant varying from $150 to $180
 
-<figure><img src="../../.gitbook/assets/3rddddddd-01 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/presale1.jpg" alt=""><figcaption></figcaption></figure>
 
-#### All TR Bulls will be purchased with $TRT. The amount of $TRT needed to mint a TR Bull will not change during the presales and public sales. However, the cost to obtain the needed $TRT will change due to the token appreciation mechanics of $TRT itself.&#x20;
+<figure><img src="../../.gitbook/assets/presale2.jpg" alt=""><figcaption></figcaption></figure>
 
-* Without being whitelisted, each TR Bull will cost 150 $TRT.&#x20;
-* To be whitelisted, follow Discord and Twitter announcements.&#x20;
-  * When whitelisted, the overall cost of TR Bull NFTs does change for two reasons.  &#x20;
-    * Purchasing 1 or 2 during a single transaction gives you a 20% discount, where each TR Bull will cost 120 $TRT.&#x20;
-    * The Bonus NFTs get added when purchasing 3, 5, 7, or 9 TR Bulls in a single transaction because we mint more TR Bulls to your wallet as a Bonus.&#x20;
-      * Minting 3 TR Bulls would cost 450 $TRT; however, you would receive 4 TR Bulls, and the price for each TR Bull averages out to be 112 $TRT.&#x20;
-      * Minting 9 TR Bulls would cost 1350 $TRT; however, you would receive 13 TR Bulls, and the price for each TR Bull averages out to be 103 $TRT. &#x20;
+<figure><img src="../../.gitbook/assets/presale3 (1).jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/publicSale (1).jpg" alt=""><figcaption></figcaption></figure>
+
+
+
+## Whitelisted:
+
+* When whitelisted, the user gets discounts when minting for the duration of the minting process. I.e., whitelisted in presale 1 carries over and whitelist eligibility remains in presale 2 and beyond. &#x20;
+* To be whitelisted, Trivia events and other Discord and Twitter competitions. &#x20;
+* When whitelisted, the bonus is as follows:&#x20;
+  * Purchasing 1 or 2 TR Bulls during a single transaction gives you a 20% discount on the base price for the phase.&#x20;
+  * Purchasing 3, 5, 7, or 9 TR Bulls in a single transaction automatically sends more TR Bulls to your minting wallet as a Bonus.&#x20;
+  *   Purchasing transaction examples during Presale 1 when whitelisted:
+
+      * Minting 1 TR Bull.&#x20;
+        * The cost is $120 in USDC.&#x20;
+        * The user receives 1 TR Bull NFT.
+      * Minting 2 TR Bulls.
+        * The cost is $240 in USDC.
+        * &#x20;The user receives 2 TR Bull NFTs.
+      * Minting 3 TR Bulls.
+        * The cost is $450 in USDC.
+        * &#x20;The user receives 4 TR Bull NFTs.
+      * Minting 5 TR Bulls.
+        * The cost is $750 in USDC.
+        * &#x20;The user receives 7 TR Bull NFTs.
+      * Minting 7 TR Bulls.
+        * The cost is $1050 in USDC.
+        * &#x20;The user receives 10 TR Bull NFTs.
+      * Minting 9 TR Bulls.
+        * The cost is $1350 in USDC.
+        * &#x20;The user receives 13 TR Bull NFTs.
+
+
+* Minting 3 TR Bulls would cost 450 $TRT; however, you would receive 4 TR Bulls, and the price for each TR Bull averages out to be 112 $TRT.&#x20;
+* Minting 9 TR Bulls would cost 1350 $TRT; however, you would receive 13 TR Bulls, and the price for each TR Bull averages out to be 103 $TRT. &#x20;
 
 ## COST DISTRIBUTION WHEN BUYING WITH TRT:&#x20;
 
