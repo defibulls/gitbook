@@ -6,9 +6,9 @@
 
 <figure><img src="../../../.gitbook/assets/presale2.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/presale3.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/presale3 (1).jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/publicSale (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/publicSale (2).jpg" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -38,3 +38,6 @@
     * **Minting 9 TR Bulls.**
       * The cost is $1350 in USDC.
       * &#x20;The user receives 13 TR Bull NFTs.
+
+
+
