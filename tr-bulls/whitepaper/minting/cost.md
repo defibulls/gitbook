@@ -6,9 +6,9 @@
 
 <figure><img src="../../../.gitbook/assets/presale2.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/presale3 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/presale3.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/publicSale (2).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/publicSale.jpg" alt=""><figcaption></figcaption></figure>
 
 
 
