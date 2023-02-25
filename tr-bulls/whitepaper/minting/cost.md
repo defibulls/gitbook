@@ -1,22 +1,4 @@
-# Cost
-
-The TR Bulls will be sold in four phases;&#x20;
-
-* Presale 1
-* Presale 2
-* Presale 3
-* Public Sale.&#x20;
-
-During each phase, minting transactions must mint 1,2,3,5,7 or 9 TR Bulls.&#x20;
-
-| Phase       | NFTs Available  |
-| ----------- | --------------- |
-| Presale 1   | 250             |
-| Presale 2   | 400             |
-| Presale 3   | 550             |
-| Public Sale | 3800            |
-
-
+# COST
 
 ## MINT COST:  Phase dependant varying from $150 to $180
 
@@ -24,7 +6,7 @@ During each phase, minting transactions must mint 1,2,3,5,7 or 9 TR Bulls.&#x20;
 
 <figure><img src="../../../.gitbook/assets/presale2.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/presale3 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/presale3.jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/publicSale (1).jpg" alt=""><figcaption></figcaption></figure>
 
