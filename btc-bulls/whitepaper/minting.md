@@ -26,7 +26,7 @@ During each phase, minting transactions must mint 1,2,3,5,7 or 9 TR Bulls.&#x20;
 
 <figure><img src="../../.gitbook/assets/presale3 (1).jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/publicSale (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/publicSale (2).jpg" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -39,22 +39,22 @@ During each phase, minting transactions must mint 1,2,3,5,7 or 9 TR Bulls.&#x20;
   * Purchasing 3, 5, 7, or 9 TR Bulls in a single transaction automatically sends more TR Bulls to your minting wallet as a Bonus.&#x20;
   *   Purchasing transaction examples during Presale 1 when whitelisted:
 
-      * Minting 1 TR Bull.&#x20;
+      * **Minting 1 TR Bull.**&#x20;
         * The cost is $120 in USDC.&#x20;
         * The user receives 1 TR Bull NFT.
-      * Minting 2 TR Bulls.
+      * **Minting 2 TR Bulls.**
         * The cost is $240 in USDC.
         * &#x20;The user receives 2 TR Bull NFTs.
-      * Minting 3 TR Bulls.
+      * **Minting 3 TR Bulls.**
         * The cost is $450 in USDC.
         * &#x20;The user receives 4 TR Bull NFTs.
-      * Minting 5 TR Bulls.
+      * **Minting 5 TR Bulls.**
         * The cost is $750 in USDC.
         * &#x20;The user receives 7 TR Bull NFTs.
-      * Minting 7 TR Bulls.
+      * **Minting 7 TR Bulls.**
         * The cost is $1050 in USDC.
         * &#x20;The user receives 10 TR Bull NFTs.
-      * Minting 9 TR Bulls.
+      * **Minting 9 TR Bulls.**
         * The cost is $1350 in USDC.
         * &#x20;The user receives 13 TR Bull NFTs.
 
