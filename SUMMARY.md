@@ -16,6 +16,7 @@
   * [COLLECTION](btc-bulls/whitepaper/collection.md)
   * [MINTING](btc-bulls/whitepaper/minting.md)
     * [GATHERING $TRT FOR MINTING](btc-bulls/whitepaper/minting/gathering-usdtrt-for-minting.md)
+    * [Cost](tr-bulls/whitepaper/minting/cost.md)
   * [BUDDY SYSTEM](btc-bulls/whitepaper/buddy-system.md)
   * [RARITY](btc-bulls/whitepaper/rarity.md)
   * [PAYOUT](btc-bulls/whitepaper/payout.md)

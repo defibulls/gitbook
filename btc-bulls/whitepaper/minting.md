@@ -26,7 +26,7 @@ During each phase, minting transactions must mint 1,2,3,5,7 or 9 TR Bulls.&#x20;
 
 <figure><img src="../../.gitbook/assets/presale3 (1).jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/publicSale (2).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/publicSale (1).jpg" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -58,11 +58,9 @@ During each phase, minting transactions must mint 1,2,3,5,7 or 9 TR Bulls.&#x20;
         * The cost is $1350 in USDC.
         * &#x20;The user receives 13 TR Bull NFTs.
 
+      &#x20;
 
-* Minting 3 TR Bulls would cost 450 $TRT; however, you would receive 4 TR Bulls, and the price for each TR Bull averages out to be 112 $TRT.&#x20;
-* Minting 9 TR Bulls would cost 1350 $TRT; however, you would receive 13 TR Bulls, and the price for each TR Bull averages out to be 103 $TRT. &#x20;
-
-## COST DISTRIBUTION WHEN BUYING WITH TRT:&#x20;
+## &#x20;USDC DISTRIBUTION WHEN MINTING TR BULLS.BUYING WITH TRT:&#x20;
 
 * 80% of the transaction goes to the BTC MINERS SAFE to purchase miners at the hosting facility.&#x20;
 * 11% is sent to the War Chest, the multi-sig wallet serving as our war chest for the BTC Bulls. This money is kept in reserve if/when unseen costs arise for the project.&#x20;
