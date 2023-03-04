@@ -18,7 +18,7 @@
     * [COST](tr-bulls/whitepaper/minting/cost.md)
     * [FUND DISTRIBUTION](tr-bulls/whitepaper/minting/fund-distribution.md)
   * [BUDDY SYSTEM](btc-bulls/whitepaper/buddy-system.md)
-  * [RARITY](btc-bulls/whitepaper/rarity.md)
+  * [MINTING BOUNTY](tr-bulls/whitepaper/minting-bounty.md)
   * [PAYOUT](btc-bulls/whitepaper/payout.md)
   * [EARLY SUPPORTER](btc-bulls/whitepaper/early-supporter.md)
   * [INSURANCE](btc-bulls/whitepaper/insurance.md)

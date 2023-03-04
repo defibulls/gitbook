@@ -1,8 +1,6 @@
-# RARITY
+# MINTING BOUNTY
 
-<figure><img src="../../.gitbook/assets/overviewcost (1).jpg" alt=""><figcaption></figcaption></figure>
-
-### During Presale 1:&#x20;
+### During Presale 1:
 
 * 1 Frog and 1 Turtle will be within the 250 allowable NFTS minted.&#x20;
 * The wallet address with the most mints during phase 1 will be airdropped with a TR Bull with a Turtle.&#x20;
