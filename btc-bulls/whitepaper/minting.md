@@ -16,6 +16,4 @@
 | Presale 3   | 550             |
 | Public Sale | 3800            |
 
-
-
-<figure><img src="../../.gitbook/assets/overviewcost.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>

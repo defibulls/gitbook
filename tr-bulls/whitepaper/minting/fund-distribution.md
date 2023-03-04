@@ -21,4 +21,4 @@ The smart contract itself can support purchasing with credit cards via paper.xyz
 
 _When using a credit card to purchase TR Bulls, the buddy system reward is bypassed and will not be counted as the paper.xyz will allow you to mint with a paper wallet and then transfer to a wallet of your choice._&#x20;
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
