@@ -1,6 +1,6 @@
 # COST
 
-#### MINT COST FOR NORMAL TR BULLS:  Phase dependant varying from $150 to $180
+## Normal TR Bulls:
 
 <figure><img src="../../../.gitbook/assets/presale1.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -10,11 +10,9 @@
 
 <figure><img src="../../../.gitbook/assets/publicSale.jpg" alt=""><figcaption></figcaption></figure>
 
+## Whitelist Explanation::
 
-
-## Whitelisted:
-
-* When whitelisted, the user gets discounts when minting for the duration of the minting process. I.e., whitelisted in presale 1 carries over and whitelist eligibility remains in presale 2 and beyond. &#x20;
+* When whitelisted, the user gets discounts when minting for the duration of the minting process. I.e., whitelisted in presale 1 carries over, and whitelist eligibility remains in presale 2 and beyond. &#x20;
 * To be whitelisted, Trivia events and other Discord and Twitter competitions. &#x20;
 * When whitelisted, the bonus is as follows:&#x20;
   * Purchasing 1 or 2 TR Bulls during a single transaction gives you a 20% discount on the base price for the phase.&#x20;
