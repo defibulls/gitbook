@@ -19,7 +19,7 @@
     * [MINTING BOUNTY](tr-bulls/whitepaper/minting/minting-bounty.md)
     * [MINTING COST DISTRIBUTION](tr-bulls/whitepaper/minting/minting-cost-distribution.md)
   * [WEIGHTS](tr-bulls/whitepaper/weights/README.md)
-    * [REWARDS](tr-bulls/whitepaper/weights/rewards.md)
+    * [REWARDS](tr-bulls/whitepaper/rewards.md)
   * [BUDDY SYSTEM](btc-bulls/whitepaper/buddy-system.md)
   * [EARLY SUPPORTER](btc-bulls/whitepaper/early-supporter.md)
   * [ROYALTIES](btc-bulls/whitepaper/royalties.md)

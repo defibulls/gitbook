@@ -1,12 +1,12 @@
 # REWARDS
 
-![](<../../../.gitbook/assets/Compounding Illustration.svg>)&#x20;
+![](<../../.gitbook/assets/Compounding Illustration.svg>)&#x20;
 
 
 
 ## INVESTMENT REWARDS
 
-Rewards are not paid as dividends, meaning you do not get rewards for holding a TR Bull in your wallet. All rewards are given to those TR Bull owners who collaborate and help the community make decisions.&#x20;
+Rewards are not paid as dividends, meaning you do not get rewards for holding a TR Bull in your wallet. All rewards are given to those TR Bull owners who are contributors that help the community make decisions.&#x20;
 
 #### What makes me eligible for rewards?&#x20;
 
