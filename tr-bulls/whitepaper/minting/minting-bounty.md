@@ -2,6 +2,11 @@
 
 <figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
+#### Minting Bounty Awards are for the TR Bulls with Turtle and Frogs.&#x20;
+
+* TR Bulls with a Frog will each receive a $1000 airdrop a carry equal weight to Silver TR Bull.&#x20;
+* TR Bulls with a Turtle will each receive a $750 airdrop a carry equal weight to Bronze TR Bull.&#x20;
+
 ### During Presale 1:
 
 * 1 Frog and 1 Turtle will be within the 250 allowable NFTS minted.&#x20;
