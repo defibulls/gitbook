@@ -1,6 +1,6 @@
 # COST
 
-## MINT COST:  Phase dependant varying from $150 to $180
+## MINT COST FOR NORMAL TR BULLS:  Phase dependant varying from $150 to $180
 
 <figure><img src="../../../.gitbook/assets/presale1.jpg" alt=""><figcaption></figcaption></figure>
 
