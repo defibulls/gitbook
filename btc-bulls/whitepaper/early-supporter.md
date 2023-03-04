@@ -6,6 +6,6 @@ The only way to obtain an early supporter rank (ES) is to be the original owner 
 
 #### Why does this matter?
 
-With the BTC Bulls,  owners that are 'ES' of the project will be allowed to participate in the royalty rewards program. As time marches on, fewer and fewer addresses who minted the BTC Bulls from the contract will remain. Thus the royalty rewards will become a more valuable opportunity over time.
+With the BTC Bulls,  owners that are 'ES' of the project will be allowed to participate in the royalty rewards program. As time marches on, fewer and fewer addresses who minted the TR Bulls from the contract will remain. Thus the royalty rewards will become a more valuable opportunity over time.
 
-As the team continues to build out the ecosystem within The Ranch itself and other projects, such as Digital Disc Golf using DDGT. The only people who will get a whitelist, presale, and giveaway opportunity are those who minted a BTC Bull and gained their ES status. &#x20;
+As the team continues to build out the ecosystem within The Ranch itself and other projects, such as Digital Disc Golf using DDGT. The people who get first dibs on whitelist, presale, and giveaway opportunities are those who minted a TR Bull and gained their ES status. &#x20;
