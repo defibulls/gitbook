@@ -28,7 +28,6 @@
 * Access to full discord channels
 * Exclusive opportunities (FUTURE)
 * Ongoing utility
-* Free NFT for every 10 NFTs owned (Soon to release Collection being added to The Ranch)
 
 ## MYTHICAL-BULL
 
@@ -37,6 +36,5 @@
 * Access to full discord channels
 * Exclusive opportunities (FUTURE)
 * Ongoing utility
-* Free NFT for every 10 NFTs owned (Soon to release Collection being added to The Ranch)
 * You are an invaluable part of this project, and future rewards are being carved out within the next project to release under our team. &#x20;
 
