@@ -1,5 +1,7 @@
 # MINTING BOUNTY
 
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 ### During Presale 1:
 
 * 1 Frog and 1 Turtle will be within the 250 allowable NFTS minted.&#x20;
