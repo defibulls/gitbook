@@ -20,15 +20,15 @@ Rewards are not paid as dividends, meaning you do not get rewards for holding a 
 For this simplistic example, let's assume we have minted 10 NFTS from 10 wallet addresses. To be eligible for rewards, each wallet address must stake a single NFT owned by that particular wallet to receive rewards, for this example will assume each person has an NFT staked.
 
 | Person |    Mint Count / Type   | Calculated Weight | % of Total Weight |  Reward |
-| ------ | :--------------------: | :---------------: | :---------------: | :-----: |
-| p1     |        1 TR Bull       |       18,000      |       1.24%       |  $12.41 |
-| p2     |       3 TR Bulls       |       54,000      |       3.72%       |  $37.23 |
-| p3     |    1 TR Bull w/ Frog   |      126,000      |       8.69%       |  $86.88 |
-| p4     |   1 TR Bull w/ Turtle  |       40,500      |       2.79%       |  $27.93 |
-| p5     | 1 Bronze Alpha TR Bull |       43,750      |       3.02%       |  $30.17 |
-| p6     | 1 Silver Alpha TR Bull |      150,000      |       10.34%      | $103.43 |
-| p7     |  1 Gold Alpha TR Bull  |     1,000,000     |       68.95%      | $689.54 |
-| p8     |        1 TR Bull       |       18,000      |       1.24%       |  $12.41 |
+| :----: | :--------------------: | :---------------: | :---------------: | :-----: |
+|   p1   |        1 TR Bull       |       18,000      |       1.24%       |  $12.41 |
+|   p2   |       3 TR Bulls       |       54,000      |       3.72%       |  $37.23 |
+|   p3   |    1 TR Bull w/ Frog   |      126,000      |       8.69%       |  $86.88 |
+|   p4   |   1 TR Bull w/ Turtle  |       40,500      |       2.79%       |  $27.93 |
+|   p5   | 1 Bronze Alpha TR Bull |       43,750      |       3.02%       |  $30.17 |
+|   p6   | 1 Silver Alpha TR Bull |      150,000      |       10.34%      | $103.43 |
+|   p7   |  1 Gold Alpha TR Bull  |     1,000,000     |       68.95%      | $689.54 |
+|   p8   |        1 TR Bull       |       18,000      |       1.24%       |  $12.41 |
 
 &#x20;
 
