@@ -17,19 +17,25 @@ Rewards are not paid as dividends, meaning you do not get rewards for holding a 
 
 #### Reward Distribution Explained:
 
-For this simplistic example, let's assume we have minted 10 NFTS of various types to 10 people. We will deposit $1,000 of USDC into the smart contract for this month's reward cycle.
+For this simplistic example, let's assume we have minted 10 NFTS from 10 wallet addresses. To be eligible for rewards, each wallet address must stake a single NFT owned by that particular wallet to receive rewards, for this example will assume each person has an NFT staked.
 
-|   Person   |   NFT Count / TYPE   |  Calculated Weight  |
-| :--------: | :------------------: | :-----------------: |
-| Person\_1  |  1 TR Bull (Normal)  |        18,000       |
-|  Person\_2 | 3 TR Bulls (Normal)  | 54,000 (3 x 18,000) |
-|  Person\_3 |   1 TR Bull (Frog)   |       150,000       |
-|  Person\_4 |  1 TR Bull (Turtle)  |        43,750       |
-|  Person\_5 |  1 TR Bull (Bronze)  |        43,750       |
-|  Person\_6 |  1 TR Bull (Silver)  |       150,000       |
-|  Person\_7 |   1 TR Bull (Gold)   |      1,000,000      |
+|  Person |    Mint Count / Type   | Calculated Weight | % of Total Weight | Reward  |
+| :-----: | :--------------------: | :---------------: | :---------------: | ------- |
+| person1 |        1 TR Bull       |       18000       |       1.24%       | $12.41  |
+| person2 |       3 TR Bulls       |       54000       |       3.72%       | $37.23  |
+| person3 |    1 TR Bull w/ Frog   |       126000      |       8.69%       | $86.88  |
+| person4 |   1 TR Bull w/ Turtle  |       40500       |       2.79%       | $27.93  |
+| person5 | 1 Bronze Alpha TR Bull |       43750       |       3.02%       | $30.17  |
+| person6 | 1 Silver Alpha TR Bull |       150000      |       10.34%      | $103.43 |
+| person7 |  1 Gold Alpha TR Bull  |      1000000      |       68.95%      | $689.54 |
+| person8 |        1 TR Bull       |       18000       |       1.24%       | $12.41  |
 
+&#x20;
 
+* $1,000 of USDC into the smart contract for this month's reward cycle.
+* Total Weight for all staked addresses = 1,450,25
+*
+* 0&#x20;
 
 #### Disbursement Strategy:
 
