@@ -47,7 +47,7 @@
 * Cost: $350&#x20;
 * Weight: 43,750
 
-![](<../../../.gitbook/assets/50 (3).png>)
+![](<../../../.gitbook/assets/50 (1).png>)
 
 
 
@@ -57,7 +57,7 @@
 * Cost: $1000
 * Weight: 150,000
 
-![](<../../../.gitbook/assets/1 (1).png>)
+![](../../../.gitbook/assets/1.png)
 
 
 

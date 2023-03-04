@@ -26,7 +26,7 @@ coverY: -446.4
 * **Alpha TR Bulls:**
   * Any Bull with a Bronze, Silver, or Gold Staff.&#x20;
 
-### ![](<../../.gitbook/assets/50 (1).png>)![](../../.gitbook/assets/1.png)<img src="../../.gitbook/assets/12 (2).png" alt="" data-size="original">
+### ![](<../../.gitbook/assets/50 (1) (1).png>)![](<../../.gitbook/assets/1 (1).png>)<img src="../../.gitbook/assets/12 (1).png" alt="" data-size="original">
 
 
 
