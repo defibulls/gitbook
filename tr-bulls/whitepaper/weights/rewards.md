@@ -1,6 +1,6 @@
 # REWARDS
 
-![](<../../.gitbook/assets/Compounding Illustration.svg>)&#x20;
+![](<../../../.gitbook/assets/Compounding Illustration.svg>)&#x20;
 
 
 
@@ -12,19 +12,6 @@ Rewards are not paid as dividends, meaning you do not get rewards for holding a 
 
 * <mark style="color:purple;">A TR Bull owner must stake a single NFT on the rewards contract.</mark>
 * <mark style="color:purple;">Submit votes to guide the direction of the community.</mark>&#x20;
-
-####
-
-## WEIGHTS
-
-Each TR Bull NFT (normal or alpha) has a weight attached to it. The weight of that NFT is the amount of pull that NFT has for rewards and governance voting. All weights are derived from the price of the NFT multiplied by the magnifier number.&#x20;
-
-|  Type of TR Bull | Cost | Magnifier |   Weight  |
-| :--------------: | :--: | :-------: | :-------: |
-| Regular TR Bull  |  180 |    100    |   18,000  |
-|   Bronze TR Bul  |  350 |    125    |   43,750  |
-|  Silver TR Bull  | 1000 |    150    |  150,000  |
-|   Gold TR Bull   | 5000 |    200    | 1,000,000 |
 
 
 
