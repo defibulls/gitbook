@@ -15,6 +15,22 @@ Rewards are not paid as dividends, meaning you do not get rewards for holding a 
 
 
 
+#### Reward Distribution Explained:
+
+For this simplistic example, let's assume we have minted 10 NFTS of various types to 10 people. We will deposit $1,000 of USDC into the smart contract for this month's reward cycle.
+
+|   Person   |   NFT Count / TYPE   |  Calculated Weight  |
+| :--------: | :------------------: | :-----------------: |
+| Person\_1  |  1 TR Bull (Normal)  |        18,000       |
+|  Person\_2 | 3 TR Bulls (Normal)  | 54,000 (3 x 18,000) |
+|  Person\_3 |   1 TR Bull (Frog)   |       150,000       |
+|  Person\_4 |  1 TR Bull (Turtle)  |        43,750       |
+|  Person\_5 |  1 TR Bull (Bronze)  |        43,750       |
+|  Person\_6 |  1 TR Bull (Silver)  |       150,000       |
+|  Person\_7 |   1 TR Bull (Gold)   |      1,000,000      |
+
+
+
 #### Disbursement Strategy:
 
 **50%** of earned mining rewards will be deposited into the smart contract of the TR Bulls. When deposited into the smart contract, The funds are dispersed to the owners of the TR Bulls NFTs in weight format. Each NFT's weight is added to calculate the total weight of the NFTs' owners. The owner of the NFTs is then awarded the percentage of their weight compared to the total weight currently staked of the total deposited awards.&#x20;
