@@ -2,8 +2,8 @@
 
 #### Disbursement Strategy:
 
-**50%** of earned mining rewards will be deposited into the smart contract of the TR Bulls. When deposited into the smart contract, The funds are dispersed to the owners of the TR Bulls NFTs in a weighted format. Each NFT's weight is added to calculate the total weight of the NFTs' owners. The owner of the NFTs is then awarded the percentage of their weight compared to the total weight currently staked of the total deposited ERC20 token.&#x20;
+Our disbursement strategy involves allocating 50% of earned mining rewards to the TR Bulls smart contract, which is then distributed to the NFT owners in a weighted format using our point system. Each owner then receives a percentage of the deposited ERC20 token based on their points compared to the total points of all NFTs currently staked.
 
-**40%** goes into the investment wallet. These funds will be used to invest in other projects, real-world assets, tokens, etc. TR Bull Owners use their respective weight to vote on investment decisions.
+An additional 40% of rewards are directed toward an investment wallet. These funds will be utilized for investing in other projects, real-world assets, tokens, and more. TR Bull owners can use their respective points to vote on investment decisions.
 
-**10%** goes back to The Ranch Core Team for continued project growth, security measures, overhead management, and marketing.&#x20;
+Finally, 10% of rewards are directed towards The Ranch Core Team for continued project growth, security measures, overhead management, and marketing efforts."
