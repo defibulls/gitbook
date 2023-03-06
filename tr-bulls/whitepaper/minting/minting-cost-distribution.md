@@ -8,4 +8,6 @@
 
 ## COST DISTRIBUTION OF ALPHA TR BULLS:
 
-* The funds raised from the sale of the alpha TR Bulls will be used to cover the costs associated with building out our project, including website development, security audits, LLC formation, and retainer fees for the legal team. We will be transparent with our community about how these funds are being allocated and provide regular updates on the progress of our project. This also allows ALPHA TR BULLS to partake in a separate account investment reserved for Alpha TR Bulls only. &#x20;
+*   The proceeds generated from the sale of our alpha TR Bulls will be utilized to cover various costs associated with building our project, such as website development, security audits, LLC formation, and legal team retainer fees. We are committed to transparency and will inform our community about how these funds are utilized. We will provide regular updates about the progress of our project as well.
+
+    Moreover, this will also enable Alpha TR Bull owners to participate in a separate account investment reserved exclusively for them.
