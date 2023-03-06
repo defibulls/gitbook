@@ -15,8 +15,8 @@ coverY: -446.4
 
 ## **Normal TR Bulls:**
 
-* **Any Bull without a Staff, with or without a Frog or Turtle.**
-* #### Minting Bounty Awards are included with all the 'Normal' Bulls. Minting Bounty awards go to each Normal TR Bull with a Turtle or a Frog.&#x20;
+* Any Bull without a Staff, with or without a Frog or Turtle.
+* Minting Bounty Awards are for the 'Normal' Bulls. Minting Bounty Awards go to each Normal TR Bull with a Turtle or a Frog.
   * When minting TR Bulls with a Frog, the owner gets a $1000 airdrop.&#x20;
   * When minting TR Bulls with a Turtle, the owner gets a $750 airdrop.&#x20;
 * Normal TR Bulls include any TR Bull with an index number from 1 - 4900.&#x20;
