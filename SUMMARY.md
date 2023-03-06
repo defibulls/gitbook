@@ -22,7 +22,7 @@
   * [POINTS](tr-bulls/whitepaper/weights/README.md)
     * [REWARDS](tr-bulls/whitepaper/rewards.md)
     * [VOTING](tr-bulls/whitepaper/weights/voting.md)
-    * [Reward / Reinvestment Strategy](tr-bulls/whitepaper/weights/reward-reinvestment-strategy.md)
+    * [COMPOUNDING](tr-bulls/whitepaper/points/compounding.md)
   * [BUDDY SYSTEM](btc-bulls/whitepaper/buddy-system.md)
   * [EARLY SUPPORTER](btc-bulls/whitepaper/early-supporter.md)
   * [ROYALTIES](btc-bulls/whitepaper/royalties.md)

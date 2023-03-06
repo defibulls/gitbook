@@ -2,9 +2,9 @@
 
 ## COST DISTRIBUTION OF NORMAL TR BULLS:
 
-* 93% of the transaction goes to the INVESTMENT treasury wallet.&#x20;
-* 6% is held for the Minting Bounty Airdrops for TR Bulls with Frogs and Turtles.
-* 1% goes to MARKETING.
+* 90% of the transaction goes to the INVESTMENT treasury wallet.&#x20;
+* 5% is held for the Minting Bounty Airdrops for TR Bulls with Frogs and Turtles.
+* 5% goes to MARKETING.
 
 ## COST DISTRIBUTION OF ALPHA TR BULLS:
 
