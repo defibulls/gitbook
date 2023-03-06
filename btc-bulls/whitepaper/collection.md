@@ -11,20 +11,29 @@ coverY: -446.4
 * Access to the TR Bulls profits from investments.
 * Weighted voting to guide the project to success moving forward.&#x20;
 
-### There are 2 groups of TR Bulls; Normal TR Bulls and Alpha TR Bulls.
+## There are 2 groups of TR Bulls; Normal TR Bulls and Alpha TR Bulls.
 
-* **Normal TR Bulls:**
-  * Any Bull without a Staff, with or without a Frog or Turtle.&#x20;
-  * #### Minting Bounty Awards are for the TR Bulls with Turtle and Frogs.&#x20;
-    * TR Bulls with a Frog will each receive a $1000 airdrop with an equal weight of Silver TR Bull.&#x20;
-    * TR Bulls with a Turtle will each receive a $750 airdrop with an equal weight of Bronze TR Bull.
+## **Normal TR Bulls:**
+
+* **Any Bull without a Staff, with or without a Frog or Turtle.**
+* #### Minting Bounty Awards are included with all the 'Normal' Bulls. Minting Bounty awards go to each Normal TR Bull with a Turtle or a Frog.&#x20;
+  * When minting TR Bulls with a Frog, the owner gets a $1000 airdrop.&#x20;
+  * When minting TR Bulls with a Turtle, the owner gets a $750 airdrop.&#x20;
+* Normal TR Bulls include any TR Bull with an index number from 1 - 4900.&#x20;
+* Frogs and Turtles are randomly placed, and some are given away as awards for minting. See [minting-bounty.md](../../tr-bulls/whitepaper/minting/minting-bounty.md "mention")for more details.&#x20;
 
 <img src="../../.gitbook/assets/11.png" alt="" data-size="original">![](../../.gitbook/assets/50.png)![](../../.gitbook/assets/34.png)![](../../.gitbook/assets/33.png)
 
 ****
 
-* **Alpha TR Bulls:**
-  * Any Bull with a Bronze, Silver, or Gold Staff.&#x20;
+## **Alpha TR Bulls:**
+
+* **Any Bull with a Bronze, Silver, or Gold Staff.**&#x20;
+* Use a separate minting process that is not included in presale1,2,3 and public sale of the normal TR Bulls.&#x20;
+* Rare and the increase point earnings.&#x20;
+* Bronze Alpha TR Bulls are from index 4901 - 4960
+* Silver Alpha TR Bulls are from index 4961 - 4990
+* Gold Alpha TR bulls are from index 4991 - 5000
 
 ### ![](<../../.gitbook/assets/50 (1).png>)![](../../.gitbook/assets/1.png)<img src="../../.gitbook/assets/12.png" alt="" data-size="original">
 
@@ -32,7 +41,7 @@ coverY: -446.4
 
 ## Distribution of Types:&#x20;
 
-<table data-view="cards"><thead><tr><th align="center"></th><th align="center"></th></tr></thead><tbody><tr><td align="center">Regular TR Bulls </td><td align="center">4881</td></tr><tr><td align="center">TR Bulls with Turtle</td><td align="center">11</td></tr><tr><td align="center">TR Bulls with Frog</td><td align="center">8</td></tr><tr><td align="center">Bronze TR Bulls</td><td align="center">60</td></tr><tr><td align="center">Silver TR Bulls</td><td align="center">30</td></tr><tr><td align="center">Gold TR Bulls</td><td align="center">10</td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th align="center"></th></tr></thead><tbody><tr><td align="center">Regular TR Bulls </td><td align="center">4881</td></tr><tr><td align="center">Regular TR Bulls with Turtle</td><td align="center">11</td></tr><tr><td align="center">Regular TR Bulls with Frog</td><td align="center">8</td></tr><tr><td align="center">Bronze Alpha TR Bulls</td><td align="center">60</td></tr><tr><td align="center">Silver Alpha TR Bulls</td><td align="center">30</td></tr><tr><td align="center">Gold Alpha TR Bulls</td><td align="center">10</td></tr></tbody></table>
 
 
 
