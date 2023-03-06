@@ -6,7 +6,7 @@
 2. **Launch Date?** March 30 @ 7 PM EST
 3. **What will the cost per normal NFT be?** $150 to $180, depending on the phase. &#x20;
 4. **How many TR Bull NFTs can I hold in a wallet?** No limit&#x20;
-5. **How many TR Bull NFTs are in the collection?** There will only be 5,000 TR Bulls.
+5. **How many TR Bull NFTs are in the collection?**  5,000
 6. **What is the URL where I can mint?** [https://theranch.community](https://www.theranch.community/)
 7. **Where is the Whitepaper?** [https://theranch.gitbook.io](https://theranch.gitbook.io)
 8. **Where is the Official Twitter?** [https://twitter.com/0xTheRanch](https://twitter.com/0xTheRanch)
