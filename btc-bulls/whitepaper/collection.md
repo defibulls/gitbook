@@ -8,8 +8,8 @@ coverY: -446.4
 ## **A collection of 5,000 TR Bull NFTs on the Polygon Blockchain.**
 
 * The TR Bulls are the OG's on the property.&#x20;
-* Access to the TR Bulls profits from investments.
-* Weighted voting to guide the project to success moving forward.&#x20;
+* Access to the TR Bulls profits from investments using our point system.
+* Weighted voting also uses our point system to guide the project to success.&#x20;
 
 ## There are 2 groups of TR Bulls; Normal TR Bulls and Alpha TR Bulls.
 
