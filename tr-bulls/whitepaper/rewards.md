@@ -1,6 +1,6 @@
 # REWARDS
 
-![](<../../../.gitbook/assets/Compounding Illustration.svg>)&#x20;
+![](<../../.gitbook/assets/Compounding Illustration.svg>)&#x20;
 
 
 
@@ -11,7 +11,7 @@ Rewards are not paid as dividends, meaning you do not get rewards for holding a 
 #### What makes me eligible for rewards?&#x20;
 
 * <mark style="color:purple;">A TR Bull owner must stake a single NFT on the rewards contract.</mark>
-* <mark style="color:purple;">Submit votes to guide the direction of the community.</mark>&#x20;
+* <mark style="color:purple;">Submit vote(s) to guide the direction of the community.</mark>&#x20;
 
 
 
