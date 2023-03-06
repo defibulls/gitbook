@@ -15,7 +15,7 @@
   * [OVERVIEW](btc-bulls/whitepaper/overview.md)
   * [COLLECTION](btc-bulls/whitepaper/collection.md)
   * [MINTING](btc-bulls/whitepaper/minting.md)
-    * [COST](tr-bulls/whitepaper/minting/cost.md)
+    * [COST (NORMAL)](tr-bulls/whitepaper/minting/cost-normal.md)
     * [MINTING BOUNTY](tr-bulls/whitepaper/minting/minting-bounty.md)
     * [MINTING COST DISTRIBUTION](tr-bulls/whitepaper/minting/minting-cost-distribution.md)
   * [WEIGHTS](tr-bulls/whitepaper/weights/README.md)
