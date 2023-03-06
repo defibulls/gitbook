@@ -9,14 +9,14 @@
 ## BULL
 
 * Member Role
-* Holding at least 1 BTC Bull&#x20;
+* Holding at least 1 TR Bull&#x20;
 * Access to most discord channels
 * Ongoing utility
 
 ## SUPER-BULL
 
 * Member Role
-* Holding at least 3 BTC Bulls
+* Holding at least 3 TR Bulls
 * Access to full discord channels
 * Exclusive opportunities (FUTURE)
 * Ongoing utility
@@ -24,7 +24,7 @@
 ## LEGENDARY-BULL
 
 * Member Role
-* Holding at least 10 BTC Bulls
+* Holding at least 10 TR Bulls
 * Access to full discord channels
 * Exclusive opportunities (FUTURE)
 * Ongoing utility
@@ -32,7 +32,7 @@
 ## MYTHICAL-BULL
 
 * Member Role
-* Holding at least 25 BTC Bulls
+* Holding at least 25 TR Bulls
 * Access to full discord channels
 * Exclusive opportunities (FUTURE)
 * Ongoing utility
