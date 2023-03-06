@@ -1,6 +1,6 @@
 # REWARDS
 
-![](<../../.gitbook/assets/Compounding Illustration.svg>)&#x20;
+![](<../../../.gitbook/assets/Compounding Illustration.svg>)&#x20;
 
 
 
