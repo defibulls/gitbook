@@ -1,13 +1,13 @@
 # MINTING
 
-**The TR Bulls will be sold in four phases:**&#x20;
+**The Normal TR Bulls will be sold in four phases:**&#x20;
 
 * Presale 1
 * Presale 2
 * Presale 3
 * Public Sale.&#x20;
 
-**During each phase, minting transactions must mint **<mark style="color:purple;">**1,2,3,5,7 or 9**</mark>** TR Bulls.**&#x20;
+**During each phase, minting transactions must mint **<mark style="color:purple;">**1,2,3,5,7, or 9**</mark>** TR Bulls.**&#x20;
 
 | Phase       | NFTs Available  |
 | ----------- | --------------- |
