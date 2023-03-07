@@ -23,9 +23,9 @@
     * [REWARDS](tr-bulls/whitepaper/rewards.md)
     * [VOTING](tr-bulls/whitepaper/weights/voting.md)
     * [COMPOUNDING](tr-bulls/whitepaper/weights/reward-reinvestment-strategy.md)
-  * [BULLRUN](tr-bulls/whitepaper/bullrun.md)
+  * [BULL BATTLES](tr-bulls/whitepaper/bull-battles/README.md)
+    * [BULLRUN](tr-bulls/whitepaper/bull-battles/bullrun.md)
   * [BUDDY SYSTEM](btc-bulls/whitepaper/buddy-system.md)
-  * [EARLY SUPPORTER](btc-bulls/whitepaper/early-supporter.md)
   * [ROYALTIES](btc-bulls/whitepaper/royalties.md)
   * [DISCORD ROLES](btc-bulls/whitepaper/discord-roles.md)
   * [FAQ](btc-bulls/whitepaper/faq.md)
@@ -39,7 +39,6 @@
       * [How to Add Polygon (MATIC) Network to MetaMask](btc-bulls/whitepaper/how-to-mint/purchase-polygon-network-tokens-and-stablecoins/how-to-add-polygon-matic-network-to-metamask.md)
       * [How to Add USDC.e Token to Polygon Network in MetaMask](btc-bulls/whitepaper/how-to-mint/purchase-polygon-network-tokens-and-stablecoins/how-to-add-usdc.e-token-to-polygon-network-in-metamask.md)
   * [SECURITY & TRANSPARENCY](btc-bulls/whitepaper/security-and-transparency.md)
-  * [BULL BATTLES](tr-bulls/whitepaper/bull-battles.md)
 
 ## LEGAL
 
