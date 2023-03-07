@@ -1,14 +1,14 @@
 # REWARDS
 
-![](<../../../.gitbook/assets/Compounding Illustration.svg>)&#x20;
+![](<../../.gitbook/assets/Compounding Illustration.svg>)&#x20;
 
 
 
 ## INVESTMENT REWARDS
 
-Rewards are not paid as dividends, meaning you do not get rewards for holding a TR Bull in your wallet. All rewards are given to those TR Bull owners who are contributors that help the community make decisions.&#x20;
+Rewards are not paid as dividends, meaning you do not get rewards for holding a TR Bull in your wallet. All rewards are given to those TR Bull owners who are contributors to TRBC. &#x20;
 
-#### What makes me eligible for rewards?&#x20;
+#### What makes me a contributor and eligible for rewards?&#x20;
 
 * <mark style="color:purple;">A TR Bull owner must stake a single NFT on the rewards contract.</mark>
 * <mark style="color:purple;">Submit vote(s) to guide the direction of the community.</mark>&#x20;

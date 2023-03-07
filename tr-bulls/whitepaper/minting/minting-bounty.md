@@ -4,8 +4,8 @@
 
 #### The Minting Bounty is only for "Normal" TR Bulls, and the bounty is trying to get TR Bulls with a Turtle or a Frog.&#x20;
 
-* When minting Normal TR Bulls with a Turtle, the owner gets a $750 airdrop with an increased point value. &#x20;
-* When minting Normal TR Bulls with a Frog, the owner gets a $1000 airdrop with an increased point value.&#x20;
+* When minting Normal TR Bulls with a Turtle, the owner gets a $750 airdrop with an increased bullion value. &#x20;
+* When minting Normal TR Bulls with a Frog, the owner gets a $1000 airdrop with an increased bullion value.&#x20;
 
 ### During Presale 1:
 
@@ -25,7 +25,7 @@
 ### During Public Sale:&#x20;
 
 * 3 Frogs and 3 Turtles are randomly placed within the 3800 allowable NFTS minted.&#x20;
-* The wallet Address with the most mints after the public sale (The total to include the mint count for a wallet during Presale 1, Presale 2, Presale 3, and the Public phase) will be airdropped a Normal TR Bull with a Turtle **AND** a BTC Bull with a Frog.
+* The wallet Address with the most mints after the public sale (The total to include the mint count for a wallet during Presale 1, Presale 2, Presale 3, and the Public phase) will be airdropped a Normal TR Bull with a Turtle **AND** a TR Bull with a Frog.
 
 
 
