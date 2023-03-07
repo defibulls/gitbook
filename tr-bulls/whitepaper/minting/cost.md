@@ -1,6 +1,12 @@
 # COST (NORMAL)
 
-## Normal TR Bulls:
+## Normal TR Bulls without Whitelist:
+
+The price of Normal TR Bulls varies based on the selling phase, with a higher base cost for each subsequent phase. A limited quantity of Normal TR Bulls are available at a lower price during presales, with Presale 1 having a base price of $150, Presale 2 at $160, Presale 3 at $170, and the Public phase at a base price of $180.
+
+
+
+## Whitelist Cost:
 
 <figure><img src="../../../.gitbook/assets/presale1.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -9,8 +15,6 @@
 <figure><img src="../../../.gitbook/assets/presale3.jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/publicSale.jpg" alt=""><figcaption></figcaption></figure>
-
-## Whitelist Explanation::
 
 * When whitelisted, the user gets discounts when minting for the duration of the minting process. I.e., whitelisted in presale 1 carries over, and whitelist eligibility remains in presale 2 and beyond. &#x20;
 * To be whitelisted, Trivia events and other Discord and Twitter competitions. &#x20;
