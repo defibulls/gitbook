@@ -5,14 +5,7 @@ coverY: 0
 
 # OVERVIEW
 
-## 10,000 FT VIEW OF 5K TR Bulls
-
-We are a **community,** first and foremost! All decisions are derived from the underlying wishes and support of TR Bull Holders. Using our unique governance model, we will be a project built on the following:&#x20;
-
-* Real Utility&#x20;
-* Real Yield
-* Real Rewards
-* Real Relationships
+As a community, we prioritize real yield for our portfolio above all else. We believe in investing in projects and opportunities that provide tangible benefits and produce significant returns, rather than simply acquiring NFTs that offer access to games or other trivial activities within a Discord group. This approach aligns with our values of real utility, real yield, real rewards, and real relationships, which guide our decision-making and ensure that our investments generate meaningful value for our members.
 
 ****
 
