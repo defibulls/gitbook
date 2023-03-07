@@ -41,7 +41,7 @@ coverY: -446.4
 
 ## Distribution of Types:&#x20;
 
-<table data-view="cards"><thead><tr><th align="center"></th><th align="center"></th></tr></thead><tbody><tr><td align="center">Regular TR Bulls </td><td align="center">4881</td></tr><tr><td align="center">Regular TR Bulls with Turtle</td><td align="center">11</td></tr><tr><td align="center">Regular TR Bulls with Frog</td><td align="center">8</td></tr><tr><td align="center">Bronze Alpha TR Bulls</td><td align="center">60</td></tr><tr><td align="center">Silver Alpha TR Bulls</td><td align="center">30</td></tr><tr><td align="center">Gold Alpha TR Bulls</td><td align="center">10</td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th align="center"></th></tr></thead><tbody><tr><td align="center">Regular TR Bulls </td><td align="center">4881 (97.68%)</td></tr><tr><td align="center">Regular TR Bulls with Turtle</td><td align="center">11 (0.22%)</td></tr><tr><td align="center">Regular TR Bulls with Frog</td><td align="center">8 (0.16%)</td></tr><tr><td align="center">Bronze Alpha TR Bulls</td><td align="center">60 (1.2%)</td></tr><tr><td align="center">Silver Alpha TR Bulls</td><td align="center">30 (0.6%)</td></tr><tr><td align="center">Gold Alpha TR Bulls</td><td align="center">10 (0.2%)</td></tr></tbody></table>
 
 
 
