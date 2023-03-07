@@ -23,14 +23,12 @@ As the founder of this project, I understand that no one cares about it as much 
 
 
 
-## Sam
+## Sameem
 
 <figure><img src="../.gitbook/assets/image (10) (3).png" alt=""><figcaption></figcaption></figure>
 
 #### Project Web Developer
 
-High School Student by day at S. R. M. Welkin Educational Trust.
+Sameem is a core member of our team and a skilled Web3 Developer, passionate about developing and exploring the capabilities of blockchain technology. He brings a wealth of experience and knowledge to the table, having honed his skills as a project web developer and web3 enthusiast. Sameem has a keen eye for detail and is constantly pushing himself to stay up-to-date with the latest trends and advancements in the field. He is a valuable asset to our team and plays a vital role in shaping our project's success.
 
-Web3 Developer by hobby.&#x20;
-
-Wasn't around for the web2 boom but won't miss web3!
+[https://www.linkedin.com/in/sameembaba/](https://www.linkedin.com/in/sameembaba/)
