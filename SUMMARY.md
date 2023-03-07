@@ -11,7 +11,6 @@
 ## TR Bulls
 
 * [📓 Whitepaper](btc-bulls/whitepaper/README.md)
-  * [VISION](btc-bulls/whitepaper/vision.md)
   * [OVERVIEW](btc-bulls/whitepaper/overview.md)
   * [COLLECTION](btc-bulls/whitepaper/collection.md)
   * [MINTING](btc-bulls/whitepaper/minting.md)
