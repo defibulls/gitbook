@@ -2,23 +2,15 @@
 
 ## ![](<../../.gitbook/assets/Buddy System.svg>) **THE BUDDY SYSTEM**
 
-The Buddy System is an onboarding system for new participants in The Ranch Ecosystem. Participation is entirely voluntary, unlike other multi-level marketing and scam-type referral systems, which consist of pyramid structures, tiered referral trees, etc. There is only 1 level of affiliate rewards within The Ranch Ecosystem. Rewards are issued whenever the referred individual mints new NFTs during the monthly reward of WBTC to NFT holders.
+The Buddy System is an opt-in program designed to help new members of The Ranch Ecosystem get started. It is not a multi-level marketing or referral program with tiers or pyramid structures. The program only has one level of affiliate rewards. Members receive rewards during the monthly reward distribution.
 
-* **2% of Investment Rewards of your Buddy's payout FOREVER!**
+If you choose to participate in the Buddy System, you will receive a 2% share of your Buddy's investment rewards forever. To qualify for this benefit, your Buddy must be in an "active" state, meaning they must own a TR Bull at the time of the rewarding event.
 
-A Buddy must be in an 'active' state to receive the benefit. Active means the Buddy of the referred person owns a TR Bull at the time of the rewarding event.&#x20;
+It is not mandatory to have a Buddy, and not having one will not affect your rewards. During rewarding transactions, 2% of your rewards will be deducted whether or not you have a Buddy. If your Buddy is in an active state, the benefit will be paid to them. Otherwise, it will go to The Ranch Core Team.
 
-* Do I have to have a Buddy? No
-* Does not having a Buddy hurt me? No, anyone with a Buddy or without a Buddy will have 2% deducted during the rewarding transactions. If the Buddy is in an active state, it goes to the Buddy of the referred person; if not, it goes to The Ranch Core Team.
-* Can I switch my Buddy multiple times? No, once a Buddy is selected, it is final.
-* If 'Bob' sets 'Alice' as their buddy, 'Alice' will not be allowed to set 'Bob' as her Buddy later. This gets blocked by the contract, as one should have brought the other into the project.&#x20;
+Once you select a Buddy, you cannot change it. If 'Bob' sets 'Alice' as their buddy, 'Alice' will not be able to set 'Bob' as her Buddy later. This is because one should have brought the other into the project.
 
-#### How do I add the person who referred me to the project as my Buddy?&#x20;
-
-There are two options for this:
-
-* Your buddy can set it on the mint page during your first minting transaction.
-* Secondly, you can enter the buddy address using the 'hamburger' icon in the top right. An all-zero address indicates a Buddy is not set yet on the account overview. Once a Buddy is set, it will update the address on the account overview.
+There are two options for adding the person who referred you to the Buddy System. Your Buddy can set it on the mint page during your minting transaction. Alternatively, you can enter the Buddy's address using the 'hamburger' icon in the top right corner.&#x20;
 
 
 
