@@ -2,7 +2,9 @@
 
 <figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
-The Bullrun is a monthly competition that enables stakeholders to participate with a single entry and compete for victory. However, once they join the Bullrun, their NFT cannot be un-staked until that month's rewards are distributed. To participate, each contestant wagers the points earned from a Normal TR Bull, which is valued at 18,000 points. This ensures that all participants have the same risk and enough points to cover the bet, while their NFT remains locked in the contract, making it impossible to sell. At the end of the Bullrun, the winner receives 18,000 points from each stakeholder who participated in the contest. This enables stakeholders to enhance their earned rewards for the month during the payout
+The Bullrun is a monthly competition that allows stakeholders to enter and compete for victory with a single entry. Once they have entered, their NFT cannot be unstaked until the rewards for that month have been distributed. To join, each participant must use the points earned from a Normal TR Bull, which is worth 18,000 points. This ensures that everyone has an equal risk and sufficient points to cover the wager, while also preventing the NFT from being sold. At the end of the Bullrun, the winner is awarded 18,000 points from every participant who took part in the competition. This enables stakeholders to increase their rewards for the month during the payout.
+
+Moreover, to keep everything as decentralized as possible during this process, we are utilizing Chainlink's VRF functionality on the smart contract to call the winner.
 
 
 
