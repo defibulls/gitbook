@@ -8,11 +8,8 @@
 
 * **TR Bulls:**
   * CONTRACT OWNER:
-  * BTC MINERS SAFE:&#x20;
-  * WAR CHEST SAFE:
+  * INVESTMENT SAFE:&#x20;
   * MARKETING SAFE:
   * RARITY SAFE:
-
-**Insurance:** The Ranch will insure the assets of the projects to secure the project's future.
 
 **Legal support:** The Ranch will retain legal support to help with legal advice and other issues that may arise in the future.
