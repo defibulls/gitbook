@@ -11,13 +11,11 @@ coverY: 0
 
 #### Project Founder, Smart Contract Developer, Business POC &#x20;
 
-I am a proud Veteran of the US. Army, in which I served for eight years. From then to now, technology has always been a passion, and now it's a career for me. I started building communication networks during my time in the military. That rolled into making Apple IOS apps in 2014 out of pure interest in the space. Since then, I became a Network Engineer and eventually moved into a systems engineering role as I started working on SD-WAN projects (Software-Defined Wide Area Networks, the “INTERNET”), and that’s the current position I now hold.&#x20;
+I am a proud veteran of the US Army with eight years of service under my belt. Throughout my military career, I discovered my passion for technology, which has since become my career. I began building communication networks during my time in the service, and this led me to develop Apple iOS apps purely out of interest. Over time, I became a Network Engineer and eventually transitioned into a Systems Engineering role, where I currently work on SD-WAN projects.
 
-I am building this project, The Ranch, and the ecosystem for two reasons; I genuinely believe in the technology and where it's going, and I love creating projects that will make a difference. This is truly a passion of mine and not something I am doing for financial gain.
+However, my true passion lies in creating projects that make a difference. I am building "The Ranch" project and ecosystem for two reasons: my belief in the potential of technology and my desire to make a positive impact. I'm not doing this for financial gain; it's a genuine passion of mine.
 
-Outside of technology, Disc Golf is my passion. I traveled the world playing and met many cool people playing Disc Golf. From sponsorships with companies, I’ve been with Innova, Prodigy, and Latitude 64. All that to say, I know disc golf at a deep level and love everything that disc golf has provided me. This plays a huge part in knowing the difference I can make in the Disc Golf space with our native token of DDGT, Digital Disc Golf Token, and the value it can bring early adopters of it and everyone else down the line.&#x20;
-
-The truth is that no one cares about the code and project as much as the founder, so it makes sense to build my project myself and put way more effort and thought into it than anyone else I could bring onto the team. When I advertise, there will be more transparency to this project than 99% of crypto/DeFi projects; I say that with sincerity because I built out the code and all the events that put this information clearly on the blockchain for easy consumption.
+As the founder of this project, I understand that no one cares about it as much as I do. That's why I am building it myself and putting in more effort and thought than anyone else could bring to the team. When I advertise, I will provide full transparency about the project, more so than 99% of crypto/DeFi projects. I've built the code and events that put this information clearly on the blockchain for easy consumption.
 
 [https://www.linkedin.com/in/dustin-perry-55a410177/](https://www.linkedin.com/in/dustin-perry-55a410177/)
 
