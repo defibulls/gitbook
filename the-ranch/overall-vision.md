@@ -1,8 +1,14 @@
 # OVERALL VISION
 
-We will take the successful ideas before us and blend them into our ecosystem to improve on past designs. One of the core pillars of the project is building a community where people can take part in real-world investments with less risk and more upside. As a single community, we can come to the table and participate in deals that only wealthier individuals and businesses have previously done.&#x20;
+Our project is dedicated to building a strong and engaged community for real-world investments with reduced risk and increased potential for growth. To achieve this, we are incorporating successful ideas into our ecosystem and establishing relationships with successful developers and projects.
 
-Thanks to the blockchain, we can now fractionalize investments with smart contracts and NFTs. The overarching thesis for the project is to bridge web2 opportunities and platforms with web3 technology.
+By investing in trusted projects and diversifying our portfolio, we ensure that we make informed decisions and create a network of trusted partners in the industry. With blockchain technology, we can fractionalize investments using smart contracts and NFTs, providing new investment opportunities for our community.
+
+Additionally, we are bringing these investments back into our ecosystem and gamifying them based on the points earned by each TR Bull. Through gamification, we are creating a system where individuals can earn points based on their participation, unlocking additional investment opportunities and rewards.
+
+Our overarching goal is to connect web2 opportunities and platforms with web3 technology, creating a better investment experience for our community. By blending successful ideas into our ecosystem and partnering with trusted developers and projects, we are creating a new standard for real-world investments that benefits everyone involved.
+
+In summary, our project is focused on building a diverse portfolio of trusted investments, partnering with successful developers and projects, and gamifying investments for increased participation and engagement. We believe that this approach will benefit our community and ensure long-term success for everyone involved.
 
 
 
