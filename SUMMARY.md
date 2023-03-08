@@ -25,6 +25,7 @@
   * [BULL BATTLES](tr-bulls/whitepaper/bull-battles/README.md)
     * [BULLRUN](tr-bulls/whitepaper/bull-battles/bullrun.md)
   * [BUDDY SYSTEM](btc-bulls/whitepaper/buddy-system.md)
+  * [PORTFOLIO](tr-bulls/whitepaper/portfolio.md)
   * [ROYALTIES](btc-bulls/whitepaper/royalties.md)
   * [DISCORD ROLES](btc-bulls/whitepaper/discord-roles.md)
   * [FAQ](btc-bulls/whitepaper/faq.md)
