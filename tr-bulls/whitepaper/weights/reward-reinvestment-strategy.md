@@ -1,6 +1,6 @@
 # COMPOUNDING
 
-#### Compounding Strategy:
+## Compounding Strategy:
 
 Our disbursement strategy involves allocating 50% of earned mining rewards to the TR Bulls smart contract, which is then distributed to the NFT owners in a weighted format using our point system. Each owner then receives a percentage of the deposited ERC20 token based on their points compared to the total points of all NFTs currently staked.
 
