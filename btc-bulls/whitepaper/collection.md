@@ -29,7 +29,7 @@ coverY: -446.4
 ## **Alpha TR Bulls:**
 
 * **Any Bull with a Bronze, Silver, or Gold Staff.**&#x20;
-* Use a separate minting process that is not included in presale1,2,3 and public sale of the normal TR Bulls.&#x20;
+* Use a separate minting process that is not included in Presale1,2,3 and the Public sale of the normal TR Bulls.&#x20;
 * Rare and the increase point earnings.&#x20;
 * Bronze Alpha TR Bulls are from index 4901 - 4960
 * Silver Alpha TR Bulls are from index 4961 - 4990
