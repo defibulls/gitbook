@@ -6,7 +6,7 @@
 
 * Count: 60&#x20;
 * Cost: $350&#x20;
-* accrued Bullion: 43,750
+* Accrued Bullion: 43,750
 
 ![](<../../../.gitbook/assets/50 (1) (1).png>)
 
@@ -16,7 +16,7 @@
 
 * Count: 30
 * Cost: $1000
-* accrued Bullion: 150,000
+* Accrued Bullion: 150,000
 
 ![](<../../../.gitbook/assets/1 (1).png>)
 
@@ -26,6 +26,6 @@
 
 * Count: 10
 * Cost: $5000
-* accrued Bullion: 1,000,000
+* Accrued Bullion: 1,000,000
 
 ![](<../../../.gitbook/assets/12 (2).png>)
