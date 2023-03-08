@@ -17,22 +17,24 @@ Rewards are not paid as dividends, meaning you do not get rewards for holding a 
 
 #### Reward Distribution Explained:
 
-Let's consider a simple example where 10 NFTs have been minted from 10 different wallet addresses. In order to be eligible for rewards, each wallet address must stake one NFT owned by that particular wallet. For the purpose of this example, let's assume that each person has already staked an NFT.
+Here's an easier way to understand how reward distribution works:
 
-A total of $1,000 worth of USDC is deposited into the smart contract for this month's reward cycle. The total bullion for all staked addresses is calculated to be 1,450,250.
+Let's say there are 10 unique digital items (NFTs) created by 10 different people. To be able to earn rewards, each person must use one of their NFTs as collateral (or "stake") in a smart contract. For this example, let's assume everyone has already done this.
 
-Each person is then rewarded a percentage of the total bullion multiplied by the total deposit.
+Now, let's say that a total of $1,000 is put into the smart contract to be distributed as rewards for the current month. The total value of all the staked NFTs combined is calculated to be 1,450,250.
 
-| Person |    Mint Count / Type   | Bullion Earned | % of Total Bullion |  Reward |
-| :----: | :--------------------: | :------------: | :----------------: | :-----: |
-|   p1   |        1 TR Bull       |     18,000     |        1.24%       |  $12.41 |
-|   p2   |       3 TR Bulls       |     54,000     |        3.72%       |  $37.23 |
-|   p3   |    1 TR Bull w/ Frog   |     126,000    |        8.69%       |  $86.88 |
-|   p4   |   1 TR Bull w/ Turtle  |     40,500     |        2.79%       |  $27.93 |
-|   p5   | 1 Bronze Alpha TR Bull |     43,750     |        3.02%       |  $30.17 |
-|   p6   | 1 Silver Alpha TR Bull |     150,000    |       10.34%       | $103.43 |
-|   p7   |  1 Gold Alpha TR Bull  |    1,000,000   |       68.95%       | $689.54 |
-|   p8   |        1 TR Bull       |     18,000     |        1.24%       |  $12.41 |
+Based on this calculation, each person will receive a reward proportional to the percentage of the total value of their staked NFT compared to the total value of all staked NFTs, multiplied by the total amount of money in the reward pool.
+
+| Person |    Mint Count / Type   | Accrued Bullion | % of Total Bullion |  Reward |
+| :----: | :--------------------: | :-------------: | :----------------: | :-----: |
+|   p1   |        1 TR Bull       |      18,000     |        1.24%       |  $12.41 |
+|   p2   |       3 TR Bulls       |      54,000     |        3.72%       |  $37.23 |
+|   p3   |    1 TR Bull w/ Frog   |     126,000     |        8.69%       |  $86.88 |
+|   p4   |   1 TR Bull w/ Turtle  |      40,500     |        2.79%       |  $27.93 |
+|   p5   | 1 Bronze Alpha TR Bull |      43,750     |        3.02%       |  $30.17 |
+|   p6   | 1 Silver Alpha TR Bull |     150,000     |       10.34%       | $103.43 |
+|   p7   |  1 Gold Alpha TR Bull  |    1,000,000    |       68.95%       | $689.54 |
+|   p8   |        1 TR Bull       |      18,000     |        1.24%       |  $12.41 |
 
 &#x20;
 
