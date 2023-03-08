@@ -2,19 +2,19 @@
 
 
 
-Each TR Bull NFT (Normal or Alpha) carries a specific bullion value. The bullion value for each NFT is derived from the cost of the NFT multiplied by the Magnifier value. The bullion for each NFT serves two primary purposes for the project:
+Each TR Bull NFT (Normal or Alpha) accrues a specific amount of Bullion monthly. The amount of TR Bull accrues is derived from the cost of the NFT multiplied by the Magnifier value. Earned Bullion serves two primary purposes for the project:
 
 * Reward Distribution.
 * Voting Power.
 
-| Type of TR Bull           | Cost | Magnifier |  Bullion  |
-| ------------------------- | :--: | :-------: | :-------: |
-| Regular TR Bull           |  180 |    100    |   18,000  |
-| Regular TR Bull w/ Turtle |  180 |    225    |   40,500  |
-| Bronze Alpha TR Bull      |  350 |    125    |   43,750  |
-| Regular TR Bull w/ Frog   |  180 |    700    |  126,000  |
-| Silver Alpha TR Bull      | 1000 |    150    |  150,000  |
-| Gold Alpha TR Bull        | 5000 |    200    | 1,000,000 |
+| Type of TR Bull           | Cost | Magnifier | Accrued Bullion.   |
+| ------------------------- | :--: | :-------: | :----------------: |
+| Regular TR Bull           |  180 |    100    |       18,000       |
+| Regular TR Bull w/ Turtle |  180 |    225    |       40,500       |
+| Bronze Alpha TR Bull      |  350 |    125    |       43,750       |
+| Regular TR Bull w/ Frog   |  180 |    700    |       126,000      |
+| Silver Alpha TR Bull      | 1000 |    150    |       150,000      |
+| Gold Alpha TR Bull        | 5000 |    200    |      1,000,000     |
 
 
 
