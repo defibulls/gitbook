@@ -18,6 +18,14 @@ Each TR Bull NFT (Normal or Alpha) accrues a specific amount of Bullion monthly.
 
 
 
+In terms of monthly Bullion accumulation, Gold Alpha TR Bulls have the highest earning potential, but they are relatively rare within the collection. On the other hand, when evaluating the Bullion per dollar cost, Turtles and Frogs stand out as the most cost-effective options, as they can be minted during all phases at a price range of $103 to $180, and are also available for free minting to eligible individuals.
+
+<figure><img src="../../../.gitbook/assets/Bar Chart Statistic.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/Bar Chart Statistic (1).png" alt=""><figcaption></figcaption></figure>
+
+##
+
 ## Understanding Bullion:&#x20;
 
 * Bullion itself does not have a fixed value. Instead, it serves as a basis for calculating the percentage of rewards each stakeholder receives based on their staked amount and voting activity.
