@@ -10,7 +10,7 @@
 
 ## TR Bulls
 
-* [📓 Whitepaper](btc-bulls/whitepaper/README.md)
+* [📓 WHITEPAPER](btc-bulls/whitepaper/README.md)
   * [OVERVIEW](btc-bulls/whitepaper/overview.md)
   * [COLLECTION](btc-bulls/whitepaper/collection.md)
   * [MINTING](btc-bulls/whitepaper/minting.md)
@@ -21,7 +21,7 @@
   * [BULLION](tr-bulls/whitepaper/weights/README.md)
     * [REWARDS](tr-bulls/whitepaper/rewards.md)
     * [VOTING](tr-bulls/whitepaper/weights/voting.md)
-    * [COMPOUNDING](tr-bulls/whitepaper/weights/reward-reinvestment-strategy.md)
+    * [NEXT INVESTMENT](tr-bulls/whitepaper/bullion/next-investment.md)
   * [BULL BATTLES](tr-bulls/whitepaper/bull-battles/README.md)
     * [BULLRUN](tr-bulls/whitepaper/bull-battles/bullrun.md)
   * [BUDDY SYSTEM](btc-bulls/whitepaper/buddy-system.md)
