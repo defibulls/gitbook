@@ -17,6 +17,7 @@
     * [COST (NORMAL)](tr-bulls/whitepaper/minting/cost.md)
     * [COST (ALPHA)](tr-bulls/whitepaper/minting/cost-alpha.md)
     * [MINTING BOUNTY](tr-bulls/whitepaper/minting/minting-bounty.md)
+    * [COMPARISION](tr-bulls/whitepaper/minting/comparision.md)
     * [MINTING COST DISTRIBUTION](tr-bulls/whitepaper/minting/minting-cost-distribution.md)
   * [BULLION](tr-bulls/whitepaper/weights/README.md)
     * [REWARDS](tr-bulls/whitepaper/rewards.md)

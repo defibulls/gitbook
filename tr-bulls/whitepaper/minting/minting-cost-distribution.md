@@ -8,6 +8,4 @@
 
 ## COST DISTRIBUTION OF ALPHA TR BULLS:
 
-*   The proceeds generated from the sale of our alpha TR Bulls will be utilized to cover various costs associated with building our project, such as website development, security audits, LLC formation, and legal team retainer fees. We are committed to transparency and will inform our community about how these funds are utilized. We will provide regular updates about the progress of our project as well.
-
-    Moreover, this will also enable Alpha TR Bull owners to participate in a separate account investment reserved exclusively for them.
+* The primary purpose of introducing alpha TR Bulls was to participate in the AlphaShares Mining Co. Reserve NFT Sale, which will help kick-start our portfolio. The funds raised from the sale of alpha TR Bulls will be invested in the exclusive sale. In the future, a portion of the proceeds generated from the sale of alpha TR Bulls will be allocated towards covering various costs associated with our project, including website development, security audits, LLC formation, and legal team retainer fees. We are committed to being transparent and will keep our community informed about how these funds are used. Additionally, we will provide regular updates on the progress of our project.
