@@ -25,14 +25,12 @@ At the start of each month, the amount of Bullion earned is added to two areas o
 
 #### Considering the entire community, the distribution of votes is as follows:
 
-
-
-| Type             | Available | Cost | Magnifier | Group Bullion | Governance % Group | Governance % per NFT |
-| ---------------- | --------- | ---- | --------- | ------------- | ------------------ | -------------------- |
-| Normal           | 4882      | 180  | 100       | 87876000      | 81.57%             | 0.0167%              |
-| Normal w/ Turtle | 11        | 180  | 225       | 445500        | 0.41%              | 0.0376%              |
-| Normal w/ Frog   | 8         | 180  | 700       | 1008000       | 0.94%              | 0.1170%              |
-| Bronze           | 60        | 350  | 150       | 3150000       | 2.92%              | 0.0487%              |
-| Silver           | 30        | 1000 | 175       | 5250000       | 4.87%              | 0.1624%              |
-| Gold             | 10        | 5000 | 200       | 10000000      | 9.28%              | 0.9283%              |
+|       Type       | Available | Cost | Magnifier | Groups Bullion | Group Governance % | Governance % per NFT |
+| :--------------: | :-------: | :--: | :-------: | :------------: | :----------------: | :------------------: |
+|      Normal      |    4881   |  180 |    100    |    87858000    |       81.57%       |        0.0167%       |
+| Normal w/ Turtle |     11    |  180 |    225    |     445500     |        0.41%       |        0.0376%       |
+|  Normal w/ Frog  |     8     |  180 |    700    |     1008000    |        0.94%       |        0.1170%       |
+|      Bronze      |     60    |  350 |    150    |     3150000    |        2.92%       |        0.0487%       |
+|      Silver      |     30    | 1000 |    175    |     5250000    |        4.87%       |        0.1625%       |
+|       Gold       |     10    | 5000 |    200    |    10000000    |        9.28%       |        0.9284%       |
 
