@@ -40,12 +40,11 @@ Based on this calculation, each person will receive a reward proportional to the
 
 #### Considering the entire community, the distribution of rewards is as follows if we distributed $30,000 to the community.&#x20;
 
-| Type             | Available | Cost | Magnifier | Bullion  | Reward % Group | Reward per NFT |
-| ---------------- | --------- | ---- | --------- | -------- | -------------- | -------------- |
-| Normal           | 4882      | 180  | 100       | 87876000 | $24,471.29     | $5.01          |
-| Normal w/ Turtle | 11        | 180  | 225       | 445500   | $124.06        | $11.28         |
-| Normal w/ Frog   | 8         | 180  | 700       | 1008000  | $280.70        | $35.09         |
-| Bronze           | 60        | 350  | 150       | 3150000  | $877.20        | $14.62         |
-| Silver           | 30        | 1000 | 175       | 5250000  | $1,462.00      | $48.73         |
-| Gold             | 10        | 5000 | 200       | 10000000 | $2,784.75      | $278.48        |
-
+|       Type       | Available | Cost | Magnifier |  Bullion | Governance % For Group | Governance % per NFT | Reward % Group | Reward per NFT |
+| :--------------: | :-------: | :--: | :-------: | :------: | :--------------------: | -------------------- | :------------: | :------------: |
+|      Normal      |    4881   |  180 |    100    | 87858000 |         81.57%         | 0.0167%              |   $24,470.37   |      $5.01     |
+| Normal w/ Turtle |     11    |  180 |    225    |  445500  |          0.41%         | 0.0376%              |     $124.08    |     $11.28     |
+|  Normal w/ Frog  |     8     |  180 |    700    |  1008000 |          0.94%         | 0.1170%              |     $280.75    |     $35.09     |
+|      Bronze      |     60    |  350 |    150    |  3150000 |          2.92%         | 0.0487%              |     $877.34    |     $14.62     |
+|      Silver      |     30    | 1000 |    175    |  5250000 |          4.87%         | 0.1625%              |    $1,462.24   |     $48.74     |
+|       Gold       |     10    | 5000 |    200    | 10000000 |          9.28%         | 0.9284%              |    $2,785.22   |     $278.52    |
