@@ -2,12 +2,13 @@
 
 ## ROYALTY REWARDS
 
-There will be a 10% royalty fee when selling TR Bulls on OpenSea. 2.5% gets paid to OpenSea as a fee, and the remaining 7.5% is split.&#x20;
+When TR Bulls are sold on secondary marketplaces, a 10% royalty fee will be applied. Out of this 10%, 2.5% will be collected by the marketplace as a fee. The remaining 7.5% will be divided as follows: 25% will be allocated to The Ranch for project development and related expenses, while 75% will be distributed among Alpha TR Bull NFT owners. When distributing the royalty rewards to Alpha TR Bull owners, it will be done based on their Bullion weights. For instance, if $2000 of royalty revenue is dispersed among all Alpha TR Bulls, the following example can be used:&#x20;
 
-* **25%** going back to The Ranch for project development and project-related costs.&#x20;
-* **75%** goes into our quarterly Royalty Rewards program through airdrops, giveaways, etc.&#x20;
-
-Our community will be filled with holders with long-term mindsets, but there will always be those who need to sell for liquidity and profit opportunities. Looking at what other projects have done in the past, if we get close to a quarter of the numbers those projects hit, this could serve as a cool approach to reward those who supported first and stayed around.
+| Type   | Available | Cost | Magnifier | Bullion  | Governance % Group | Governance % per NFT | Reward % Group | Reward per NFT |
+| ------ | --------- | ---- | --------- | -------- | ------------------ | -------------------- | -------------- | -------------- |
+| Bronze | 60        | 350  | 150       | 3150000  | 17.12%             | 0.2853%              | $342.39        | $5.71          |
+| Silver | 30        | 1000 | 175       | 5250000  | 28.53%             | 0.9511%              | $570.65        | $19.02         |
+| Gold   | 10        | 5000 | 200       | 10000000 | 54.35%             | 5.4348%              | $1,086.96      | $108.70        |
 
 
 
