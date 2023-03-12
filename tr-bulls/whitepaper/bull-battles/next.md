@@ -1,0 +1,3 @@
+# NEXT
+
+Exciting things are coming soon to The Ranch! In the next few months, we will be partnering with other projects and games to bring even more value to our contract. Our goal is to enable participants to use their accumulated bullion as a form of in-game currency that can only be transferred between other game players who also possess bullion. This will not only create a new level of engagement for our users but also help establish a strong network of players who share a common interest in blockchain technology and digital assets. We are thrilled to be working with these partners and look forward to what the future holds for The Ranch and our community.

@@ -26,6 +26,7 @@
   * [TIMETABLE](tr-bulls/whitepaper/timetable.md)
   * [BULL BATTLES](tr-bulls/whitepaper/bull-battles/README.md)
     * [BULLRUN](tr-bulls/whitepaper/bull-battles/bullrun.md)
+    * [NEXT](tr-bulls/whitepaper/bull-battles/next.md)
   * [BUDDY SYSTEM](btc-bulls/whitepaper/buddy-system.md)
   * [PORTFOLIO](tr-bulls/whitepaper/portfolio.md)
   * [ROYALTIES](btc-bulls/whitepaper/royalties.md)
