@@ -10,16 +10,16 @@ At the start of each month, the amount of Bullion earned is added to two areas o
 
 #### Voting Power Explained
 
-| Person |    Mint Count / Type   | Bullion Earned |
-| :----: | :--------------------: | :------------: |
-|   p1   |        1 TR Bull       |      18000     |
-|   p2   |       3 TR Bulls       |      54000     |
-|   p3   |    1 TR Bull w/ Frog   |     126000     |
-|   p4   |   1 TR Bull w/ Turtle  |      40500     |
-|   p5   | 1 Bronze Alpha TR Bull |      43750     |
-|   p6   | 1 Silver Alpha TR Bull |     150000     |
-|   p7   |  1 Gold Alpha TR Bull  |     1000000    |
-|   p8   |        1 TR Bull       |      18000     |
+| Person |    Mint Count / Type   | Bullion Accrued |
+| :----: | :--------------------: | :-------------: |
+|   p1   |        1 TR Bull       |      18000      |
+|   p2   |       3 TR Bulls       |      54000      |
+|   p3   |    1 TR Bull w/ Frog   |      126000     |
+|   p4   |   1 TR Bull w/ Turtle  |      40500      |
+|   p5   | 1 Bronze Alpha TR Bull |      43750      |
+|   p6   | 1 Silver Alpha TR Bull |      150000     |
+|   p7   |  1 Gold Alpha TR Bull  |     1000000     |
+|   p8   |        1 TR Bull       |      18000      |
 
 
 
