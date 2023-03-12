@@ -23,6 +23,7 @@
     * [REWARDS](tr-bulls/whitepaper/rewards.md)
     * [VOTING](tr-bulls/whitepaper/weights/voting.md)
     * [NEXT INVESTMENT](tr-bulls/whitepaper/bullion/next-investment.md)
+  * [TIMETABLE](tr-bulls/whitepaper/timetable.md)
   * [BULL BATTLES](tr-bulls/whitepaper/bull-battles/README.md)
     * [BULLRUN](tr-bulls/whitepaper/bull-battles/bullrun.md)
   * [BUDDY SYSTEM](btc-bulls/whitepaper/buddy-system.md)
