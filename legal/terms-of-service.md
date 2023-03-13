@@ -1,7 +1,7 @@
 # TERMS OF SERVICE
 
 \
-**Last updated: FEB 2, 2022**
+**Last updated: MARCH 13, 2023**
 
 \
 **1. Eligibility and Acceptance**\
