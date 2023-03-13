@@ -28,6 +28,10 @@ coverY: -446.4
 
 ## **Alpha TR Bulls:**
 
+I created this project for multiple reasons and individuals in my life outside of DeFI have expressed interest in participating. In the past, I've been involved in projects where certain key NFTs or project aspects were only available to the founders' friends and family. This exclusivity can be discouraging to the broader community who feel they do not have equal access to these types of assets.
+
+Therefore, the Alpha Bull NFTs were designed for anyone who believes in our vision and wants to be a part of our project at its core level. They are not reserved for any specific individual, and all are welcome to participate in buying them, regardless of whether I know them personally or they are simply a wallet address. The Alpha Bulls are open to anyone who shares our values and wants to contribute to the project's growth.
+
 * **Any Bull with a Bronze, Silver, or Gold Staff.**&#x20;
 * Use a separate minting process that is not included in Presale1,2,3 and the Public sale of the normal TR Bulls.&#x20;
 * Rare and the increase point earnings.&#x20;
