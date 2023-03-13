@@ -8,10 +8,12 @@ coverY: -446.4
 ## **A collection of 5,000 TR Bull NFTs on the Polygon Blockchain.**
 
 * The TR Bulls are the OG's on the property.&#x20;
-* Access to the TR Bulls profits from investments using our point system.
-* Weighted voting also uses our point system to guide the project to success.&#x20;
+* Access to the TR Bulls profits from investments using our native point system, aka 'Bullion.'
+* Weighted voting also uses Bullion to guide the project to success.&#x20;
 
-## There are 2 groups of TR Bulls; Normal TR Bulls and Alpha TR Bulls.
+The TR Bulls are categorized into two groups: Normal TR Bulls and Alpha TR Bulls. Normal TR Bulls refer to those without a staff, whether they have a frog or turtle or not. As for the minting process, Normal Bulls are eligible for exclusive Minting Bounty Awards, with each Normal TR Bull having a turtle or frog qualifying for the award.
+
+The Normal TR Bulls comprise the majority of Bulls in the collection and serve as the essential component for being a member of all our rewards and games.
 
 ## **Normal TR Bulls:**
 
