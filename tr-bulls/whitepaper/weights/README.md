@@ -1,6 +1,6 @@
 # BULLION
 
-
+<figure><img src="../../../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
 
 Each TR Bull NFT (Normal or Alpha) accrues a specific amount of Bullion monthly. The amount of TR Bull accrues is derived from the cost of the NFT multiplied by the Magnifier value. Accrued Bullion serves two primary purposes within The Ranches Ecosystem:
 
