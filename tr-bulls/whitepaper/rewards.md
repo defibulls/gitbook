@@ -15,36 +15,46 @@ Rewards are not paid as dividends, meaning you do not get rewards for holding a 
 
 
 
-#### Reward Distribution Explained:
+## Reward Distribution:
 
-Here's an easier way to understand how reward distribution works:
+Suppose we distribute $10,000 to the NFTs for the month.&#x20;
 
-Let's say there are 10 unique digital items (NFTs) created by 10 different people. To be able to earn rewards, each person must use one of their NFTs as collateral (or "stake") in a smart contract. For this example, let's assume everyone has already done this.
+**Total Bullion earned by each type of NFT:**&#x20;
 
-Now, let's say that a total of $1,000 is put into the smart contract to be distributed as rewards for the current month. The total value of all the staked NFTs combined is calculated to be 1,450,250.
+* Normal NFTs (4881): 87,858,000 Bullion&#x20;
+* Turtle NFTs (11): 445,500 Bullion&#x20;
+* Frog NFTs (8): 1,008,000 Bullion&#x20;
+* Bronze NFTs (60): 3,150,000 Bullion&#x20;
+* Silver NFTs (30): 5,250,000 Bullion&#x20;
+* Gold NFTs (10): 10,000,000 Bullion&#x20;
 
-Based on this calculation, each person will receive a reward proportional to the percentage of the total value of their staked NFT compared to the total value of all staked NFTs, multiplied by the total amount of money in the reward pool.
+Total Bullion earned by all NFTs: 107,711,500 Bullion
 
-| Person |    Mint Count / Type   | Accrued Bullion | % of Total Bullion |  Reward |
-| :----: | :--------------------: | :-------------: | :----------------: | :-----: |
-|   p1   |        1 TR Bull       |      18,000     |        1.24%       |  $12.41 |
-|   p2   |       3 TR Bulls       |      54,000     |        3.72%       |  $37.23 |
-|   p3   |    1 TR Bull w/ Frog   |     126,000     |        8.69%       |  $86.88 |
-|   p4   |   1 TR Bull w/ Turtle  |      40,500     |        2.79%       |  $27.93 |
-|   p5   | 1 Bronze Alpha TR Bull |      43,750     |        3.02%       |  $30.17 |
-|   p6   | 1 Silver Alpha TR Bull |     150,000     |       10.34%       | $103.43 |
-|   p7   |  1 Gold Alpha TR Bull  |    1,000,000    |       68.95%       | $689.54 |
-|   p8   |        1 TR Bull       |      18,000     |        1.24%       |  $12.41 |
 
-&#x20;
 
-#### Considering the entire community, the distribution of rewards is as follows if we distributed $30,000 to the community.&#x20;
+**Percentage of total Bullion earned by each type of NFT:**&#x20;
 
-|       Type       | Available | Cost | Magnifier | Groups Bullion | Reward % Group | Reward per NFT |
-| :--------------: | :-------: | :--: | :-------: | :------------: | :------------: | :------------: |
-|      Normal      |    4881   |  180 |    100    |    87858000    |   $24,470.37   |      $5.01     |
-| Normal w/ Turtle |     11    |  180 |    225    |     445500     |     $124.08    |     $11.28     |
-|  Normal w/ Frog  |     8     |  180 |    700    |     1008000    |     $280.75    |     $35.09     |
-|      Bronze      |     60    |  350 |    150    |     3150000    |     $877.34    |     $14.62     |
-|      Silver      |     30    | 1000 |    175    |     5250000    |    $1,462.24   |     $48.74     |
-|       Gold       |     10    | 5000 |    200    |    10000000    |    $2,785.22   |     $278.52    |
+* Normal NFTs: 81.42%&#x20;
+* Turtle NFTs: 0.41%&#x20;
+* Frog NFTs: 0.94%&#x20;
+* Bronze NFTs: 2.93%&#x20;
+* Silver NFTs: 4.87%&#x20;
+* Gold NFTs: 9.28%
+
+**Earnings for each type of NFT:**&#x20;
+
+* Normal NFTs: $8,142&#x20;
+* Turtle NFTs: $41&#x20;
+* Frog NFTs: $94&#x20;
+* Bronze NFTs: $293&#x20;
+* Silver NFTs: $487&#x20;
+* Gold NFTs: $928
+
+**Earnings for each individual NFT:**&#x20;
+
+* Normal NFTs: $1.67&#x20;
+* Turtle NFTs: $3.73&#x20;
+* Frog NFTs: $11.75&#x20;
+* Bronze NFTs: $4.88&#x20;
+* Silver NFTs: $16.23&#x20;
+* Gold NFTs: $92.80
