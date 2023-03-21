@@ -1,12 +1,12 @@
 # MINTING BOUNTY
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/mintCostAPR12 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 #### The Minting Bounty is only for "Normal" TR Bulls, and the bounty is trying to get TR Bulls with a Turtle or a Frog.&#x20;
 
 * When minting Normal TR Bulls with a Turtle, the owner gets a $750 airdrop with an increase in monthly accrued Bullion. &#x20;
 * When minting Normal TR Bulls with a Frog, the owner gets a $1000 airdrop with an increase in monthly accrued Bullion. &#x20;
-* We distribute airdrop rewards through our Discord server, in the order of First In, First Out (FIFO) based on ticket submission. This means that the first ticket submitted will be the first to receive the payout.
+* Based on ticket submission, we distribute airdrop rewards through our Discord Server, in the order of First In, First Out (FIFO). This means that the first ticket submitted will be the first to receive the payout.
 
 ### During Presale 1:
 
