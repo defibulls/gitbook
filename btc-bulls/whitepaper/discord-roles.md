@@ -35,4 +35,4 @@
 * Access to full discord channels
 * Exclusive opportunities (FUTURE)
 * Earns Bullion, Eligible for Rewards and Bull Battles. &#x20;
-* Earns Royaly Rewards for TR Bulls and any animal on the property.&#x20;
+* Earns Royaly Rewards from marketplace sales for TR Bulls and any animal on the property.&#x20;
