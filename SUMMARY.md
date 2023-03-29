@@ -11,7 +11,7 @@
 ## TR Bulls
 
 * [📓 WHITEPAPER](btc-bulls/whitepaper/README.md)
-  * [OVERVIEW](btc-bulls/whitepaper/overview.md)
+  * [LORE](tr-bulls/whitepaper/lore.md)
   * [COLLECTION](btc-bulls/whitepaper/collection.md)
   * [MINTING](btc-bulls/whitepaper/minting.md)
     * [COST (NORMAL)](tr-bulls/whitepaper/minting/cost.md)
@@ -25,6 +25,7 @@
     * [NEXT INVESTMENT](tr-bulls/whitepaper/bullion/next-investment.md)
   * [TIMETABLE](tr-bulls/whitepaper/timetable.md)
   * [BULL BATTLES](tr-bulls/whitepaper/bull-battles/README.md)
+    * [Paper Rock Scissors](tr-bulls/whitepaper/bull-battles/paper-rock-scissors.md)
     * [BULLRUN](tr-bulls/whitepaper/bull-battles/bullrun.md)
     * [NEXT](tr-bulls/whitepaper/bull-battles/next.md)
   * [BUDDY SYSTEM](btc-bulls/whitepaper/buddy-system.md)

@@ -2,6 +2,10 @@
 
 <figure><img src="../../../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
 
+At the core of the TR Bulls community lies our unwavering commitment to Bullion - a unique point system that drives our ecosystem and enhances its value. Our dedication to maximizing the value of Bullion is reflected in every aspect of our project. We strive to create a community of individuals who are committed to building something remarkable in the DeFi space, where passionate TR Bull holders play a pivotal role in determining the direction of the project. Our core members embody our bullish spirit and drive our project forward with a focus on real yield for our portfolio above all else. We prioritize investments in projects and opportunities that provide tangible benefits and produce significant returns, in alignment with our values of real utility, real yield, real rewards, and real relationships. Our ecosystem revolves around Bullion, ensuring that our investments generate meaningful value for our members and align with our community's core principles.
+
+
+
 Each TR Bull NFT (Normal or Alpha) accrues a specific amount of Bullion monthly. The amount of TR Bull accrues is derived from the cost of the NFT multiplied by the Magnifier value. Accrued Bullion serves two primary purposes within The Ranches Ecosystem:
 
 * Reward Distribution.
