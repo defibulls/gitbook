@@ -11,7 +11,7 @@
 ## TR Bulls
 
 * [📓 WHITEPAPER](btc-bulls/whitepaper/README.md)
-  * [LORE](tr-bulls/whitepaper/lore.md)
+  * [LORE](btc-bulls/whitepaper/overview.md)
   * [COLLECTION](btc-bulls/whitepaper/collection.md)
   * [MINTING](btc-bulls/whitepaper/minting.md)
     * [COST (NORMAL)](tr-bulls/whitepaper/minting/cost.md)

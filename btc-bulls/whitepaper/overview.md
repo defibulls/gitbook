@@ -5,7 +5,7 @@ coverY: 0
 
 # LORE
 
-Once upon a time, there was a vast ranch in the middle of nowhere, surrounded by mountains and wild landscapes. One day, a group of magnificent bulls arrived at the ranch, each with its unique appearance and personality. They quickly bonded and formed a strong community, working together to make the ranch prosper.
+In a land of myth and legend, there was a vast ranch in the middle of nowhere, surrounded by mountains and wild landscapes. One day, a group of magnificent bulls arrived at the ranch, each with its unique appearance and personality. They quickly bonded and formed a strong community, working together to make the ranch prosper.
 
 However, not all bulls were equal. Some were more powerful and influential than others, earning the coveted title of Alpha Bulls. The Alpha Bulls were chosen through fierce battles in the gold mine, where the most courageous bulls fought for supremacy. The victors were awarded staffs made of a precious mineral found deep in the mine, which symbolized their strength and dominance over the ranch.
 
