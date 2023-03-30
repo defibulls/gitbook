@@ -11,7 +11,7 @@ However, not all bulls were equal. Some were more powerful and influential than 
 
 As the Alpha Bulls grew in power, they realized the importance of bullion, a precious resource that allowed them to unlock new abilities and earn more rewards. They decided to create a system where all bulls could earn bullion based on their NFT, but the Alpha Bulls would earn more based on their rank.
 
-The most unique aspect of the ranch, however, was the bull battles. In these battles, two NFTs fought against each other, with the winner taking the bullion accrual of the losing NFTs and the losing NFT being burned. The winning NFT was now adorned with a bull battle cube on its NFT, signifying its triumph.
+The most unique aspect of the ranch, however, was the bull battles. In these battles, two NFTs fought against each other, with the winner taking the bullion accrual of the losing NFTs and the losing NFT being burned. The winning NFT was now adorned with a battle stone on its NFT, signifying its triumph.
 
 This deflationary mechanism made bullion even more valuable, as the NFTs that survived the battles became more scarce and sought-after. Even a lowly bull could fight its way to increase its power and dominance within the ecosystem.
 
