@@ -25,7 +25,6 @@
     * [NEXT INVESTMENT](tr-bulls/whitepaper/bullion/next-investment.md)
   * [TIMETABLE](tr-bulls/whitepaper/timetable.md)
   * [BULL BATTLES](tr-bulls/whitepaper/bull-battles/README.md)
-    * [Paper Rock Scissors](tr-bulls/whitepaper/bull-battles/paper-rock-scissors.md)
     * [BULLRUN](tr-bulls/whitepaper/bull-battles/bullrun.md)
     * [NEXT](tr-bulls/whitepaper/bull-battles/next.md)
   * [BUDDY SYSTEM](btc-bulls/whitepaper/buddy-system.md)

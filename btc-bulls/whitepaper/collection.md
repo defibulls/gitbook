@@ -35,7 +35,7 @@ I created this project for multiple reasons and individuals in my life outside o
 Therefore, the Alpha Bull NFTs were designed for anyone who believes in our vision and wants to be a part of our project at its core level. They are not reserved for any specific individual, and all are welcome to participate in buying them, regardless of whether I know them personally or they are simply a wallet address. The Alpha Bulls are open to anyone who shares our values and wants to contribute to the project's growth.
 
 * **Any Bull with a Bronze, Silver, or Gold Staff.**&#x20;
-* Use a separate minting process that is not included in Presale1,2,3 and the Public sale of the normal TR Bulls.&#x20;
+* Use a separate minting process that is not included in Presale1, 2, 3, and the Public sale of the normal TR Bulls.&#x20;
 * Rare and the increase point earnings.&#x20;
 * Bronze Alpha TR Bulls are from index 4901 - 4960
 * Silver Alpha TR Bulls are from index 4961 - 4990
