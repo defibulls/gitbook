@@ -7,7 +7,7 @@
 * Presale 3
 * Public Sale.&#x20;
 
-**During each phase, minting transactions must mint **<mark style="color:purple;">**1,2,3,5,7, or 9**</mark>** TR Bulls.**&#x20;
+**During each phase, minting transactions must mint **<mark style="color:purple;">**1 -10**</mark>** TR Bulls.**&#x20;
 
 | Phase       | NFTs Available  |
 | ----------- | --------------- |
