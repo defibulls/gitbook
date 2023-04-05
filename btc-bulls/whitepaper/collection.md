@@ -26,7 +26,7 @@ The Normal TR Bulls comprise the majority of Bulls in the collection and serve a
 
 <img src="../../.gitbook/assets/11.png" alt="" data-size="original">![](../../.gitbook/assets/50.png)![](../../.gitbook/assets/34.png)![](../../.gitbook/assets/33.png)
 
-****
+
 
 ## **Alpha TR Bulls:**
 

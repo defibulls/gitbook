@@ -17,6 +17,6 @@ This deflationary mechanism made bullion even more valuable, as the NFTs that su
 
 As the years went by, the ranch became a thriving community of bulls, each with their own unique personalities and stories. The Alpha Bulls continued to govern the ranch, using their wisdom and strength to make it a better place for all. And the legend of the bull battles and the power of bullion continued to live on, inspiring new generations of bulls to strive for greatness.
 
-****
+
 
 ##

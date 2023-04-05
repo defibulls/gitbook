@@ -16,7 +16,7 @@ The Promotion is open only to individuals who are 18 years of age or older and t
 
 
 Defi-Bulls LLC, located at DEFI-BULLS LLC, #131, 269 Market Place Blvd, Cartersville, GA 30121\
-****
+
 
 Participation constitutes each entrant’s full and unconditional agreement to the Sponsor’s and Administrator’s decisions, which are final and binding in all matters related to the Promotion. Winning a Prize is contingent upon fulfilling all requirements set forth herein.\
 \
