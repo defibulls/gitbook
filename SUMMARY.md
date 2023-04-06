@@ -26,7 +26,7 @@
   * [TIMETABLE](tr-bulls/whitepaper/timetable.md)
   * [BULL BATTLES](tr-bulls/whitepaper/bull-battles/README.md)
     * [BULLRUN](tr-bulls/whitepaper/bull-battles/bullrun.md)
-    * [CTAB](tr-bulls/whitepaper/bull-battles/ctab.md)
+    * [CTMB](tr-bulls/whitepaper/bull-battles/ctmb.md)
     * [NEXT](tr-bulls/whitepaper/bull-battles/next.md)
   * [DEATH BATTLES](tr-bulls/whitepaper/death-battles.md)
   * [BUDDY SYSTEM](btc-bulls/whitepaper/buddy-system.md)
