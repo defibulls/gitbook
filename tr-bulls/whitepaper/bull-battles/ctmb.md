@@ -22,7 +22,7 @@ The ear tags on the NFTs have a yellow-ish color for super-prime numbers and a m
 
 
 
-![](<../../../.gitbook/assets/image (18) (2).png>)![](<../../../.gitbook/assets/image (29) (2).png>)
+![](<../../../.gitbook/assets/image (18).png>)![](<../../../.gitbook/assets/image (29).png>)
 
 
 
