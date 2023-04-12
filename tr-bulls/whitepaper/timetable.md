@@ -7,13 +7,12 @@ At the beginning of each month:
 * Capture the accumulated bullion of every TR Bull NFT owner.
 * Determine the victor of the bullRun competition.&#x20;
 
-From the 2nd to the 9th:
+From the 2nd to mid-month:
 
 * Conduct community voting.
-* Host Bull Battles games.
+* Bull Battles games.
+* Death Battles
 
-On the 10th:
+mid-month:
 
-* Reward TR Bulls and clear Bullion points.
-
-Our Marketplace Drawings will be ongoing throughout the month. To enter, participants can send $1 to a specified wallet using their rewards on the contract or through separate transactions. Winners will have the opportunity to obtain NFTs within The Ranch or other partner projects as we gather funds to purchase such assets.
+* Reward TR Bulls and clear Bullion points for that given month.

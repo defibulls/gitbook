@@ -1,4 +1,4 @@
-# RANCH GUARDIANS
+# GUARDIANS
 
 The Ranch Guardians are a group of community-elected individuals or entities who hold a 6/10 multi-sig and have specific roles delegated by The Ranch community. The Ranch Guardians are responsible for the following:
 
