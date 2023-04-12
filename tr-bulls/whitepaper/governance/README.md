@@ -2,6 +2,16 @@
 
 The Ranch Governance process is a novel approach to on-chain governance that enables efficient decision-making through a unique evolution of voting using the Bullion tokens. This transparent and inclusive process ensures the protocol can swiftly respond to market changes and upgrade essential aspects of the system over time. By leveraging the power of the Bullion token, the Ranch Governance process delivers unparalleled flexibility and adaptability to the protocol.
 
+
+
+
+
+<figure><img src="../../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+
+<mark style="color:purple;">Note: The Governance section of this whitepaper is still under construction. We are currently working with Aragon to develop a Governance portal that is suitable for our project's unique requirements. Our Bullion tokens are on a smart contract and are not held in any individual's wallet. We will update this section with more information once our Governance portal is fully functional.</mark>
+
+
+
 ### Governance Power
 
 TR Bull holders receive governance powers proportionally to the sum of their monthly Bullion Tokens.

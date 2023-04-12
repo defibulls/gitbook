@@ -27,6 +27,7 @@
     * [TRRCs](tr-bulls/whitepaper/governance/trrcs.md)
     * [TRIPs](tr-bulls/whitepaper/governance/trips.md)
     * [GUARDIANS](tr-bulls/whitepaper/governance/ranch-guardians.md)
+    * [DELEGATION](tr-bulls/whitepaper/governance/delegation.md)
   * [TIMETABLE](tr-bulls/whitepaper/timetable.md)
   * [BULL BATTLES](tr-bulls/whitepaper/bull-battles/README.md)
     * [BULLRUN](tr-bulls/whitepaper/bull-battles/bullrun.md)
