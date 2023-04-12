@@ -13,7 +13,8 @@ At a minimum, the TRRC must include:
 * Short and concise title of the TRRC.
 * A short and concise description of the proposal.
 * The rationale for the TRRC, e.g. why?
-* The title of the forum post must include 'TRRC:' with the short title of the TRRC. E.g. `TRRC: Activation of V2 Governance Model`.
+* The title of the forum post must include 'TRRC:' with the short title of the TRRC.&#x20;
+  * E.g. `TRRC: Activation of V2 Governance Model`.
 * A community poll that community members can use to vote.
 
 ### 2. Commenting / discussion period <a href="#2.-commenting-discussion-period" id="2.-commenting-discussion-period"></a>
