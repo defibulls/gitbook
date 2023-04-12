@@ -2,8 +2,6 @@
 
 The Ranch Governance process is a novel approach to on-chain governance that enables efficient decision-making through a unique evolution of voting using the Bullion tokens. This transparent and inclusive process ensures the protocol can swiftly respond to market changes and upgrade essential aspects of the system over time. By leveraging the power of the Bullion token, the Ranch Governance process delivers unparalleled flexibility and adaptability to the protocol.
 
-
-
 ### Governance Power
 
 TR Bull holders receive governance powers proportionally to the sum of their monthly Bullion Tokens.
@@ -12,8 +10,6 @@ There are initially two powers associated with each Bullion Voting Token:
 
 * The **proposal power** gives access to creating and sustaining a proposal.
 * The **voting power** is used to vote for or against existing proposals.
-
-
 
 ### Governance Proposals
 
@@ -25,3 +21,7 @@ The steps for a successful governance proposal are:
 4. Submit the TRIP to the protocol for a governance vote.
 
 If successful, the TRIP's payload will be executed and implemented.
+
+### Whale Cap
+
+In order to promote fair and democratic decision-making in our governance system, we have implemented a whale cap to limit the amount of voting power any single individual or entity can hold. This is achieved by ensuring that no wallet address can hold more than 7% of the total Voting Bullion for the month. By putting this limit in place, we can prevent large stakeholders from dominating the voting process and promote a more balanced distribution of voting power. This ensures that all participants have an equal say in the decision-making process and can contribute to the growth and success of the project.
