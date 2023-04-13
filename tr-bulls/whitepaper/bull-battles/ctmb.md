@@ -39,14 +39,7 @@ For this month's "Produce It" game, the bounty number is 17066, and there are 2 
 * 109 <mark style="color:red;">+</mark> 31 <mark style="color:red;">x</mark> 547 (5 TR Bulls)&#x20;
 * 919 <mark style="color:red;">+</mark> 67 <mark style="color:red;">x</mark> 241 (5 TR Bulls)&#x20;
 
-If the monthly bounty allowed for 3 operators, it would push the possible solutions up to 6 with these being the successful combinations:
 
-* 31\*547+109
-* 3_241+59_277
-* 41_461-5_367
-* 41_563-11_547
-
-Using the ear tags' numbers allows for many paths to arrive at the bounty number, and the number of possible combinations grows as the number of operators increases. For example, if the bounty number was 17066 and instead allowed 3 operators, there would be 337 different combinations of numbers and operators that could arrive at this number. Allowing 4 operators increases the possible solutions to 5241.&#x20;
 
 
 
