@@ -6,7 +6,7 @@ The Ranch Governance process is a novel approach to on-chain governance that ena
 
 
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:purple;">Note: The Governance section of this whitepaper is still under construction. We are currently working with Aragon to develop a Governance portal that is suitable for our project's unique requirements. Our Bullion tokens are on a smart contract and are not held in any individual's wallet. We will update this section with more information once our Governance portal is fully functional.</mark>
 

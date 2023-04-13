@@ -4,4 +4,4 @@ The Ranch Guardians are a group of community-elected individuals or entities who
 
 * Safeguarding the Ranch Protocol from potential governance takeovers by having the authority to "veto" a TRIP if deemed malicious.
 * Approve upgrades to smart contracts.&#x20;
-* Serving as a failsafe emergency actor to pause Ranch markets.
+* Serving as a failsafe emergency actor.

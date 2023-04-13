@@ -2,7 +2,7 @@
 
 ## What is Delegation?
 
-Delegation is a mechanism through which TR Bull Holders can entrust their voting power to one or more chosen delegates. These delegates can then vote using the Voting Bullion Tokens delegated to them. Delegates are transferred the Voting Bullion Tokens on the smart Contract for that given month. TR Bull Holders are always able to vote on proposals directly if they do not wish to delegate their Voting Bullion tokens. MakerDAO has two varieties of delegates.
+Delegation is a mechanism through which TR Bull Holders can entrust their voting power to one or more chosen delegates. These delegates can then vote using the Voting Bullion Tokens delegated to them. Delegates are transferred the Voting Bullion Tokens on the smart Contract for that given month. TR Bull Holders are always able to vote on proposals directly if they do not wish to delegate their Voting Bullion tokens. The Ranch has two varieties of delegates.
 
 ### Recognized Delegates <a href="#recognized-delegates" id="recognized-delegates"></a>
 

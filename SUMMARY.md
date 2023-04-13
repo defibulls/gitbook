@@ -24,7 +24,7 @@
     * [VOTING](tr-bulls/whitepaper/weights/voting.md)
     * [NEXT INVESTMENT](tr-bulls/whitepaper/bullion/next-investment.md)
   * [GOVERNANCE](tr-bulls/whitepaper/governance/README.md)
-    * [TRRCs](tr-bulls/whitepaper/governance/trrcs.md)
+    * [TR\_RFCs](tr-bulls/whitepaper/governance/tr\_rfcs.md)
     * [TRIPs](tr-bulls/whitepaper/governance/trips.md)
     * [GUARDIANS](tr-bulls/whitepaper/governance/ranch-guardians.md)
     * [DELEGATION](tr-bulls/whitepaper/governance/delegation/README.md)
