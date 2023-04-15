@@ -46,7 +46,6 @@
   * [FAQ](btc-bulls/whitepaper/faq.md)
   * [AUDIT](btc-bulls/whitepaper/audit.md)
   * [WEBSITE & SOCIALS](btc-bulls/whitepaper/website-and-socials.md)
-  * [2023 ROADMAP](btc-bulls/whitepaper/2023-roadmap.md)
   * [HOW TO MINT](btc-bulls/whitepaper/how-to-mint/README.md)
     * [Installing MetaMask](btc-bulls/whitepaper/how-to-mint/installing-metamask.md)
     * [Add Polygon Network to your wallet](btc-bulls/whitepaper/how-to-mint/add-polygon-network-to-your-wallet.md)
